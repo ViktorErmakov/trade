@@ -181,6 +181,7 @@
 			<Language>Русский</Language>
 			<Catalog>Товары</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>Номенклатура</Catalog>
 			<Document>ПриходнаяНакладная</Document>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 		</ChildObjects>
