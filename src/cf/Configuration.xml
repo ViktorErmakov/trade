@@ -183,6 +183,7 @@
 			<Catalog>Склады</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Document>ПриходнаяНакладная</Document>
+			<Document>РасходнаяНакладная</Document>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
