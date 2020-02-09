@@ -1,0 +1,18 @@
+pipeline{
+	agent{
+		label 'bdd'
+	}
+
+	stages{
+		stage ('Обновление тестового контура'){
+			steps{
+				bat """
+				oscript --version
+				oscript --version
+				"""
+			}
+		}
+	}
+}
+
+def cmd(command)
