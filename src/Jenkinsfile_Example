@@ -2,6 +2,9 @@ def connectionString
 def uccode
 def lockParams
 
+def versionText
+def versionValue
+
 pipeline {
     agent {
         label 'bdd'
@@ -22,6 +25,9 @@ pipeline {
 					connectionString = "\"/${env.Server1C}\\${env.Database1C}\""// ${env.Server1C} - так используются переменные среды.
 					uccode = "\"123\""
 					lockParams = "-lockmessage \"test\" -lockuccode ${uccode}"// ${uccode} - так вызываются переменные заданные в файле.
+
+                    versionText = 	readFile encoding: 'UTF-8', file: 'src/cf/VERSION'// команда чтения файла версии хранилища
+					versionValue = (versionText =~ /<VERSION>(.*)<\/VERSION>/)[0][1]// регулярное выражение, читает все между тегами version выбирает первое значение потом второе
 				}
                 parallel first: {// Секция параллельного выполнения задач, первая задача
                     sleep 10
