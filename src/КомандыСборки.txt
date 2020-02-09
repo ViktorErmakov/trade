@@ -2,6 +2,6 @@ deployka loadrepo "/SServer1\Base_5" "D:/1С/_1C_BASE/storage_trade" -storage-us
 deployka dbupdate "/SServer1\Base_5" -allow-warnings 												-- обновление информационной базы
 sc create "1C:Enterprise RAS" binpath= "\""C:\Program Files\1cv8\8.3.16.1148\bin\ras.exe\"" cluster --service --port=1545 Server1:1540" 	-- создание службы управления сеансами НА СЕРВЕРЕ!
 .\rac.exe Server1:1545 cluster list														-- находясь в папке получает список кластера, если это виртуалка, то порт 1545 должен быть проброшен
-deployka session lock -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode 12	-- блокируем возможность пользователям подключиться к базе с сообщением "test"
-deployka session kill -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode 123	-- удаляем все активные сеансы с сообщением пользователю
-deployka session unlock -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode 123	-- разрешить пользователям заходить в базу
+deployka session lock -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode "123"	-- блокируем возможность пользователям подключиться к базе с сообщением "test"
+deployka session kill -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode "123"	-- удаляем все активные сеансы с сообщением пользователю
+deployka session unlock -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode "123"	-- разрешить пользователям заходить в базу

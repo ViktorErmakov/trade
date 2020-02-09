@@ -1,0 +1,61 @@
+def connectionString
+def uccode
+def lockParams
+
+pipeline {
+    agent {
+        label 'bdd'
+    }// Секция слейва какой меткой агент будет выполнять задачу, можно без метки указать название слейва.
+    triggers { 
+        cron('H/5 * * * *') 
+    }// Секция триггеров, запускаться будет каждые пять минут каждый день.
+    options {// Секция опции, тут указано что храниться будут только последние 10 сборок. 
+        buildDiscarder(logRotator(numToKeepStr: '10')) 
+    }
+    environment {// Секция использования креденшиолс, сохраненных паролей в дженкинсе по ID который я задал самостоятельно.
+		Storage = credentials('Storage_Trade_CiBot')
+	}
+    stages {
+		stage('prepare'){
+            steps{
+                script{// Секция выполнения произвольного кода в шагах, в данном случае мы задаем значения переменным.
+					connectionString = "\"/${env.Server1C}\\${env.Database1C}\""// ${env.Server1C} - так используются переменные среды.
+					uccode = "\"123\""
+					lockParams = "-lockmessage \"test\" -lockuccode ${uccode}"// ${uccode} - так вызываются переменные заданные в файле.
+				}
+                parallel first: {// Секция параллельного выполнения задач, первая задача
+                    sleep 10
+                    echo '1'
+                }, second: {// вторая задача
+                    sleep 5
+                    echo '2'
+                },
+                failFast: true// флаг означающий, если будет ошибка в любой из шагов, все задачи завершаться.
+            }
+            steps{// Секция последовательного выполнения командной строки, bat и три кавычки означают выполнение нескольких комманда.
+				bat """
+				oscript --version
+				oscript --version
+				"""
+			}
+            steps{
+				cmd("oscript --version")// Будет выполнена наша функция указаннае внизу файла def cmd.
+			}
+        }
+        stage('build') {
+            steps {
+                timestamps {// функция будет возращать время шага.
+					echo '3'
+                }
+            }
+        }
+    }
+}
+
+def cmd(command) {// объявление своей функции.
+	if(isUnix()) {
+		sh "${command}"// запуст под линукс
+	} else {
+		bat "chcp 65001\n${command}"// Запуск под виндовс: chcp 65001 - это что бы кириллица была нормальная; \n - это перевод строки ентер;
+	}
+}
