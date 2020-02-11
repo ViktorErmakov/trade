@@ -15,7 +15,7 @@ pipeline{
 	stages{
 		stage ('Обновление тестового контура'){
 			steps{
-				timestemps{
+				timestamps{
 					script{
 						connectionString = "\"/${env.Server1C}\\${env.Database1C}\""
 						uccode = "\"123\""
