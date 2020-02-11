@@ -4,4 +4,10 @@ sc create "1C:Enterprise RAS" binpath= "\""C:\Program Files\1cv8\8.3.16.1148\bin
 .\rac.exe Server1:1545 cluster list														-- находясь в папке получает список кластера, если это виртуалка, то порт 1545 должен быть проброшен
 deployka session lock -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode "123"	-- блокируем возможность пользователям подключиться к базе с сообщением "test"
 deployka session kill -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode "123"	-- удаляем все активные сеансы с сообщением пользователю
-deployka session unlock -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode "123"	-- разрешить пользователям заходить в базу
+deployka session unlock -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode "123"	-- разрешить пользователям заходить в базу\
+
+
+Server1C=Server1
+Database1C=Base_5
+Rac1C=C:/Program Files/1cv8/8.3.16.1148/bin/rac.exe
+StoragePath=D:/1С/_1C_BASE/storage_trade
