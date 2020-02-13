@@ -6,7 +6,16 @@ deployka session lock -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\
 deployka session kill -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode "123"	-- удаляем все активные сеансы с сообщением пользователю
 deployka session unlock -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode "123"	-- разрешить пользователям заходить в базу\
 
+vrunner vanessa --pathvanessa .\oscript_modules\vanessa-automation\vanessa-automation.epf --vanessasettings ./tools/VBParams.json --ibconnection /SServer1\Base_5 -- запуск ванессы на тестирование
 
+opm install -l vanessa-automation			-- перед сборкой нужно делать вот это, НО в корне репозитория должен быть файлик packadgedef в котором указаны все зависимости va
+
+
+DisableUnsafeActionProtection=.*		-- прописать на сервере в файлике C:\Program Files\1cv8\conf\conf.cfg
+
+
+
+Переменные в дженкинс:
 Server1C=Server1
 Database1C=Base_5
 Rac1C=C:/Program Files/1cv8/8.3.16.1148/bin/rac.exe

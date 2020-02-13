@@ -1,0 +1,15 @@
+{
+	"ВыполнитьСценарии": true,
+	"ЗавершитьРаботуСистемы": true,
+	"ЗакрытьTestClientПослеЗапускаСценариев": true,
+	"КаталогФич": "$workspaceRoot/features",
+	"КаталогиБиблиотек": [
+		"$workspaceRoot/oscript_modules/vanessa-automation/features/Libraries"
+	],
+	"ДелатьОтчетВФорматеАллюр": true,
+	"КаталогOutputAllureБазовый": "$workspaceRoot/build/out/allure",
+	"ВыгружатьСтатусВыполненияСценариевВФайл": true,
+	"ПутьКФайлуДляВыгрузкиСтатусаВыполненияСценариев": "$workspaceRoot/build/out/vbStatus.log",
+	"ДелатьЛогВыполненияСценариевВТекстовыйФайл": true,
+	"ИмяФайлаЛогВыполненияСценариев": "$workspaceRoot/build/out/vbOnline.log"
+}
