@@ -1,0 +1,3 @@
+[submodule "tools/vanessa-automation"]
+	path = tools/vanessa-automation
+	url = https://github.com/Pr-Mex/vanessa-automation
