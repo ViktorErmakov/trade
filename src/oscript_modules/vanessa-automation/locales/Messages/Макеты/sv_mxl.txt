@@ -1,0 +1,810 @@
+﻿Строка поиска	Translation
+%1 не найден;	%1 hittades inte
+%1 Не умею обрабатывать реквизит <%2> у объекта <%3>	%1 Inte vet hur de ska hantera den rekvisita <%2> <%3>
+%1.%2 в макете нет записей для регистра %3	%1.%2 i layouten finns några uppgifter för registret %3
+%1.%2 не удалось создать новый набор записей.%3	%1.%2 misslyckades med att skapa ett nytt rekord.%3
+%1.%2 не удалось создать новый набор записей%3	%1.%2 misslyckats med att skapa en ny recordset%3
+%1.%2 не удалось создать новый элемент.%3	%1.%2 misslyckades med att skapa ett nytt element.%3
+№%1. Заголовок=<%2>. Имя=<%3>. ТекстПоля = <%4>	Antal %1. Titel=<%2>. Namn=<%3>. Textpos = <%4>
+TestClient НЕ подключен.	TestClient är INTE ansluten.
+TestClient подключен на %1 порту.	TestClient ansluten till %1 port.
+Web клиент не поддерживает запись действий пользователя.	Web-klienten inte stöder inspelning av användarens åtgärder.
+Активирую окно с координатами: %1;%2	Aktivera fönstret koordinater: %1
+Активная форма не найдена	Den aktiva formen finns inte
+Активное окно не найдено.	Det aktiva fönstret inte hittas.
+больше	mer
+больше или равно	större än eller lika med
+Были конфликты в именах снипетов.	Det har varit konflikter i namn av utdrag.
+Были ошибки в ПросканироватьИсходникиИНайтиВсеStepDefinition.	Det fanns fel i ПросканироватьИсходникиИНайтиВсеstepdefinition.
+Было найдено окно предупреждения с текстом: <%1> А ожидалось, что таких окон не будет.	Var hittade alert fönster med texten: <%1> förväntades att dessa Fönster kommer inte.
+Было найдено окно предупреждения. А ожидалось, что таких окон не будет.	Det var hittade varning fönster. Och det var väntat att dessa Fönster kommer inte.
+В значение элемента формы %1 не найдена строка <%2>. Текущее значение поля <%3>	I värdet av formelement %1 inte hittade strängen <%2>. Det aktuella värdet i fältet <%3>
+В ИБ загружены объекты: %1 шт.	I IB objekt som laddas: %1 EA.
+В каталоге <%1> должен был быть один файл xml.	I katalogen <%1> som var tänkt att vara en gemensam xml-fil.
+В меню нет значения <%1>	Menyn har inget värde <%1>
+В метаданных %1 не найден реквизит-ключ <%2>. Ошибка в макете данных	I metadata på %1 hittades inte rekvisita tangenten <%2>. Fel i layout data
+В параметрах JSON не найден каталог Фич.	I alternativ JSON inte finns katalogen Funktioner.
+В переменной Контекст не обнаружено ранее сохраненное значение с именем <%1>	I varierande Sammanhang är inte upptäcks tidigare sparade värde med namnet <%1>
+В процедуру <УстановитьРезультатУсловия> передан неверный тип параметра <%1>. Ожидаемый тип: Булево.	I förfarandet <Ustroitelstva> ogiltig parameter typ <%1>. Förväntad typ: Boolean.
+В результирующей таблице существуют две колонки с одинаковым заголовком: %1	Den resulterande tabellen att det finns två kolumner med samma rubrik: %1.
+В списке нет значения <%1>	I listan med värden <%1>
+В строке <%1> не найдена подстрока <%2>	I linje <%1> hittades inte delsträng <%2>
+В сценарии <%1> найден тег исключение <%2>	I skriptet <%1> - taggen finns undantag <%2>
+В сценарии <%1> найден тег отбор <%2>	I skriptet <%1> hittade tag utbud <%2>
+В таблице <%1>  НЕ найдено значение %2, а оно должно было быть.	I tabell <%1> hittades INTE värde, %2, och fick det bli.
+В таблице <%1>  нет колонки <%2>	I tabell <%1> - nr kolumnen <%2>
+В таблице <%1> в строке №%2 найдено значение %3, а его не должно было быть.	I tabell <%1> på rad antal%2 värde fann %3, men det var det inte.
+В таблице <%1> найдено <%2> значений. А ожидали <%3>. Имя колонки <%4>. Искомое значение <%5>	I tabell <%1> konstaterades <%2> - värden. Som väntat <%3>. Namnet på kolumnen <%4>. Värdet <%5>
+В таблице <%1> не найдено ни одной строки	I tabell <%1> inte funnit några rader
+В таблице <%1> не найдено ячейки с заголовком <%2>	I tabell <%1> hittades inte cellen med huvudet på <%2>
+В таблице <%1> не найдены колонки: %2	I tabell <%1> inte finns kolumn: %2
+В таблице <%1> не получилось активизировать поле <%2>.	I tabell <%1> det gick inte att aktivera fältet <%2>.
+В таблице <%1> нет строк для выбора.	I tabell <%1> har inga rader för att välja.
+В таблице <%1> ожидали получить <%2> строк, а получили <%3> строк.	I tabell <%1> förväntades <%2> linjer, men fick <%3> rader.
+В таблице <%1> ожидали получить %2 %3 строк, а получили <%4> строк.	I tabell <%1> förväntades %2% 3 rader, men fick <%4> linjer.
+В таблице <%1> ожидали получить больше <%2> строк, а получили <%3> строк.	I tabell <%1> förväntas få mer <%2> linjer, men fick <%3> rader.
+В таблице <%1> ожидали получить больше или равно <%2> строк, а получили <%3> строк.	I tabell <%1> förväntades större än eller lika med <%2> linjer, men fick <%3> rader.
+В таблице <%1> ожидали получить меньше <%2> строк, а получили <%3> строк.	I tabell <%1> förväntas få mindre än <%2> linjer, men fick <%3> rader.
+В таблице <%1> ожидали получить меньше или равно <%2> строк, а получили <%3> строк.	I tabell <%1> förväntas få mindre än eller lika med <%2> linjer, men fick <%3> rader.
+В таблице <%1> отсутствует колонка <%2>, указанная в параметрах.	I tabell <%1> saknas kolumn <%2>, Månsbo i parametrarna.
+В таблице <%1> поле с заголовком <%2> не найдено.	I tabell <%1> - fältet titel <%2> hittades inte.
+В таблице <%1> поле с именем <%2> не найдено.	I tabell <%1> - fältet namn <%2> hittades inte.
+В таблице <%1> у поля <%2> ожидали открытия выпадающего списка, но не дождались.	I tabell <%1> fältet <%2> förvänta sig att öppna den nedrullningsbara listan, men vänta inte.
+В таблице не найдена колонка <%1>	Inte finns i tabellen kolumn <%1>
+В таблице параметров не было передано имя нового профиля. Колонка <Имя подключения>	Tabellen inställningar har inte överförts till den nya profilen ett namn. Kolumn <connection Name>
+В таблице подключений уже есть подключение с именем <%1>	I samband tabellen redan har en anslutning som heter <%1>
+В табличном документе %1 колонок, а ожидалось %2 колонок.	I tabell dokument '%1 ' kolumner, förväntas %2 kolumner.
+В табличном документе %1 строк, а ожидалось %2 строк.	I tabell dokument %1 rader men förväntas %2 rader.
+В табличном документе %1 строк, а ожидалось, что он пустой.	I tabell dokument %1 rader, och det var väntat att den är tom.
+В табличном документе в колонке <%1> значение не соответствует условию 'Значение в колонке %2 %3'. Текущее значение колонки <%4>. Ряд <%5>, колонка <%6>	I tabell dokument i kolumnen <%1> - värdet inte stämmer tillstånd "med Värdet i kolumn %2% 3'. Det aktuella värdet i kolumn <%4>. Ett flertal <%5>, kolumn <%6>
+В табличном документе в колонке <%1> ожидали значение <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	I tabell dokument i kolumnen <%1> förväntades <%2>, fann <%3>. Ett antal <%4>, kolumn <%5>
+В табличном документе в колонке <%1> ожидали, что не будет значения <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	I tabell dokument i kolumnen <%1> förväntas att det kommer att vara värdet av <%2>, fann <%3>. Ett antal <%4>, kolumn <%5>
+В табличном документе в колонке №%1 значение= <%2> , а ожидалось <%3>	I tabell dokument i kolumnen antal %1 värde= <%2> , förväntas <%3>
+В табличном документе колонка <%1> не найдена.	Dokumentet finns i en tabellkolumn <%1> kunde inte hittas.
+В файле <%1> нашли строки, а ожидали, что их нет:%2	I filen <%1> funna rader, och förväntas att de inte finns:%2
+В файле <%1> не нашли строки, а ожидали, что они там есть:%2	I filen <%1> hittades inte linjer, och förväntade sig vad de fick:%2
+В фиче <%1> сценария <%2> найден тег исключение <%3>	I bonusspelet <%1> - skript <%2> - taggen finns undantag <%3>
+В фиче <%1> сценария <%2> найден тег отбор <%3>	I bonusspelet <%1> - skript <%2> hittade tag utbud <%3>
+В шаг необходимо передавать таблицу Gherkin, в которой 2 или более строк.	För att klara Gurka tabell, där 2 eller fler rader.
+В эталонной таблице существуют две колонки с одинаковым заголовком: %1	I referenstabellen det finns två kolumner med samma rubrik: %1.
+ВерсияVA	ВерсияVA
+ВерсияПлатформы	Wereperformed
+Включите флаг <Включить отладочные сообщения> чтобы посмотреть выполняемые команды.	Tur flagg <Aktivera debug-meddelanden> för att se kommandot exekveras.
+Внутреняя ошибка. Неполное заполнение дерева метаданных. Отсутствует объект, образующий тип - %1	Internt fel. Ofullständig fyllning av metadata träd. Inga objekt som utgör en typ - %1
+Внутреняя ошибка. Неполное заполнение структуры ссылочных типов - %1	Internt fel. Ofullständig strukturer referenstyper - %1
+Во вложенный сценарий <%1> было передано <%2> таблиц, а он принимает только <%3> таблиц.	Den kapslade-skript <%1> överfördes till <%2> tabeller, och det tar bara <%3 tabeller.
+Возможно это обработка для обычных форм, а не для управляемых форм.	Kanske är detta en behandling för normala former, inte för managed former.
+Возможно это обработка для управляемых форм, а не для обычных форм.	Kanske är det en behandling för managed former och inte konventionella former.
+Все проверки пройдены.	Alla kontroller som gått.
+Вызов метода <%1>: %2	Samtal metod <%1>: %2
+Выпадающий список <%1> не был сформирован.	Den nedrullningsbara listan med <%1> var inte bildas.
+Выпадающий список <%1> не открылся для ввода текста.	Den nedrullningsbara listan med <%1> var inte öppnas för inmatning av text.
+Выпадающий список <%1>. Ожидали, что в нём будет текст %2, а получили %3.	Den nedrullningsbara listan med <%1>. Räkna med att det kommer att bli sms: a %2, fick %3.
+Выпадающий список с заголовком <%1> не найден.	Den nedrullningsbara listan med titeln <%1> kunde inte hittas.
+Выпадающий список с именем <%1> не найден.	Den nedrullningsbara listan med namnet <%1> kunde inte hittas.
+Выполнение сценариев закончено. БЫЛИ ОШИБКИ.	Skript är klar. DET HAR VARIT FEL.
+Выполнение сценариев закончено. Ошибок не было.	Skript är klar. Inga fel.
+Выполняю	Utföra
+Выражение <%1> оказалось равно <%2>, а ожидали <%3>.	Uttrycket <%1> var lika med <%2>, förväntas <%3>.
+Генератор макета из реальных данных: Не умею обрабатывать такой тип <%1>	Generatorn av utformningen av verkliga data: vet Inte hur man hanterar den här typen <%1>
+ГолосовойДвижок - OK	Groovadelia - OK
+Группа с заголовком <%1> не найдена.	Den grupp med titeln <%1> kunde inte hittas.
+Группа с именем <%1> не найдена.	Den grupp med namnet <%1> kunde inte hittas.
+Данные по основному подключению Клиента тестирования перезаполнены.	Data för nationella sammanhang Testclient peripapillary.
+Данный шаг не работает с таблицами.	Detta steg inte arbeta med tabeller.
+ДатаВремяОшибки	Datarelease
+Делаю общий скриншот.	Göra en skärmdump.
+Делаю перезапуск TESTCLIENT. ОписаниеОшибки=%1	Gör en omstart TESTCLIENT. Opisaniyami=%1
+Делаю распаковку %1	Gör packa %1
+Делаю скриншот.	Göra en skärmdump.
+Делаю скриншоты всех окон 1С.	Göra skärmdumpar av alla Windows-1C.
+Длительность MP3 = 0. Файл=%1	Varaktighet MP3 - = 0. File=%1
+Для <%1> не найдено документа основания	För <%1> inte hittat dokumentet Foundation
+Для генерации EPF должен быть установлен 1Script. В cmd должна выполняться команда: oscript	För att generera EPF bör installeras 1Script. I cmd kommandot ska köras: oscript
+Для подключения с именем <%1> изменен порт подключения, указанный порт уже есть в таблице подключений.	För att ansluta med namnet <%1> förändrat port, den angivna porten är redan i samband tabellen.
+Для текущей ячейки таблицы <%1> текущее значение равно <%2>, а ожидали <%3>	För den aktuella cellen i tabellen <%1> aktuella värdet är <%2>, förväntas <%3>
+Для шага <%1> не найден EPF файл.	För-steg - <%1> hittades inte EPF-fil.
+Для элемента формы %1 текущее значение равно <%2>, а ожидали <%3>	För ett formulärelement %1 det aktuella värdet är <%2>, förväntas <%3>
+Для ячейки <%1> таблицы <%2> текущее значение равно <%3>, а ожидали <%4>	För cell <%1> i tabellen <%2> det aktuella värdet är <%3>, förväntas <%4>
+Добавил шаг: %1	Extra steg: %1
+ДобавитьСостояниеФормыTestclient:%1	ДобавитьСостояниеФормыTestclient:%1
+Должна быть передана минимум 1 строка	Måste ha gått minst 1 linje
+Должна оставаться строка подключения текущего клиента	Bör vara anslutningssträngen för den aktuella klienten
+Должно быть передано 2 строки	Måste överföras till 2 rader
+Должны быть переданы минимум 2 строки. Первая строка с именами колонок, вторая и следующие - данные для проверки.	Måste lämnas in minst 2 rader. Den första raden med kolumnnamn, den andra och följande uppgifter för kontroll.
+ЗавершитьЗаписьДействийПользователя:%1	ЗавершитьЗаписьДействийПользователя:%1
+Загружен объект.Имя %1, Тип %2	Det hämtade objektet.Namn, %1, Skriv %2
+Загрузил новую версию	Bara ladda ner den nya versionen
+Загрузил снипеты из кеш	Har laddat upp snuttar från cache
+Закладка с заголовком <%1> не найдена.	Fliken med rubriken <%1> kunde inte hittas.
+Закладка с именем <%1> не найдена.	Bokmärke med namnet <%1> kunde inte hittas.
+Закончились фичи. Не стал назначать раннеру фичу.	Slutade funktioner. Inte utse runner funktionen.
+Закрытие TestClient <%1>	Utgående TestClient <%1>
+Записал файл статуса билда: %1	Inspelad i status-fil av att bygga: %1
+Записался корректный элемент.	Undertecknad upp rätt objekt.
+Записываю %1	Rekord %1
+Запись действий пользователя закончена.	Registrera användarens åtgärder.
+Запись действий пользователя начата.	Register över användarens aktivitet är igång.
+Запись действий пользователя приостановлена.	Register över användarens aktivitet är avstängd.
+Запись действий пользователя продолжена.	Inspelning av användarens åtgärder fortsatt.
+Запускаю генерацию epf.	Starta generation av epf.
+Значение (%1) заполнено, а ожидалась незаполненность %2	Värde (i%1) är fylld och den förväntade vakanser %2
+Значение (%1) не заполнено, а ожидалась заполненность%2	Värde (i%1) är inte klar och förväntade slutförandet%2
+Значение [%1:%2]. Ожидали <%3>, а получили <%4>	Värdet av [%1:%2]. Förväntade <%3>, fick <%4>
+Значение <%1> больше или равно, чем <%2>, а ожидалось меньше. %3	Värdet av <%1> är större än eller lika med <%2>, och förväntade sig mindre. %3
+Значение <%1> больше, чем <%2>, а ожидалось меньше или равно. %3	Värdet av <%1> mer än <%2>, och förväntade sig mindre än eller lika med. %3
+Значение параметра %1: ожидали <%2>, получили <%3>;	Parameter värde %1: förväntad <%2>, fick <%3>
+Значение параметра %1: ожидали подстроку <%2>, в <%3>;	Parameter värde %1: förväntat delsträng <%2> <%3>
+Значение параметра таймаута ожидания должно быть числом. Переданное значение: %1	Parameter timeout måste vara ett nummer. Gick värde: %1
+ЗначениеНеНайдено: Реквизит <%1>: Искали значение <%2>, но не нашли.	Sachanandani: Rekvisita <%1>: Letar du efter <%2> hittades inte.
+Изменения формы обработаны.	Ändra formen behandlas.
+Изменилось имя формы: было: %1, стало: %2	Har bytt namn på den form: ålder: %1: %2
+имеет длину	har en längd av
+имеет тип	är av typ
+Именованная область %1 не найдена;	Ett namngivet område '%1 ' hittades inte
+ИмяКомпьютера <%1>; порт <%2>	Datornamn <%1>
+ИмяПроцедуры	Imprecatory
+ИмяФайла	Filnamn
+Искали в %1 подстроку %2, но не нашли.%3	Sökte på %1 delsträng %2, men inte hittat.%3
+Исключение для просмотра значения.	Ett undantag för att visa värdet.
+Ищу снипеты в каталоге	Letar efter strängar i katalogen
+Ищу сценарии в каталоге	Letar du efter skript i katalogen
+Каталог <%1> не найден.	Katalog <%1> kunde inte hittas.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не существует.	Katalog ЗаписьВидеоКаталогДляВременныхФайлов <%1> existerar inte.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не указан.	Katalog ЗаписьВидеоКаталогДляВременныхФайлов <%1> är inte specificerat.
+КаталогOutputИнструкцияHTML не задан.	КаталогOutputИнструкцияHTML inte anges.
+КаталогOutputИнструкцияMarkdown не задан.	КаталогOutputИнструкцияMarkdown inte anges.
+КаталогOutputСкриншоты не задан.	КаталогOutputСкриншоты inte anges.
+КаталогДляОбработки=%1	Catalogdisplaymode=%1
+Кнопка панели открытых окон <%1> не найдена.	Knappen panelen öppna Windows - <%1> kunde inte hittas.
+Кнопка панели разделов <%1> не найдена.	Knappen på panelen avsnitt <%1> kunde inte hittas.
+Кнопка с именем <%1> не найдена.	Knappen med namnet <%1> kunde inte hittas.
+Кнопка с именем <%1> не найдена. ТекущееОкно=%2	Knappen med namnet <%1> kunde inte hittas. Tecomeae=%2
+кнопка, которую требуется нажать	den knapp som du vill klickar du på
+Кнопка/команда с заголовком <%1> не найдена.	Knapp/ - kommandot header <%1> kunde inte hittas.
+Кнопка/команда с заголовком <%1> не найдена. ТекущееОкно=%2	Knapp/ - kommandot header <%1> kunde inte hittas. Tecomeae=%2
+Количество секунд дял подключения TestClient: %1	Det antal sekunder tills anslutningen TestClient: %1
+Команда меню <%1> не найдена в панели функций.	Menyn kommando <%1> hittades inte i funktionen bar.
+Команда ОстановитьЗаписьВидео вернула код возврата = %1	Team Ostanovitsya tillbaka returkod = %1
+Команда по объединению mp3 не выполнена. Файл1=%1, Файл2=%2, Файл3=%3	Team förena mp3 är inte utförs. File1=%1, Fil2=%2, Файл3=%3
+Команда по получению списка файлов каталога не выполнена. Каталог = %1	Kommandot för att erhålla fil lista av katalogen misslyckas. Katalog = %1
+Команда системы реализована только под Windows.	Laget system genomförs endast under Windows.
+Константа %1 не заполнена.	Variabeln %1 inte är fylld.
+КопироватьФайлКомандаСистемы:%1 команда:%2	Copyrightedmaterial:%1 kommando:%2
+между	mellan
+меньше	mindre
+меньше или равно	mindre än eller lika med
+Надо сделать перезапуск фреймворка тестирования.	Det är nödvändigt att göra en omstart av ram-test.
+Найден активный элемент формы	Hittade aktiva form element
+Найден упавший сценарий.	Hittade den fallna manus.
+Найдена форма: ТекстЗаголовка=%1, ИмяФормы=%2. Окно <%3>	Hittade form: Texttagtable=%1, Formname=%2. Fönster <%3>
+Найдено %1 окон.	Fann %1 Windows.
+Найдено более одного поля формы с заголовком <%1>. Рекомендуется искать элемент по имени.	Hittade fler än ett fält med rubriken <%1>. Det rekommenderas att söka på del av namn.
+НачатьЗаписьДействийПользователя:%1	Nachtspeicherheizung:%1
+Нашли строки в таблице <%1>:%2	Hittade den rad i tabellen <%1>:%2
+не	inte
+Не верный формат области <%1>. %2	Inte rätt format regionen <%1>. %2
+Не возможно открыть форму абстрактного объекта, укажите ссылку	Det är inte möjligt att öppna abstrakt form av objektet länk
+Не все служебные колонки заданы. В запросе обязательно должны быть колонки %1	Inte alla service kolumn. Begäran måste vara i kolumn %1
+не выполнен	inte utförs
+Не дождались отображения окна TestClient. Таймаут <%1>	Inte vänta tills fönstret visa TestClient. Timeout <%1>
+Не задан регистратор для записей регистра %1. Переменная %2	Inte nämnda Registrar för poster i registret %1. Variabeln %2
+Не заполнен служебный параметр КаталогИнструментов.	Inte fylld tjänsten parameter Catalogentries.
+Не известный тип параметра в ПолучитьПредставлениеПараметраПриПереводе() <%1>	Inte känd typ av alternativ i ПолучитьПредставлениеПараметраПрипереводе() <%1>
+Не использовать	Använd inte
+Не могу выгрузить статус сценариев, т.к. был передан каталог, а не файл.	Kan inte ladda upp den status av manus, eftersom det var överföras till katalogen, inte en fil.
+Не могу выгрузить статус сценариев, т.к. каталог %1 не существует.	Kan inte ladda upp status för manuset eftersom katalogen %1 inte existerar.
+Не могу сфомировать отчет Allure. Не существует каталог для вывода отчета.	Kan inte sformirovat rapport Lockelse. Det är ingen katalog för produktionen av rapporten.
+Не найден Клиент тестирования для подключения..	Inte hittat TestClient att ansluta.
+Не найден активный элемент формы.	Hittade inte den aktiva formen element.
+НЕ найден инструмент по созданию скриншотов.	INTE hittat verktyg för att skapa skärmdumpar.
+Не найден каталог библиотеки: %1	Inte hittat bibliotekets katalog: %1
+Не найден каталог инструментов: %1	Inte hittat det verktyg katalog: %1
+Не найден лог перегенерации EPF.	Inte hittat logga EPF förnyelse.
+Не найден макет %1 ошибка: %2	Inte hittat layout %1 fel: %2
+Не найден перевод для шага <%1>	Inte hittat översättning-för-steg - <%1>
+Не найден пользователь ИБ по имени <%1>	Inte hittat användaren säkerhet namn <%1>
+Не найден профиль Клиента тестирования <%1>	Ingen profil finns TestClient <%1>
+Не найден путь к файлу JSON. Параметр: VBParams.	Inte hittat vägen till JSON-fil. Parameter: VBParams.
+Не найден тип шага <%1>	Inte hittat steg typ <%1>
+Не найден файл <%1>	Filen hittades inte <%1>
+Не найден файл макета <%1> в каталоге проекта <%2>	Inte hittat layout-filen <%1> i projektkatalogen <%2>
+Не найден файл после распаковки: %1	Filen kunde inte hittas efter uppackning: %1
+Не найден файл словаря замен. <%1>	Inte hittas i ordlistan fil som ersättare. <%1>
+Не найден файл служебной базы. <%1>	Filen kunde inte hittas tjänst bas. <%1>
+Не найден файл толстого клиента <%1>	Filen kunde inte hittas fet klient <%1>
+Не найден элемент дерева по данным поиска	Inte hittat det element som träd enligt sök
+Не найден элемент Статистика на форме VB.	Inslag som inte finns Statistik på VB form.
+Не найден эталон макета <%1>. Пустой каталог проекта.	Inte hittat standard layouten <%1>. En tom katalog projektet.
+Не найдена активная форма.	Hittade inte den aktiva formen.
+Не найдена группа командного интерфейса <%1>	Grupp inte finns kommando gränssnittet <%1>
+Не найдена строка в таблице ДанныеКлиентовТестирования с <Имя=Этот клиент>	Ingen rad hittades i tabellen Danielandamari med <Namn på=kunden>
+Не найдена строка примеров во вложенной структуре сценария. <%1>	Inte funnit en rad exempel i en nästlad struktur av skriptet. <%1>
+Не найдена строка сценария.	Inte hittat skriften rad.
+Не найдена таблица для редактирования.	Hittade inte den tabell som du vill redigera.
+Не найдена установка VLC.	Inte hittat installera VLC.
+Не найдено ключевое слово <%1>  для языка <%2>	Hittades inte <%1> språk <%2>
+Не найдено ни одного окна 1С. Делаю обычный скриншот.	Hittade aldrig ett fönster 1C. Göra en normal skärmbild.
+Не найдено ни одного сообщения пользователю.	Inte hittat något meddelande till användaren.
+Не найдено ни одного сценария. Запись видео невозможна.	Inte ett scenario. Video inspelning omöjligt.
+Не найдено ни одной строки в таблице клиентов тестирования, которая бы содержала <runner>	Inte hittat några rader i kund-tabellen test, som skulle innehålla <runner>
+Не найдено окно VanessaAutomation в раннере %1	Inte hittat fönster VanessaBehavior till runner %1
+Не найдено окно VanessaAutomation.	Inte hittat fönster VanessaBehavior.
+Не найдено окно предупреждения.	Inte hittat varning fönster.
+Не нашел значение реквизита у спр: ИмяСпр=%1, Наименование=%2, ИмяРек=%3, СтроковокПредставление=%4	Inte hittat det erforderliga värdet från SPR: Kaspr=%1 Name=%2, Name=%3, Stratovista=%4
+Не нашел колонку: %1	Inte hittat kolumn: %1
+Не нашел профиля TestClient с именем <%1>	Inte hittat TestClient profil med namnet <%1>
+Не нашел профиля TestClient с именем <%1> хотя он должен быть активным в данный момент.	Inte hittat TestClient profil med namnet <%1> även om det måste vara aktiv för tillfället.
+Не нашел профиля TestClient с именем <%1> чтобы его закрыть.	Inte hittat TestClient profil med namnet <%1> för att stänga det.
+Не нашел путь к 1cv8c.exe: %1	Inte hittat vägen till 1cv8c.exe: %1
+Не нашли меню функций раздела.	Hittade menyn funktioner avsnitt.
+Не нашли окно с заголовком <%1>	Inte hittat ett fönster med en titel <%1>
+Не нашли панель открытых окон.	Inte hittat det bar av öppna Fönster.
+Не нашли панель разделов.	Inte hittat panelen avsnitt.
+Не нашли профиль <%1> в таблице TestClient.	Inte hittat profil <%1> i tabellen TestClient.
+Не нашли профиль <%1> в тестируемом экземпляре Vanessa-behavior.	Inte hittat profil <%1> i det testade exempel Vanessa-beteende.
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, "Управляемое приложение"	Inte hittat startläge <%1>. Du kan behöva ange ett mellanslag, till exempel, "Lyckades ansökan"
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, <Управляемое приложение>	Inte hittat startläge <%1>. Du kan behöva ange ett mellanslag, till exempel <Lyckats program> >
+Не нашли таблицу с именем <%1>	Inte hittat tabell med namnet <%1>
+Не нашли элемент <%1> в коллекции, а хотели, чтобы он был в коллекции.%2	Hittades inte <%1> i samlingen, och ville ha den i samlingen.%2
+Не обнаружено активное окно.	Inte hittat det aktiva fönstret.
+Не ожиданное значение у переменной ТипСравнения: <%1>	Inte förväntat värde har variabeln Tipirovaniya: <%1>
+Не описано действие для кнопки <%1>	Inte beskrivs de åtgärder för knappen <%1>
+Не определена фича для выполнения на раннере №0.	Inte angivna funktionen för att köras på löpare Nr 0.
+Не передан каталог фич для обработки. Используется %1\features	Inte överförs till funktionen för bearbetning. Med hjälp av %1\funktioner
+Клиент тестирования не подключен.	Inte ansluten Testclient.
+Не получилось закрыть активное окно. %1	Misslyckades med att stänga det aktiva fönstret. %1
+Не получилось определить активное окно Клиента тестирования из Контекста.	Det går inte att fastställa den aktiva fönstret TestClient ur sitt Sammanhang.
+Не получилось определить активное окно Клиента тестирования.	Det går inte att fastställa den aktiva fönstret TestClient.
+Не получилось получить значение таблицы <%1>	Misslyckades med att få värdet av tabellen <%1>
+Не получилось прочитать параметр запуска.	Misslyckades med att läsa startparametern.
+Не получилось сделать выбор в поле <%1> значения <%2>. %3	Kunde inte göra ett val i fältet <%1> <%2>. %3
+Не получилось создать тестовый MP3	Misslyckades med att skapa MP3-test
+Не реализовано.	Inte genomföras.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>	Kunde inte i tabellen <%1> för att välja från en lista med alternativ <%2> <%3>
+Не смог выделить все строки в таблице <%1>. %2	Kunde inte välja alla rader i tabellen <%1>. %2
+Не смог выполнить команду по получению координат на экране всех окон 1С в панели задач.	Kunde inte köra kommandot för att få koordinater på skärmen av alla Windows-1: or i aktivitetsfältet.
+Не смог выполнить команду. <%1>	Kunde inte utföra kommandot. <%1>
+Не смог вычислить выражение: %1	Misslyckades med att lösa uttryck: %1
+Не смог загрузить %1. %2	Kunde inte ladda %1. %2
+Не смог загрузить базу из dt: %1. ПутьКDT: %2. Статус возврата: %3	Kunde inte ladda databas från dt: %1. ПутьКDT: %2. Avkastningen status: %3
+Не смог загрузить снипеты из %1	Misslyckades med att läsa in snuttar från %1
+Не смог закрыть окно %1	Kunde inte stänga fönstret %1
+Не смог закрыть окно повторно %1	Inte kunde stänga fönstret, åter %1
+Не смог запустить конфигуратор. <%1>	Att inte kunna köra Konfiguratorn. <%1>
+Не смог из переданных параметров JSON определить каталог отчета Allure.	Kunde inte gått JSON parametrar för att bestämma den katalog av Tjusningen rapport.
+Не смог из переданных параметров JSON определить каталог отчета CucumberJson.	Kunde inte gått JSON parametrar för att bestämma den katalog av rapporten CucumberJson.
+Не смог из переданных параметров JSON определить каталог отчета jUnit.	Kunde inte gått JSON parametrar för att bestämma den katalog av jUnit rapport.
+Не смог найти данные для подключения профиля клиента тестирования <%1>	Kunde inte hitta uppgifter för att ansluta kunden profil test <%1>
+Не смог найти код модуля формы в файле ИмяФайлаФормаУФ.	Kunde inte hitta modulens kod i form i filen, Emailform.
+Не смог найти открытый конфигуратор.	Kunde inte hitta en öppen Configurator.
+Не смог найти сохранненное значение по переменой <%1>	Kunde inte hitta sohranenie värdet för variabeln <%1>
+Не смог обработать XML в UILogToScript.	Misslyckades med att bearbeta XML-i UILogToScript.
+Не смог обработать параметры в строке <%1>	Kunde inte behandla de parametrar on line <%1>
+Не смог определить длительность у файла: %1	Kunde inte bestämma varaktigheten av fil: %1
+Не смог определить СледующееОжидаемоеКлючевое по: %1	Kunde inte bestämma Sledujuschaja på: %1
+Не смог определить следующий шаг для выполнения.	Kunde inte bestämma nästa steg för att utföra.
+Не смог определить тип значения для строки: %1	Kunde inte bestämma värde typ string: %1
+Не смог перейти к строке фильтра <%1>	Kunde inte gå till raden <%1>
+Не смог по переменной <%1> найти сохраненное значение.	Inte på rörlig <%1> för att hitta det sparade värdet.
+Не смог подключить TestClient.	Kunde inte ansluta TestClient.
+Не смог подключить TestClient. Прерывание по таймауту <%1>	Kunde inte ansluta TestClient. Avbryta timeout <%1>
+Не смог подключить обработку <%1>	Kunde inte ansluta bearbetning <%1>
+Не смог подключить профиль TestClient <%1>	Kunde inte ansluta profil TestClient <%1>
+Не смог подставить в строку параметры: <%1>	Det gick inte att ange strängen parametrar: <%1>
+Не смог получить данные файла <%1>	Kunde inte få data i filen <%1>
+Не смог получить значение из строки запуска	Kunde inte få värde från strängen börjar
+Не смог получить значение поля <%1> у таблицы <%2>.%3	Kunde inte få värdet i fältet <%1> i tabellen <%2>.%3
+Не смог получить значение таблицы <%1>	Kunde inte få värdet av tabellen <%1>
+Не смог получить значение табличного документа <%1>	Kunde inte få värdet i tabellen i dokumentet <%1>
+Не смог получить количество строк у таблицы <%1>	Misslyckades med att få antal rader från tabellen <%1>
+Не смог получить макет %1	Kunde inte få den layout %1
+Не смог получить состяние таблицы <%1>	Misslyckades med att få i ett sinnestillstånd av tabellen <%1>
+Не смог получить строки таблицы <%1>	Kunde inte få en rad i tabellen <%1>
+Не смог получить строки таблицы.	Kunde inte få en rad i tabellen.
+Не смог получить строки ТЧ <%1>	Kunde inte få linje PM <%1>
+Не смог получить строку сценария.	Kunde inte få en rad i skriptet.
+Не смог получить строку таблицы %1	Kunde inte få en tabellrad %1
+Не смог получить форму текущего окна.	Kunde inte få formen av det aktuella fönstret.
+Не смог ПолучитьГлавноеОкноТестируемогоПриложения.	Kunde inte ПолучитьГлавноеОкноТестируемогоПриложения.
+Не смог поменять параметры шага местами <%1>	Inte går att ändra inställningarna steg platser <%1>
+Не смог преобразовать к числу PID=%1	Kunde inte konvertera till antalet PID=%1
+Не смог распаковать %1	Kunde inte packa upp %1
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>	Kunde inte välja från listan <%1> - line <%2>
+Не смог скопировать сценарий %1, т.к. произошло бы зацикливание.	Kunde inte kopiera skriptet %1, eftersom det skulle vara en oändlig loop.
+Не смог создать базу по строке: %1. Статус возврата: %2	Kunde inte skapa databas för rad: %1. Avkastningen status: %2
+Не смог создать каталог для отчета Allure: %1	Kan inte skapa katalogen för att Locka rapport: %1
+Не смог создать каталог для отчета CucumberJson: %1	Kan inte skapa katalogen för rapporten CucumberJson: %1
+Не смог создать каталог для отчета jUnit: %1	Kan inte skapa katalogen för jUnit rapport: %1
+Не смог создать объект сравнения файлов.	Det gick inte att skapa objekt-fil jämförelse.
+Не смог создать сервисные базы. Статус=%1	Misslyckats med att skapa en tjänst som bas. Status=%1
+Не смог удалить файл %1	Kan inte radera filen %1
+Не смогли найти таблицу <%1> в активном окне.	Kan inte hitta bord <%1> i det aktiva fönstret.
+Не стал загружать фичу: %1, т.к. в ней не найдено тегов фильтров.	Inte ladda funktionen %1 inte hittat tag filter.
+Не стал загружать фичу: %1, т.к. обнаружен тег исключение: %2	Inte ladda funktionen: %1, sedan upptäckte tag undantag: %2
+Не удалось авторизоваться в базе.	Gick inte att logga in i databasen.
+Не удалось дождаться события завершения цикла в течение <%1> секунд.	Misslyckades med att vänta till händelse avslutad cykel för <%1> sekunder.
+Не удалось найти документ по номеру <%1>. Тип Документ.%2	Kunde inte hitta dokumentet genom att antalet <%1>. Typ Av Dokument.%2
+Не удалось перейти к нужной строке в таблице <%1>. %2	Inte för att navigera till önskad rad i tabellen <%1>. %2
+Не удалось подключить COM объект <Shell.Application>	Det gick inte att ansluta till COM-objekt <Skalet.Program> >
+Не удалось подключить COM объект <WScript.Shell>	Det gick inte att ansluta till COM-objekt <WScript.Skal> >
+Не удалось подключить клиент тестирования. %1	Det gick inte att ansluta till kunden att testa. %1
+Не удалось подключить форма %1 по причине:%2	Det går inte att ansluta form %1 anledning:%2
+Не удалось получить таймаут для запуска TestClient из значения %1. Используется значение по умолчанию: 25	Misslyckats med att få en timeout för att köra TestClient från värdet på %1. Använder värdet som standardvärde: 25
+Не удалось получить таймаут для работы асинхронных шагов. Было передано значение: %1	Misslyckades med att få timeout för asynkrona åtgärder. Det gick värde: %1
+Не указан каталог для формирования видео инструкции.	Inte ange en katalog för bildandet av video instruktioner.
+Не указан каталог с нужной версией платформы 8.3.10 или выше.	Inte ange en katalog med önskad version av plattformen 8.3.10 eller högre.
+Не указана команада для выполнения скриншотов. Например <%1>	Inte anges i lag att utföra skärmdumpar. Till exempel <%1>
+Не указано имя файла лога в параметре <ИмяКаталогаЛогОшибок>	Ej angett namn loggfilen i parametern <Imagecollection>
+Не указано имя файла лога в параметре <ИмяФайлаЛогВыполненияСценариев>	Ej angett namn loggfilen i parametern <Kapileshwaraswami>
+Не указано количество кадров.	Inte angivna antalet bilder.
+Не установлен ffmpeg.	Du har inte installerat ffmpeg.
+Не установлен ImageMagic (convert.exe)	Inte installerats ImageMagic (convert.exe)
+Не установлен ImageMagic (convert.exe).	Inte installerats ImageMagic (convert.exe).
+Не установлен oscript.	Är inte inställd oscript.
+Не установлен VLC 2.1.5.	Inte installerat VLC 2.1.5.
+Не установлен ГолосовойДвижок.	Är inte inställd Grooveutil.
+Неверно задан макет. Неверная колонка в первой строке. Не указана обязательная колонка с именем [%1]	Felaktigt angivna modellen. Fel kolumnen i den första raden. Saknar en obligatorisk kolumn med namn [%1]
+Неверное число параметров в строке табилцы. Должно быть <	Ogiltigt antal parametrar i linje tablicy. Måste vara <
+Неверное число параметров в строке таблицы. Должно быть <%1> параметров, а в строке найдено <%2>.	Felaktigt antal parametrar i en tabellrad. Måste vara <%1> parametrar, och i linje <%2>.
+Неверный режим поиска: Не поддерживаемый режим поиска. Реквизит <%1>: Искали значение <%2>	Ogiltiga sök-läge: Inte stöd för att söka läge. Rekvisita <%1>: Letar du efter <%2>
+Неверный формат области <%1>	Ogiltigt format regionen <%1>
+Невидима	Osynlig
+Недоступна	Inte tillgänglig
+Неивестный ТипПараметра в ПолучитьАсинхроноСостоянияОбъектовФайловойСистемы: %1	Neizvestny av Theparameter i ПолучитьАсинхроноСостоянияОбъектовфайловойсистемы: %1
+Неизвестная версия поставки Vanessa-Automation: %1	Okänd version leverans Vanessa-Automatisering: %1
+Неизвестная ошибка в ПолучитьРезультатПрохожденияТестовСценария.	Okänt fel i ПолучитьРезультатПрохожденияТестовсценария.
+НеизвестнаяОшибка	Neizvestnaya
+Неизвестный идентификатор плагина: <%1>	Okänt plugin-ID: <%1>
+Неизвестный КорневойТипКонфигурации <%1>	Okänd Corneoscleral <%1>
+Неизвестный КорневойТипКонфигурации <%1> КорневойТипКонфигурации()	Okänd Corneoscleral <%1> Corneoscleral()
+Неизвестный менеджер регистра %1.%2 . Переменная %3	Okänd till Chef för registret %1.%2 . Variabel %3
+Неизвестный тип вывода данных по изменению формы.	Okänd typ av utdata som ska ändra form.
+Неизвестный Тип: %1 в ПолучитьЗначениеДляПередачиВМетод	Okänd Typ: %1 ПолучитьЗначениеДляПередачиВМетод
+Нельзя изменять текущее поле у зарезервированного подключения <Этот клиент>.	Du kan inte ändra det aktuella området har en reserverad samband <kunden>.
+Нельзя получить состав колонок для пустой таблицы.	Du kan inte få kolumner tomma bord.
+Необрабатываемый корневой тип <%1>	Obrukad root typ <%1>
+Необходимо установить программное обеспечение. Подробности тут: %1	Du behöver för att installera programvaran. Detaljer här: %1
+НеСовпадаютЗначенияВЯчейкеТаблицы	НеСовпадаютЗначенияВЯчейкеТаблицы
+Нет подключенных TestClient.	Ingen ansluten TestClient.
+Обнаружено несколько полей с заголовком <%1>	Flera fält i huvudet med <%1>
+Обычная фича №%1 из %2. РаннерID=%3. %4	Vanliga funktionen antal %1 av %2. РаннерID=%3. %4
+Одна или несколько строк эталонной таблицы не найдена в таблице формы%1	En eller flera rader av referens tabell som inte finns i tabellen i form%1
+Однопоточная фича №%1 из %2. РаннерID=%3. %4	Entrådiga funktionen antal %1 av %2. РаннерID=%3. %4
+Ожидали <%1> элементов справочника <%2>, а нашли <%3> элементов.	Förväntade <%1> - elementet hänvisning <%2>, fann <%3> - element.
+Ожидали в течение <%1> секунд доступности поля <%2>. Но такой элемент на форме не найден.	Väntat för <%1> sekunder tillgången på fältet <%2>. Men detta element på form finns inte.
+Ожидали в течение <%1> секунд доступности поля <%2>. ТекущаяДоступность=%3	Väntat för <%1> sekunder tillgången på fältet <%2>. Ekusadasi.årets=%3
+Ожидали в течение <%1> секунд появления поля <%2>. Но такой элемент на форме не найден.	Väntat för <%1> sekunder av utseendet på fältet <%2>. Men detta element på form finns inte.
+Ожидали в течение <%1> секунд появления поля <%2>. ТекущаяВидимость=%3	Väntat för <%1> sekunder av utseendet på fältet <%2>. Takomabibelot=%3
+Ожидали в течение <%1> секунд у поля <%2> значения <%3>. Текущее значение <%4>	Väntat för <%1> sekunder i fältet <%2> <%3>. Aktuella värdet är <%4>
+Ожидали в течение <%1> секунд у таблицы <%2> количество строк %3 %4. Текущее количество строк <%5>	Väntat för <%1> sekunder från tabell <%2> antalet rader %3% 4. Det aktuella antalet rader <%5>
+Ожидали в течение <%1> секунд, что закроется окно с заголовком <%2>	Väntat för <%1> sekunder som stänger ett fönster med en titel <%2>
+Ожидали в течение <%1> секунд, что откроется окно с заголовком <%2>	Väntat för <%1> sekunder, vilket öppnar ett fönster med en titel <%2>
+Ожидали в течение <%1> секунд, что поле <%2> будет заполненным.	Väntat för <%1> sekunder <%2> kommer att vara fylld.
+Ожидали заполненность ссылки, а получили пустую ссылку.%1	Förväntade beläggningen på länken och fick en tom referens.%1
+Ожидали идентичность файлов, а получили, что они различны.%1	Förväntade identitet filen, och kom på att de är olika.%1
+Ожидали получить только одну строку таблицы.	Räkna med att få bara en rad i tabellen.
+Ожидали статус <%1>, а получили <%2>	Förväntad status <%1>, men fick <%2>
+Ожидали существование объекта в ИБ, а получили объект не найден <%1> .%2	Räkna med förekomsten av objekt i IB, och fick ett objekt hittades inte <%1> .%2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения <%4>. Текущее значение <%5>.	Förväntas från tabell <%1> i <%2> sekunder på fält <%3> <%4>. Aktuellt värde <%5>.
+Ожидали, что %1 %2 выбросит исключение %3 %4	Förväntas %1% 2 kasta undantag %3% 4
+Ожидали, что активным окном будет <%1>, а нашли <%2>. Таймаут поиска окна: %3	Förväntade aktiva fönstret <%1>, men fann <%2>. Timeout fönstret sök: %3
+Ожидали, что в сообщениях пользователю будет подстрока <%1>	Förväntas att meddelanden av användaren kommer att vara den delsträng <%1>
+Ожидали, что вторым параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Väntade den andra parametern skickas en rad parametrar till en metod för <%1>, men fick olika objekt typ <%2>
+Ожидали, что вторым параметром будет передана структура параметров для метода <СоздатьДанныеПоТабличномуДокументу>, а получили другой объект с типом <%1>	Väntade den andra parametern skickas en parameter struktur för metoden <СоздатьДанныеПоТабличномуДокументу> och fick en annan objekttyp <%1>
+Ожидали, что количество строк таблицы <%1> будет равно переменной <%2>. Значение переменной <%3>. Количество строк <%4>	Förväntade antalet rader i tabellen <%1> är lika med rörlig <%2>. Värdet av variabeln <%3>. Antalet rader <%4>
+Ожидали, что окно сообщений пользователю будет пустое. В нём %1 сообщений.	Förväntade rutan meddelande till användaren är tom, och %(1) av meddelandet.
+Ожидали, что переменная <%1> будет равна <%2>. Текущее значение <%3>	Förväntad rörlig <%1> är lika med <%2>. Aktuella värdet är <%3>
+Ожидали, что поле <%1> будет равно переменной <%2>. Значение переменной <%3>. ЗначениеПоля <%4>	Förväntade <%1> är lika med rörlig <%2>. Värdet av variabeln <%3>. Znacheniya <%4>
+Ожидали, что поле с заголовком <%1> будет заполнено, но оно пустое.	Räkna med header-fält med <%1> är fylld, men den är tom.
+Ожидали, что проверяемое значение (%1) %2 %3 %4	Förväntade kolla värde (%1) %2 %3 %4
+Ожидали, что третьим параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Räkna med den tredje parametern skickas en rad parametrar till en metod för <%1>, men fick olika objekt typ <%2>
+Ожидали, что у группы <%1> текущей страницей будет <%2>, а оказалась <%3>	Vad jag förväntade mig från gruppen <%1> aktuella sidan är <%2>, men var <%3>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Vad jag förväntade mig från en tabell-dokument <%1> i cell med adressen <%2> <%3>, fick <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Vad jag förväntade mig från en tabell-dokument <%1> i cell med adressen <%2> <%3>, fick <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Vad jag förväntade mig från en tabell-dokument <%1> i cell med adressen <%2> <%3>, fick <%4>
+Ожидали, что ячейка <%1> будет заполнена.	Förväntade cellen är <%1> kommer att vara fylld.
+Ожидали, чтов таблице <%1> поле <%2> будет равно переменной <%3>. Значение переменной <%4>. ЗначениеПоля <%5>	Förvänta dig thatin tabell <%1> fältet <%2> är lika med rörlig <%3>. Värdet av variabeln <%4>. Znacheniya <%5>
+Окно с заголовком <%1> не найдено.	Ett fönster med en titel <%1> kunde inte hittas.
+Описание ошибки: %1	Beskrivning av fel: %1
+Остановка на брейкпоинте.	Stannar på brytpunkten.
+Ошибка в %1. %2	Fel i %1. %2
+Ошибка в ДобавитьStepDefinitionВТекстМодуля.	Fel i ДобавитьStepDefinitionВТекстМодуля.
+Ошибка в ПолучитьУжеСуществующиеСнипетыИзОбработок(). Файл/каталог %1 не существует.	Fel i ПолучитьУжеСуществующиеСнипетыИзобработок(). Filen/katalogen %1 inte existerar.
+Ошибка в файле %1, снипет %2 уже был в %3	Fel i filen %1, utdrag %2 %3
+Ошибка перегенерации EPF. Файл %1 не найден.	Fel förnyelse EPF. Filen %1 hittades inte.
+Ошибка при выгрузке набора записей регистра: %1	Fel vid lossning uppsättning registrera poster: %1
+Ошибка при выгрузке объекта: %1. Тип: %2	Fel vid lossning object: %1. Typ: %2
+Ошибка при закрытии всех окон Testclient.	Fel vid stängning av samtliga Fönster Testclient.
+Ошибка при поиске значений в макете %1:	Fel när du söker efter värden i den layout %1:
+Ошибка при получении активной формы.	Fel att få den aktiva formen.
+Ошибка при получении списка процессов 1С.	Fel lista över processer 1C.
+Ошибка при получении текста фичи:	Fel text:
+Ошибка при построении дерева из файла <%1>%2%3	Fel när man bygger ett träd från en fil <%1> %2% 3
+Ошибка при создании данных из макета. Неуникальное имя переменной: [%1]	Fel när du skapar data från modellen. Icke-unika namnet på den variabel: [%1]
+Ошибка проверки значения таблицы <%1>. %2	Felet kontrollera värdet i tabellen <%1>. %2
+Ошибка создания временного файла в подкаталоге %1.	Fel vid skapande av temporära filer i underkatalogen %1.
+Ошибка создания скриншота:%1 команда:%2	Fel vid skapande av en skärmdump:%1 kommando:%2
+Ошибка создания файла %1.	Fel vid skapande av fil %1.
+Ошибка чтения JSON. Неизвестный символ %1	Fel vid läsning av JSON. Okänd karaktär %1
+Ошибка чтения структуры JSON пропускаем чтение	Fel vid läsning av JSON struktur för att hoppa över att läsa
+Ошибка чтения структуры JSON.	Fel vid läsning av JSON struktur.
+Ошибка. В фиче %1 было найдено несколько сценариев с именем %2	Felet. Funktionen %1 hittade flera skript med namnet %2
+Ошибка. Найдено более 1 значения в кэше МетаданныеИмя [%1] по указанным параметрам поиска %2	Felet. Hittade fler än 1 värde i cache Mataranyika [%1] på den angivna sökalternativ %2
+ОшибкаПроверки	Olivepomace
+Параметр <Запускаемая обработка> указывает на несуществующий файл.	Parametern <påbörjar handläggningen> pekar på en icke-existerande fil.
+Параметр <Имя подключения> является обязательным.	Alternativet <samband Namn> är obligatoriska.
+Параметр <Логин> не задан	Parameter <Användarnamn> inte anges
+Параметр %1 не найден в таблице параметров.	Alternativ 1 inte finns i tabellen.
+Первый параметр (%1) меньше второго (%2) а хотели, чтобы был больше или равен.%3	Den första parametern (%1) är mindre än den andra (%2) och ville var större än eller lika.%3
+Первый параметр (%1) меньше или равен второму (%2) а хотели, чтобы был больше.%3	Den första parametern (%1) är mindre än eller lika med det andra (%2) och ville ha mer.%3
+Передан пустой путь в процедуру <СоздатьКаталогЕслиЕгоНет>.	Tom väg vidare till rutin <Astaticlullaby>.
+Переданная дата (%1) не равна дате (%2) с точностью до 2-х секунд, а хотели, чтобы они равнялись. %3	Överfört till dags dato (%1) är inte lika med date (%2) med en noggrannhet på 2 sekunder, och ville att de skulle vara lika. %3
+Переданный параметр (%1) не входит в период %2, а хотели, чтобы являлся. %3	Det gick parameter (%1) ingår inte i bolaget %2, och ville ha var. %3
+Переданный параметр (%1) не является Истиной, а хотели, чтобы являлся. %2	Det gick parameter (%1) är inte Sant, och ville ha var. %2
+Переданный параметр (%1) не является Ложью, а хотели, чтобы являлся. %2	Det gick parameter (%1) är inte en Lögn, och ville ha var. %2
+Передвижение курсора мышки - OK	Förflyttning av muspekaren. OK
+ПередВыполнениемШага: %1	Perevypolneniem: %1
+Переключатель с заголовком <%1> не найден.	Byta titel <%1> kunde inte hittas.
+Переключатель с именем <%1> не найден.	Växla med namnet <%1> kunde inte hittas.
+Переменная <%1> не найдена.	Rörlig <%1> kunde inte hittas.
+Переменная <%1> ранее не была сохранена	Rörlig <%1> har inte sparats tidigare
+Пересоздан %1	Återskapas %1
+Пересоздаю %1	Återskapa %1
+ПланВидовРасчета.%1 не удалось найти предопределенный элемент/группу [%2].%3	Plannedorbit.%1 misslyckats med att hitta en fördefinierade element/grupper [%2].%3
+ПланВидовРасчета.%1 не удалось создать новую группу.%2	Plannedorbit.%1 misslyckats med att skapa en ny grupp.%2
+ПланВидовРасчета.%1 не удалось создать новый элемент.%2	Plannedorbit.%1 misslyckades med att skapa ett nytt element.%2
+ПланВидовХарактеристик.%1 не удалось найти предопределенный элемент/группу [%2].%3	Provideguarantees.%1 misslyckats med att hitta en fördefinierade element/grupper [%2].%3
+ПланВидовХарактеристик.%1 не удалось создать новую группу.%2	Provideguarantees.%1 misslyckats med att skapa en ny grupp.%2
+ПланВидовХарактеристик.%1 не удалось создать новый элемент.%2	Provideguarantees.%1 misslyckades med att skapa ett nytt element.%2
+ПланОбмена.%1 не удалось получить узел этой ИБ.%2	Planaltina.%1 misslyckades med att få nod i detta IB.%2
+ПланОбмена.%1 не удалось создать новый узел.%2	Planaltina.%1 misslyckades med att skapa den nya noden.%2
+ПланСчетов.%1 не удалось найти предопределенный элемент/группу [%2].%3	Planscheap.%1 misslyckats med att hitta en fördefinierade element/grupper [%2].%3
+ПланСчетов.%1 не удалось создать новую группу.%2	Planscheap.%1 misslyckats med att skapa en ny grupp.%2
+ПланСчетов.%1 не удалось создать новый элемент.%2	Planscheap.%1 misslyckades med att skapa ett nytt element.%2
+Подключение с именем <%1> перезаполнено в таблице подключений	Anslut med namnet <%1> petesaporito i samband tabellen
+Подключили для отладки форма %1	Ansluten för att felsöka form %1
+Подключились к сеансу TESTCLIENT.	Gick sessionen TESTCLIENT.
+Подсвет рамки - OK	Illumin ram - OK
+Поле <%1> в данный момент невидимо пользователю.	<%1> i det ögonblick, osynliga för användaren.
+Поле <%1> существует, а ожидали, что его нет.	<%1> finns, som förväntat, att det är det inte.
+Поле с заголовком <%1> не найдено.	Rutan med rubriken <%1> kunde inte hittas.
+Поле с именем <%1> не найдено.	Fält med namnet <%1> kunde inte hittas.
+Получить изменения формы	För att ändra formen
+Получить состояние всей формы	För att få hela formen
+ПолучитьИдентификаторПредставленияПоСсылке() : Неизвестный КорневойТипКонфигурации <%1>	ПолучитьИдентификаторПредставленияпоссылке() : Okänd Corneoscleral <%1>
+ПолучитьСостояниеФормыTestClient:%1	ПолучитьСостояниеФормыTestClient:%1
+ПолучитьТаблицуЗначенийИзТабличногоДокумента: Требуется тип ТабличныйДокумент или ПолеТабличногоДокумента	ПолучитьТаблицуЗначенийИзТабличногодокумента: typ Tablecellelement eller Payableondeath
+ПолучитьУжеСуществующиеСнипетыИзОбработок:%1	ПолучитьУжеСуществующиеСнипетыИзобработок:%1
+Пометка для шаг установлена.	Mark för steg installerat.
+Пометка снята.	Markera bort.
+порт <%1>	port <%1>
+Порт %1 занят или находится вне указанного диапазона, порт подключения изменен на %2	Port %1 är upptagen eller är utanför det angivna intervallet, anslutning ändras till %2
+Построение дерева.	Byggandet av trädet.
+Превышение таймаутуа ожидания завершения фонового задания.	Utöver timucua i avvaktan på bakgrunden jobb.
+Предупреждение с текстом %1 не найдено.	Ett varningsmeddelande sms: a %1 hittades inte.
+Предыдущая ошибка: %1. ТаймаутОжидания=%2	Tidigare fel: %1. Timeoutidle=%2
+При подключении TestClient возникло сообщение:	När du ansluter TestClient det var ett budskap:
+ПроверитьРавенствоТаблиц: Второй параметр-таблица таблицей не является	Proerythroleukemic: den Andra parametern tabellen är inte
+ПроверитьРавенствоТаблиц: Первый параметр-таблица таблицей не является	Proerythroleukemic: den Första parametern är bordet med tabellen är inte
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Второй параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: den Andra parametern tabell är en tabell-dokument
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Первый параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: den Första parametern tabell är en tabell-dokument
+ПроверитьТип: Тип значения параметра ТипИлиИмяТипа должен быть <Тип> или <Строка>, а получили <%1>%2	Proveriti: Typ av parameter värde Tielieketi måste vara <Typ> eller <String> och fick <%1>%2
+Проверка загрузки объектов в ИБ из макета данных выполнена успешно.	Kontrollera ladda ner nyhetsbrevet från layout data slutförts.
+Проверьте работу команды <%1>	Testa kommandot <%1>
+Профиль с именем <%1> не найден.	Den profil med namnet <%1> kunde inte hittas.
+ПрочитатьПеременныеСреды:%1	Proceratiinae:%1
+Пустой адрес снипета у шага: %1	Tom adressen till kodavsnittet längst steg: %1
+ПутьКФиче=Неопределено	Potection=Undefined
+Работа с ключами для %1 пока не поддерживается	Genom att arbeta med viktiga %1 som ännu inte stöds
+Работаю по сценарию	Arbetet med manuset
+Работаю по фиче: %1	Arbete på funktionen: %1
+равно	samma
+РазличаютсяКолонки	Razlichayutsya
+Различия в таблицах:	Skillnaderna i tabeller:
+РазноеКоличествоСтрок	Ethnoecologists
+Раннер <%1> не подключен.	Löpare <%1> inte är ansluten.
+РежимСовместимостиTestManager	РежимСовместимостиTestManager
+Реквизит <%1> не найден.	Rekvisita <%1> kunde inte hittas.
+с длиной	längd
+Сеанс должен быть запущен с ключом TESTMANAGER.	Passet måste startas med den nyckel TESTMANAGER.
+Снипет <%1> встречается %2 раз.	Utdrag <%1> fann %2 gånger.
+содержащее текст <%1>, а был текст <%2>	innehåller texten <%1>, och texten var <%2>
+содержит	innehåller
+Создан %1	Skapat på %1
+Создан файл: %1	Skapade filen: %1
+Создание epf по фичам закончено.	Skapandet av epf efter att den har avslutats.
+Создать тестовый mp3 - OK	Skapa ett test mp3 - OK
+Создаю %1	Skapa %1
+Справочник.%1 не удалось найти предопределенный элемент/группу [%2].%3	Referens.%1 misslyckats med att hitta en fördefinierade element/grupper [%2].%3
+Справочник.%1 не удалось создать новую группу.%2	Referens.%1 misslyckats med att skapa en ny grupp.%2
+Справочник.%1 не удалось создать новый элемент.%2	Referens.%1 misslyckades med att skapa ett nytt element.%2
+Справочник.%1.%2 - получен пустой элемент.	Referens.%1.%2 - ett tomt element.
+Сравниваемые значения (%1; %2) не равны, а хотели, чтобы были равны.%3	Jämför värden (%1
+Сравниваемые значения (%1; %2) равны, а хотели, чтобы были не равны.%3	Jämför värden (%1
+Странный параметр в логе инструкции HTML: %1	Konstiga alternativ i loggen för användaren HTML: %1
+Странный параметр в логе инструкции Markdown: %1	Konstiga alternativ i loggen för användaren Wiki: %1
+Строка <%1> из файла <%2> не найдена в файле <%3>	Raden <%1> i filen <%2> hittades inte i <%3>
+Строка <%1> найдена в окне сообщений пользователю.	Raden <%1> som finns i rutan meddelande till användaren.
+Строка <%1> найдена в последнем сообщении пользователю. Найдено: %2	Raden <%1> hittades i den sista meddelande till användaren. Finns i: %2
+Строка <%1> не найдена в окне сообщений пользователю.	Raden <%1> hittades inte i meddelandefönstret till användaren.
+Строка <%1> не найдена в последнем сообщении пользователю. Найдено: %2	Raden <%1> hittades inte i sista meddelande till användaren. Finns i: %2
+Строка %1 не найдена в реквизите %2	På rad %1 inte finns i rekvisita %2
+Строка №%1 не найдена в табличном документе на форме	Rad antal %1 hittades inte i tabellform dokument på form
+Строка №%1, обнаружен символ <|>, хотя не было ключевого слова <Примеры>.	Rad antal %1 upptäckts <|>, även om det var nyckelorden <Exempel>.
+Строка №%1, ожидалось (%2), а найдено (%3) ПредыдущееКлючевоеСлово=%4	Rad antal %1, vänta (%2), fann (%3) Predyduschaya=%4
+Строка должна быть описана таблицей с двумя строками.	Strängen måste beskrivas med en tabell med två rader.
+Строка с фича-файлом не найдена.	String har-filen kunde inte hittas.
+СтрокаЗапуска=%1	Strikesapose=%1
+существует	det är
+Сценарий <%1> не загружен.	Skriptet <%1> den laddas inte.
+Сценарий: %1	Manus: %1
+Таблица <%1> не соответствует эталону. Ожидали <%2> строк, а в ней <%3> строк.	Tabell <%1> inte stämmer med standarden. Förväntade <%2> rader, och det är <%3> rader.
+Таблица <%1> не стала равной за <%2> секунд. %3	Tabell <%1> inte lika med <%2> sekunder. %3
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Ожидали <%4>, а получили <%5>	Tabell <%1>. Linje Nr.<%2>. Kolumn <%3>. Förväntade <%4>, fick <%5>
+Таблица формы с именем <%1> не найдена.	Formen tabell med namnet <%1> kunde inte hittas.
+ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.Количество()=%2	Tabletseasy.Kolichestvennom()=%1, Tableresults.Den kvantitet ()=%2
+Таблицы должны совпадать, а они различны.%1	Tabellen måste sammanfalla, och de är olika%1
+ТаблицыСовпадают	Tabletirovaniju
+Табличный документ <%1> оказался неравен <%2>.%3	Tabell dokument <%1> var ojämlik <%2>.%3
+Табличный документ не содержит нужные строки <%1>	Tabell dokument inte innehåller den sträng <%1>
+Табличный документ содержит ненужные строки <%1>	Tabellen dokumentet innehåller onödiga rader <%1>
+ТестируемаяФорма <%1> не открылась, а должна была открыться	Masterweaver <%1> inte öppna och var tvungen att öppna
+ТестПропущен	Testproposed
+Технические данные	Tekniska data
+тип	typ
+Типом значения <%1> является <%2>, а ожидался тип <%3>.%4	Värdetyp <%1> är <%2>, men den förväntade typen är <%3>.%4
+Требуется документ, бизнес-процесс или задача. Неизвестный менеджер %1.%2 . Переменная %3	Dokument som krävs, ett företag eller en uppgift. Okänd Manager %1.%2 . Variabel %3
+ТЧ %1 не соответствует эталону. Ожидали %2 строк, а в ней %3 строк.	PM %1 inte stämmer med standarden. Förväntas %2 rader, och det %3 rader.
+ТЧ с именем <%1> не найдена.	PM med namn <%1> kunde inte hittas.
+У окна <%1> не найдено ни одного элемента с типом <ТестируемоеПолеФормы>.	Fönster <%1> kan inte hitta något element av typen <Testirovanie>.
+У поля <%1> ожидали заголовок <%2>, а получили <%3>	Fältet <%1> förväntas titel <%2>, fick <%3>
+У поля <%1> ожидали отображаемый текст <%2>, а получили <%3>	Fältet <%1> förväntas den text som ska visas <%2>, fick <%3>
+У поля <%1> ожидали текст подсказки <%2>, а получили <%3>	Fältet <%1> förväntades tooltip text <%2>, fick <%3>
+У текущего окна найдено %1 форм.	Det aktuella fönstret fann % - 1 former.
+У элемента формы <%1> текущий текст редактирования <%2>, а ожидали <%3>	Den del av formuläret <%1> den nuvarande redigering av text <%2>, förväntas <%3>
+Удаляю элемент %1	Ta bort objektet %1
+Удаляю элемент справочника <%1> : <%2>	Tar bort ordlistan element <%1> : <%2>
+Уже открытый TestClient подключен на %1 порту.	Offentlig TestClient redan är ansluten till %1 port.
+Указан неверный диапазон портов: <%1>	Ogiltiga portintervall: <%1>
+Указанное Имя колонки замещения [%1] не существует в макете.	Den angivna kolumnen Namn substitution [%1] finns inte i layouten.
+Установлен флаг "Остановка при возникновении ошибки". Выполнение следующих сценариев отменено.	Ange flaggan "Sluta när fel uppstår". Följande scenarier annulleras.
+Установлен флаг <Остановка при возникновении ошибки>. Выполнение следующих сценариев отменено.	Ange flaggan < - Stopp vid fel uppstår>. Följande scenarier annulleras.
+Утверждение "ИмеетДлину" не умеет работать с типом <%1>.%2	Uttalandet "Meatline" inte kan fungera på typ <%1>.%2
+Утверждение "ПроверитьВхождениеВКоллекцию" не умеет работать с типом коллекции <%1>.%2	Uttalandet "Prioritypaydayloans" inte kunde arbeta med en samling typ <%1>.%2
+Утверждение "Содержит" не умеет работать с типом <%1>.%2	Det uttalande som "Innehåller" inte fungerar med typ <%1>.%2
+Утверждение <ИмеетДлину> не умеет работать с типом <%1>.%2	Godkännandet <Emaldona> kan arbeta på typ <%1>.%2
+Утверждение <ПроверитьВхождениеВКоллекцию> не умеет работать с типом коллекции <%1>.%2	Godkännandet <Prioritypaydayloans> inte kunde arbeta med en samling typ <%1>.%2
+Утверждение <Содержит> не умеет работать с типом <%1>.%2	Godkännandet <Innehåller> > kan arbeta på typ <%1>.%2
+Утверждение ПроверитьРавенствоФайлов можно использовать только в толстом клиенте.	Godkännande av Prioritering kan endast användas i den tjocka klienten.
+Файл <%1> не найден.	Filen <%1> kunde inte hittas.
+Файл <%1> не существует.	Filen <%1> existerar inte.
+Файл <vbFeatureReader.epf> не найден в каталоге инструментов <%1>	Filen <vbFeatureReader.epf> kunde inte hittas i verktyg-katalogen <%1>
+Файл %1: <%2>	Filen %1 <%2>
+Файл EPF не создан.	Den EPF-filen är inte skapad.
+Файл EPF не создан. Не смог создать каталог временной базы.	Den EPF-filen är inte skapad. Kan inte skapa katalogen tillfällig bas.
+Файл отчета Allure-report (%1) записан.	Rapporten fil Allure-rapport (%1) registreras.
+Файл отчета CucumberJson-report (%1) записан.	Rapporten fil CucumberJson-rapport (%1) registreras.
+Файл отчета jUnit-report (%1) записан.	Rapporten fil jUnit-rapport (%1) registreras.
+Фича <%1> содержит тег @Tree. Найдены строки, которые содержат символы пробелов и символы табуляции в начале строки. Дерево не может быть корректно построено.	Funktionen för <%1> innehåller taggen @Träd. Finns strängar som innehåller blanktecken och tab-tecken i början av raden. Trädet kan inte vara korrekt byggd.
+Фича <%1> содержит тег @Tree. Часть строк содержит в начале строки символы пробелов <%2>, часть строк содержит символы табуляции <%3>. Дерево не может быть корректно построено.	Funktionen för <%1> innehåller taggen @Träd. Raderna innehåller i början av raden tecken, tecken <%2>, några rader innehåller tab-tecken <%3>. Trädet kan inte vara korrekt byggd.
+Фича: %1	Ficha: %1
+Фичи загружены	Har laddat
+Флаг <Сохранять контексты перед выполнением шагов> установлен в <Истина>.	Flagg <Spara sammanhang innan du utför stegen> <Sant>.
+Флаг с заголовком <%1> не найден.	Flaggan med header <%1> kunde inte hittas.
+Флаг с именем <%1> не найден.	En flagga med namn <%1> kunde inte hittas.
+Форма <%1> не найдена.	Bilda <%1> kunde inte hittas.
+Форма окна с заголовком %1 не найдена.	Formen på fönstret med titeln '%1 ' hittades inte.
+Форма с заголовком <%1> не найдена.	Form med titeln <%1> kunde inte hittas.
+Форма с заголовком %1 не найдена.	Blankett med rubriken %1 inte kan hittas.
+Хост сеанс надо запустить с ключом /TESTMANAGER.	Värden sessionen måste startas med den nyckel /TESTMANAGER.
+Хотели, чтобы алгоритм <%1> выполнился, а он упал с ошибкой <%2>. %3	Ville algoritm <%1> genomfördes, och han föll med fel <%2>. %3
+Хотели, чтобы алгоритм <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	Ville algoritm <%1> sjunkit med ett felmeddelande <%2>, och han föll med meddelandet <%3>.%4
+Хотели, чтобы алгоритм <%1> упал, а он выполнился%2	Ville algoritm <%1> sjönk, och han avrättades%2
+Хотели, чтобы код <%1> выполнился, а он упал с ошибкой <%2>. %3	Ville koden <%1> genomfördes, och han föll med fel <%2>. %3
+Хотели, чтобы код <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	Ville koden <%1> sjunkit med ett felmeddelande <%2>, och han föll med meddelandet <%3>.%4
+Хотели, чтобы код <%1> упал, а он выполнился%2	Ville koden <%1> sjönk, och han avrättades%2
+Шаг	Steg
+Шаг (%1) не выполнен.	Steg (%1) är inte implementerat.
+Шаг (%1) не выполнен. Строка дерева №%2	Steg (%1) är inte implementerat. String tree antal%2
+Шаг (%1) не реализован.	Steg (%1) är inte implementerat.
+Шаг <%1> должен был вызвать исключение, а он выполнился корректно.	Steg <%1> förväntas orsaka ett undantag, men det exekverades korrekt.
+Шаг выполнен с ошибкой: %1	Steg misslyckades: %1
+Шаг принимает на вход только таблицу Gherkin, в которой две строки. А было передано %1 строк.	Steg tar som indata bara Gurkan bord där två rader. Och skickades till %1 rader.
+Шаг сценария не реализован.	Steg av skriptet inte genomförs.
+Элемент с заголовком <%1> виден на текущей форме	Elementet title <%1> är synliga på den nuvarande formen
+Элемент с заголовком <%1> доступен на форме	Elementet title <%1> som finns på form
+Элемент с заголовком <%1> доступен не только для просмотра	Elementet title <%1> inte tillgängliga för visning endast
+Элемент с заголовком <%1> доступен только для просмотра	Elementet title <%1> är tillgängliga för visning endast
+Элемент с заголовком <%1> не виден на текущей форме	Elementet title <%1> är inte synlig på den nuvarande formen
+Элемент с заголовком <%1> не доступен на форме	Elementet title <%1> inte tillgängliga i form av
+Элемент с именем <%1> виден на текущей форме	Elementet med namnet <%1> är synliga på den nuvarande formen
+Элемент с именем <%1> доступен на форме	Elementet med namnet <%1> som finns på form
+Элемент с именем <%1> доступен не только для просмотра	Elementet med namnet <%1> inte tillgängliga för visning endast
+Элемент с именем <%1> доступен только для просмотра	Elementet med namnet <%1> är endast tillgängligt om du vill visa
+Элемент с именем <%1> не виден на текущей форме	Elementet med namnet <%1> är inte synlig på den nuvarande formen
+Элемент с именем <%1> не доступен на форме	Elementet med namnet <%1> inte tillgängliga i form av
+Элемент формы <%1> не найден.	En del av formuläret <%1> kunde inte hittas.
+Элемент формы с именем <%1> не найден.	Form-element med namnet <%1> kunde inte hittas.
+Элемента формы с заголовком <%1> не найдено.	Form inslag med rubriken <%1> kunde inte hittas.
+Элемента формы с именем <%1> не найдено.	En form element med namnet <%1> kunde inte hittas.
+Это возможно только для шага.	Detta är endast möjligt för steg.
+является NULL	är NULL
+является заполненным	är fylld
+является истиной	är sanningen
+является ложью	är en lögn
+является неопределено	är odefinierad
+Не найден SikuliX скрипт <%1>.	Inte hittat SikuliX-skript <%1>.
+Не удалось выполнить SukuliX скрипт <%1>.	Misslyckades SukuliX-skript <%1>.
+Ожидали, что в таблице <%1> текуще поле будет заполнено.	Väntat i tabellen <%1> det aktuella området är fylld.
+Ожидали, что в таблице <%1> текуще поле будет не заполнено.	Väntat i tabellen <%1> det aktuella området kommer att vara tomt.
+Ожидали у таблицы <%1> в течение <%2> секунд, что текущее поле будет заполнено.	Förväntas från tabell <%1> i <%2> sekunder att det aktuella området är fylld.
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Не смог получить значение из эталона.	Tabell <%1>. Linje Nr.<%2>. Kolumn <%3>. Kunde inte få värde från mönstret.
+Не получилось получить представление открытого списка выбора <%1>.	Det gick inte att öppna visa lista <%1>.
+У списка выбора <%1> ожидалось %2 значений, а было получено %3 значений.	Urvalslistan <%1> förväntas %2, men fick %3 värden.
+Ожидалось получить %1, а было получено %2.	Förväntas %1, fick %2.
+Открытый список выбора <%1> не равен эталону. Различия: %2	Öppna urvalslistan <%1> är inte lika vanliga. Skillnad: %2
+Ожидалось, что открытый список содержит значение %1.	Det var väntat att öppna listan innehåller %1 värde.
+Открытый список выбора <%1> не содержит ожидаемые значения: %2	Öppna urvalslistan <%1> innehåller inte förväntat värde: %2
+Открытый список выбора <%1> содержит значения, которых не должно быть: %2	Öppna urvalslistan <%1> innehåller värden som inte borde vara: %2
+Не смог получить данные локализации сообщений.	Kunde inte hämta data lokalisera meddelanden.
+У поля <%1> не получилось нажать на гиперссылку <%2>.	Fältet <%1> misslyckades med att klicka på en hyperlänk <%2>.
+Вы уверены?	Är du säker?
+Закрыть форму	Stäng formuläret
+Не получилось нажать на кнопку <%1>.	Misslyckades med att klicka på knappen <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд ячейка <%3> станет равна <%4>.	Vad jag förväntade mig från en tabell-dokument <%1> i <%2> sekunder cell <%3> är lika med <%4>.
+Некоторые сообщения не были найдены в окне сообщений пользователю: %1	Vissa meddelanden inte finns i rutan meddelande till användaren: %1
+В окне сообщений пользователю были найдены лишние сообщения: %1	I meddelanderutan användaren har hittats onödiga meddelanden: %1
+Не получилось определить длительность у файла <%1>.	Kunde inte bestämma varaktigheten av filen <%1>.
+Не получилось добавить субтитры к файлу <%1>.	Gick inte att lägga till undertexter till filen <%1>.
+Команда ffmpeg по слиянию всех видео не выполнена.	Ffmpeg-kommandot för att sammanfoga alla filmer görs inte.
+Команда ffmpeg по перекодированю звука не выполнена.	Kommandot för ffmpeg perekopirovannye inga ljud görs.
+Команда ffmpeg по добавлению водяной отметки и перекодированию звука не выполнена.	Ffmpeg-kommandot för att lägga till en vatten markering, och omkodning av ljud är inte utförs.
+Команда ffmpeg по кодированию в mp4 не выполнена.	Ffmpeg kommando för kodning till mp4 är inte utförs.
+Команда ffmpeg по добавлению mp3 в ролик не выполнена.	Ffmpeg-kommandot för att lägga till mp3 i videon är inte utförs.
+Не получилось создать файл TTS <%1>.	Misslyckades med att skapa TTS-fil <%1>.
+Не указано имя голоса Text To Speech.	Ej angett namn på en röst som Text Till Tal.
+Не указана команда ffmpeg.	Inte anges kommandot grep.
+Не указана команда Convert.	Som inte anges på Konvertera-kommandot.
+Не найдено значение из колонки <%1>.	Inte hittat det värde från kolumnen <%1>.
+Не найдено значение <%1> из колонки <%2>.	Hittades inte <%1> i kolumnen <%2>.
+Не получилось сохранить в переменную <%1> таблицу с именем <%2>.	Kunde inte spara i en variabel <%1> tabellnamn <%2>.
+Таблица <%1> пустая.	Tabell <%1> är tomt.
+В таблицах <%1> и <%2> разное количество колонок <%3> и <%4>.	I tabellen <%1> <%2> olika antal kolumner <%3> <%4>.
+Не все строки таблицы <%1> найдены в таблице <%2>:	Inte alla rader i tabellen <%1> som finns i tabell <%2>:
+Для элемента с именем <%1> не найдена форма.	För elementet med namnet <%1> inte hittat formen.
+Не указано значение настройки Vanessa-automation: <КаталогПроекта>.	Inte angivna värdet Vanessa-automatisering: <Catalogproduct>.
+Не указано значение настройки Vanessa-automation: <КаталогиСкриптовSikuliX>.	Inte angivna värdet Vanessa-automatisering: <КаталогиСкриптовSikuliX>.
+В каталоге <%1> не найден файл <%2>.	I katalogen <%1> - fil hittades inte <%2>.
+В каталоге <%1> найдено больше одного файла <%2>: %3.	I katalogen <%1> var finns mer än en fil <%2>: %3.
+Не получилось сделать клик мышкой по картинке <%1>.	Misslyckades med att klicka med musen på bilden <%1>.
+Не получилось запустить Sikulix сервер.	Det gick inte att köra Sikulix server.
+Не получилось дождаться выполнения SikuliX скрипта <%1>.	Kunde inte vänta med att köra SikuliX-skript <%1>.
+Не получилось выполнить SikuliX скрипт <%1>.	Det gick inte att köra SikuliX-skript <%1>.
+Ожидалось, что группа элементов <%1> содержит данные элементы формы: %2	Det var väntat att den grupp av element <%1> innehåller data element av formen: %2
+Ожидалось, что группа элементов <%1> не содержит данные элементы формы: %2	Det var väntat att den grupp av element <%1> att den inte innehåller uppgifter som ska ingå i den form: %2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения отличного от <%4>. Текущее значение <%5>.	Förväntas från tabell <%1> i <%2> sekunder på fält <%3> - värden skiljer sig från <%4>. Aktuellt värde <%5>.
+Ожидалось, что в панели разделов будет <%1> элементов, а найдено <%2> элементов.	Det var väntat att panelen avsnitt kommer att vara <%1> - elementet, som finns <%2> - element.
+Ожидалось, что в панели разделов будут содержаться следующие элементы: %1	Det var väntat att panelen avsnitt kommer att innehålla följande element: %1
+Ожидалось, что в панели разделов не будут содержаться следующие элементы: %	Det var väntat att panelen avsnitt kommer att innehålla följande element: %
+Ожидалось, что в панели функций будет <%1> элементов, а найдено <%2> элементов.	Det var väntat att panelen funktioner kommer att vara i <%1> - elementet, som finns <%2> - element.
+Ожидалось, что в панели функций будет элемент <%1> , а был найден элемент <%2>.	Det var väntat att funktionen kommer att vara det element <%1> konstaterades <%2>.
+Ожидалось, что в панели функций будут содержаться следующие элементы: %1	Det var väntat att funktionen bar kommer att innehålla följande element: %1
+Ожидалось, что в панели функций не будут содержаться следующие элементы: %1	Det var väntat att panelen funktioner kommer att omfatta följande delar: %1
+Группа <%1> не найдена в панели функций.	Gruppen <%1> hittades inte i funktionen bar.
+Ожидалось, что в группе <%1> панели функций будут содержаться следующие элементы: %2	Det var väntat att i <%1> funktionen bar kommer att innehålla följande element: %2
+Ожидалось, что в группе <%1> панели функций не будут содержаться следующие элементы: %2	Det var väntat att i <%1> funktionen bar kommer att innehålla följande element: %2
+Ошибка. Не найдены настройки пользователя <%1> в файле <%2>.	Felet. Ingen konfiguration som finns för användare <%1> i filen <%2>.
+Функция <%1> реализована только для Windows.	Funktionen för <%1> genomförs endast för Windows.
+У поля <%1> ожидали текст заголовка <%2>, а получили <%3>.	Fältet <%1> förväntades rubriken är <%2>, fick <%3>.
+В таблице <%1> у поля <%2> ожидали заголовок <%3>, а получили <%4>.	I tabell <%1> fältet <%2> förväntas titel <%3>, fick <%4>.
+В таблице <%1> у поля <%2> ожидали текст подсказки <%3>, а получили <%4>.	I tabell <%1> fältet <%2> väntade tooltip text <%3>, fick <%4>.
+Не получилось выгрузить базу в dt: <%1>. Путь к DT: <%2>. Статус возврата: <%3>.	Gick inte att ladda upp databasen i dt: <%1>. Vägen till DT är: <%2>. Avkastningen status är <%3>.
+Группа колонок <%1> в таблице <%2> не найдена.	En grupp av kolumner <%1> i tabellen <%2> hittades inte.
+В таблице <%1> в группе колонок <%2> колонка <%3> не найдена.	I tabell <%1> - gruppen kolumner <%2> kolumnen <%3> kunde inte hittas.
+Не получилось найти на экране картинку <%1>.	Kunde inte hitta bilden på skärmen <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд значение ячейки <%3> станет равно <%4>. Текущее значение <%5>.	Vad jag förväntade mig från en tabell-dokument <%1> i <%2> sekunder cellen värdet <%3> är lika med <%4>. Aktuellt värde <%5>.
+Метод Шаг() не выполнен. Не удалось прочитать шаги из временного фича файла <%1>. Исходная строка:%2	Metoden Steg() är inte implementerat. Misslyckades med att läsa några steg från den tillfälliga inslag i filen <%1>. Ursprungliga strängen:%2
+Этот клиент	Denna klient
+Не получилось найти данные макета <%1>.	Kunde inte hitta data layouten <%1>.
+Не получилось выполнить эмуляцию хоткея <%1> <%2>.	Det gick inte att utföra emulering hotkey <%1> <%2>.
+Не получилось выполнить эмуляцию ENTER.	Misslyckades med att efterlikna RETUR.
+Не получилось дождаться картинки <%1> в течение <%2> секунд.	Kunde inte vänta på att bilder <%1> i <%2> sekunder.
+Окно с заголовком <%1> не найдено. Текущее окно: <%2>.	Ett fönster med en titel <%1> kunde inte hittas. Aktuella fönstret: <%2>.
+Строка <%1> не найдена в окне сообщений пользователю. Состояние окна сообщений:%2	Raden <%1> hittades inte i meddelandefönstret till användaren. Status fönster meddelande:%2
+Не получилось определить родителя у шага <%1>.	Det går inte att avgöra förälder steg <%1>.
+Не получилось определить позицию шага <%1> в группе шагов <%2>.	Det går inte att fastställa positionen för steg <%1> i gruppen åtgärder för <%2>.
+Не получилось открыть форму регистра сведений <%1>.	Kunde inte öppna form av registret information <%1>.
+Не получилось найти подсистему <%1> в регистре версии подсистем.	Kunde inte hitta delsystem <%1> i registret version av delsystemen.
+Ожидалось получить <%1> строк в таблице <%2>, а было получено <%3> строк.	Förväntas <%1> rader i tabellen <%2>, och fick <%3> rader.
+Не получилось сохранить значение <%1> в переменную <%2>.	Det gick inte att spara <%1> till variabeln <%2>.
+Не получилось подключиться к ранее запущенному клиенту тестирования <%1>, порт <%2>.	Det gick inte att ansluta till den tidigare kör testet klienten <%1>, port <%2>.
+Не получилось прочитать параметр запуска <%1>.	Misslyckades med att läsa startparametern <%1>.
+ИмяРаннера	Marinera
+ТипКлиентаТестирования	Tibclientdataset
+СтрокаСоединения	Strokeopacity
+Не получилось сохранить строку <%1> в переменную <%2>.	Det gick inte att spara <%1> till variabeln <%2>.
+Неверно указано значение параметра направления вращения колеса мышки. Возможные значения: Вверх или Вниз.	Ogiltig parameter värde rotationsriktningen hos hjulet på musen. Möjliga värden: Upp eller Ner.
+Не получилось выполнить эмуляцию вращения колеса мышки в направлении <%1>, количество итераций <%2>.	Misslyckades med att efterlikna hjulet på musen i riktningen för <%1>, antalet iterationer <%2>.
+Обнаружено несколько файлов, экспортирующих подсценарий <%1>. Файлы: %2	Flera filer exportera podszewki <%1>. Fil: %2
+Не получилось сделать клик праой кнопкой мышки по картинке <%1>.	Misslyckades med att klicka på prõi klicka på bilden för <%1>.
+Не получилось переместить курсор мышки к картинке <%1>.	Kunde inte flytta muspekaren till den bild <%1>.
+Не существует клиента тестирования <%1>.	Det finns inget test klient <%1>.
+Ожидали, что процесс с ИД <%1> будет завершен в течение <%2> секунд.	Räkna med att processen med ID - <%1> kommer att vara klar inom <%2> sekunder.
+Значение переменной <%1> изменено на <%2>.	Värdet av variabeln <%1> ändras till <%2>.
+Значение глобальной переменной <%1> изменено на <%2>.	Värdet av global variabel <%1> ändras till <%2>.
+Переменная <%1> удалена.	Rörlig <%1> har tagits bort.
+Глобальная переменная <%1> удалена.	Den globala variabeln <%1> har tagits bort.
+Контекст	Bakgrund
+Контекст глобальный	Den globala
+Окно с заголовком <%1> не найдено. Таймаут поиска окна: <%2>.	Ett fönster med en titel <%1> kunde inte hittas. Timeout sök-fönstret: <%2>.
+Не удалось получить токен.	Misslyckades med att få token.
+Не удалось получить токен. Код результата: <%1>. Ответ: <%2>.	Misslyckades med att få token. Resultatet kod: <%1>. Svar: <%2>.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Det gick inte att hämta data. Resultatet kod: <%1>. Svar: <%2>.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>. Количество попыток <%4>.	Kunde inte i tabellen <%1> kontrollera att välja från en lista med alternativ <%2> på raden <%3>. Antalet försök <%4>.
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>. Количество попыток <%3>.	Kunde inte välja från listan <%1> on line <%2>. Antalet försök <%3>.
+Не выполнены дополнительные процедуры обработки данных.	Inte utfört ytterligare rutiner för behandling av uppgifter.
+Обнаружено окно обновления конфигурации.	Upptäckte fönstret konfiguration uppdateringar.
+Обнаружено окно c сообщением о неудачном обновлением конфигурации.	Upptäckte fönster med meddelandet om misslyckad uppdatering av konfigurationen.
+Видео создано автоматически.	Video som skapats automatiskt.
+Количество сценариев	Antalet scenarier
+Количество шагов	Antalet steg
+Версия Vanessa-Automation	Version Vanessa-Automation
+Версия скрипта сборки видео	Den version av bygga skript video
+ЗаголовокАктивногоОкна	Segelbooten
+ИмяАктивнойФормы	Inaktivitet
+В таблице должно быть боле 1 строки, а получили <%1> строк.	Tabellen ska serveras 1-rad, och fick <%1> linjer.
+Выполнить сценарии	Att köra skript
+Загружены глобальные переменные.	Laddad globala variabler.
+Не найден каталог: %1	Inte hittat katalog: %1
+Выполнить	För att utföra
+Выполняется...	Kör...
+Останавливается...	Stannar...
+Обнаружено окно перехода на новую версию платформы 1С:Предприятие.	Upptäckte transferfönstret till en ny version av 1C:Enterprise plattform.
+В таблице <%1> не получилось активизировать поле <%2> для редактирования.	I tabell <%1> det gick inte att aktivera fältet <%2> för redigering.
+Ожидалось в течение <%1> секунд, что откроется окно с заголовком отличным от <%2>.	Väntat för <%1> sekunder, vilket öppnar ett fönster med en avdelning andra än <%2>.
+Выберите файл настроек Vanessa Automation.	Välj den inställningsfil Vanessa Automation.
+Версия загружаемых настроек не соответсвует версии обработки.	Version nedladdningsbara inställningarna inte överensstämmer med den version av behandling.
+Информация: Параметр %1 не загружен.	Parameter: %1 är inte laddad.
+Не получилось прочитать значение из строки запуска: %1.	Misslyckades med att läsa värdet av den linje som körs: %1.
+При чтении переменных окружения операционной системы возникло исключение: %1	När man läser miljövariabler av operativsystemet ett undantag uppstod: %1
+Не найден путь к файлу JSON. Параметр: VAParams.	Inte hittat vägen till JSON-fil. Parameter: VAParams.
+Ошибка чтения структуры JSON. Пропускаем чтение.	Fel vid läsning av JSON struktur. Hoppa över att läsa.
+Ошибка чтения структуры JSON.	Fel vid läsning av JSON struktur.
+В параметрах JSON не найден каталог Фич.	I alternativ JSON inte finns katalogen Funktioner.
+Использование устаревшего параметра "КаталогOutputСкриншоты". Новый параметр - "КаталогВыгрузкиСкриншотов".	Med hjälp av föråldrade parameter "КаталогOutputСкриншоты". En ny parameter - den "Cataloglistview".
+Использование устаревшего параметра "КаталогOutputИнструкцияHTML". Новый параметр - "КаталогВыгрузкиИнструкцийHTML".	Med hjälp av föråldrade parameter "КаталогOutputИнструкцияHTML". Ett nytt alternativ - "КаталогВыгрузкиИнструкцийHTML".
+Использование устаревшего параметра "КаталогOutputИнструкцияMarkdown". Новый параметр - "КаталогВыгрузкиИнструкцийMarkdown".	Med hjälp av föråldrade parameter "КаталогOutputИнструкцияMarkdown". Ett nytt alternativ - "КаталогВыгрузкиИнструкцийMarkdown".
+Использование устаревшего параметра "КаталогOutputИнструкцияВидео". Новый параметр - "КаталогВыгрузкиИнструкцийВидео".	Med hjälp av föråldrade parameter "КаталогOutputИнструкцияВидео". Ett nytt alternativ - "Cataloguecontroller".
+Использование устаревшего параметра "КаталогOutputjUnit". Новый параметр - "КаталогВыгрузкиjUnit".	Med hjälp av föråldrade parameter "КаталогOutputjUnit". Ett nytt alternativ - "КаталогВыгрузкиjUnit".
+В параметрах запуска JSON не определен каталог отчета jUnit.	I run-inställningar JSON är inte definierat katalog rapport jUnit.
+Использование устаревшего параметра "КаталогOutputCucumberJson". Новый параметр - "КаталогВыгрузкиCucumberJson"	Med hjälp av föråldrade parameter "КаталогOutputCucumberJson". Ett nytt alternativ - "КаталогВыгрузкиCucumberJson"
+В параметрах запуска JSON не определен отчета CucumberJson.	I run-inställningar JSON är inte definierat rapport CucumberJson.
+Использование устаревшего параметра "КаталогOutputAllure". Новый параметр - "КаталогВыгрузкиAllure".	Med hjälp av föråldrade parameter "КаталогOutputAllure". Ett nytt alternativ - "КаталогВыгрузкиAllure".
+Использование устаревшего параметра "КаталогOutputAllureБазовый". Новый параметр - "КаталогВыгрузкиAllureБазовый".	Med hjälp av föråldrade parameter "КаталогOutputAllureБазовый". Ett nytt alternativ - "КаталогВыгрузкиAllureБазовый".
+Форма из переданного списка не найдена.	Form av de gått lista finns inte.
+ИмяФичи	Kafici
+ИмяСценария	Kasanaru
+НомерСтрокиДерева	Nemestrinidae
+НомерСтрокиФичи	Namestrategy
+ПолнйПутьКФиче	Polypacific
+Сценарий не определён.	Manuset är inte definierat.
+Шаг не определён.	Steget är inte definierat.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Det gick inte att hämta data. Resultatet kod: <%1>. Svar: <%2>.
+ДеталиОшибки	Dealiasing
+Команда по созданию картинки из текста не выполнена: %1	Kommandot för att skapa bilder av text misslyckades: %1
+Не получилось получить командный интерфейс клиента тестирования.	Misslyckades med att få kommandot client interface tester.
+Окно предупреждения не найдено.	Varningsfönstret inte hittas.
+Не получилось выполнить помещение файла <%1>.	Det gick inte att köra filen <%1>.
+Не найдено подключение SikuliX сервера.	Inte hittat samband SikuliX server.
+Подключение SikuliX сервера сброшено.	Anslutning SikuliX server återställa.
+Не указано значение настройки Vanessa-automation: <КаталогДляГенерацииКартинок>.	Inte angivna värdet Vanessa-automatisering av <Catalogchangelistener>.
+Не получилось создать картинку по тексту <%1>.	Det gick inte att skapa en bild i texten <%1>.
+Не найден профиль поиска картинки с текстом <%1>.	Inte hittat sök profil bilder med text <%1>.
+Команда не выполнена: %1	Kommando misslyckades: %1
+Не получилось вычислить выражение: %1. Описание ошибки: %2	Misslyckades med att lösa uttryck: %1. Beskrivning av fel: %2
+Не указано имя файла.	Inte angivna filnamnet.
+Каталог <%1> не существует.	Katalog <%1> existerar inte.
+Не указано расширение файла.	Ange inte den file extension.
+Не получилось закрыть активное окно <%1>. %2	Misslyckades med att stänga det aktiva fönstret <%1>. %2
+Закрытие окна <%1>.	Stänga ett fönster <%1>.

@@ -1,0 +1,810 @@
+﻿Строка поиска	Translation
+%1 не найден;	%1 nav atrasta
+%1 Не умею обрабатывать реквизит <%2> у объекта <%3>	%1 nemāku rīkoties aksesuāri <%2> pie objekta <%3>
+%1.%2 в макете нет записей для регистра %3	%1.%2 izkārtojumā nav ierakstu reģistra %3
+%1.%2 не удалось создать новый набор записей.%3	%1.%2 nav izdevies izveidot jaunu ierakstu kopu.%3
+%1.%2 не удалось создать новый набор записей%3	%1.%2 nav izdevies izveidot jaunu ierakstu kopu%3
+%1.%2 не удалось создать новый элемент.%3	%1.%2 nav izdevies izveidot jaunu vienumu.%3
+№%1. Заголовок=<%2>. Имя=<%3>. ТекстПоля = <%4>	№%1. Virsraksts=<%2>. Nosaukums=<%3>. ТекстПоля = <%4>
+TestClient НЕ подключен.	TestClient NAV pievienots.
+TestClient подключен на %1 порту.	TestClient pievienots uz %1 ostā.
+Web клиент не поддерживает запись действий пользователя.	Web klients neatbalsta ierakstīšanu lietotāja darbībām.
+Активирую окно с координатами: %1;%2	Aktivizēts logs ar koordinātām: %1
+Активная форма не найдена	Aktīvā forma nav atrasta
+Активное окно не найдено.	Aktīvais logs nav atrasts.
+больше	vairāk
+больше или равно	vairāk vai vienāds ar
+Были конфликты в именах снипетов.	Bija konflikti nosaukumos снипетов.
+Были ошибки в ПросканироватьИсходникиИНайтиВсеStepDefinition.	Bija kļūdas ПросканироватьИсходникиИНайтиВсеstepdefinition.
+Было найдено окно предупреждения с текстом: <%1> А ожидалось, что таких окон не будет.	Tika konstatēts, brīdinājuma logs ar tekstu: <%1> Un paredzams, ka šādu logu nebūs.
+Было найдено окно предупреждения. А ожидалось, что таких окон не будет.	Tika konstatēts, brīdinājuma logs. Kā arī tika gaidīts, ka šādu logu nebūs.
+В значение элемента формы %1 не найдена строка <%2>. Текущее значение поля <%3>	Vērtība elementa formas %1 nav atrasta virkne <%2>. Pašreizējā vērtība laukā <%3>
+В ИБ загружены объекты: %1 шт.	Uz IB lejupielādēt objekti: %1 gab.
+В каталоге <%1> должен был быть один файл xml.	Katalogā <%1> bija viens xml fails.
+В меню нет значения <%1>	Izvēlnē nav vērtības <par 1%>
+В метаданных %1 не найден реквизит-ключ <%2>. Ошибка в макете данных	Metadatu %1 nav atrasta aksesuārus-atslēga <%2>. Kļūda izkārtojumā datu
+В параметрах JSON не найден каталог Фич.	Parametros JSON nav atrasts katalogs Pazīmes.
+В переменной Контекст не обнаружено ранее сохраненное значение с именем <%1>	Mainīgais Konteksts nav konstatēts iepriekš saglabāto vērtību ar nosaukumu <par 1%>
+В процедуру <УстановитьРезультатУсловия> передан неверный тип параметра <%1>. Ожидаемый тип: Булево.	Uz procedūru <УстановитьРезультатУсловия> nodots nepareizs parametrs tips <%1>. Sagaidāmais tips: Boolean.
+В результирующей таблице существуют две колонки с одинаковым заголовком: %1	Uz iegūto tabulā ir divas kolonnas ar vienādu kolonnas virsrakstu: %1
+В списке нет значения <%1>	Sarakstā nav vērtības <par 1%>
+В строке <%1> не найдена подстрока <%2>	Rindā <%1> netika atrasta substr <%2>
+В сценарии <%1> найден тег исключение <%2>	Scenārijs <%1> atrasts tag izņēmums <%2>
+В сценарии <%1> найден тег отбор <%2>	Scenārijs <%1> atrasts tag atlase <%2>
+В таблице <%1>  НЕ найдено значение %2, а оно должно было быть.	Tabulā <%1> NAV atrasts vērtība %2, kā tas būtu bijis.
+В таблице <%1>  нет колонки <%2>	Tabulā <%1> nē skaļruņi <%2>
+В таблице <%1> в строке №%2 найдено значение %3, а его не должно было быть.	Tabulā <%1> joslā №%2 atrasts vērtība %3, bet tā nedrīkst būt.
+В таблице <%1> найдено <%2> значений. А ожидали <%3>. Имя колонки <%4>. Искомое значение <%5>	Tabulā <%1> atrast <%2> vērtības. Kā gaidīts <%3>. Kolonnas nosaukuma <%4>. Meklējamā vērtība <%5>
+В таблице <%1> не найдено ни одной строки	Tabulā <%1> netika atrasta neviena rindas
+В таблице <%1> не найдено ячейки с заголовком <%2>	Tabulā <%1> nav atrasts šūnas ar nosaukumu <%2>
+В таблице <%1> не найдены колонки: %2	Tabulā <%1> netika atrasta skaļruņi: %2
+В таблице <%1> не получилось активизировать поле <%2>.	Tabulā <%1> nav izdevies aktivizēt laukā <%2>.
+В таблице <%1> нет строк для выбора.	Tabulā <%1> nav rindu, lai izvēlētos.
+В таблице <%1> ожидали получить <%2> строк, а получили <%3> строк.	Tabulā <%1> gaidīt, lai saņemtu <%2> rindas, un saņēmuši <%3> rindas.
+В таблице <%1> ожидали получить %2 %3 строк, а получили <%4> строк.	Tabulā <%1> bija paredzēts, lai iegūtu %2 %3 rindu, un ir ieguvuši <%4> rindas.
+В таблице <%1> ожидали получить больше <%2> строк, а получили <%3> строк.	Tabulā <%1> gaidīt, lai saņemtu vairāk <%2> rindas, un saņēmuši <%3> rindas.
+В таблице <%1> ожидали получить больше или равно <%2> строк, а получили <%3> строк.	Tabulā <%1> gaidīt, lai saņemtu vairāk vai vienāds ar <%2> rindas, un saņēmuši <%3> rindas.
+В таблице <%1> ожидали получить меньше <%2> строк, а получили <%3> строк.	Tabulā <%1> gaidīt, lai saņemtu mazāk nekā <%2> rindas, un saņēmuši <%3> rindas.
+В таблице <%1> ожидали получить меньше или равно <%2> строк, а получили <%3> строк.	Tabulā <%1> gaidīt, lai saņemtu mazāks vai vienāds ar <%2> rindas, un saņēmuši <%3> rindas.
+В таблице <%1> отсутствует колонка <%2>, указанная в параметрах.	Tabulā <%1> nav kolonna <%2>, указанная parametros.
+В таблице <%1> поле с заголовком <%2> не найдено.	Tabulā <%1> lauks ar nosaukumu <%2> nav atrasts.
+В таблице <%1> поле с именем <%2> не найдено.	Tabulā <%1> lauks <%2> nav atrasts.
+В таблице <%1> у поля <%2> ожидали открытия выпадающего списка, но не дождались.	Tabulā <%1> laukā <%2> gaidīts atvēršanas nolaižamā saraksta, bet nav jāgaida.
+В таблице не найдена колонка <%1>	Tabulā nav atrodama aile <par 1%>
+В таблице параметров не было передано имя нового профиля. Колонка <Имя подключения>	Tabulā parametriem tika pārcelta vārds jaunu profilu. Kolonna <savienojuma Nosaukums>
+В таблице подключений уже есть подключение с именем <%1>	Tabulā savienojumu jau ir savienojums ar nosaukumu <par 1%>
+В табличном документе %1 колонок, а ожидалось %2 колонок.	Tabulā dokumentā %1 skaļruņi, kā gaidīts %2 skaļruņiem.
+В табличном документе %1 строк, а ожидалось %2 строк.	Tabulā dokumentā %1 rindas, kā gaidīts %2 rindas.
+В табличном документе %1 строк, а ожидалось, что он пустой.	Tabulā dokumentā %1 rindas, kā jau bija gaidāms, ka tā ir tukša.
+В табличном документе в колонке <%1> значение не соответствует условию 'Значение в колонке %2 %3'. Текущее значение колонки <%4>. Ряд <%5>, колонка <%6>	Tabulas dokumenta ailē <%1> vērtība neatbilst kritērijam "Vērtība slejā %2 %3'. Pašreizējā vērtība kolonnā <%4>. Skaits <5% ir> kolonna <%6>
+В табличном документе в колонке <%1> ожидали значение <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	Tabulas dokumenta ailē <%1> gaidījis vērtību <%2>, bet gan ņemot <%3>. Vairākas <%4> kolonna <%5>
+В табличном документе в колонке <%1> ожидали, что не будет значения <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	Tabulas dokumenta ailē <%1> gaidīts, ka nebūs vērtības <%2>, bet gan ņemot <%3>. Vairākas <%4> kolonna <%5>
+В табличном документе в колонке №%1 значение= <%2> , а ожидалось <%3>	Tabulas dokumenta ailē №%1 vērtība= <%2> , kā gaidīts <%3>
+В табличном документе колонка <%1> не найдена.	Tabulas ailē dokumentā <%1> netika atrasta.
+В файле <%1> нашли строки, а ожидали, что их нет:%2	Šajā failā <%1> atraduši virkni, un paredzams, ka to nav:%2
+В файле <%1> не нашли строки, а ожидали, что они там есть:%2	Šajā failā <%1> nav atrasts rindas, kā gaidīts, ka viņi tur ir:%2
+В фиче <%1> сценария <%2> найден тег исключение <%3>	Ir zīme <%1> skriptu <%2> atrasts tag izņēmums <%3>
+В фиче <%1> сценария <%2> найден тег отбор <%3>	Ir zīme <%1> skriptu <%2> atrasts tag atlase <%3>
+В шаг необходимо передавать таблицу Gherkin, в которой 2 или более строк.	Solis nepieciešams nosūtīt tabulu Gherkin, kurā ir 2 vai vairāk rindas.
+В эталонной таблице существуют две колонки с одинаковым заголовком: %1	Atsauces tabulā ir divas kolonnas ar vienādu kolonnas virsrakstu: %1
+ВерсияVA	ВерсияVA
+ВерсияПлатформы	ВерсияПлатформы
+Включите флаг <Включить отладочные сообщения> чтобы посмотреть выполняемые команды.	Ieslēdziet karogs <Ieslēgt atkļūdošanas ziņojumus> lai apskatītos veicamo komandas.
+Внутреняя ошибка. Неполное заполнение дерева метаданных. Отсутствует объект, образующий тип - %1	Iekšēja kļūda. Nepilnīga aizpildīšana metadatu koka. Neviens objekts, kas veido tips - %1
+Внутреняя ошибка. Неполное заполнение структуры ссылочных типов - %1	Iekšēja kļūda. Nepilnīga aizpildīšana struktūru atsauces veidu - %1
+Во вложенный сценарий <%1> было передано <%2> таблиц, а он принимает только <%3> таблиц.	Laikā ieguldīto scenārijs <%1> tika nodota <%2> tabulas, kā viņš pieņem tikai <%3> tabulas.
+Возможно это обработка для обычных форм, а не для управляемых форм.	Iespējams tā apstrāde parastās formas, nevis pārvalda formu.
+Возможно это обработка для управляемых форм, а не для обычных форм.	Iespējams tā apstrāde pārvalda formu, bet ne parastajām formām.
+Все проверки пройдены.	Visas pārbaudes veiktas.
+Вызов метода <%1>: %2	Zvaniet metodi <%1>: %2
+Выпадающий список <%1> не был сформирован.	Nolaižamo sarakstu <%1> nav izveidota.
+Выпадающий список <%1> не открылся для ввода текста.	Nolaižamo sarakstu <%1> nav atvērts, lai ievadītu tekstu.
+Выпадающий список <%1>. Ожидали, что в нём будет текст %2, а получили %3.	Nolaižamo sarakstu <%1>. Paredzams, ka tajā tiks tekstu %2, kā saņēma %3.
+Выпадающий список с заголовком <%1> не найден.	Nolaižamo sarakstu ar nosaukumu <%1> nav atrasts.
+Выпадающий список с именем <%1> не найден.	Nolaižamo sarakstu ar nosaukumu <%1> nav atrasts.
+Выполнение сценариев закончено. БЫЛИ ОШИБКИ.	Skriptu izpilde ir pabeigta. BIJA KĻŪDAS.
+Выполнение сценариев закончено. Ошибок не было.	Skriptu izpilde ir pabeigta. Kļūdu nebija.
+Выполняю	Veicu
+Выражение <%1> оказалось равно <%2>, а ожидали <%3>.	Izteiksme <%1> izrādījās vienāds ar <%2>, kā gaidīts <%3>.
+Генератор макета из реальных данных: Не умею обрабатывать такой тип <%1>	Ģenerators izkārtojumu no reāliem datiem: nemāku rīkoties šāda veida <par 1%>
+ГолосовойДвижок - OK	ГолосовойДвижок - OK
+Группа с заголовком <%1> не найдена.	Grupa ar nosaukumu <%1> netika atrasta.
+Группа с именем <%1> не найдена.	Grupa ar nosaukumu <%1> netika atrasta.
+Данные по основному подключению Клиента тестирования перезаполнены.	Dati par pamata pieslēgumam Testclient перезаполнены.
+Данный шаг не работает с таблицами.	Šis solis nav strādā ar tabulām.
+ДатаВремяОшибки	ДатаВремяОшибки
+Делаю общий скриншот.	Daru kopējais screenshot.
+Делаю перезапуск TESTCLIENT. ОписаниеОшибки=%1	Taisu restart TESTCLIENT. ОписаниеОшибки=%1
+Делаю распаковку %1	Daru izpakošana %1
+Делаю скриншот.	Daru screenshot.
+Делаю скриншоты всех окон 1С.	Daru ekrānšāviņi visiem logiem 1C.
+Длительность MP3 = 0. Файл=%1	Ilgums MP3 = 0. Fails=%1
+Для <%1> не найдено документа основания	<%1> nav atrasts dokumenta pamats
+Для генерации EPF должен быть установлен 1Script. В cmd должна выполняться команда: oscript	Lai radītu EPF jānosaka 1Script. Cmd ir jāveic komanda: oscript
+Для подключения с именем <%1> изменен порт подключения, указанный порт уже есть в таблице подключений.	Lai izveidotu savienojumu ar nosaukumu <%1> mainīts ports savienojumam norādīto ostu jau ir tabulā savienojumus.
+Для текущей ячейки таблицы <%1> текущее значение равно <%2>, а ожидали <%3>	Pašreizējās tabulas šūnas <%1> pašreizējā vērtība ir vienāda ar <%2>, kā gaidīts <%3>
+Для шага <%1> не найден EPF файл.	Soli <%1> nav atrasts EPF failu.
+Для элемента формы %1 текущее значение равно <%2>, а ожидали <%3>	Elementa formas %1 pašreizējā vērtība ir vienāda ar <%2>, kā gaidīts <%3>
+Для ячейки <%1> таблицы <%2> текущее значение равно <%3>, а ожидали <%4>	Lai šūnas <%1> tabula <%2> pašreizējā vērtība ir vienāda ar <%3>, kā gaidīts <%4>
+Добавил шаг: %1	Pievieno solis: %1
+ДобавитьСостояниеФормыTestclient:%1	ДобавитьСостояниеФормыTestclient:%1
+Должна быть передана минимум 1 строка	Ir jānodod vismaz 1 rinda
+Должна оставаться строка подключения текущего клиента	Jāpaliek savienojuma virkne pašreizējo klientu
+Должно быть передано 2 строки	Jāpārceļ 2 rindas
+Должны быть переданы минимум 2 строки. Первая строка с именами колонок, вторая и следующие - данные для проверки.	Jānodod vismaz 2 rindiņas. Pirmā rinda ar vārdiem runātāji, otrā un šādus datus, lai pārbaudītu.
+ЗавершитьЗаписьДействийПользователя:%1	ЗавершитьЗаписьДействийПользователя:%1
+Загружен объект.Имя %1, Тип %2	Lejupielādēt objekts.Vārds %1, Tips %2
+Загрузил новую версию	Lejupielādēt jauno versiju
+Загрузил снипеты из кеш	Lejupielādēt снипеты no kešatmiņu
+Закладка с заголовком <%1> не найдена.	Grāmatzīme ar virsrakstu <%1> netika atrasta.
+Закладка с именем <%1> не найдена.	Grāmatzīme ar nosaukumu <%1> netika atrasta.
+Закончились фичи. Не стал назначать раннеру фичу.	Beidzās фичи. Nav kļuvusi piešķirt раннеру фичу.
+Закрытие TestClient <%1>	Aizvērt TestClient <Par 1%>
+Записал файл статуса билда: %1	Ieraksta failu statusu билда: %1
+Записался корректный элемент.	Kareivji korekts elements.
+Записываю %1	Ierakstu %1
+Запись действий пользователя закончена.	Ierakstīšanas lietotāja darbībām pabeigta.
+Запись действий пользователя начата.	Ierakstīšanas lietotāja darbībām uzsākta.
+Запись действий пользователя приостановлена.	Ieraksts lietotāja darbība tiek apturēta.
+Запись действий пользователя продолжена.	Ierakstīšanas lietotāja darbībām turpināta.
+Запускаю генерацию epf.	Palaist ražošanas epf.
+Значение (%1) заполнено, а ожидалась незаполненность %2	Vērtība (%1) aizpildīts, kā tika gaidīts незаполненность %2
+Значение (%1) не заполнено, а ожидалась заполненность%2	Vērtība (%1) nav aizpildīts, kā tika gaidīts piepildījums%2
+Значение [%1:%2]. Ожидали <%3>, а получили <%4>	Vērtība [%1:%2]. Gaidīts <%3> un ir ieguvuši <%4>
+Значение <%1> больше или равно, чем <%2>, а ожидалось меньше. %3	Vērtība ir <par 1%> lielāks vai vienāds, nekā <%2>, kā gaidīts mazāk. %3
+Значение <%1> больше, чем <%2>, а ожидалось меньше или равно. %3	Vērtība ir <par 1%> vairāk, nekā <%2>, kā jau bija gaidāms mazāks vai vienāds ar. %3
+Значение параметра %1: ожидали <%2>, получили <%3>;	Parametra vērtība %1: gaidījām <%2>, saņēmuši <%3>
+Значение параметра %1: ожидали подстроку <%2>, в <%3>;	Parametra vērtība %1: gaidījām apakšvirkni <%2>, <%3>
+Значение параметра таймаута ожидания должно быть числом. Переданное значение: %1	Parametra vērtība taimauta gaidīšanas jābūt skaitu. Nosūtītā vērtība: %1
+ЗначениеНеНайдено: Реквизит <%1>: Искали значение <%2>, но не нашли.	ЗначениеНеНайдено: Aksesuāri <%1>: Meklējāt vērtība <%2>, bet nav atraduši.
+Изменения формы обработаны.	Formas izmaiņas apstrādāti.
+Изменилось имя формы: было: %1, стало: %2	Mainījies formas nosaukums: bija: %1, kļuva par: %2
+имеет длину	garums
+имеет тип	ir tips
+Именованная область %1 не найдена;	Nosaukta apgabals %1 nav atrasta
+ИмяКомпьютера <%1>; порт <%2>	Datoranosaukums <par 1%>
+ИмяПроцедуры	Procedurename
+ИмяФайла	Faila nosaukums
+Искали в %1 подстроку %2, но не нашли.%3	Meklē %1 apakšvirkni %2, bet nav atraduši.%3
+Исключение для просмотра значения.	Izņēmums, lai apskatītu vērtības.
+Ищу снипеты в каталоге	Meklēju снипеты katalogā
+Ищу сценарии в каталоге	Meklēju skriptu katalogā
+Каталог <%1> не найден.	Katalogs <%1> nav atrasts.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не существует.	Katalogs ЗаписьВидеоКаталогДляВременныхФайлов <%1> nav.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не указан.	Katalogs ЗаписьВидеоКаталогДляВременныхФайлов <%1> nav norādīts.
+КаталогOutputИнструкцияHTML не задан.	КаталогOutputИнструкцияHTML nav norādīts.
+КаталогOutputИнструкцияMarkdown не задан.	КаталогOutputИнструкцияMarkdown nav norādīts.
+КаталогOutputСкриншоты не задан.	КаталогOutputСкриншоты nav norādīts.
+КаталогДляОбработки=%1	КаталогДляОбработки=%1
+Кнопка панели открытых окон <%1> не найдена.	Poga panelī atvērto logu <%1> netika atrasta.
+Кнопка панели разделов <%1> не найдена.	Poga paneļi starpsienas <%1> netika atrasta.
+Кнопка с именем <%1> не найдена.	Poga ar nosaukumu <%1> netika atrasta.
+Кнопка с именем <%1> не найдена. ТекущееОкно=%2	Poga ar nosaukumu <%1> netika atrasta. ТекущееОкно=%2
+кнопка, которую требуется нажать	poga, kuru nospiežot
+Кнопка/команда с заголовком <%1> не найдена.	Poga/komanda ar nosaukumu <%1> netika atrasta.
+Кнопка/команда с заголовком <%1> не найдена. ТекущееОкно=%2	Poga/komanda ar nosaukumu <%1> netika atrasta. ТекущееОкно=%2
+Количество секунд дял подключения TestClient: %1	Sekunžu skaitu дял savienojumu TestClient: %1
+Команда меню <%1> не найдена в панели функций.	Komanda izvēlne <%1> netika atrasta paneļa funkcijas.
+Команда ОстановитьЗаписьВидео вернула код возврата = %1	Komanda ОстановитьЗаписьВидео atguvusi atgriešanās kods = %1
+Команда по объединению mp3 не выполнена. Файл1=%1, Файл2=%2, Файл3=%3	Komanda apvienošanās mp3 nav izpildīta. Файл1=%1, Файл2=%2, Файл3=%3
+Команда по получению списка файлов каталога не выполнена. Каталог = %1	Komanda, kā iegūt failu sarakstu direktorijā neizdodas. Katalogs = %1
+Команда системы реализована только под Windows.	Komanda sistēmas realizēta tikai zem Windows.
+Константа %1 не заполнена.	Konstante "%1 " nav aizpildīta.
+КопироватьФайлКомандаСистемы:%1 команда:%2	КопироватьФайлКомандаСистемы:%1 komandu:%2
+между	starp
+меньше	mazāk
+меньше или равно	mazāks vai vienāds ar
+Надо сделать перезапуск фреймворка тестирования.	Nepieciešams veikt restart фреймворка pārbaudes.
+Найден активный элемент формы	Atrasts aktīvais elements formas
+Найден упавший сценарий.	Atrasts uzkritis scenārijs.
+Найдена форма: ТекстЗаголовка=%1, ИмяФормы=%2. Окно <%3>	Atrasts forma: ТекстЗаголовка=%1, Formas_nosaukums=%2. Logu <%3>
+Найдено %1 окон.	Atrasts %1 logiem.
+Найдено более одного поля формы с заголовком <%1>. Рекомендуется искать элемент по имени.	Atrasts vairāk nekā viena lauka formas ar nosaukumu <%1>. Ieteicams meklēt elementu ar nosaukumu.
+НачатьЗаписьДействийПользователя:%1	НачатьЗаписьДействийПользователя:%1
+Нашли строки в таблице <%1>:%2	Atrast tabulas rindas <%1>:%2
+не	nav
+Не верный формат области <%1>. %2	Nav pareizs formāts jomā <%1>. %2
+Не возможно открыть форму абстрактного объекта, укажите ссылку	Nav iespējams atvērt formu abstraktu objektu, norādiet saiti
+Не все служебные колонки заданы. В запросе обязательно должны быть колонки %1	Ne visi pakalpojumu skaļruņi ir iestatīti. Pieprasījumā obligāti ir jābūt kolonnu %1
+не выполнен	nav izpildīts
+Не дождались отображения окна TestClient. Таймаут <%1>	Nav jāgaida displeja logu TestClient. Man. <par 1%>
+Не задан регистратор для записей регистра %1. Переменная %2	Nav norādīts reģistrs ierakstu reģistra %1. Mainīgā %2
+Не заполнен служебный параметр КаталогИнструментов.	Nav aizpildīts dienesta parametrs КаталогИнструментов.
+Не известный тип параметра в ПолучитьПредставлениеПараметраПриПереводе() <%1>	Nav zināms veids, parametru ПолучитьПредставлениеПараметраПрипереводе() <%1>
+Не использовать	Neizmantot
+Не могу выгрузить статус сценариев, т.к. был передан каталог, а не файл.	Nevaru izkraut statuss scenāriju, lomai, jo tika nodota katalogs, nevis failu.
+Не могу выгрузить статус сценариев, т.к. каталог %1 не существует.	Nevaru izkraut statuss scenāriju, lomai, jo direktorijā %1 neeksistē.
+Не могу сфомировать отчет Allure. Не существует каталог для вывода отчета.	Nevaru сфомировать ziņojumu Allure. Nav direktoriju, lai saņemtu atskaiti.
+Не найден Клиент тестирования для подключения..	Nav atrasts TestClient, lai izveidotu savienojumu.
+Не найден активный элемент формы.	Nav atrasts aktīvais elements formas.
+НЕ найден инструмент по созданию скриншотов.	NAV atrasts līdzeklis, lai izveidotu ekrānšāviņi.
+Не найден каталог библиотеки: %1	Nav atrasts bibliotēkas katalogu: %1
+Не найден каталог инструментов: %1	Nav atrasts instrumentu katalogs: %1
+Не найден лог перегенерации EPF.	Nav atrasts log перегенерации EPF.
+Не найден макет %1 ошибка: %2	Nav atrasts izkārtojums %1 kļūda: %2
+Не найден перевод для шага <%1>	Nav atrasts tulkojums, lai soli <par 1%>
+Не найден пользователь ИБ по имени <%1>	Nav atrasts lietotājs IB pēc nosaukuma <par 1%>
+Не найден профиль Клиента тестирования <%1>	Nav atrasts profilu TestClient <par 1%>
+Не найден путь к файлу JSON. Параметр: VBParams.	Nav atrasts ceļš JSON. Parametrs: VBParams.
+Не найден тип шага <%1>	Nav atrasts veids soli <par 1%>
+Не найден файл <%1>	Fails netika atrasts <par 1%>
+Не найден файл макета <%1> в каталоге проекта <%2>	Nav atrasts failu izkārtojumu <%1> katalogā projekta <%2>
+Не найден файл после распаковки: %1	Nav atrasts fails pēc izsaiņošanas: %1
+Не найден файл словаря замен. <%1>	Fails netika atrasts vārdnīcā rotāciju. <%1>
+Не найден файл служебной базы. <%1>	Fails netika atrasts dienesta bāzes. <%1>
+Не найден файл толстого клиента <%1>	Fails netika atrasts bieza klienta <par 1%>
+Не найден элемент дерева по данным поиска	Nav atrasts elements koka saskaņā ar meklēšanas
+Не найден элемент Статистика на форме VB.	Nav atrasts elements Statistika formā VB.
+Не найден эталон макета <%1>. Пустой каталог проекта.	Nav atrasts standarta izkārtojumu <%1>. Tukša projektu katalogs.
+Не найдена активная форма.	Nav atrasts aktīvā forma.
+Не найдена группа командного интерфейса <%1>	Nav atrasts grupa komandu interfeisa <par 1%>
+Не найдена строка в таблице ДанныеКлиентовТестирования с <Имя=Этот клиент>	Nav atrasts tabulas rindā ДанныеКлиентовТестирования ar <Name=Šis klients>
+Не найдена строка примеров во вложенной структуре сценария. <%1>	Nav atrasta virkne piemēru pievienotajā struktūra scenārija. <%1>
+Не найдена строка сценария.	Nav atrasta virkne scenāriju.
+Не найдена таблица для редактирования.	Nav atrodama tabula, lai rediģētu.
+Не найдена установка VLC.	Nav atrasts uzstādīšana VLC.
+Не найдено ключевое слово <%1>  для языка <%2>	Nav atrasts atslēgvārds <%1> valodas <%2>
+Не найдено ни одного окна 1С. Делаю обычный скриншот.	Nav atrasts neviens logi 1C. Veicu parasts screenshot.
+Не найдено ни одного сообщения пользователю.	Nav atrasts neviens ziņu lietotājam.
+Не найдено ни одного сценария. Запись видео невозможна.	Nav atrasts neviens scenāriju. Video ierakstīšana nav iespējama.
+Не найдено ни одной строки в таблице клиентов тестирования, которая бы содержала <runner>	Nav atrasts neviens tabulas rindas testēšanas klientiem, kas satur <runner>
+Не найдено окно VanessaAutomation в раннере %1	Nav atrasts logu VanessaBehavior uz раннере %1
+Не найдено окно VanessaAutomation.	Nav atrasts logu VanessaBehavior.
+Не найдено окно предупреждения.	Nav atrasts brīdinājuma logs.
+Не нашел значение реквизита у спр: ИмяСпр=%1, Наименование=%2, ИмяРек=%3, СтроковокПредставление=%4	Nav atradis vērtība aksesuārus pie spr: ИмяСпр=%1 Nosaukums=%2, ИмяРек=%3, СтроковокПредставление=%4
+Не нашел колонку: %1	Nav atrasts kolonnu %1
+Не нашел профиля TestClient с именем <%1>	Nav atrasts profila TestClient ar nosaukumu <par 1%>
+Не нашел профиля TestClient с именем <%1> хотя он должен быть активным в данный момент.	Nav atrasts profila TestClient ar nosaukumu <par 1%> lai gan viņš ir aktīvs brīdī.
+Не нашел профиля TestClient с именем <%1> чтобы его закрыть.	Nav atrasts profila TestClient ar nosaukumu <par 1%> lai to aizvērtu.
+Не нашел путь к 1cv8c.exe: %1	Nav atraduši ceļu uz 1cv8c.exe: %1
+Не нашли меню функций раздела.	Nav atrasts izvēlnes funkcijas sadaļā.
+Не нашли окно с заголовком <%1>	Nav atrasts logs ar nosaukumu <par 1%>
+Не нашли панель открытых окон.	Nav atrasts panelis atvērto logu.
+Не нашли панель разделов.	Nav atrasts panelis starpsienas.
+Не нашли профиль <%1> в таблице TestClient.	Nav atrasts profils <%1> tabulā TestClient.
+Не нашли профиль <%1> в тестируемом экземпляре Vanessa-behavior.	Nav atrasts profils <%1> pieteikumu tiek pārbaudīta eksemplārā "Vanessa" -behavior.
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, "Управляемое приложение"	Nav atrasts starta režīmā <%1>. Iespējams, jums ir nepieciešams norādīt ar atstarpi, piemēram, "Pārvalda pieteikums"
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, <Управляемое приложение>	Nav atrasts starta režīmā <%1>. Iespējams, jums ir nepieciešams norādīt ar atstarpi, piemēram, <Pārvalda pieteikums>
+Не нашли таблицу с именем <%1>	Nav atrasts tabulu ar nosaukumu <par 1%>
+Не нашли элемент <%1> в коллекции, а хотели, чтобы он был в коллекции.%2	Nav atrasts elements <%1> kolekcijas, bet gribētu, lai tas ir kolekcijas.%2
+Не обнаружено активное окно.	Nav noteikta aktīvo logu.
+Не ожиданное значение у переменной ТипСравнения: <%1>	Nav ожиданное nozīme ir mainīgs ТипСравнения: <%1>
+Не описано действие для кнопки <%1>	Nav aprakstīts darbību pogas <par 1%>
+Не определена фича для выполнения на раннере №0.	Nav noteikta фича, lai veiktu раннере nr. 0.
+Не передан каталог фич для обработки. Используется %1\features	Nav nodots katalogs pazīmes, lai apstrādātu. Izmantots %1\features
+Клиент тестирования не подключен.	Nav pievienots Testclient.
+Не получилось закрыть активное окно. %1	Neizdevās aizvērt aktīvo logu. %1
+Не получилось определить активное окно Клиента тестирования из Контекста.	Nav izdevies noteikt aktīvo logu TestClient no Konteksta.
+Не получилось определить активное окно Клиента тестирования.	Nav izdevies noteikt aktīvo logu TestClient.
+Не получилось получить значение таблицы <%1>	Nav izdevies iegūt vērtību tabulas <par 1%>
+Не получилось прочитать параметр запуска.	Neizdevās nolasīt startēšanas opciju.
+Не получилось сделать выбор в поле <%1> значения <%2>. %3	Nav sanācis izdarīt izvēli laukā <%1> vērtības <%2>. %3
+Не получилось создать тестовый MP3	Nav sanācis izveidot testa MP3
+Не реализовано.	Nav realizēts.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>	Nevarēja tabulā <%1> padarīt izvēlēties no saraksta izvēlētos <%2> rindā <%3>
+Не смог выделить все строки в таблице <%1>. %2	Nevarēja izcelt visas tabulas rindas <%1>. %2
+Не смог выполнить команду по получению координат на экране всех окон 1С в панели задач.	Nevarēja izpildīt komandu, lai iegūtu koordinātas uz ekrāna visus logus 1C uzdevumu joslā.
+Не смог выполнить команду. <%1>	Nevarēja izpildīt komandu. <%1>
+Не смог вычислить выражение: %1	Nevarēja aprēķināt: %1
+Не смог загрузить %1. %2	Nevarēja ielādēt %1. %2
+Не смог загрузить базу из dt: %1. ПутьКDT: %2. Статус возврата: %3	Nevarēja ielādēt bāzi no dt: %1. ПутьКDT: %2. Atgriešanas statusu: %3
+Не смог загрузить снипеты из %1	Nevarēja ielādēt снипеты no %1
+Не смог закрыть окно %1	Nevarēja aizvērt logu %1
+Не смог закрыть окно повторно %1	Nevarēja aizvērt logu atkārtoti %1
+Не смог запустить конфигуратор. <%1>	Nevarēja palaist konfigurātors. <%1>
+Не смог из переданных параметров JSON определить каталог отчета Allure.	Nevarēja no nodoto parametru JSON noteikt direktoriju atskaites Allure.
+Не смог из переданных параметров JSON определить каталог отчета CucumberJson.	Nevarēja no nodoto parametru JSON noteikt direktoriju atskaites CucumberJson.
+Не смог из переданных параметров JSON определить каталог отчета jUnit.	Nevarēja no nodoto parametru JSON noteikt direktoriju atskaites jUnit.
+Не смог найти данные для подключения профиля клиента тестирования <%1>	Nav izdevies atrast datus, lai savienotu klienta profila testēšanas <par 1%>
+Не смог найти код модуля формы в файле ИмяФайлаФормаУФ.	Nevarēju atrast kodu moduļa formas failā ИмяФайлаФормаУФ.
+Не смог найти открытый конфигуратор.	Nevarēja atrast, atklātais konfigurātors.
+Не смог найти сохранненное значение по переменой <%1>	Nevarēja atrast сохранненное vērtību maiņu <par 1%>
+Не смог обработать XML в UILogToScript.	Nespēja apstrādāt XML UILogToScript.
+Не смог обработать параметры в строке <%1>	Nespēja apstrādāt opcijas rindā <par 1%>
+Не смог определить длительность у файла: %1	Nevarēja noteikt ilgums pie failu: %1
+Не смог определить СледующееОжидаемоеКлючевое по: %1	Nevarēja noteikt СледующееОжидаемоеКлючевое: %1
+Не смог определить следующий шаг для выполнения.	Nevarēja noteikt nākamais solis, lai pabeigtu.
+Не смог определить тип значения для строки: %1	Nevarēja noteikt, kāda veida vērtības rindas: %1
+Не смог перейти к строке фильтра <%1>	Nevarēja doties uz rindas filtra <par 1%>
+Не смог по переменной <%1> найти сохраненное значение.	Nevarēja mainīgo <%1> atrast saglabātā vērtība.
+Не смог подключить TestClient.	Nevarēja savienot TestClient.
+Не смог подключить TestClient. Прерывание по таймауту <%1>	Nevarēja savienot TestClient. Pārtraukt pēc таймауту <par 1%>
+Не смог подключить обработку <%1>	Nevarēja savienot apstrādi <par 1%>
+Не смог подключить профиль TestClient <%1>	Nevarēja savienot profilu TestClient <par 1%>
+Не смог подставить в строку параметры: <%1>	Nevarēja aizpildīt rindu iestatījumi: <%1>
+Не смог получить данные файла <%1>	Nevarēja iegūt datus faila <par 1%>
+Не смог получить значение из строки запуска	Nevarēja iegūt vērtību no vienas rindas palaist
+Не смог получить значение поля <%1> у таблицы <%2>.%3	Nevarēja saņemt vērtība laukā <%1> tabula <%2>.%3
+Не смог получить значение таблицы <%1>	Nevarēja iegūt vērtību tabulas <par 1%>
+Не смог получить значение табличного документа <%1>	Nevarēja iegūt vērtību tabulu dokumenta <par 1%>
+Не смог получить количество строк у таблицы <%1>	Nevarēja iegūt skaits rindu pie galda <par 1%>
+Не смог получить макет %1	Nevarēja iegūt izkārtojumu %1
+Не смог получить состяние таблицы <%1>	Nevarēja saņemt состяние tabulas <par 1%>
+Не смог получить строки таблицы <%1>	Nevarēja iegūt tabulas rindas <par 1%>
+Не смог получить строки таблицы.	Nevarēja iegūt tabulas rindas.
+Не смог получить строки ТЧ <%1>	Nevarēja iegūt rindas PM <par 1%>
+Не смог получить строку сценария.	Nevarēja saņemt rindā skriptu.
+Не смог получить строку таблицы %1	Nevarēja iegūt tabulas rindu %1
+Не смог получить форму текущего окна.	Nevarēja iegūt formu pašreizējo logu.
+Не смог ПолучитьГлавноеОкноТестируемогоПриложения.	Nevarēja ПолучитьГлавноеОкноТестируемогоПриложения.
+Не смог поменять параметры шага местами <%1>	Nevarēja mainīt iestatījumus soļi vietām <par 1%>
+Не смог преобразовать к числу PID=%1	Nav spējis konvertēt starp PID=%1
+Не смог распаковать %1	Nespēja atspiest %1
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>	Nevarēju izdarīt izvēlēties no saraksta izvēlētos <%1> rindā <%2>
+Не смог скопировать сценарий %1, т.к. произошло бы зацикливание.	Nevarēja kopēt scenārijs par 1%, jo tā būtu noticis зацикливание.
+Не смог создать базу по строке: %1. Статус возврата: %2	Nevarēja izveidot datu rindā: %1. Atgriešanas statusu: %2
+Не смог создать каталог для отчета Allure: %1	Nevarēja izveidot direktoriju, atskaites Allure: %1
+Не смог создать каталог для отчета CucumberJson: %1	Nevarēja izveidot direktoriju, atskaites CucumberJson: %1
+Не смог создать каталог для отчета jUnit: %1	Nevarēja izveidot direktoriju, atskaites jUnit: %1
+Не смог создать объект сравнения файлов.	Nevarēja izveidot objekta failu salīdzināšanu.
+Не смог создать сервисные базы. Статус=%1	Nav izdevies izveidot pakalpojumu bāzes. Statuss=%1
+Не смог удалить файл %1	Nevarēja izdzēst failu %1
+Не смогли найти таблицу <%1> в активном окне.	Nevarējām atrast tabulu <%1> aktīvajā logā.
+Не стал загружать фичу: %1, т.к. в ней не найдено тегов фильтров.	Nav kļuvusi lejupielādēt фичу: %1, tā kā tajā nav atrasts tagus filtru.
+Не стал загружать фичу: %1, т.к. обнаружен тег исключение: %2	Nav kļuvusi lejupielādēt фичу: %1, t. k. atklāts tag izņēmums: %2
+Не удалось авторизоваться в базе.	Neizdevās autorizēties bāzē.
+Не удалось дождаться события завершения цикла в течение <%1> секунд.	Nav izdevies sagaidīt pasākuma cikla beigām jau <%1> sekundes.
+Не удалось найти документ по номеру <%1>. Тип Документ.%2	Nav izdevies atrast dokumentu, uz numuru <%1>. Tips Dokuments.%2
+Не удалось перейти к нужной строке в таблице <%1>. %2	Neizdevās pāriet uz rindā tabulā <%1>. %2
+Не удалось подключить COM объект <Shell.Application>	Nav izdevies savienot COM objektu <Shell.Application>
+Не удалось подключить COM объект <WScript.Shell>	Nav izdevies savienot COM objektu <WScript.Shell>
+Не удалось подключить клиент тестирования. %1	Nav izdevies savienot klients pārbaudes. %1
+Не удалось подключить форма %1 по причине:%2	Nav izdevies savienot forma %1 iemesla dēļ:%2
+Не удалось получить таймаут для запуска TestClient из значения %1. Используется значение по умолчанию: 25	Nav izdevies iegūt taimautu, lai sāktu TestClient no vērtības par 1%. Noklusētā vērtība pēc noklusējuma: 25
+Не удалось получить таймаут для работы асинхронных шагов. Было передано значение: %1	Nav izdevies iegūt taimautu, lai darba asinhrono soļi. Tika nodota vērtība: %1
+Не указан каталог для формирования видео инструкции.	Nav norādīts direktorijā, lai veidotu video instrukcijas.
+Не указан каталог с нужной версией платформы 8.3.10 или выше.	Nav norādīts katalogs ar pareizo versiju platforma 8.3.10 vai augstāka.
+Не указана команада для выполнения скриншотов. Например <%1>	Nav norādīta команада veikt ekrānšāviņi. Piemēram, <par 1%>
+Не указано имя файла лога в параметре <ИмяКаталогаЛогОшибок>	Nav norādīts faila nosaukums log parametrā <ИмяКаталогаЛогОшибок>
+Не указано имя файла лога в параметре <ИмяФайлаЛогВыполненияСценариев>	Nav norādīts faila nosaukums log parametrā <ИмяФайлаЛогВыполненияСценариев>
+Не указано количество кадров.	Nav norādīts kadru skaits.
+Не установлен ffmpeg.	Nav noteikts ffmpeg.
+Не установлен ImageMagic (convert.exe)	Nav noteikts ImageMagic (convert.exe)
+Не установлен ImageMagic (convert.exe).	Nav noteikts ImageMagic (convert.exe).
+Не установлен oscript.	Nav noteikts oscript.
+Не установлен VLC 2.1.5.	Nav noteikts VLC 2.1.5.
+Не установлен ГолосовойДвижок.	Nav noteikts ГолосовойДвижок.
+Неверно задан макет. Неверная колонка в первой строке. Не указана обязательная колонка с именем [%1]	Nepareizi uzdots izkārtojumu. Nepareiza kolonnas pirmajā rindā. Nav norādīta obligātā aile ar nosaukumu [%1]
+Неверное число параметров в строке табилцы. Должно быть <	Nepareiza parametru skaitu rindā табилцы. Jābūt <
+Неверное число параметров в строке таблицы. Должно быть <%1> параметров, а в строке найдено <%2>.	Nepareizs numurs parametru tabulas rindā. Jābūt <%1> parametrus, bet rindā atrasts <%2>.
+Неверный режим поиска: Не поддерживаемый режим поиска. Реквизит <%1>: Искали значение <%2>	Nepareiza meklēšanas režīms: Nav piemērots meklēšanas režīms. Aksesuārus <%1>: Meklējāt vērtība <%2>
+Неверный формат области <%1>	Nepareizs formāts jomā <par 1%>
+Невидима	Neredzams
+Недоступна	Nav pieejama
+Неивестный ТипПараметра в ПолучитьАсинхроноСостоянияОбъектовФайловойСистемы: %1	Неивестный ТипПараметра uz ПолучитьАсинхроноСостоянияОбъектовфайловойсистемы: %1
+Неизвестная версия поставки Vanessa-Automation: %1	Nezināma versija piegādes Vanessa-Automation: %1
+Неизвестная ошибка в ПолучитьРезультатПрохожденияТестовСценария.	Nezināma kļūda ПолучитьРезультатПрохожденияТестовсценария.
+НеизвестнаяОшибка	НеизвестнаяОшибка
+Неизвестный идентификатор плагина: <%1>	Nezināms identifikators spraudnis: <%1>
+Неизвестный КорневойТипКонфигурации <%1>	Nezināms КорневойТипКонфигурации <Par 1%>
+Неизвестный КорневойТипКонфигурации <%1> КорневойТипКонфигурации()	Nezināms КорневойТипКонфигурации <%1> КорневойТипКонфигурации()
+Неизвестный менеджер регистра %1.%2 . Переменная %3	Nezināms vadītājs reģistra %1.%2 . Mainīgā %3
+Неизвестный тип вывода данных по изменению формы.	Nezināms tips izejas datu izmaiņu veidlapas.
+Неизвестный Тип: %1 в ПолучитьЗначениеДляПередачиВМетод	Nezināms Tips: %1 ПолучитьЗначениеДляПередачиВМетод
+Нельзя изменять текущее поле у зарезервированного подключения <Этот клиент>.	Nevar mainīt pašreizējo lauku pie rezervētajām savienojuma <klients>.
+Нельзя получить состав колонок для пустой таблицы.	Nevar saņemt sastāvs kolonnas tukšu tabulu.
+Необрабатываемый корневой тип <%1>	Необрабатываемый saknes tips <par 1%>
+Необходимо установить программное обеспечение. Подробности тут: %1	Nepieciešams instalēt programmatūru. Sīkāk šeit: %1
+НеСовпадаютЗначенияВЯчейкеТаблицы	НеСовпадаютЗначенияВЯчейкеТаблицы
+Нет подключенных TestClient.	Nav pievienoto TestClient.
+Обнаружено несколько полей с заголовком <%1>	Atklāti vairāki lauku ar nosaukumu <par 1%>
+Обычная фича №%1 из %2. РаннерID=%3. %4	Parastā фича №%1 no %2. РаннерID=%3. %4
+Одна или несколько строк эталонной таблицы не найдена в таблице формы%1	Viena vai vairākas rindas, pārskata tabulu nav atrasta tabulā formas%1
+Однопоточная фича №%1 из %2. РаннерID=%3. %4	Однопоточная фича №%1 no %2. РаннерID=%3. %4
+Ожидали <%1> элементов справочника <%2>, а нашли <%3> элементов.	Gaidīts <%1> elementu katalogs <%2>, bet gan ņemot <%3> elementu.
+Ожидали в течение <%1> секунд доступности поля <%2>. Но такой элемент на форме не найден.	Gaidīts jau <%1> sekundes pieejamību laukā <%2>. Bet tāds formā nav atrasts.
+Ожидали в течение <%1> секунд доступности поля <%2>. ТекущаяДоступность=%3	Gaidīts jau <%1> sekundes pieejamību laukā <%2>. ТекущаяДоступность=%3
+Ожидали в течение <%1> секунд появления поля <%2>. Но такой элемент на форме не найден.	Gaidīts jau <%1> sekundēm parādās lauks <%2>. Bet tāds formā nav atrasts.
+Ожидали в течение <%1> секунд появления поля <%2>. ТекущаяВидимость=%3	Gaidīts jau <%1> sekundēm parādās lauks <%2>. ТекущаяВидимость=%3
+Ожидали в течение <%1> секунд у поля <%2> значения <%3>. Текущее значение <%4>	Gaidīts jau <%1> sekundes pie lauka <%2> vērtības <%3>. Pašreizējā vērtība <%4>
+Ожидали в течение <%1> секунд у таблицы <%2> количество строк %3 %4. Текущее количество строк <%5>	Gaidīts jau <%1> sekundes pie galda <%2> skaits rindu %3 %4. Pašreizējo rindu skaits <5% ir>
+Ожидали в течение <%1> секунд, что закроется окно с заголовком <%2>	Gaidīts jau <%1> sekundēm, kas aizveras logs ar nosaukumu <%2>
+Ожидали в течение <%1> секунд, что откроется окно с заголовком <%2>	Gaidīts jau <%1> sekundēm, kas atveras logs ar nosaukumu <%2>
+Ожидали в течение <%1> секунд, что поле <%2> будет заполненным.	Gaidīts jau <%1> sekundēm, ka lauks <%2>, tiks piepildīta.
+Ожидали заполненность ссылки, а получили пустую ссылку.%1	Gaidīts piepildījums saites, un saņēma tukšu saites.%1
+Ожидали идентичность файлов, а получили, что они различны.%1	Gaidīts identitātes failus, bet sanāca, ka tie ir atšķirīgi.%1
+Ожидали получить только одну строку таблицы.	Gaidīt, lai saņemtu tikai vienu tabulas rindu.
+Ожидали статус <%1>, а получили <%2>	Gaidīts statuss <%1>, bet saņēmuši <%2>
+Ожидали существование объекта в ИБ, а получили объект не найден <%1> .%2	Gaidāms, ka pastāv objektu IB, un ir saņēmuši objekts nav atrasts <%1> .%2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения <%4>. Текущее значение <%5>.	Gaidīts pie galda <%1> dienas <%2> sekundes pie lauka <%3> vērtības <%4>. Pašreizējā vērtība <%5>.
+Ожидали, что %1 %2 выбросит исключение %3 %4	Paredzams, ka %1 %2 выбросит izņēmums %3 %4
+Ожидали, что активным окном будет <%1>, а нашли <%2>. Таймаут поиска окна: %3	Paredzams, ka aktīvais logs būs <par 1%>, bet gan ņemot <%2>. Man. meklēšanas logā: %3
+Ожидали, что в сообщениях пользователю будет подстрока <%1>	Paredzams, ka ziņojumos lietotājam būs substr <par 1%>
+Ожидали, что вторым параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Paredzams, ka otrais parametrs tiks nodots masīva parametru metodi <%1> un ir ieguvuši citu objektu ar tipu <%2>
+Ожидали, что вторым параметром будет передана структура параметров для метода <СоздатьДанныеПоТабличномуДокументу>, а получили другой объект с типом <%1>	Paredzams, ka otrais parametrs tiks nodota struktūra parametru metodi <СоздатьДанныеПоТабличномуДокументу> un ir ieguvuši citu objektu ar tipu <par 1%>
+Ожидали, что количество строк таблицы <%1> будет равно переменной <%2>. Значение переменной <%3>. Количество строк <%4>	Paredzams, ka vairākas tabulas rindas <%1> būs vienāds ar mainīgo <%2>. Mainīgā vērtība <%3>. Rindu skaits <%4>
+Ожидали, что окно сообщений пользователю будет пустое. В нём %1 сообщений.	Paredzams, ka logu ziņu lietotājam būs tukša, bet tajā %1 ziņas.
+Ожидали, что переменная <%1> будет равна <%2>. Текущее значение <%3>	Paredzams, ka mainīgais <%1> būs vienāds ar <%2>. Pašreizējā vērtība <%3>
+Ожидали, что поле <%1> будет равно переменной <%2>. Значение переменной <%3>. ЗначениеПоля <%4>	Paredzams, ka laukā <%1> būs vienāds ar mainīgo <%2>. Mainīgā vērtība <%3>. ЗначениеПоля <%4>
+Ожидали, что поле с заголовком <%1> будет заполнено, но оно пустое.	Paredzams, ka laukā ar nosaukumu <%1> tiks ierakstīts, bet tas ir tukšs.
+Ожидали, что проверяемое значение (%1) %2 %3 %4	Paredzams, ka pārbaudāmā vērtība (%1) %2 %3 %4
+Ожидали, что третьим параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Paredzams, ka trešais parametrs tiks nodots masīva parametru metodi <%1> un ir ieguvuši citu objektu ar tipu <%2>
+Ожидали, что у группы <%1> текущей страницей будет <%2>, а оказалась <%3>	Gaidāms, ka grupas <%1> pašreizējās lapas būs <%2>, bet izrādījās <%3>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Paredzams, ka pie galda dokumenta <%1> šūnā ar adresi <%2> ir iestatīts uz <%3> un ir ieguvuši <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Paredzams, ka pie galda dokumenta <%1> šūnā ar adresi <%2> ir iestatīts uz <%3> un ir ieguvuši <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Paredzams, ka pie galda dokumenta <%1> šūnā ar adresi <%2> ir iestatīts uz <%3> un ir ieguvuši <%4>
+Ожидали, что ячейка <%1> будет заполнена.	Paredzams, ka šūna <%1> būs pilna.
+Ожидали, чтов таблице <%1> поле <%2> будет равно переменной <%3>. Значение переменной <%4>. ЗначениеПоля <%5>	Paredzams, koir tabulā <%1> laukā <%2> būs vienāds ar mainīgo <%3>. Mainīgā vērtība <%4>. ЗначениеПоля <%5>
+Окно с заголовком <%1> не найдено.	Logs ar nosaukumu <%1> nav atrasts.
+Описание ошибки: %1	Apraksts kļūda: %1
+Остановка на брейкпоинте.	Pietura брейкпоинте.
+Ошибка в %1. %2	Kļūda, %1. %2
+Ошибка в ДобавитьStepDefinitionВТекстМодуля.	Kļūda ДобавитьStepDefinitionВТекстМодуля.
+Ошибка в ПолучитьУжеСуществующиеСнипетыИзОбработок(). Файл/каталог %1 не существует.	Kļūda ПолучитьУжеСуществующиеСнипетыИзобработок(). Failu/direktoriju %1 neeksistē.
+Ошибка в файле %1, снипет %2 уже был в %3	Kļūda failā %1, снипет %2 jau ir bijis %3
+Ошибка перегенерации EPF. Файл %1 не найден.	Kļūda перегенерации EPF. Failu %1 nav atrasta.
+Ошибка при выгрузке набора записей регистра: %1	Kļūda izlādējot kopas ierakstu reģistra: %1
+Ошибка при выгрузке объекта: %1. Тип: %2	Kļūda izlādējot objekts: %1. Tips: %2
+Ошибка при закрытии всех окон Testclient.	Kļūda, aizverot visus logus Testclient.
+Ошибка при поиске значений в макете %1:	Kļūda meklējot vērtības izkārtojumā %1:
+Ошибка при получении активной формы.	Kļūda, saņemot aktīvās formas.
+Ошибка при получении списка процессов 1С.	Kļūda, saņemot procesu saraksta 1C.
+Ошибка при получении текста фичи:	Kļūda, saņemot teksta фичи:
+Ошибка при построении дерева из файла <%1>%2%3	Kļūda veidojot koka faila <par 1%> %2 %3
+Ошибка при создании данных из макета. Неуникальное имя переменной: [%1]	Kļūda izveidojot datu izkārtojumu. Неуникальное mainīgā nosaukums: [%1]
+Ошибка проверки значения таблицы <%1>. %2	Kļūda, pārbaudītu vērtību tabulas <%1>. %2
+Ошибка создания временного файла в подкаталоге %1.	Kļūda izveidojot pagaidu faila apakšdirektorijā %1.
+Ошибка создания скриншота:%1 команда:%2	Kļūda izveidojot screenshot:%1 komandu:%2
+Ошибка создания файла %1.	Kļūda izveidojot failu %1.
+Ошибка чтения JSON. Неизвестный символ %1	Lasīšanas kļūda JSON. Nezināms simbols %1
+Ошибка чтения структуры JSON пропускаем чтение	Lasīšanas kļūda struktūru JSON izlaižam lasīt
+Ошибка чтения структуры JSON.	Lasīšanas kļūda struktūru JSON.
+Ошибка. В фиче %1 было найдено несколько сценариев с именем %2	Kļūda. Kā zīme par 1% tika atrasti vairāki scenāriji ar nosaukumu %2
+Ошибка. Найдено более 1 значения в кэше МетаданныеИмя [%1] по указанным параметрам поиска %2	Kļūda. Atrasts vairāk nekā 1 vērtības kešatmiņā МетаданныеИмя [%1] pēc norādītajiem parametriem %2
+ОшибкаПроверки	ОшибкаПроверки
+Параметр <Запускаемая обработка> указывает на несуществующий файл.	Parametrs <Darbināts apstrāde> norāda uz neesošu failu.
+Параметр <Имя подключения> является обязательным.	Parametrs <savienojuma Nosaukums> ir obligāta.
+Параметр <Логин> не задан	Parametrs <Login> nav norādīts
+Параметр %1 не найден в таблице параметров.	Parametrs %1 nav atrasts parametru tabulā.
+Первый параметр (%1) меньше второго (%2) а хотели, чтобы был больше или равен.%3	Pirmais parametrs (%1) ir mazāks par otro (%2) un vēlētos, lai būtu lielāks vai vienāds.%3
+Первый параметр (%1) меньше или равен второму (%2) а хотели, чтобы был больше.%3	Pirmais parametrs (%1) ir mazāks vai vienāds ar otro (%2) bet gribētu, lai ir vairāk.%3
+Передан пустой путь в процедуру <СоздатьКаталогЕслиЕгоНет>.	Nodots tukšu ceļu procedūru <СоздатьКаталогЕслиЕгоНет>.
+Переданная дата (%1) не равна дате (%2) с точностью до 2-х секунд, а хотели, чтобы они равнялись. %3	Nodota datums (%1) nav vienāds datumā (%2) ar precizitāti līdz 2 sekundēm, bet gribētu, lai viņi равнялись. %3
+Переданный параметр (%1) не входит в период %2, а хотели, чтобы являлся. %3	Jānorāda parametrs (%1) nav iekļauts periodā, %2, bet gribētu, lai arī bija. %3
+Переданный параметр (%1) не является Истиной, а хотели, чтобы являлся. %2	Jānorāda parametrs (%1) nav Patiesība, bet gribētu, lai arī bija. %2
+Переданный параметр (%1) не является Ложью, а хотели, чтобы являлся. %2	Jānorāda parametrs (%1) nav Meli, bet gribētu, lai arī bija. %2
+Передвижение курсора мышки - OK	Pārvietot kursoru - OK
+ПередВыполнениемШага: %1	ПередВыполнениемШага: %1
+Переключатель с заголовком <%1> не найден.	Slēdzis ar nosaukumu <%1> nav atrasts.
+Переключатель с именем <%1> не найден.	Slēdzis ar nosaukumu <%1> nav atrasts.
+Переменная <%1> не найдена.	Mainīgais <%1> netika atrasta.
+Переменная <%1> ранее не была сохранена	Mainīgais <%1> iepriekš nav bijusi saglabāta
+Пересоздан %1	Reinstantiated %1
+Пересоздаю %1	Пересоздаю %1
+ПланВидовРасчета.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланВидовРасчета.%1 nav izdevies atrast iepriekš elementu/grupu [%2].%3
+ПланВидовРасчета.%1 не удалось создать новую группу.%2	ПланВидовРасчета.%1 nav izdevies izveidot jaunu grupu.%2
+ПланВидовРасчета.%1 не удалось создать новый элемент.%2	ПланВидовРасчета.%1 nav izdevies izveidot jaunu vienumu.%2
+ПланВидовХарактеристик.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланВидовХарактеристик.%1 nav izdevies atrast iepriekš elementu/grupu [%2].%3
+ПланВидовХарактеристик.%1 не удалось создать новую группу.%2	ПланВидовХарактеристик.%1 nav izdevies izveidot jaunu grupu.%2
+ПланВидовХарактеристик.%1 не удалось создать новый элемент.%2	ПланВидовХарактеристик.%1 nav izdevies izveidot jaunu vienumu.%2
+ПланОбмена.%1 не удалось получить узел этой ИБ.%2	ПланОбмена.%1 nav izdevies iegūt mezgls šo IB.%2
+ПланОбмена.%1 не удалось создать новый узел.%2	ПланОбмена.%1 nav izdevies izveidot jaunu vietni.%2
+ПланСчетов.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланСчетов.%1 nav izdevies atrast iepriekš elementu/grupu [%2].%3
+ПланСчетов.%1 не удалось создать новую группу.%2	ПланСчетов.%1 nav izdevies izveidot jaunu grupu.%2
+ПланСчетов.%1 не удалось создать новый элемент.%2	ПланСчетов.%1 nav izdevies izveidot jaunu vienumu.%2
+Подключение с именем <%1> перезаполнено в таблице подключений	Savienojums ar nosaukumu <%1> перезаполнено tabulā savienojumu
+Подключили для отладки форма %1	Līks, lai atkļūdošanas forma %1
+Подключились к сеансу TESTCLIENT.	Izveidojis savienojumu ar sesiju TESTCLIENT.
+Подсвет рамки - OK	Подсвет sistēmu - OK
+Поле <%1> в данный момент невидимо пользователю.	Laukā <%1> šobrīd nemanāmi lietotājam.
+Поле <%1> существует, а ожидали, что его нет.	Laukā <%1> pastāv, un paredzams, ka to nav.
+Поле с заголовком <%1> не найдено.	Laukā ar nosaukumu <%1> nav atrasts.
+Поле с именем <%1> не найдено.	Laukā ar nosaukumu <%1> nav atrasts.
+Получить изменения формы	Iegūt formas izmaiņas
+Получить состояние всей формы	Saņemt stāvokli visā veidlapas
+ПолучитьИдентификаторПредставленияПоСсылке() : Неизвестный КорневойТипКонфигурации <%1>	ПолучитьИдентификаторПредставленияпоссылке() : Nezināms КорневойТипКонфигурации <Par 1%>
+ПолучитьСостояниеФормыTestClient:%1	ПолучитьСостояниеФормыTestClient:%1
+ПолучитьТаблицуЗначенийИзТабличногоДокумента: Требуется тип ТабличныйДокумент или ПолеТабличногоДокумента	ПолучитьТаблицуЗначенийИзТабличногодокумента: Nepieciešams tips ТабличныйДокумент vai ПолеТабличногоДокумента
+ПолучитьУжеСуществующиеСнипетыИзОбработок:%1	ПолучитьУжеСуществующиеСнипетыИзобработок:%1
+Пометка для шаг установлена.	Karodziņš solis ir uzstādīta.
+Пометка снята.	Atzīme jāmaksā.
+порт <%1>	port <par 1%>
+Порт %1 занят или находится вне указанного диапазона, порт подключения изменен на %2	Portu %1 aizņemts vai ārpus noteiktā diapazona, ostas savienojumu mainīts uz %2
+Построение дерева.	Veidot koka.
+Превышение таймаутуа ожидания завершения фонового задания.	Pārsniedz таймаутуа gaidīšanas pabeigšanas fona uzdevumi.
+Предупреждение с текстом %1 не найдено.	Brīdinājums ar tekstu %1 nav atrasta.
+Предыдущая ошибка: %1. ТаймаутОжидания=%2	Iepriekšējā kļūda: %1. ТаймаутОжидания=%2
+При подключении TestClient возникло сообщение:	Pieslēdzot TestClient parādījās ziņa:
+ПроверитьРавенствоТаблиц: Второй параметр-таблица таблицей не является	ПроверитьРавенствоТаблиц: Otrais parametrs-tabula tabulas nav
+ПроверитьРавенствоТаблиц: Первый параметр-таблица таблицей не является	ПроверитьРавенствоТаблиц: Pirmais parametrs-tabula tabulas nav
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Второй параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: Otrais parametrs-tabula nav табличным dokuments
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Первый параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: Pirmais parametrs-tabula nav табличным dokuments
+ПроверитьТип: Тип значения параметра ТипИлиИмяТипа должен быть <Тип> или <Строка>, а получили <%1>%2	ПроверитьТип: Tips parametru vērtības ТипИлиИмяТипа jābūt <Tips> vai <Rinda> un ir ieguvuši <par 1%>%2
+Проверка загрузки объектов в ИБ из макета данных выполнена успешно.	Pārbaude sāknēšanas objektu IB no izkārtojuma datu sekmīgi pabeigta.
+Проверьте работу команды <%1>	Pārbaudiet komandas darbs ar <%1>
+Профиль с именем <%1> не найден.	Profils ar nosaukumu <%1> nav atrasts.
+ПрочитатьПеременныеСреды:%1	ПрочитатьПеременныеСреды:%1
+Пустой адрес снипета у шага: %1	Tukša adrese снипета pie soli: %1
+ПутьКФиче=Неопределено	ПутьКФиче=Неопределено
+Работа с ключами для %1 пока не поддерживается	Darbs ar atslēgām, lai par 1%, kamēr netiek atbalstīta
+Работаю по сценарию	Strādāju pēc scenārija
+Работаю по фиче: %1	Strādāju pa zīme: %1
+равно	vienāds
+РазличаютсяКолонки	РазличаютсяКолонки
+Различия в таблицах:	Atšķirības tabulās:
+РазноеКоличествоСтрок	РазноеКоличествоСтрок
+Раннер <%1> не подключен.	Runner <%1> nav pievienots.
+РежимСовместимостиTestManager	РежимСовместимостиTestManager
+Реквизит <%1> не найден.	Aksesuārus <%1> nav atrasts.
+с длиной	ar garumu
+Сеанс должен быть запущен с ключом TESTMANAGER.	Seanss ir jāvada galvenais, TESTMANAGER.
+Снипет <%1> встречается %2 раз.	Снипет <%1> sastopama %2 reizes.
+содержащее текст <%1>, а был текст <%2>	kurā ir teksts <%1>, bet bija teksts <%2>
+содержит	satur
+Создан %1	Izveidota %1
+Создан файл: %1	Izveidots fails: %1
+Создание epf по фичам закончено.	Izveidot epf par фичам pabeigta.
+Создать тестовый mp3 - OK	Izveidot testa mp3 OK
+Создаю %1	Radu %1
+Справочник.%1 не удалось найти предопределенный элемент/группу [%2].%3	Katalogs.%1 nav izdevies atrast iepriekš elementu/grupu [%2].%3
+Справочник.%1 не удалось создать новую группу.%2	Katalogs.%1 nav izdevies izveidot jaunu grupu.%2
+Справочник.%1 не удалось создать новый элемент.%2	Katalogs.%1 nav izdevies izveidot jaunu vienumu.%2
+Справочник.%1.%2 - получен пустой элемент.	Katalogs.%1.%2 - saņemts tukšs elements.
+Сравниваемые значения (%1; %2) не равны, а хотели, чтобы были равны.%3	Salīdzināmās vērtības (%1
+Сравниваемые значения (%1; %2) равны, а хотели, чтобы были не равны.%3	Salīdzināmās vērtības (%1
+Странный параметр в логе инструкции HTML: %1	Dīvains uzstādījums apache instrukcijas HTML: %1
+Странный параметр в логе инструкции Markdown: %1	Dīvains uzstādījums apache instrukcijas Markdown: %1
+Строка <%1> из файла <%2> не найдена в файле <%3>	Rinda <%1> failu <%2> netika atrasta failā <%3>
+Строка <%1> найдена в окне сообщений пользователю.	Rinda <%1> atrasta ziņojuma logā lietotājam.
+Строка <%1> найдена в последнем сообщении пользователю. Найдено: %2	Rinda <%1> atrasta jaunākajā ziņojumā lietotājam. Atrasts: %2
+Строка <%1> не найдена в окне сообщений пользователю.	Rinda <%1> netika atrasta ziņojuma logā lietotājam.
+Строка <%1> не найдена в последнем сообщении пользователю. Найдено: %2	Rinda <%1> netika atrasta jaunākajā ziņojumā lietotājam. Atrasts: %2
+Строка %1 не найдена в реквизите %2	Virkne "%1 " nav atrasts реквизите %2
+Строка №%1 не найдена в табличном документе на форме	Rinda №%1 nav atrasta tabulas dokumenta formā
+Строка №%1, обнаружен символ <|>, хотя не было ключевого слова <Примеры>.	Rinda №%1, atrasts simbols <|>, lai gan nebija atslēgvārda <Piemēri>.
+Строка №%1, ожидалось (%2), а найдено (%3) ПредыдущееКлючевоеСлово=%4	Rinda №%1, gaidīts (%2), bet atrasts (%3) ПредыдущееКлючевоеСлово=%4
+Строка должна быть описана таблицей с двумя строками.	Virkne ir aprakstīta tabulā ar divām rindām.
+Строка с фича-файлом не найдена.	Josla ar фича-fails nav atrasts.
+СтрокаЗапуска=%1	СтрокаЗапуска=%1
+существует	ir
+Сценарий <%1> не загружен.	Scenārijs <%1> nav ielādēta.
+Сценарий: %1	Scenārijs: %1
+Таблица <%1> не соответствует эталону. Ожидали <%2> строк, а в ней <%3> строк.	Tabula <%1> neatbilst etalonam. Gaidīts <%2> rindas, un tajā <%3> rindas.
+Таблица <%1> не стала равной за <%2> секунд. %3	Tabula <%1> nav kļuvusi par līdzvērtīgu <%2> sekundes. %3
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Ожидали <%4>, а получили <%5>	Tabula <%1>. Rinda nr.<%2>. Kolonna <%3>. Gaidīts <%4> un ir ieguvuši <%5>
+Таблица формы с именем <%1> не найдена.	Tabula formas ar nosaukumu <%1> netika atrasta.
+ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.Количество()=%2	ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.Skaits (no)=%2
+Таблицы должны совпадать, а они различны.%1	Tabulas ir jāsakrīt, bet tie ir atšķirīgi%1
+ТаблицыСовпадают	ТаблицыСовпадают
+Табличный документ <%1> оказался неравен <%2>.%3	Tabulveida dokuments <%1> izrādījās неравен <%2>.%3
+Табличный документ не содержит нужные строки <%1>	Tabulveida dokuments nesatur vajadzīgās rindas <par 1%>
+Табличный документ содержит ненужные строки <%1>	Tabulveida dokuments ir nevajadzīgas rindas <par 1%>
+ТестируемаяФорма <%1> не открылась, а должна была открыться	ТестируемаяФорма <%1> neatvērās, bet vajadzēja atvērties
+ТестПропущен	ТестПропущен
+Технические данные	Tehniskie dati
+тип	tips
+Типом значения <%1> является <%2>, а ожидался тип <%3>.%4	Vērtības tipu <par 1%> ir <%2>, kā tika gaidīts tips <%3>.%4
+Требуется документ, бизнес-процесс или задача. Неизвестный менеджер %1.%2 . Переменная %3	Nepieciešams dokuments, biznesa procesu vai uzdevums. Nezināms vadītājs %1.%2 . Mainīgā %3
+ТЧ %1 не соответствует эталону. Ожидали %2 строк, а в ней %3 строк.	PM par 1% neatbilst etalonam. Gaidīts %2 rindas, un tajā %3 rindas.
+ТЧ с именем <%1> не найдена.	PM ar nosaukumu <%1> netika atrasta.
+У окна <%1> не найдено ни одного элемента с типом <ТестируемоеПолеФормы>.	Pie loga <%1> netika atrasta neviena vienuma tipam <ТестируемоеПолеФормы>.
+У поля <%1> ожидали заголовок <%2>, а получили <%3>	Pie lauka <%1> gaidīts virsraksts <%2> un ir ieguvuši <%3>
+У поля <%1> ожидали отображаемый текст <%2>, а получили <%3>	Pie lauka <%1> gaidīts redzamais teksts <%2> un ir ieguvuši <%3>
+У поля <%1> ожидали текст подсказки <%2>, а получили <%3>	Pie lauka <%1> gaidīts teksts <%2> un ir ieguvuši <%3>
+У текущего окна найдено %1 форм.	Pie pašreizējā logi konstatēts %1 veidlapu.
+У элемента формы <%1> текущий текст редактирования <%2>, а ожидали <%3>	Pie vienuma formas <%1> pašreizējo tekstu rediģēšanas <%2>, kā gaidīts <%3>
+Удаляю элемент %1	Izņemu %1 elements
+Удаляю элемент справочника <%1> : <%2>	Izņemu kataloga elements <%1> : <%2>
+Уже открытый TestClient подключен на %1 порту.	Jau āra TestClient pievienots uz %1 ostā.
+Указан неверный диапазон портов: <%1>	Norādīts nepareizs portu diapazonu: <%1>
+Указанное Имя колонки замещения [%1] не существует в макете.	Norādītā kolonnas Nosaukuma aizstāšanu [%1] nav izkārtojumā.
+Установлен флаг "Остановка при возникновении ошибки". Выполнение следующих сценариев отменено.	Karogu, ir noteikts "Apstāties, ja rodas kļūda". Izpildi šādos gadījumos ir atcelts.
+Установлен флаг <Остановка при возникновении ошибки>. Выполнение следующих сценариев отменено.	Karogu, ir noteikts <Apstāšanās, ja rodas kļūda>. Izpildi šādos gadījumos ir atcelts.
+Утверждение "ИмеетДлину" не умеет работать с типом <%1>.%2	Apgalvojums "ИмеетДлину" neprot strādāt ar tipa <%1>.%2
+Утверждение "ПроверитьВхождениеВКоллекцию" не умеет работать с типом коллекции <%1>.%2	Apgalvojums "ПроверитьВхождениеВКоллекцию" neprot strādāt ar tāda veida kolekcija <%1>.%2
+Утверждение "Содержит" не умеет работать с типом <%1>.%2	Apgalvojums "Ir" neprot strādāt ar tipa <%1>.%2
+Утверждение <ИмеетДлину> не умеет работать с типом <%1>.%2	Apgalvojums <ИмеетДлину> neprot strādāt ar tipa <%1>.%2
+Утверждение <ПроверитьВхождениеВКоллекцию> не умеет работать с типом коллекции <%1>.%2	Apgalvojums <ПроверитьВхождениеВКоллекцию> neprot strādāt ar tāda veida kolekcija <%1>.%2
+Утверждение <Содержит> не умеет работать с типом <%1>.%2	Apgalvojums <Satur> neprot strādāt ar tipa <%1>.%2
+Утверждение ПроверитьРавенствоФайлов можно использовать только в толстом клиенте.	Apgalvojums ПроверитьРавенствоФайлов var izmantot tikai biezā klientu.
+Файл <%1> не найден.	Failu <%1> nav atrasts.
+Файл <%1> не существует.	Failu <%1> nav.
+Файл <vbFeatureReader.epf> не найден в каталоге инструментов <%1>	Failu <vbFeatureReader.epf> netika atrasta instrumenti <par 1%>
+Файл %1: <%2>	Failu %1: <%2>
+Файл EPF не создан.	Failu EPF nav izveidots.
+Файл EPF не создан. Не смог создать каталог временной базы.	Failu EPF nav izveidots. Nevarēja izveidot direktoriju, pagaidu bāzes.
+Файл отчета Allure-report (%1) записан.	Atskaites fails Allure-report (%1) reģistrēts.
+Файл отчета CucumberJson-report (%1) записан.	Atskaites fails CucumberJson-report (%1) reģistrēts.
+Файл отчета jUnit-report (%1) записан.	Atskaites fails jUnit-report (%1) reģistrēts.
+Фича <%1> содержит тег @Tree. Найдены строки, которые содержат символы пробелов и символы табуляции в начале строки. Дерево не может быть корректно построено.	Фича <%1> satur tags @Tree. Atrast rindas, kas satur atstarpes rakstzīmes un tabulatori rindas sākumā. Koks nav pareizi uzbūvēta.
+Фича <%1> содержит тег @Tree. Часть строк содержит в начале строки символы пробелов <%2>, часть строк содержит символы табуляции <%3>. Дерево не может быть корректно построено.	Фича <%1> satur tags @Tree. Daļa rindas ir rindas sākumā atstarpes rakstzīmes <%2>, kas ir daļa no virknes satur tabulatori <%3>. Koks nav pareizi uzbūvēta.
+Фича: %1	Фича: %1
+Фичи загружены	Lejupielādēt Фичи
+Флаг <Сохранять контексты перед выполнением шагов> установлен в <Истина>.	Karogs <Saglabāt situācijās, pirms soļi> ir iestatīts uz <Patiesība>.
+Флаг с заголовком <%1> не найден.	Karogs ar nosaukumu <%1> nav atrasts.
+Флаг с именем <%1> не найден.	Karogs ar nosaukumu <%1> nav atrasts.
+Форма <%1> не найдена.	Forma <%1> netika atrasta.
+Форма окна с заголовком %1 не найдена.	Forma logi ar virsrakstu %1 nav atrasta.
+Форма с заголовком <%1> не найдена.	Forma ar nosaukumu <%1> netika atrasta.
+Форма с заголовком %1 не найдена.	Veidlapa ar nosaukumu "%1 " nav atrasta.
+Хост сеанс надо запустить с ключом /TESTMANAGER.	Uzņēmēja seanss vajag sākt ar atslēgu /TESTMANAGER.
+Хотели, чтобы алгоритм <%1> выполнился, а он упал с ошибкой <%2>. %3	Vēlētos, lai algoritms <%1> выполнился, un viņš nokrita kļūda <%2>. %3
+Хотели, чтобы алгоритм <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	Vēlētos, lai algoritms <%1> samazinājās ar kļūdas ziņojumu <%2>, un viņš nokrita ar paziņojumu, <%3>.%4
+Хотели, чтобы алгоритм <%1> упал, а он выполнился%2	Vēlētos, lai algoritms <%1> samazinājās, un viņš выполнился%2
+Хотели, чтобы код <%1> выполнился, а он упал с ошибкой <%2>. %3	Vēlētos, lai kods <%1> выполнился, un viņš nokrita kļūda <%2>. %3
+Хотели, чтобы код <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	Vēlētos, lai kods <%1> samazinājās ar kļūdas ziņojumu <%2>, un viņš nokrita ar paziņojumu, <%3>.%4
+Хотели, чтобы код <%1> упал, а он выполнился%2	Vēlētos, lai kods <%1> samazinājās, un viņš выполнился%2
+Шаг	Solis
+Шаг (%1) не выполнен.	Solis (%1) nav izpildīts.
+Шаг (%1) не выполнен. Строка дерева №%2	Solis (%1) nav izpildīts. Rinda koka №%2
+Шаг (%1) не реализован.	Solis (%1) nav realizēts.
+Шаг <%1> должен был вызвать исключение, а он выполнился корректно.	Solis <%1> bija radīt izņēmums, bet viņš выполнился korekti.
+Шаг выполнен с ошибкой: %1	Solis izpildīts kļūda: %1
+Шаг принимает на вход только таблицу Gherkin, в которой две строки. А было передано %1 строк.	Solis pieņem ieeja tikai tabulu Gherkin, kurā divas rindas. Kā tika nodota %1 rindas.
+Шаг сценария не реализован.	Solis scenārija nav realizēts.
+Элемент с заголовком <%1> виден на текущей форме	Elementu ar nosaukumu <par 1%> ir redzams pašreizējā formā
+Элемент с заголовком <%1> доступен на форме	Elementu ar nosaukumu <par 1%> ir pieejams formā
+Элемент с заголовком <%1> доступен не только для просмотра	Elementu ar nosaukumu <par 1%> ir pieejams ne tikai, lai apskatītu
+Элемент с заголовком <%1> доступен только для просмотра	Elementu ar nosaukumu <par 1%> ir pieejams tikai skatīšanās
+Элемент с заголовком <%1> не виден на текущей форме	Elementu ar nosaukumu <%1> nav redzams pašreizējā formā
+Элемент с заголовком <%1> не доступен на форме	Elementu ar nosaukumu <%1> nav pieejams formā
+Элемент с именем <%1> виден на текущей форме	Elementu ar nosaukumu <par 1%> ir redzams pašreizējā formā
+Элемент с именем <%1> доступен на форме	Elementu ar nosaukumu <par 1%> ir pieejams formā
+Элемент с именем <%1> доступен не только для просмотра	Elementu ar nosaukumu <par 1%> ir pieejams ne tikai, lai apskatītu
+Элемент с именем <%1> доступен только для просмотра	Elementu ar nosaukumu <par 1%> ir pieejams tikai skatīšanās
+Элемент с именем <%1> не виден на текущей форме	Elementu ar nosaukumu <%1> nav redzams pašreizējā formā
+Элемент с именем <%1> не доступен на форме	Elementu ar nosaukumu <%1> nav pieejams formā
+Элемент формы <%1> не найден.	Elements <%1> nav atrasts.
+Элемент формы с именем <%1> не найден.	Formas elements ar nosaukumu <%1> nav atrasts.
+Элемента формы с заголовком <%1> не найдено.	Veidlapas elementu ar nosaukumu <%1> nav atrasts.
+Элемента формы с именем <%1> не найдено.	Veidlapas elementu ar nosaukumu <%1> nav atrasts.
+Это возможно только для шага.	Tas ir iespējams tikai, lai soli.
+является NULL	ir NULL
+является заполненным	ir neaizpildītu
+является истиной	ir patiesība
+является ложью	ir meli
+является неопределено	ir неопределено
+Не найден SikuliX скрипт <%1>.	Nav atrasts SikuliX skriptu <%1>.
+Не удалось выполнить SukuliX скрипт <%1>.	Neizdevās SukuliX skriptu <%1>.
+Ожидали, что в таблице <%1> текуще поле будет заполнено.	Paredzams, ka tabulā <%1> текуще lauks tiks aizpildīts.
+Ожидали, что в таблице <%1> текуще поле будет не заполнено.	Paredzams, ka tabulā <%1> текуще lauks nav aizpildīts.
+Ожидали у таблицы <%1> в течение <%2> секунд, что текущее поле будет заполнено.	Gaidīts pie galda <%1> dienas <%2> sekundēm, ka pašreizējā lauks tiks aizpildīts.
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Не смог получить значение из эталона.	Tabula <%1>. Rinda nr.<%2>. Kolonna <%3>. Nevarēja iegūt vērtību no standarta.
+Не получилось получить представление открытого списка выбора <%1>.	Nav izdevies iegūt priekšstatu open saraksta izvēlētos <%1>.
+У списка выбора <%1> ожидалось %2 значений, а было получено %3 значений.	Pie saraksta izvēlētos <%1> gaidīts %2 vērtības, kā tika saņemts %3 vērtības.
+Ожидалось получить %1, а было получено %2.	Plānots saņemt par 1%, kā tika saņemts %2.
+Открытый список выбора <%1> не равен эталону. Различия: %2	Āra saraksts izvēlētos <%1> nav vienāds ar etalonam. Atšķirības: %2
+Ожидалось, что открытый список содержит значение %1.	Paredzēts, ka āra saraksts ir vērtība, kas ir par 1%.
+Открытый список выбора <%1> не содержит ожидаемые значения: %2	Āra saraksts izvēlētos <%1> nesatur paredzamās vērtības: %2
+Открытый список выбора <%1> содержит значения, которых не должно быть: %2	Āra saraksts izvēlētos <par 1%> ir vērtības, kurās nevar būt: %2
+Не смог получить данные локализации сообщений.	Nevarēja iegūt datus lokalizācijas ziņas.
+У поля <%1> не получилось нажать на гиперссылку <%2>.	Pie lauka <%1> nav izdevies noklikšķiniet uz hipersaites <%2>.
+Вы уверены?	Esat pārliecināts?
+Закрыть форму	Aizvērt formu
+Не получилось нажать на кнопку <%1>.	Nav izdevies nospiest pogu <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд ячейка <%3> станет равна <%4>.	Paredzams, ka pie galda dokumenta <%1> dienas <%2> sekundes šūna <%3> būs vienāds ar <%4>.
+Некоторые сообщения не были найдены в окне сообщений пользователю: %1	Dažas ziņas nav atrastas logā ziņas lietotāju: %1
+В окне сообщений пользователю были найдены лишние сообщения: %1	Ziņojuma logā lietotājam ir atrasti papildu ziņojumi: %1
+Не получилось определить длительность у файла <%1>.	Nav izdevies noteikt ilgums pie faila <%1>.
+Не получилось добавить субтитры к файлу <%1>.	Nesanāca pievienot lejuplādēt failu <%1>.
+Команда ffmpeg по слиянию всех видео не выполнена.	Komandu ffmpeg apvienošanās ar visiem video nav izpildīta.
+Команда ffmpeg по перекодированю звука не выполнена.	Komandu ffmpeg pēc перекодированю skaņas nav izpildīta.
+Команда ffmpeg по добавлению водяной отметки и перекодированию звука не выполнена.	Komandu ffmpeg pievienot ūdens zīmes un перекодированию skaņas nav izpildīta.
+Команда ffmpeg по кодированию в mp4 не выполнена.	Komandu ffmpeg kodēšanas mp4 nav izpildīta.
+Команда ffmpeg по добавлению mp3 в ролик не выполнена.	Komandu ffmpeg pievienot mp3 ripu nav izpildīta.
+Не получилось создать файл TTS <%1>.	Nav sanācis izveidot failu TTS <%1>.
+Не указано имя голоса Text To Speech.	Nav norādīts balss Text To Speech.
+Не указана команда ffmpeg.	Nav norādīta komandu ffmpeg.
+Не указана команда Convert.	Nav norādīta Convert.
+Не найдено значение из колонки <%1>.	Nav atrasts vērtība no kolonnas <%1>.
+Не найдено значение <%1> из колонки <%2>.	Nav atrasts vērtība <%1> kolonna <%2>.
+Не получилось сохранить в переменную <%1> таблицу с именем <%2>.	Nesanāca saglabāt mainīgo <%1> tabulu ar nosaukumu <%2>.
+Таблица <%1> пустая.	Tabula <%1> tukša.
+В таблицах <%1> и <%2> разное количество колонок <%3> и <%4>.	Tabulās <%1> un <%2> dažādi skaļruņu skaitu <%3> un <%4>.
+Не все строки таблицы <%1> найдены в таблице <%2>:	Ne visas tabulas rindas <%1> atrast tabulā <%2>:
+Для элемента с именем <%1> не найдена форма.	Lai vienums ar nosaukumu <%1> netika atrasta forma.
+Не указано значение настройки Vanessa-automation: <КаталогПроекта>.	Nav norādīts uzstādījumu Vanessa-automation: <КаталогПроекта>.
+Не указано значение настройки Vanessa-automation: <КаталогиСкриптовSikuliX>.	Nav norādīts uzstādījumu Vanessa-automation: <КаталогиСкриптовSikuliX>.
+В каталоге <%1> не найден файл <%2>.	Katalogā <%1> nav atrasts neviens fails <%2>.
+В каталоге <%1> найдено больше одного файла <%2>: %3.	Katalogā <%1> konstatēts vairāk par vienu failu <%2>: %3.
+Не получилось сделать клик мышкой по картинке <%1>.	Nav sanācis izdarīt klikšķi ar peli uz bildītes <%1>.
+Не получилось запустить Sikulix сервер.	Nav sanācis palaist Sikulix serveri.
+Не получилось дождаться выполнения SikuliX скрипта <%1>.	Nav sanācis jāgaida, lai veiktu SikuliX skriptu <%1>.
+Не получилось выполнить SikuliX скрипт <%1>.	Nav sanācis izpildīt SikuliX skriptu <%1>.
+Ожидалось, что группа элементов <%1> содержит данные элементы формы: %2	Plānots, ka grupa ir vienumu <%1> satur datus formas elementi: %2
+Ожидалось, что группа элементов <%1> не содержит данные элементы формы: %2	Plānots, ka grupa ir vienumu <%1> nesatur datus formas elementi: %2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения отличного от <%4>. Текущее значение <%5>.	Gaidīts pie galda <%1> dienas <%2> sekundes pie lauka <%3> vērtības, kas atšķiras no <%4>. Pašreizējā vērtība <%5>.
+Ожидалось, что в панели разделов будет <%1> элементов, а найдено <%2> элементов.	Plānots, ka uz paneļa sadaļas būs <par 1%> elementus, kā arī atrasts <%2> elementu.
+Ожидалось, что в панели разделов будут содержаться следующие элементы: %1	Tika gaidīts, ka panelī, sadaļās ir ietverti šādi elementi: %1
+Ожидалось, что в панели разделов не будут содержаться следующие элементы: %	Plānots, ka uz paneļa sadaļas netiks ietverti šādi elementi: %
+Ожидалось, что в панели функций будет <%1> элементов, а найдено <%2> элементов.	Tika gaidīts, ka paneļa funkcijas būs <par 1%> elementus, kā arī atrasts <%2> elementu.
+Ожидалось, что в панели функций будет элемент <%1> , а был найден элемент <%2>.	Tika gaidīts, ka paneļa funkcijas tiks elements <%1> , bet tika atrasts elements <%2>.
+Ожидалось, что в панели функций будут содержаться следующие элементы: %1	Tika gaidīts, ka paneļa funkcijas tiks iekļauti šādi elementi: %1
+Ожидалось, что в панели функций не будут содержаться следующие элементы: %1	Tika gaidīts, ka paneļa funkcijas netiks ietverti šādi elementi: %1
+Группа <%1> не найдена в панели функций.	Grupa <%1> netika atrasta paneļa funkcijas.
+Ожидалось, что в группе <%1> панели функций будут содержаться следующие элементы: %2	Plānots, ka grupā ir <par 1%> paneļa funkcijas tiks iekļauti šādi elementi: %2
+Ожидалось, что в группе <%1> панели функций не будут содержаться следующие элементы: %2	Plānots, ka grupā ir <par 1%> paneļa funkcijas netiks ietverti šādi elementi: %2
+Ошибка. Не найдены настройки пользователя <%1> в файле <%2>.	Kļūda. Nevarat atrast lietotāja iestatījumi <%1> failu <%2>.
+Функция <%1> реализована только для Windows.	Funkcija <%1> realizēta tikai Windows.
+У поля <%1> ожидали текст заголовка <%2>, а получили <%3>.	Pie lauka <%1> gaidīts virsraksta teksts <%2> un ir ieguvuši <%3>.
+В таблице <%1> у поля <%2> ожидали заголовок <%3>, а получили <%4>.	Tabulā <%1> laukā <%2> gaidīts virsraksts <%3> un ir ieguvuši <%4>.
+В таблице <%1> у поля <%2> ожидали текст подсказки <%3>, а получили <%4>.	Tabulā <%1> laukā <%2> gaidīts teksts <%3> un ir ieguvuši <%4>.
+Не получилось выгрузить базу в dt: <%1>. Путь к DT: <%2>. Статус возврата: <%3>.	Nav sanācis izkraut bāzi dt: <%1>. Ceļš uz DT: <%2>. Atgriešanas statusu: <%3>.
+Группа колонок <%1> в таблице <%2> не найдена.	Grupa skaļruņi <%1> tabula <%2> netika atrasta.
+В таблице <%1> в группе колонок <%2> колонка <%3> не найдена.	Tabulā <%1> grupā skaļruņi <%2> kolonna <%3> netika atrasta.
+Не получилось найти на экране картинку <%1>.	Nav sanācis atrast uz ekrāna attēlu <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд значение ячейки <%3> станет равно <%4>. Текущее значение <%5>.	Paredzams, ka pie galda dokumenta <%1> dienas <%2> sekundes vērtību, šūnu <%3> būs vienāds ar <%4>. Pašreizējā vērtība <%5>.
+Метод Шаг() не выполнен. Не удалось прочитать шаги из временного фича файла <%1>. Исходная строка:%2	Metode Step() nav izpildīts. Neizdevās nolasīt pasākumus no pagaidu фича faila <%1>. Sākotnējā pozīcija:%2
+Этот клиент	Šis klients
+Не получилось найти данные макета <%1>.	Nav izdevies atrast datus izkārtojumu <%1>.
+Не получилось выполнить эмуляцию хоткея <%1> <%2>.	Nav sanācis izpildīt эмуляцию хоткея <par 1%> <%2>.
+Не получилось выполнить эмуляцию ENTER.	Nav sanācis izpildīt эмуляцию ENTER.
+Не получилось дождаться картинки <%1> в течение <%2> секунд.	Nesanāca sagaidīt bildes <%1> dienas <%2> sekundes.
+Окно с заголовком <%1> не найдено. Текущее окно: <%2>.	Logs ar nosaukumu <%1> nav atrasts. Pašreizējo logu: <%2>.
+Строка <%1> не найдена в окне сообщений пользователю. Состояние окна сообщений:%2	Rinda <%1> netika atrasta ziņojuma logā lietotājam. Stāvoklis logi ziņas:%2
+Не получилось определить родителя у шага <%1>.	Nav izdevies noteikt vecākiem pie soli <%1>.
+Не получилось определить позицию шага <%1> в группе шагов <%2>.	Nav izdevies noteikt atrašanās vietu, soli <%1> grupā soļi <%2>.
+Не получилось открыть форму регистра сведений <%1>.	Neizdevās atvērt veidlapu reģistra informāciju <%1>.
+Не получилось найти подсистему <%1> в регистре версии подсистем.	Neizdevās atrast apakšsistēmas <%1> reģistrā versija apakšsistēmu.
+Ожидалось получить <%1> строк в таблице <%2>, а было получено <%3> строк.	Paredzēts saņemt <%1> uz tabulas rindas <%2>, kā tika saņemts <%3> rindas.
+Не получилось сохранить значение <%1> в переменную <%2>.	Nesanāca saglabāt vērtība <%1> mainīgo <%2>.
+Не получилось подключиться к ранее запущенному клиенту тестирования <%1>, порт <%2>.	Neizdodas izveidot savienojumu ar iepriekš запущенному klientam testēšanas <%1>, port <%2>.
+Не получилось прочитать параметр запуска <%1>.	Neizdevās nolasīt startēšanas opciju <%1>.
+ИмяРаннера	ИмяРаннера
+ТипКлиентаТестирования	ТипКлиентаТестирования
+СтрокаСоединения	СтрокаСоединения
+Не получилось сохранить строку <%1> в переменную <%2>.	Nesanāca saglabāt virkni <%1> mainīgo <%2>.
+Неверно указано значение параметра направления вращения колеса мышки. Возможные значения: Вверх или Вниз.	Nepareizi ir norādīts parametrs virzienā riteņa griešanās peli. Iespējamās vērtības: uz Augšu vai uz Leju.
+Не получилось выполнить эмуляцию вращения колеса мышки в направлении <%1>, количество итераций <%2>.	Nav sanācis izpildīt эмуляцию riteņa griešanās peli virzienā <%1>, iterāciju daudzumu <%2>.
+Обнаружено несколько файлов, экспортирующих подсценарий <%1>. Файлы: %2	Konstatēti vairāki faili, kas eksportē подсценарий <%1>. Failus: %2
+Не получилось сделать клик праой кнопкой мышки по картинке <%1>.	Nav sanācis veikt klikšķi праой peles labo pogu uz attēla <%1>.
+Не получилось переместить курсор мышки к картинке <%1>.	Nav sanācis pārvietot peli, lai bildes <%1>.
+Не существует клиента тестирования <%1>.	Nav klienta pārbaudes <%1>.
+Ожидали, что процесс с ИД <%1> будет завершен в течение <%2> секунд.	Paredzams, ka process ID ir <par 1%> ir jāpabeidz <%2> sekundes.
+Значение переменной <%1> изменено на <%2>.	Mainīgā vērtība <par 1%> ir atjaunināts uz <%2>.
+Значение глобальной переменной <%1> изменено на <%2>.	Vērtība globālo mainīgo <par 1%> ir atjaunināts uz <%2>.
+Переменная <%1> удалена.	Mainīgais <%1> izdzēsta.
+Глобальная переменная <%1> удалена.	Globālo mainīgo <%1> izdzēsta.
+Контекст	Konteksts
+Контекст глобальный	Globālais konteksts
+Окно с заголовком <%1> не найдено. Таймаут поиска окна: <%2>.	Logs ar nosaukumu <%1> nav atrasts. Man. meklēšanas logi: <%2>.
+Не удалось получить токен.	Nav izdevies iegūt marķieris.
+Не удалось получить токен. Код результата: <%1>. Ответ: <%2>.	Nav izdevies iegūt marķieris. Rezultātu kods: <%1>. Atbilde: <%2>.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Nevarēja iegūt datus. Rezultātu kods: <%1>. Atbilde: <%2>.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>. Количество попыток <%4>.	Nevarēja tabulā <%1> padarīt izvēlēties no saraksta izvēlētos <%2> rindā <%3>. Mēģinājumu skaits <%4>.
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>. Количество попыток <%3>.	Nevarēju izdarīt izvēlēties no saraksta izvēlētos <%1> rindā <%2>. Mēģinājumu skaits <%3>.
+Не выполнены дополнительные процедуры обработки данных.	Nav veikti papildu datu apstrādes procedūras.
+Обнаружено окно обновления конфигурации.	Atklāts logu servisa konfigurācijas.
+Обнаружено окно c сообщением о неудачном обновлением конфигурации.	Atklāts logu c ziņu par to nav atjauninājumu konfigurācijas.
+Видео создано автоматически.	Video izveidots automātiski.
+Количество сценариев	Skaits skriptu
+Количество шагов	Soļu skaits
+Версия Vanessa-Automation	Versija Vanessa-Automation
+Версия скрипта сборки видео	Versija skriptu montāžas video
+ЗаголовокАктивногоОкна	ЗаголовокАктивногоОкна
+ИмяАктивнойФормы	ИмяАктивнойФормы
+В таблице должно быть боле 1 строки, а получили <%1> строк.	Tabulā jābūt bole 1 rindas, bet saņēmuši <%1> rindas.
+Выполнить сценарии	Izpildīt skriptus
+Загружены глобальные переменные.	Lejupielādēt globālie mainīgie.
+Не найден каталог: %1	Nav atrasts katalogs: %1
+Выполнить	Izpildīt
+Выполняется...	Tiek veikta...
+Останавливается...	Apstājas...
+Обнаружено окно перехода на новую версию платформы 1С:Предприятие.	Atklāts logu pāreju uz jauno versiju platforma "1C:Uzņēmums".
+В таблице <%1> не получилось активизировать поле <%2> для редактирования.	Tabulā <%1> nav izdevies aktivizēt laukā <%2> rediģēt.
+Ожидалось в течение <%1> секунд, что откроется окно с заголовком отличным от <%2>.	Gaidīts jau <%1> sekundēm, kas atveras logs ar nosaukumu, kas atšķiras no <%2>.
+Выберите файл настроек Vanessa Automation.	Noklikšķiniet uz fails > Vanessa Automation.
+Версия загружаемых настроек не соответсвует версии обработки.	Versija lejupielādējama iestatījumu neatbilst versiju apstrādi.
+Информация: Параметр %1 не загружен.	Opcija: "%1 " nav ielādēts.
+Не получилось прочитать значение из строки запуска: %1.	Nav sanācis izlasīt vērtību no vienas rindas palaist: %1.
+При чтении переменных окружения операционной системы возникло исключение: %1	Lasot vides mainīgo operētājsistēmas radās izņēmums: %1
+Не найден путь к файлу JSON. Параметр: VAParams.	Nav atrasts ceļš JSON. Parametrs: VAParams.
+Ошибка чтения структуры JSON. Пропускаем чтение.	Lasīšanas kļūda struktūru JSON. Izlaižam lasījumā.
+Ошибка чтения структуры JSON.	Lasīšanas kļūda struktūru JSON.
+В параметрах JSON не найден каталог Фич.	Parametros JSON nav atrasts katalogs Pazīmes.
+Использование устаревшего параметра "КаталогOutputСкриншоты". Новый параметр - "КаталогВыгрузкиСкриншотов".	Izmantot novecojušu parametra "КаталогOutputСкриншоты". Jauna opcija - "КаталогВыгрузкиСкриншотов".
+Использование устаревшего параметра "КаталогOutputИнструкцияHTML". Новый параметр - "КаталогВыгрузкиИнструкцийHTML".	Izmantot novecojušu parametra "КаталогOutputИнструкцияHTML". Jauna opcija - "КаталогВыгрузкиИнструкцийHTML".
+Использование устаревшего параметра "КаталогOutputИнструкцияMarkdown". Новый параметр - "КаталогВыгрузкиИнструкцийMarkdown".	Izmantot novecojušu parametra "КаталогOutputИнструкцияMarkdown". Jauna opcija - "КаталогВыгрузкиИнструкцийMarkdown".
+Использование устаревшего параметра "КаталогOutputИнструкцияВидео". Новый параметр - "КаталогВыгрузкиИнструкцийВидео".	Izmantot novecojušu parametra "КаталогOutputИнструкцияВидео". Jauna opcija - "КаталогВыгрузкиИнструкцийВидео".
+Использование устаревшего параметра "КаталогOutputjUnit". Новый параметр - "КаталогВыгрузкиjUnit".	Izmantot novecojušu parametra "КаталогOutputjUnit". Jauna opcija - "КаталогВыгрузкиjUnit".
+В параметрах запуска JSON не определен каталог отчета jUnit.	Parametros palaišanas JSON nav noteikts katalogs atskaites jUnit.
+Использование устаревшего параметра "КаталогOutputCucumberJson". Новый параметр - "КаталогВыгрузкиCucumberJson"	Izmantot novecojušu parametra "КаталогOutputCucumberJson". Jauna opcija - "КаталогВыгрузкиCucumberJson"
+В параметрах запуска JSON не определен отчета CucumberJson.	Parametros palaišanas JSON nav definēts atskaites CucumberJson.
+Использование устаревшего параметра "КаталогOutputAllure". Новый параметр - "КаталогВыгрузкиAllure".	Izmantot novecojušu parametra "КаталогOutputAllure". Jauna opcija - "КаталогВыгрузкиAllure".
+Использование устаревшего параметра "КаталогOutputAllureБазовый". Новый параметр - "КаталогВыгрузкиAllureБазовый".	Izmantot novecojušu parametra "КаталогOutputAllureБазовый". Jauna opcija - "КаталогВыгрузкиAllureБазовый".
+Форма из переданного списка не найдена.	Forma no kura saraksta nav atrasta.
+ИмяФичи	ИмяФичи
+ИмяСценария	ИмяСценария
+НомерСтрокиДерева	НомерСтрокиДерева
+НомерСтрокиФичи	НомерСтрокиФичи
+ПолнйПутьКФиче	ПолнйПутьКФиче
+Сценарий не определён.	Scenārijs nav noteikts.
+Шаг не определён.	Solis nav noteikts.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Nevarēja iegūt datus. Rezultātu kods: <%1>. Atbilde: <%2>.
+ДеталиОшибки	ДеталиОшибки
+Команда по созданию картинки из текста не выполнена: %1	Komanda ir izveidot attēlu no teksta nav pabeigta: %1
+Не получилось получить командный интерфейс клиента тестирования.	Nav izdevies iegūt komandu interfeiss klienta pārbaudes.
+Окно предупреждения не найдено.	Brīdinājuma logs nav atrasts.
+Не получилось выполнить помещение файла <%1>.	Nav sanācis veikt telpu faila <%1>.
+Не найдено подключение SikuliX сервера.	Nav atrasts savienojums SikuliX servera.
+Подключение SikuliX сервера сброшено.	Savienojums SikuliX servera nomestas.
+Не указано значение настройки Vanessa-automation: <КаталогДляГенерацииКартинок>.	Nav norādīts uzstādījumu Vanessa-automation: <КаталогДляГенерацииКартинок>.
+Не получилось создать картинку по тексту <%1>.	Nav sanācis izveidot attēlu tekstā <%1>.
+Не найден профиль поиска картинки с текстом <%1>.	Nav atrasts profils meklēšanas bildes ar tekstu <%1>.
+Команда не выполнена: %1	Komanda nav pabeigta: %1
+Не получилось вычислить выражение: %1. Описание ошибки: %2	Nav sanācis aprēķināt: par 1%. Apraksts kļūda: %2
+Не указано имя файла.	Nav norādīts faila nosaukums.
+Каталог <%1> не существует.	Katalogs <%1> nav.
+Не указано расширение файла.	Nav norādīts faila paplašinājums.
+Не получилось закрыть активное окно <%1>. %2	Neizdevās aizvērt aktīvo logu <%1>. %2
+Закрытие окна <%1>.	Aizvērt logu <%1>.

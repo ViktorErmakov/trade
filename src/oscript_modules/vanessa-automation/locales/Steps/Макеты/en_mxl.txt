@@ -1,0 +1,1087 @@
+﻿Шаг оригинал	Описание	Перевод шага	Перевод описания
+Как <Роль>	Специальный текст	As <Role>	Special text
+Контекст:	Специальный текст	Background:	Special text
+Сценарий: <описание сценария>	Специальный текст	Scenario: <script description>	Special text
+Функционал: <описание фичи>	Специальный текст	Feature: <feature description>	Special text
+Чтобы <бизнес-эффект>	Специальный текст	To <business effect>	Special text
+Я хочу <описание функционала>	Специальный текст	I want <functionality description>	Special text
+Fixtures	Категория шагов	Fixtures	Steps category
+SikuliX	Категория шагов	SikuliX	Steps category
+UI	Категория шагов	UI	Steps category
+Автоинструкции	Категория шагов	Autoinstructions	Steps category
+Активизировать	Категория шагов	Activate	Steps category
+Активизировать TestClient	Категория шагов	Activate TestClient	Steps category
+Активизировать поле	Категория шагов	Activate field	Steps category
+Активизировать строку	Категория шагов	Activate line	Steps category
+Активность	Категория шагов	Activity	Steps category
+Буфер обмена	Категория шагов	Clipboard	Steps category
+Ввод даты	Категория шагов	Date entry	Steps category
+Ввод на основании	Категория шагов	Generation	Steps category
+Ввод по строке	Категория шагов	Input by string	Steps category
+Ввод текста	Категория шагов	Text input	Steps category
+Версия конфигурации	Категория шагов	Configuration version	Steps category
+Версия платформы	Категория шагов	Platform version	Steps category
+Весь документ	Категория шагов	Entire document	Steps category
+Видимость	Категория шагов	Visibility	Steps category
+Видимость элементов	Категория шагов	Items visibility	Steps category
+Временная таблица	Категория шагов	Opened items panel	Steps category
+Время выполнения действия	Категория шагов	Sections panel	Steps category
+Всплывающие окна	Категория шагов	Functions panel	Steps category
+Встроенный язык	Категория шагов	Built-in language	Steps category
+Вхождение таблицы в другую таблицу	Категория шагов	Contains items	Steps category
+Выбор из списка	Категория шагов	Current page	Steps category
+Выбор строки	Категория шагов	Current window	Steps category
+Выделение строк	Категория шагов	Lines selection	Steps category
+Выпадающий список	Категория шагов	Drop-down list	Steps category
+Генерация уникального номера	Категория шагов	Unique numbers generation	Steps category
+Гиперссылки	Категория шагов	Hyperlinks	Steps category
+Гиперссылки через расширение	Категория шагов	Hyperlinks via extension	Steps category
+Группы	Категория шагов	Groups	Steps category
+Добавить строку	Категория шагов	Add a line	Steps category
+Доступность	Категория шагов	Availability	Steps category
+Доступность элементов	Категория шагов	Items availability	Steps category
+Заголовок	Категория шагов	Header	Steps category
+Закладки	Категория шагов	Tabs	Steps category
+Закрыть главное окно сеанса	Категория шагов	Close session main window	Steps category
+Закрыть сеанс	Категория шагов	Close Session	Steps category
+Закрыть сеанс TestClient	Категория шагов	Close TestClient session	Steps category
+Заполненность	Категория шагов	Filling	Steps category
+Заполнить данными	Категория шагов	Fill with data	Steps category
+Запомнить значение поля	Категория шагов	Save field value	Steps category
+Запомнить значение таблицы	Категория шагов	Save table value	Steps category
+Запомнить имя поля	Категория шагов	Save field name	Steps category
+Зафиксировать форму	Категория шагов	Fix form	Steps category
+Значение выпадающего списка	Категория шагов	Drop-down list value	Steps category
+Значение поля	Категория шагов	Field value	Steps category
+Значение ячейки таблицы	Категория шагов	Table cell value	Steps category
+Иерархический список	Категория шагов	Hierarchical list	Steps category
+Имя формы	Категория шагов	Form name	Steps category
+Исключения	Категория шагов	Exceptions	Steps category
+Календарь	Категория шагов	Calendar	Steps category
+Кнопка выбора	Категория шагов	Choice button	Steps category
+Кнопки	Категория шагов	Buttons	Steps category
+Количество строк	Категория шагов	Number of lines	Steps category
+Колонки	Категория шагов	Columns	Steps category
+Командный интерфейс	Категория шагов	No duplicate messages	Steps category
+Константы	Категория шагов	Constants	Steps category
+Контекст	Категория шагов	Waiting for the message	Steps category
+Контекст сохраняемый	Категория шагов	Clearing messages window	Steps category
+Контекстное меню	Категория шагов	Context menu	Steps category
+Лог	Категория шагов	Log	Steps category
+Макет	Категория шагов	Template	Steps category
+Навигационные ссылки	Категория шагов	Navigation links	Steps category
+Нет одинаковых сообщений	Категория шагов	No duplicate messages	Steps category
+Новое подключение к базе	Категория шагов	New connection to the database	Steps category
+Новое подключение к той же базе, где запущен TestManager	Категория шагов	New connection to the database where TestManager runs	Steps category
+Нумерация	Категория шагов	Numbering	Steps category
+Область	Категория шагов	Area	Steps category
+Область чтения	Категория шагов	Reading area	Steps category
+Ожидание доступности элемента	Категория шагов	Waiting for attribute availability	Steps category
+Ожидание завершения процесса	Категория шагов	Waiting for the process completion	Steps category
+Ожидание значения	Категория шагов	Waiting for value	Steps category
+Ожидание значения таблицы	Категория шагов	Waiting for table value	Steps category
+Ожидание значения элемента	Категория шагов	Waiting for attribute value	Steps category
+Ожидание значения ячейки таблицы	Категория шагов	Waiting for table cell value	Steps category
+Ожидание появления элемента	Категория шагов	Waiting for attribute appearance	Steps category
+Ожидание сообщения	Категория шагов	Waiting for the message	Steps category
+Окна	Категория шагов	Windows	Steps category
+Окно	Категория шагов	Window	Steps category
+Остановить выполнение сценариев	Категория шагов	Stop running scripts	Steps category
+Открыть	Категория шагов	Open	Steps category
+Открыть картинку	Категория шагов	Open picture	Steps category
+Открыть список	Категория шагов	Open list	Steps category
+Открыть форму объекта	Категория шагов	Open object form	Steps category
+Отчеты	Категория шагов	Reports	Steps category
+Очистить поле	Категория шагов	Clear field	Steps category
+Очистка окна сообщений	Категория шагов	Clearing messages window	Steps category
+Пакетный режим	Категория шагов	Batch mode	Steps category
+Панель открытых	Категория шагов	Opened items panel	Steps category
+Панель разделов	Категория шагов	Sections panel	Steps category
+Панель функций	Категория шагов	Functions panel	Steps category
+Перебор массива	Категория шагов	Iterating over array	Steps category
+Перебор строк	Категория шагов	For each line	Steps category
+Перейти к следующему реквизиту	Категория шагов	Go to next attribute	Steps category
+Переключатели	Категория шагов	Switches	Steps category
+Переменные среды	Категория шагов	Environment variables	Steps category
+Переход к строке	Категория шагов	Go to the line	Steps category
+Переход к ячейке	Категория шагов	Move to cell	Steps category
+Подключение TestClient	Категория шагов	TestClient connection	Steps category
+Подменю	Категория шагов	Submenu	Steps category
+Подсказка	Категория шагов	Tooltip	Steps category
+Поле таблицы	Категория шагов	Table field	Steps category
+Поле формы	Категория шагов	Form field	Steps category
+Поля	Категория шагов	Fields	Steps category
+Пометка удаления	Категория шагов	Deletion mark	Steps category
+Представление элемента	Категория шагов	Item View	Steps category
+Проверка видимости	Категория шагов	Visibility check	Steps category
+Проверка доступности	Категория шагов	Availability check	Steps category
+Проверка значений именнованных областей	Категория шагов	Check named areas values	Steps category
+Проверка значения	Категория шагов	Value check	Steps category
+Проверка значения колонки таблицы	Категория шагов	Table column value check	Steps category
+Проверка значения поля	Категория шагов	Field value check	Steps category
+Проверка значения таблицы	Категория шагов	Table value check	Steps category
+Проверка значения табличного документа	Категория шагов	Spreadsheet value check	Steps category
+Проверка значения текущей строки таблицы	Категория шагов	Current table line values check	Steps category
+Проверка колонки	Категория шагов	Column check	Steps category
+Проверка на пустоту	Категория шагов	Check if empty	Steps category
+Проверка отсутствия сообщений	Категория шагов	Check messages absence	Steps category
+Проверка режима совестимости	Категория шагов	Compatibility mode check	Steps category
+Проверка состава колонок	Категория шагов	Check column set	Steps category
+Проверка существования	Категория шагов	Check existence	Steps category
+Проверка текста сообщений	Категория шагов	Check messages text	Steps category
+Проверка типа TestClient	Категория шагов	TestClient type check	Steps category
+Произвольная база	Категория шагов	Arbitrary database	Steps category
+Произвольная строка	Категория шагов	Arbitrary string	Steps category
+Просмотр	Категория шагов	View	Steps category
+Профиль TestClient	Категория шагов	TestClient Profile	Steps category
+Прочее	Категория шагов	Miscellaneous	Steps category
+Прочитать значение	Категория шагов	Read value	Steps category
+Работа с подключенными TestClient	Категория шагов	Work with connected TestClient	Steps category
+Равенство по шаблону	Категория шагов	Equality by template	Steps category
+Развернуть/Свернуть	Категория шагов	Expand/Collapse	Steps category
+Развернуть/свернуть группу	Категория шагов	Expand/collapse group	Steps category
+Редактирование строки	Категория шагов	Line edititng	Steps category
+Режим выполнения шагов	Категория шагов	Steps execution mode	Steps category
+Результат выполнения сценария	Категория шагов	Result of the script execution	Steps category
+Результат выражения в поле	Категория шагов	Expression result in the field	Steps category
+Реквизиты	Категория шагов	Attributes	Steps category
+Сделать паузу	Категория шагов	Make pause	Steps category
+Скриншоты	Категория шагов	Screenshots	Steps category
+Содержит значения	Категория шагов	Contains values	Steps category
+Содержит строки	Категория шагов	Contains strings	Steps category
+Содержит текст	Категория шагов	Contains text	Steps category
+Содержит элементы	Категория шагов	Contains items	Steps category
+Создать	Категория шагов	Create	Steps category
+Сообщения пользователю	Категория шагов	User message	Steps category
+Сохранить в переменную	Категория шагов	Save in the variable	Steps category
+Сохранить в файл	Категория шагов	Save to file	Steps category
+Сохранить значение	Категория шагов	Save value	Steps category
+Сохранить список	Категория шагов	Save list	Steps category
+Сравнить табличные документы	Категория шагов	Compare spreadsheet documents	Steps category
+Стандартные формы	Категория шагов	Standard forms	Steps category
+Строки	Категория шагов	Lines	Steps category
+Таблица	Категория шагов	Table	Steps category
+Таблица Gherkin	Категория шагов	Gherkin table	Steps category
+Таблицы	Категория шагов	Tables	Steps category
+Таблицы в памяти	Категория шагов	Tables in memory	Steps category
+Табличный документ	Категория шагов	Spreadsheet document	Steps category
+Текущая база	Категория шагов	Current database	Steps category
+Текущая страница	Категория шагов	Current page	Steps category
+Текущая строка	Категория шагов	Current line	Steps category
+Текущее окно	Категория шагов	Current window	Steps category
+Только просмотр	Категория шагов	Read only	Steps category
+Точное значение	Категория шагов	Exact value	Steps category
+Точное равенство	Категория шагов	Exact equality	Steps category
+Увеличить значение	Категория шагов	Increase value	Steps category
+Удаление строк	Категория шагов	Lines deletion	Steps category
+Удалить строку	Категория шагов	Delete line	Steps category
+Уменьшить значение	Категория шагов	Decrease value	Steps category
+Условие	Категория шагов	Condition	Steps category
+Установить заголовок приложения	Категория шагов	Set application header	Steps category
+Установить значение	Категория шагов	Set value	Steps category
+Установить значение константы	Категория шагов	Set constant value	Steps category
+Установить синоним	Категория шагов	Set synonym	Steps category
+Устаревшее	Категория шагов	Obsolete	Steps category
+Файлы	Категория шагов	Files	Steps category
+Фильтр	Категория шагов	Filter	Steps category
+Фильтр формы списка	Категория шагов	List form filter	Steps category
+Флаги	Категория шагов	Checkboxes	Steps category
+Форма	Категория шагов	Form	Steps category
+Формы	Категория шагов	Forms	Steps category
+Циклы	Категория шагов	Cycles	Steps category
+Эталонный макет	Категория шагов	Standard pattern	Steps category
+Ячейки	Категория шагов	Cells	Steps category
+Если в таблице "%1 ИмяТаблицы" текущая строка не помечена на удаление тогда	Проверяет, что текущая строка в списке не имеет пометку удаления.	If the current row in "%1 TableName" table is not marked for deletion Then	Checks if the current row in the list is not marked for deletion.
+Если в таблице "%1 ИмяТаблицы" текущая строка помечена на удаление тогда	Условие. Проверяет, что текущая строка в списке имеет пометку удаления.	If the current row in "%1 TableName" table is marked for deletion Then	Condition. Checks if the current row in the list is marked for deletion.
+И в таблице "%1 ИмяТаблицы" текущая строка не помечена на удаление	Проверяет, что текущая строка в списке не имеет пометку удаления.	And the current row in "%1 TableName" table is not marked for deletion	Checks if the current row in the list is not marked for deletion.
+И в таблице "%1 ИмяТаблицы" текущая строка помечена на удаление	Проверяет, что текущая строка в списке имеет пометку удаления.	And the current row in "%1 TableName" table is marked for deletion	Checks if the current row in the list is marked for deletion.
+И для каждого файла "%1 ТекФайл" из каталога "%2 ИмяКаталога" включая подкаталоги	Делает перебор файлов в каталоге, включая подкаталоги. Также создаёт переменные:  _Имя, _ПолноеИмя, _ИмяБезРасширения, _Путь, _Расширение.	And for each "%1 CurrentFile" file from "%2 Directory" including subdirectories	Checks each file in the directory, including its subdirectories. Also creates variables:  _Name, _FullName, _NameWithoutExtension, _Path, _Extenstion.
+"И я жду, что таблица ""%1 ИмяТаблицы"" не станет содержать строки в течение ""%2 20"" секунд:
+ | ИмяКолонки1 | ИмяКолонки2 |
+ | Значение1 | Значение2 |"	Проверяет, что таблица TestClient не станет содержать в себе строки из переданной таблицы Gherkin в течение нужного числа секунд.	"And I wait that ""%1 TableName"" table will not contain lines for ""%2 20"" seconds
+ | ColumnName1 | ColumnName2 |
+ | Value1 | Value2 |"	Checks if the TestClient table will not contain Gherkin table lines for the specified number of seconds.
+И я удаляю переменную '%1 ИмяПеременной'	Удаляет локальную и глобальную переменную с таким именем, если они будут найдены. Если такой переменной, то исключение вызвано не будет.	And I delete '%1 VariableName' variable	Deletes both local and global variables with the specified name, if they exist. If the variable does not exist, no exception will be raised.
+Дано двойной клик на текст "%1 Текст"	Делает двойной клик по картинке. Картинка генерируется по переданному тексту.	Given double click at the text "%1 Text"	Double clicks the picture. The picture is generated by the passed text.
+Дано клик правой кнопкой на текст "%1 Текст"	Эмулирует клик правой кнопкой мышки по картинке. Картинка генерируется по переданному тексту.	Given right-click at the text "%1 Text"	Emulates right-click at the picture. The picture is generated by the passed text.
+Дано курсор к тексту "%1 Текст"	Эмулирует перемещение курсора мышки к картинке. Картинка генерируется по переданному тексту.	Given cursor to the text "%1 Text"	Emulates cursor movement to the picture. The picture is generated by the passed text.
+Если в таблице "%1 ИмяТаблицы" поле "%2 Заголовок поля" имеет значение по шаблону "%3 ШаблонЗначенияПоля" тогда	Условие. Проверяет значение ячейки таблицы по шаблону. Имя ячейки указывается как оно отображено в заголовке.	If "%2 FieldHeader" field in "%1 TableName" table has the value "%3 FieldValue"  by template Then	Condition. Checks cell value by the template. Cell name is specified as it appears in the header.
+Если в таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяПоля" имеет значение по шаблону "%3 ШабонЗначенияПоля" тогда	Условие. Проверяет значение ячейки таблицы по шаблону. Имя ячейки указывается как оно задано в конфигураторе.	If the field named "%2 FieldHeader" in "%1 TableName" table has the value "%3 FieldValue"  by template Then	Condition. Checks cell value by the template. Cell name is specified as it appears in the Designer.
+Если поле с именем "%1 ИмяПоля" имеет заголовок "%2 Заголовок" тогда	Условие. Проверка, что у поля нужный заголовок. Поле ищется по внутреннему идентификатору.	If the header of the field named "%1 FieldName" is "%2 Header"	Condition. Check the field has specified header. Field search by internal ID.
+Затем клик на текст "%1 Текст"	Эмулирует клик левой кнопкой мышки по картинке. Картинка генерируется по переданному тексту.	Then click at the text "%1 Text"	Emulates left click at the picture. The picture is generated by the passed text.
+И видеовставка картинки "%1 ИмяКартинки" "%2 ТекстДиктора"	Добавляет в видео вставку из указанной картинки с указанным текстом диктора.	And video snippet of the picture "%1 PictureName" "%2 NarratorText"	Inserts the snippet consisting of the specified picture and text in the video.
+И у элемента с именем "%1 ИмяЭлемента" я жду значения "%2 Значение" в течение "%3 20" секунд по шаблону	Ожидание что элемент формы примет нужное значение в течение нужного времени. Иначе будет вызвано исключение. Возможно использование символа * при указании ожидаемого значения.	And I wait "%2 Value" value by template of the attribute named "%1 AttributeName" for "%3 20" seconds	Waiting for required value of form attribute in specified time.  Else an exception will be risen. You can use * character in the expected value.
+И я сохраняю скриншот "%1 ПутьКФайлу"	Снимает скриншот с экрана и сохраняет по указнному пути.	And I save the screenshot to "%1 FilePath"	Makes a snapshot and saves it to the specified path.
+"И я устанавливаю основной профиль цвета
+		| 'Шрифт'      | 'arial' |
+		| 'ЦветФона'   | 'white' |
+		| 'ЦветШрифта' | 'black' |
+		| 'Размер'     | '13'    |"	Устанавливает параметры для генерации картинок по тексту. Можно передать таблицу параметров либо передать имя готового профиля.	"And I set the main profile of the color
+ | 'Font' | 'arial' |
+ | 'BackgroundColor' | 'white' |
+ | 'FontColor' | 'black' |
+ | 'Size' | '13' |"	Sets the parameters to generate pictures by text. You can pass a table of parameter or profile name.
+"И я устанавливаю профиль цвета ""%1 ИмяПрофиля""
+		| 'Шрифт'      | 'arial' |
+		| 'ЦветФона'   | 'white' |
+		| 'ЦветШрифта' | 'black' |
+		| 'Размер'     | '13'    |"	Устанавливает параметры для генерации картинок по тексту. Нужно передать имя профиля и значения параметров.	"And I set the color profile to ""%1 ProfileName""
+ | 'Font' | 'arial' |
+ | 'BackgroundColor' | 'white' |
+ | 'FontColor' | 'black' |
+ | 'Size' | '13' |"	Sets the parameters to generate pictures by text. You need to pass profile name and parameter values.
+Дано Я выполняю команду командного интерфейса "%1 ИмяКоманды"		Given I execute command interface command "%1 CommandName"	
+Дано Я открываю основную форму документа "%1 ИмяДокумента"		Given I open "%1 DocumentName1" document main form	
+Дано Я открываю основную форму списка регистра накопления "%1 РегистрНакопления1"	Открывает основную форму регистра накопления по его имени в метаданных	Given I open "%1 AccumulationRegister1" accumulation register list form	Opens accumulation register default form by it's name in metadata
+Дано Я открываю основную форму списка регистра сведений "%1 РегистрСведений1"	Открывает основную форму регистра сведений по его имени в метаданных	Given I open "%1 InformationRegister1" information register list form	Opens information register default form by it's name in metadata
+Дано Я открываю основную форму справочника "%1 ИмяСправочника"	Открывает основную форму справочника по его имени в метаданных	Given I open "%1 CatalogName1" reference main form	Opens reference default form by it's name in metadata
+Если появилось предупреждение, тогда	Условие. Проверяет, что появилось окно предупреждения.	If the warning is displayed then	Condition. Checks if warning window is displayed.
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я ввожу текущую дату	Ввод текущей даты в поле таблицы	And I input current date in the field named "%2 FieldName" of "%1 TableName" table	Input of current date in the table field.
+И таблица "%1 ИмяТаблицы" содержит строки из макета "%2 ИмяМакета" по шаблону	Проверяет, что таблица TestClient содержит строки таблицы из макета. Т.е. если в таблице в TestClient 10 строк, то в шаге можно проверять наличие, например, только 3 строк. Также строки указанные в макете могут идти в любом порядке. При этом возможно использовать символ * в значении ячеек.	And "%1 TableName" table contains "%2 TemplateName" template lines by template	Checks if TestClient table contains the lines from template. I.e. if in the table at TestClient contains 10 lines, then in step you can check, for example, only 3 lines. Also the lines specified in the template may go in any order. You can use * character in cell values.
+И у элемента "%1 Заголовок элемента" я жду значения "%2 Значение" в течение "%3 20" секунд по шаблону	Ожидание что элемент формы примет нужное значение в течение нужного времени. Иначе будет вызвано исключение. Возможно использование символа * при указании ожидаемого значения.	And I wait "%2 Value" value of "%1 AttributeName" attribute for "%3 20" seconds by template	Waiting for required value of form attribute in specified time.  Else an exception will be risen. You can use * character in the expected value.
+И я включаю асинхронный режим выполнения шагов с интервалом "%1 ЗначениеИнтервала"	Включает режим асинхронного выполнения шагов.	And I turn on asynchronous execution mode with interval "%1 IntervalValue"	Turns asynchronous steps execution mode on.
+И Я добавляю к шагу файл из "%1 ИмяПеременной" с типом "%2 ТипФайла"	Добавляет файл к текущему шагу в отчете Allure.	And I add to the step a file from "%1 variable Name" with type " %2 file Type"	Attaches the file to the current step in Allure report.
+И я запоминаю текущую форму как "%1 ИмяФормы"	Сохранение имени формы текущего окна в переменную.	And I save current form as "%1 FormName"	Saving current form name to a variable.
+И я набираю текст "%1 текст"	Эмулирует ввод текста с помощью утилиты KeyboardType. Возможен ввод на русском и английском языке. Для переключения расскладки эмулируется сочетание клавиш Ctrl+Shift.	And I type the text "%1 Text"	Emulates text input using the KeyboardType utility. Input in Russian and English is supported. Ctrl+Shift is emulated to switch the layout.
+И я отключаю асинхронный режим выполнения шагов	Выключает режим асинхронного выполнения шагов.	And I turn off asynchronous execution mode	Turns asynchronous steps execution mode off.
+И я сохраняю выпадающий список "%1 Заголовок списка" как "%2 Имя переменной"	Сохраняет представление выпадающего списка выбора в виде таблицы в памяти с колонками ПредставлениеДанных и ОтображаемыйТекст	And I save the dropdown list "%1 ListHeader " as " % 2 VariableName"	Saves dropdown list as a value table with columns DataPresentation and DisplayText
+Если в панели открытых есть команда "%1 ИмяКоманды" Тогда	Условие. Проверяет наличие команды в панели открытых.	If opened panel contains "%1 CommandName" command Then	Condition. Checks the command presence in the opened panel.
+Если в панели разделов есть команда "%1 ИмяКоманды" Тогда	Условие. Проверяет наличие команды в панели разделов.	If sections panel contains "%1 CommandName" command Then	Condition. Checks the command presence in the sections panel.
+Если в панели функций есть команда "%1 ИмяКоманды" Тогда	Условие. Проверяет наличие команды в панели функций.	If functions panel contains "%1 CommandName" command Then	Condition. Checks the command presence in the functions panel.
+Если в таблице "%1 ИмяТаблицы" есть колонка "%2 Заголовок колонки" Тогда	Условие.Проверяет наличие колонки в таблице.	If "%1 TableName" table contains "%2 ColumnHeader" column Then	Condition. Checks the column presence in the table.
+Если в таблице "%1 ИмяТаблицы" есть колонка с именем "%2 ИмяКолонки" Тогда	Условие.Проверяет наличие колонки в таблице.	If "%1 TableName" table contains column named "%2 ColumnName" Then	Condition. Checks the column presence in the table.
+Если в таблице "%1 ИмяТаблицы" нет колонки "%2 Заголовок колонки" Тогда	Условие.Проверяет отсутствие колонки в таблице.	If "%1 TableName" table does not contain "%2 ColumnHeader" column Then	Condition. Checks the column absence in the table.
+Если в таблице "%1 ИмяТаблицы" нет колонки с именем "%2 ИмяКолонки" Тогда	Условие.Проверяет отсутствие колонки в таблице.	If "%1 TableName" table does not contain column named "%2 ColumnName" Then	Condition. Checks the column absence in the table.
+Если в таблице "%1 ИмяТаблицы" поле "%2 Заголовок поля" заполнено Тогда	Условие. Проверяет заполненность ячейки таблицы. Имя ячейки указывается как оно отображено в заголовке.	If "%2 FieldHeader" field is filled in "%1 TableName" table Then	Condition. Checks table cell filling. Cell name is specified as it appears in the header.
+Если в таблице "%1 ИмяТаблицы" поле "%2 Заголовок поля" не заполнено Тогда	Условие. Проверяет незаполненность ячейки таблицы. Имя ячейки указывается как оно отображено в заголовке.	If "%2 FieldHeader" field is not filled in "%1 TableName" table Then	Condition. Checks table cell emptiness. Cell name is specified as it appears in the header.
+Если в таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяПоля" заполнено Тогда	Условие. Проверяет заполненность ячейки таблицы. Имя ячейки указывается как оно задано в конфигураторе.	If the field named "%2 FieldName" is filled in "%1 TableName" table Then	Condition. Checks table cell filling. Cell name is specified as it appears in the Designer.
+Если в таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяПоля" не заполнено Тогда	Условие. Проверяет незаполненность ячейки таблицы. Имя ячейки указывается как оно задано в конфигураторе.	If the field named "%2 FieldName" is not filled in "%1 TableName" table Then	Condition. Checks table cell emptiness. Cell name is specified as it appears in the Designer.
+Если появилось предупреждение, содержащее текст "%1 Текст" тогда	Условие. Проверяет, что появилось окно предупреждения, содержащее нужный текст.	If warning message containing text "%1 Text" appeared Then	Condition. Checks if warning window with required text is displayed.
+Если элемент "%1 ИмяЭлементаФормы" доступен не только для просмотра Тогда	Условие. Проверяет флаг "Только просмотр" у элемента формы. Поиск поля производится по имени.	If "%1 AttributeName" attribute is not read-only Then	Condition. Checks the Read-only flag of the form attribute. Field search by name.
+Если элемент "%1 ИмяЭлементаФормы" доступен только для просмотра Тогда	Условие. Проверяет флаг "Только просмотр" у элемента формы. Поиск поля производится по имени.	If "%1 AttributeName" attribute is read-only Then	Condition. Checks the Read-only flag of the form attribute. Field search by name.
+И В панели функций я активизирую '%1 ИмяКоманды'	Активизация кнопки панели функций	And in functions panel I activate "%1 CommandName"	Activation of the functions panel button
+И видеовставка "%1 Текст"	Выводит в автовидеоинструкцию нужный текст в виде вставки. Белые буквы на черном фоне.	And video insert "%1 PictureName" "%2 Text"	Inserts the specified text into the automatic video manual. White letters on black background.
+И я включаю проверку только просмотр элементов с учётом групп элементов	Включает проверку флага "Только просмотр" элементов с учетом родителя.	And I turn ON items editability checking considering item groups visibility	Turns on Read-only check considering the parent.
+И я выключаю проверку только просмотр элементов с учётом групп элементов	Выключает проверку "Только просмотр" элементов с учетом родителя.	And I turn OFF items editability checking considering item groups visibility	Turns off Read-only check considering the parent.
+"И я выполняю код встроенного языка на сервере без контекста
+	| 'Сообщить(""Hellow world."")' |"	Позволяет выполнить произвольный код на встроенном языке на сервере без контекста. Код передаётся через таблицу Gherkin.	"And I execute 1C:Enterprise script at server no context
+ | ""Message (""Hello world."") "" |"	Allows execution of 1C:Enterprise language code at server no context. Code is passed through the Gherkin table.
+И я жду когда завершится процесс с ИД процесса "%1 PID" в течение "%2 10" секунд	Ожидает завершение процесса по его PID.	And I am waiting for "%1 PID" process completion for "%2 10" seconds	Waits for the process completion by its PID.
+И я жду когда закроется TestClient "%1 ИмяПрофиля" в течение "%2 10" секунд	Ожидает завершения сеанса тест клиента по имени его профиля.	And I am waiting for "%1 ProfileName" Test client closing for "%2 10" seconds	Waits for the test client session completion by its profile name.
+И я запоминаю значение ячейки табличного документа "%1 РеквизитТабличныйДокумент" "%2 АдресЯчейки" в переменную "%3 ИмяПеременной"	Запоминает значение ячейки табличного документа в переменную.	And I save spreadsheet document cell value "%1 SpreadsheetDocumentAttribute" "%2 CellAddress" to "%3 VariableName" variable	Saves the value of spreadsheet document cell in a variable.
+Тогда я копирую файл "%1 ИмяФайлаИсточник" "%2 ИмяФайлаПриемник"	Копирует файл.	Then I copy file "%1 SourceFile" to "%2 ReceiverFile"	Copies the file.
+Тогда я перемещаю файл "%1 ИмяФайлаИсточник" "%2 ИмяФайлаПриемник"	Перемещает файл.	Then I move file "%1 SourceFile" to "%2 ReceiverFile"	Moves the file.
+Дано двойной клик на картинку "%1 ИмяКартинки"	Делает двойной клик по картинке. Картинка, поиск которой будет происходить на экране, должна находится в каталоге проекта.	Given double click at "%1 PictureName" picture	Double clicks the picture Picture search area is the project directory.
+Дано клик правой кнопкой на картинку "%1 ИмяКартинки"	Эмулирует клик правой кнопкой мышки по картинке. Картинка, поиск которой будет происходить на экране, должна находится в каталоге проекта.	Given right click at "%1 PictureName" picture	Emulates right click at the picture Picture search area is the project directory.
+Дано курсор к картинке "%1 ИмяКартинки"	Эмулирует перемещение курсора мышки к картинке. Картинка, поиск которой будет происходить на экране, должна находится в каталоге проекта.	Given cursor to "%1 PictureName" picture	Emulates cursor movement to the picture Picture search area is the project directory.
+Дано я открываю картинку в основном редакторе "%1 ИмяКартинки"	Вызывает команду системы. Будет открыто приложение, которое ассоциировано для данного типа файлов.	Given I open "%1 PictureName" picture in main editor	Calls system command. The application associated with this file type will be opened
+Если есть картинка "%1 ИмяКартинки" Тогда	Условие. Проверяет, есть ли на экране нужная картинка.	If "%1 PictureName" picture exists Then	Condition. Checks if there is the required picture on the screen.
+Затем Я подключаю уже запущенный клиент тестирования "%1 ИмяПрофиля"	Подключает запущенный ранее клиент тестирования, который мог быть запущен из другой программы. Если сеанс не найден - выдёт исключение.	Then I connect launched Test client "%1 ProfileName"	Connect previously started test client, which could be launched from another application. Raises an exception If the session is not found.
+"И в таблице ""%1 ИмяТаблицы"" выпадающий список ""%2 Заголовок элемента"" не содержит значения
+	| 'Значение1' |
+	| 'Значение2' |"	Проверяет, что открытый выпадающий список не содержит ни одного значения из переданного набора значений. Поиск элемента формы выполняется по заголовку.	"And in ""%1 TableName"" table drop-down list ""%2 AttributeHeader"" does not contain values
+ |"" Value1 ""|
+ |"" Value2 ""|"	Checks if opened drop-down list contains no values from the passed value set. Form attribute search by header.
+"И в таблице ""%1 ИмяТаблицы"" выпадающий список ""%2 Заголовок элемента"" содержит значения
+	| 'Значение1' |
+	| 'Значение2' |"	Проверяет, что открытый выпадающий список в содержит каждое значение из переданного набора значений. Поиск элемента формы выполняется по заголовку.	"And in ""%1 TableName"" table drop-down list ""%2 AttributeHeader"" contains values
+ |"" Value1 ""|
+ |"" Value2 ""|"	Checks if opened drop-down list contains all values from the passed value set. Form attribute search by header.
+"И в таблице ""%1 ИмяТаблицы"" выпадающий список ""%2 Заголовок элемента"" стал равен:
+	| 'Значение1' |
+	| 'Значение2' |"	Проверяет, что открытый выпадающий список в точности равен переданному набору значений. Поиск элемента формы выполняется по заголовку.	"And in ""%1 TableName"" table drop-down list ""%2 AttributeHeader"" is equal to:
+ |"" Value1 ""|
+ |"" Value2 ""|"	Checks if opened drop-down list is equal to the passed value set exactly. Form attribute search by header.
+"И в таблице ""%1 ИмяТаблицы"" выпадающий список с именем ""%2 ИмяЭлемента"" не содержит значения
+	| 'Значение1' |
+	| 'Значение2' |"	Проверяет, что открытый выпадающий список не содержит ни одного значения из переданного набора значений. Поиск элемента формы выполняется по имени.	"And in ""%1 TableName"" table drop-down list named ""%2 AttributeName"" does not contain values
+ |"" Value1 ""|
+ |"" Value2 ""|"	Checks if opened drop-down list contains no values from the passed value set. Form attribute search by name.
+"И в таблице ""%1 ИмяТаблицы"" выпадающий список с именем ""%2 ИмяЭлемента"" содержит значения
+	| 'Значение1' |
+	| 'Значение2' |"	Проверяет, что открытый выпадающий список в содержит каждое значение из переданного набора значений. Поиск элемента формы выполняется по имени.	"And in ""%1 TableName"" table drop-down list named ""%2 AttributeName"" contains values
+ |"" Value1 ""|
+ |"" Value2 ""|"	Checks if opened drop-down list contains all values from the passed value set. Form attribute search by name.
+"И в таблице ""%1 ИмяТаблицы"" выпадающий список с именем ""%2 ИмяЭлемента"" стал равен:
+	| 'Значение1' |
+	| 'Значение2' |"	Проверяет, что открытый выпадающий список в точности равен переданному набору значений. Поиск элемента формы выполняется по имени.	"And in ""%1 TableName"" table drop-down list named ""%2 AttributeName"" is equal to:
+ |"" Value1 ""|
+ |"" Value2 ""|"	Checks if opened drop-down list is equal to the passed value set exactly. Form attribute search by name.
+И в таблице "%1 ИмяТаблицы" я открываю выпадающий список "%2 Заголовок списка"	Открывает выпадающий список	And in "%1 TableName" table I open "%2 AttributeHeader" drop-down list	Opens drop-down list
+И в таблице "%1 ИмяТаблицы" я открываю выпадающий список с именем "%2 ИмяСписка"	Открывает выпадающий список	And in "%1 TableName" table I open drop-down list named "%2 AttributeName"	Opens drop-down list
+И в таблице клиентов тестирования я активизирую строку '%1 ИмяКлиентаТестирования'	Актвизирует строку с нужным клиентом тестирования. Поиск строки просходит с начала по имени, затем по синониму.	And in test clients table I activate line "%1 TestClientName"	Activates the the line with the requires test client. String search first by name, then by synonym.
+И я вращаю колесо мышки "%1 Направление" "%2 3" раз с зажатой клавишей ctrl	Эмулирует вращение колеса мышки с зажатой клавишей Ctrl. Нужно для эмуляции изменения масштаба. Параметр <Направление> может принимать значения "Вверх" или "Вниз"	And I rotate "%1 Direction" mouse wheel "%2 Times" with CTRL pressed	Emulates mouse wheel rotation with the CTRL key pressed. It is necessary for scale change emulation. The <Direction> parameter value is "Up" or "Down"
+"И я выполняю код встроенного языка
+	| 'Сообщить(""Hellow world."")' |"	Позволяет выполнить произвольный код на встроенном языке. Код передаётся через таблицу Gherkin.	"And I execute 1C:Enterprise script
+ | ""Message (""Hello world."") "" |"	Allows execution of 1C:Enterprise language code. Code is passed through the Gherkin table.
+И Я запоминаю значение переменной среды '%1 MY_ENV_VAR' в переменную '%2 ЗначениеПеременнойСреды'	Позволяет сохранить переменную среды как переменную контекста.	And I save "%1 MY_ENV_VAR" environment variable value to the variable "%2 EnvironmentVariableValue"	Allows environment variable saving as a context variable.
+И я запоминаю строку "%1 НужнаяСтрока" в переменную "%2 ИмяПеременной"	Запоминает значение строки в переменную.	And I save "%1 RequiredLine" line to to the variable "%2 VariableName"	Saves line value into the variable.
+"И я рисую рамку вокруг картинки ""%1 ИмяКартинки""
+		|'Цвет'          | 'Зеленый'        |
+		|'Длительность'  | '2000'           |
+		|'Толщина'  	 | '3'           	|"	"Рисует рамку вокруг картинки.
+- Цвет (Color) - строка, из перечисления WebЦвета, например ""Зеленый"".
+- Длительность (Duration) - сколько милисекунд рамка будет находится на экране, например - 2000.
+- Толщина (Width) - толщина рамки, например - 3."	And I draw a frame around the picture "%1 PictureName"	Draws frame around the picture.
+И Я устанавливаю в константу "%1 ИмяКонстанты" значение "%2 ЗначениеКонстанты"	Устанавливает константе нужное значение.	And I set "%2 ConstantValue" value to the constant "%1 ConstantName"	Sets the required value of the constant.
+И я устанавливаю текущему сеансу заголовок приложения "%1 Управляющий сеанс"	Устанавливает текущему сеансу 1С нужный заголовок приложения.	And I set "%1 ManagerSession" application header to the current session	Sets the required header to the current 1C session.
+Дано я нажимаю ENTER	Эмулирует нажатие клавиши ENTER с помощью SikuliX.	Given I press ENTER	Emulates ENTER button pressing with SikuliX.
+Дано я нажимаю хоткей "%1 ХотКей" "%2 Модификатор"	Эмулирует нажатие хоткея с помощью SikuliX.	Given I press hotkey "%1 Hotkey" "%2 Modifier"	Emulates hotkey pressing with SikuliX.
+Если Файл "%1 ИмяФайла" существует тогда	Условие. Проверяет существование файла.	If "%1 File" Exists then	Condition. Checks file existence
+Затем я выгружаю базу "%1 СтрокаСоединенияСБазой" в DT "%2 ПутьКDT"	Выгружает базу в DT файл.	Then I dump "%1 DatabaseConnectionString" database to DT "%2 DTPath"	Dumps database to DT file.
+"Затем я рисую стрелку от ""%1 Картинка1"" до ""%2 Картинка2""
+		|'Цвет'          | 'Зеленый'        |
+		|'Длительность'  | '2000'           |
+		|'ТочкаКуда'     | 'СерединаНиз'    |
+		|'Толщина'  	 | '10'           	|"	"Рисует стрелку от одной картинки до другой. Поиск картинок на экране делается с помощью SikuliX. Если первый параметр равен пустой сроке, тогда точкой ""от"" будет центр экрана. Дополнительные параметры задаются через таблицу Gherkin. 
+- Цвет (Color) - строка, из перечисления WebЦвета, например ""Зеленый"".
+- Длительность (Duration) - сколько милисекунд стрелка будет находится на экране, например - 2000.
+- ТочкаКуда (PointTo), ТочкаОткуда (PointFrom) - место, в которое будет указывать/исходить стрелка. Возможные значения: СерединаНиз (MiddleDown), СерединаВерх (MiddleUp), СерединаПраво (MiddleRight), СерединаЛево (MiddleLeft), Центр (Center).
+- Толщина (Width) - толщина стрелки, например - 10."	"Then I draw an arrow from ""%1 Vanessa_Automation"" to ""%2 Scripts_Launch""
+		|'Color'          | Green'              |
+		|'Duration'     | '2000'                |
+		|'PointTo'       | 'MiddleDown'    |"	Draws an arrow from one picture to another. Image search is provided with SikuliX. If the first parameter is empty string, then "from" point is screen center. Additional parameters are specified in Gherkin table.
+И в таблице "%1 ИмяТаблицы" в текущее поле я ввожу текст "%2 НужныйМнеТекст"	Ввод текста в текущее поле таблицы.	And I input "%2 MyText" text in "%1 TableName" table	Text input to the current table field.
+И в таблице "%1 ИмяТаблицы" я активизирую колонку "%2 Заголовок колонки" в группе "%3 ИмяГруппыКолонок"	Активизирует поле таблицы в указанной группе колонок.	And I activate "%2 ColumnName" column in "%3 ColumnGroupName" column group of "%1 TableName" table	Activates table field in the specified column group.
+И в таблице "%1 ИмяТаблицы" я активизирую колонку с именем "%2 ИмяКолонки" в группе "%3 ИмяГруппыКолонок"	Активизирует поле таблицы в указанной группе колонок.	And I activate the column named "%2 ColumnName" in the colu"%3 ColumnGroupName" column group of "%1 TableName" table	Activates table field in the specified column group.
+"И в таблице ""%1 ИмяТаблицы"" я разворачиваю строку с подчиненными:
+		| 'ИмяКолонки' |
+		| 'ЗначениеКолонки' |"	Развернуть группу строк со всеми подчиненными строками. Нужен режим совместимости 8.3.13 или выше.	"And I expand a line and its subordinates in ""%1 TableName"" table
+ | ""ColumnName"" |
+ | ""ColumnValue"" |"	Expand lines group with subordinate lines. Compatibility mode 8.3.13 or greater is required.
+И в таблице "%1 ИмяТаблицы" я разворачиваю текущую строку с подчиненными	Развернуть текущую строку таблицы/дерева со всеми подчиненными строками. Нужен режим совместимости 8.3.13 или выше.	And I expand current line and its subordinates in "%1 TableName" table	Expands current line of the table/tree and its subordinates. Compatibility mode 8.3.13 or greater is required.
+И Файл "%1 ИмяФайла" существует	Проверяет существование файла.	And "%1 File" Exists	Checks file existence
+"И я выполняю код встроенного языка на сервере
+	| 'Сообщить(""Hellow world."")' |"	Позволяет выполнить произвольный код на встроенном языке на сервере. При этом можно вызвать метод Объект(), чтобы обратиться к объекту VA. Код передаётся через таблицу Gherkin.	"And I execute 1C:Enterprise script at server
+ | ""Message (""Hello world."") "" |"	Allows execution of 1C:Enterprise language code at server. Code is passed through the Gherkin table.
+И я добавляю информацию в лог "%1 Текст"	Делает запись строки в текстовый лог, который определен в настройке "Лог выполнения сценариев".	And I add information to log "%1 Text"	Writes the string to text log specified in "Script execution log" setting.
+И я жду картинки "%1 ИмяКартинки" в течение "%2 20" секунд	Ожидает появления картинки на экране в течение нужного числа секунд.	And I wait for "%1 ImageName" image in "%2 Timeout" seconds	Waits for the image appearance for secified number of seconds.
+"И я заполняю таблицу ""%1 ИмяТаблицы"" данными
+	| 'ИмяКолонки1' | 'ИмяКолонки2' |
+	| 'Значение1'     | 'Значение2'     |"	Заполняет указанную таблицу данными, переданными в таблице Gherkin. Предполагается, что целевая таблица изначально пустая, и в неё будут добавляться новые строки.	"And I fill ""%1 TableName"" table with data
+ | ""ColumnName1"" | ""ColumnName2"" |
+ | ""Value1"" | ""Value2"" |"	Fills the specified table with Gherkin table data.
+И я запоминаю версию конфигурации "%1 ИмяКонфигурации" как "%2 Версия"	Для типовых конфигураций. Требует наличия прав на открытие регистра сведений "ВерсииПодсистем".	And I save "%1 ConfigurationName" configuration version as "%2 Version"	For standard configurations. Requires rights for "SubsystemVersions" information register.
+И я запускаю SikuliX сервер	Запускает SikuliX сервер.	And I run SikuliX server	Runs SikuliX server.
+И я меняю значение переключателя '%1 Заголовок элемента' на '%2 Значение переключателя' по шаблону	Меняет значение переключателя (радиобаттона). При этом возможно использовать символ * в значении. Работает в 8.3.12 и выше.	And I change "%1 ItemHeader" switch value to "%2 SwitchValue" by template	Changes radiobutton value. You an use * character in the value. Works in 8.3.12 and greater.
+И я меняю значение переключателя с именем '%1 ИмяЭлемента' на '%2 Значение переключателя' по шаблону	Меняет значение переключателя (радиобаттона). При этом возможно использовать символ * в значении. Работает в 8.3.12 и выше.	And I change the switch named "%1 ItemHeader" value to "%2 SwitchValue" by template	Changes radiobutton value. You an use * character in the value. Works in 8.3.12 and greater.
+И я определяю координаты картинки "%1 ИмяКартинки" как "%2 ИмяПеременной"	Определяет коордианты картинки с помощью SikuliX и сохраняет структуру с координатами в переменную	And I define image coordinates "%1 ImageName " as " %2 VariableName"	Defines image coordinates with SikuliX and saves the structure containing coordinates into variable
+И я помещаю в буфер обмена строку '%1 Нужная строка'	Помещает строку в буфер обмена.	And I place "%1 Line" text to the clipboard	Places the text to the clipboard.
+"Когда Я подключаю уже запущенный клиент тестирования с параметрами:
+    | 'Имя'             | 'Синоним'        | 'Порт' | 'Строка соединения'                     | 'Логин' | 'Пароль' | 'Запускаемая обработка' |  'Дополнительные параметры строки запуска'  |
+    | 'ИмяПрофиля'      | 'СинонимПрофиля' | '1538' | 'Srvr=""localhost:1941"";Ref=""Test"";' | 'Админ' | 'Админ'  | 'c:\СуперОбработка.epf' |  '/UC'                                      |"	Подключает запущенный ранее клиент тестирования, который мог быть запущен из другой программы. Если сеанс не найден - выдёт исключение.	"When I connect already started TestClient with parameters
+ | ""Connection name"" | ""Synonym"" | ""Port"" | ""Connection String"" | ""Username"" | ""Password"" | ""Data processor"" | ""Additional command line parameters"" |
+ | ""ProfileName"" | ""ProfileSynonym"" | ""1538"" | ""Srvr=""localhost:1941"";Ref=""Test"";"" | ""Admin"" | ""Admin"" | ""c:\СуперОбработка.epf"" | ""/UC"" |"	Connect previously started test client, wich could be launched from another application. Raises an exception If the session is not found.
+Тогда значение поля "%1 Заголовок поля" не содержит текст "%2 Подстрока"	Проверка, что значение поля формы содержит текст	Then "%1 FieldName" field value does not contain "%2 Substring" text	Checks is form field value contains text
+Тогда значение поля с именем "%1 ИмяПоля" не содержит текст "%2 Подстрока"	Проверка, что значение поля формы содержит текст	Then the field named "%1 FieldName" value does not contain "%2 Substring" text	Checks is form field value contains text
+Тогда я удаляю файл "%1 ИмяФайла"	Удаляет файл.	Then I delete "%1 Filename" file	Deletes file
+Если установлен режим совместимости "%1 8.3.12" Тогда	Условие. Проверяет, что установлен нужный режим совместимости в базе, в которой запущен TestManager.	If compatibility mode for "%1 8.3.12" has been set Then	Condition. Checks if the required compatibility mode has been set in TestManager database.
+"И затем я выполняю код встроенного языка на сервере
+ | 'Сообщить(""Hellow world."")' |"	Позволяет выполнить произвольный код на встроенном языке на сервере. Код передаётся через таблицу Gherkin.	"And then I execute 1C:Enterprise script at server
+ | ""Message (""Hello world."") "" |"	Allows execution of 1C:Enterprise language code at server. Code is passed through the Gherkin table.
+И поле таблицы "%1 ИмяТаблицы" с именем "%2 ИмяРеквизита" имеет заголовок "%3 Заголовок"	Проверка, что у поля таблицы нужный заголовок. Поле ищется по внутреннему идентификатору.	And "%1 TableName" table field named "%2 AttributeName" has "%3 Title" header	Check if the table field has specified header. Field search by internal ID.
+И у поля таблицы "%1 ИмяТаблицы" с именем "%2 ИмяРеквизита" текст подсказки равен "%3 Текст подсказки"	Проверка, что у поля таблицы нужный текст подсказки. Поле ищется по внутреннему идентификатору.	And "%1 TableName" table field named "%2 AttributeName" has "%3 TooltipText" tooltip	Check if the table field has specified tooltip. Field search by internal ID.
+И элемент формы "%1 Заголовок поля" существует и невидим на форме	Проверка невидимости поля. Поле обязано существовать.	And "%1 FieldName" form attribute exists and is invisible	Field invisibility check. The field must exist.
+И элемент формы с именем "%1 ИмяПоля" существует и невидим на форме	Проверка невидимости поля. Поле обязано существовать.	And form attribute named "%1 FieldName" exists and is invisible	Field invisibility check. The field must exist.
+И я жду, что поле с именем "%1 ИмяПоля" перестанет быть пустым в течение "%2 30" секунд	Проверяет, что в течение нужного числа секунд текстовое поле станет заполненным.	And I wait the field named "%1 FieldName" will be filled in "%2 30" seconds	Waits for text field filling for specified number of seconds.
+И я нажимаю на кнопку текущего месяца	Нажимает на кнопку текущего месяца в форме ввода даты.	And I click current month button	Clicks current month button in date entry form.
+И я включаю проверку доступности элементов с учётом доступности групп элементов	Включает проверку доступности элементов с учетом родителя.	And I turn ON items availability checking considering item groups availability	Turns on availability check considering the parent.
+И я выключаю проверку доступности элементов с учётом доступности групп элементов	Выключает проверку доступности элементов с учетом родителя.	And I turn OFF items availability checking considering item groups availability	Turns off availability check considering the parent.
+Затем клик на картинку "%1 ИмяКартинки"	Эмулирует клик левой кнопкой мышки по картинке. Картинка, поиск которой будет происходить на экране, должна находится в каталоге проекта.	Then click "%1 PictureName" picture	Clicks the picture. Picture search area is the project directory.
+"И в группе ""%1 Заголовок группы"" не содержатся элементы
+	| 'ИмяЭлемента1' |
+	| 'ИмяЭлемента2' |"	Проверяет, что в группа с указанным заголовком не содержит элементы из таблицы. Элемент по умолчанию ищется заголовку. Чтобы искать по внутреннему имени нужно перед именем элемента добавить символ "!".	"And ""%1 GroupName"" group does not contain items
+ | Item1"" |
+ | Item2"" |"	Checks if the group with specified header does not contain table items. Default search mode for item is by header. To search by internal name add "!" as item name prefix.
+"И в группе ""%1 Заголовок группы"" содержатся элементы
+	| 'ИмяЭлемента1' |
+	| 'ИмяЭлемента2' |"	Проверяет, что в группа с указанным заголовком содержит элементы из таблицы. Элемент по умолчанию ищется заголовку. Чтобы искать по внутреннему имени нужно перед именем элемента добавить символ "!".	"And ""%1 GroupName"" group contains items
+ | Item1"" |
+ | Item2"" |"	Checks if the group with specified header contains table items. Default search mode for item is by header. To search by internal name add "!" as item name prefix.
+"И в группе с именем ""%1 ИмяГруппы"" не содержатся элементы
+	| 'ИмяЭлемента1' |
+	| 'ИмяЭлемента2' |"	Проверяет, что в группа с указанным заголовком не содержит элементы из таблицы. Элемент по умолчанию ищется заголовку. Чтобы искать по внутреннему имени нужно перед именем элемента добавить символ "!".	"And the group named ""%1 GroupName"" does not contain items
+ | Item1"" |
+ | Item2"" |"	Checks if the group with specified header does not contain table items. Default search mode for item is by header. To search by internal name add "!" as item name prefix.
+"И в группе с именем ""%1 ИмяГруппы"" содержатся элементы
+	| 'ИмяЭлемента1' |
+	| 'ИмяЭлемента2' |"	Проверяет, что в группа с указанным именем содержит элементы из таблицы. Элемент по умолчанию ищется заголовку. Чтобы искать по внутреннему имени нужно перед именем элемента добавить символ "!".	"And the group named ""%1 GroupName"" contains items
+ | Item1"" |
+ | Item2"" |"	Checks if the group with specified name contains table items. Default search mode for item is by header. To search by internal name add "!" as item name prefix.
+И в таблице "%1 ИмяТаблицы" у поля "%2 Заголовок элемента" я жду значения отличного от "%3 Значение" в течение "%4 20" секунд	Ожидает значения отличного от указанного в ячейке таблицы в текущей строке в течение указанного числа секунд. Ячейка указывается по её заголовку.	And I wait other than "%3 Value" value of "%2 FieldName" field in "%1 TableName" table for "%4 20" seconds	Awaits table cell value, different from the specified one in the current line for the specified number of seconds. The cell is specified by its header.
+И в таблице "%1 ИмяТаблицы" у поля с именем "%2 ИмяЭлемента" я жду значения отличного от "%3 Значение" в течение "%4 20" секунд	Ожидает значения отличного от указанного в ячейке таблицы в текущей строке в течение указанного числа секунд. Ячейка указывается по её имени.	And I wait other than "%3 Value" value of the field named "%2 FieldName" in "%1 TableName" table for "%4 20" seconds	Awaits table cell value, different from the specified one in the current line for the specified number of seconds. The cell is specified by its name.
+"И в таблице ""%1 ИмяТаблицы"" я перехожу к строке с переключением выделения:
+		| 'ИмяКолонки' |
+		| 'ЗначениеКолонки' |"	Переход к нужной строке данной таблицы со сменой выделения строки (клавиша Ctrl). Если обернуть значение с помощью символа $, тогда значение будет взято из переменной Контекст. Если $$, тогда из КонтекстСохраняемый.	"And I go to line in ""%1 TableName"" table and invert selection:
+ |""Name""|
+ | Item1"" |"	Move to the specific line in the table and selection switch (Ctrl button). The value is taken from Context variable if the value has been wrapped in "$" characters. If it is wrapped in "$$", then from SavedContext variable.
+"И панель разделов не содержит пункты меню
+	| 'ИмяЭлемента1' |
+	| 'ИмяЭлемента2' |"	Проверяет, что панель разделов не содержит элементы из переданной таблицы, содержащей пункты панели разделов.	"And section panel does not contain menu items
+ | Item1"" |
+ | Item2"" |"	Verifies that sections panel does not contain items from the passed table containing sections panel items.
+"И панель разделов равна
+	| 'ИмяЭлемента1' |
+	| 'ИмяЭлемента2' |"	Проверяет равенство панели разделов переданной таблице, содержащей пункты панели разделов.	"And section panel is equal to
+ | Item1"" |
+ | Item2"" |"	Verifies the equality of sections panel and the passed table containing sections panel items.
+"И панель разделов содержит пункты меню
+	| 'ИмяЭлемента1' |
+	| 'ИмяЭлемента2' |"	Проверяет, что панель разделов содержит элементы из переданной таблицы, содержащей пункты панели разделов.	"And section panel contains menu items
+ | Item1"" |
+ | Item2"" |"	Verifies that sections panel contains items from the passed table containing sections panel items.
+"И панель функций не содержит пункты меню
+	| 'ИмяЭлемента1' |
+	| 'ИмяЭлемента2' |"	Проверяет, что панель функций не содержит элементы из переданной таблицы, содержащей пункты панели функций.	"And functions panel does not contain menu items
+ | Item1"" |
+ | Item2"" |"	Verifies that functions panel does not contain items from the passed table containing functions panel items.
+"И панель функций равна
+	| 'ИмяЭлемента1' |
+	| 'ИмяЭлемента2' |"	Проверяет равенство панели функция переданной таблице, содержащей пункты панели функий.	"And functions panel is equal to
+ | Item1"" |
+ | Item2"" |"	Verifies the equality of functions panel and the passed table containing functions panel items.
+"И панель функций содержит пункты меню
+	| 'ИмяЭлемента1' |
+	| 'ИмяЭлемента2' |"	Проверяет, что панель функций содержит элементы из переданной таблицы, содержащей пункты панели функций.	"And functions panel contains menu items
+ | Item1"" |
+ | Item2"" |"	Verifies that functions panel contains items from the passed table containing functions panel items.
+И я включаю проверку видимости элементов с учётом видимости групп элементов	Включает проверку видимости элементов с учетом родителя.	And I turn ON items visibility checking considering item groups visibility	Turns on visibility check considering the parent.
+И я выключаю проверку видимости элементов с учётом видимости групп элементов	Выключает проверку видимости элементов с учетом родителя.	And I turn OFF items visibility checking considering item groups visibility	Turns off visibility check considering the parent.
+"И я запоминаю выделенные строки таблицы ""%1 Таблица1"" как ""%2 ИмяПеременной""
+	| 'ИмяКолонки1' |
+	| 'ИмяКолонки2' |"	Запоминает значение выделенных строк указанных колонок таблицы в переменную.	"And I save selected lines of ""%1 TableName"" table as ""%2 VariableName""
+ |ColumnName1 |
+ |ColumnName2 |"	Saves the values of specified columns in selected lines to the variable.
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я ввожу конец следующего месяца	Вводит в поле таблицы текстовое представление значения даты равной концу следующего месяца. Например "31.01.2018".	And I input next month end date in the field named "%2 FieldName" of "%1 TableName" table	Inputs text representation of next month end date to the table field. E.g. "31.01.2018".
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я ввожу конец текущего месяца	Вводит в поле таблицы текстовое представление значения даты равной концу текущего месяца. Например "31.01.2018".	And I input current month end date in the field named "%2 FieldName" of "%1 TableName" table	Inputs text representation of current month end date to the table field. E.g. "31.01.2018".
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я ввожу начало следующего месяца	Вводит в поле таблицы текстовое представление значения даты равной началу следующего месяца. Например "01.01.2018".	And I input next month beginning date in the field named "%2 FieldName" of "%1 TableName" table	Inputs text representation of next month begin date to the table field. E.g. "01.01.2018".
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я ввожу начало текущего месяца	Вводит в поле таблицы текстовое представление значения даты равной началу текущего месяца. Например "01.01.2018".	And I input current month beginning date in the field named "%2 FieldName" of "%1 TableName" table	Inputs text representation of current month begin date to the table field. E.g. "01.01.2018".
+И в таблице "%1 ИмяТаблицы" заголовок активной колонки "%2 Текст"	Проверяет, что у активная колока таблицы имеет нужный заголовок	And in "%1 TableName" table active column header is "%2 Text"	Checks if active column of the table has the required header
+И в таблице "%1 ИмяТаблицы" имя активной колонки "%2 Текст"	Проверяет, что у активная колока таблицы имеет нужное имя	And in "%1 TableName" table active column name is "%2 Text"	Checks if active column of the table has the required name
+И таблица "%1 ИмяПеременной1" содержится в таблице "%2 ИмяПеременной2"	Проверяет, что одна таблица содержится в другой. Значения таблиц должны были быть сохранены ранее с помощью шага: И я запоминаю значение таблицы "Таблица1" как "Таб1"	And the table "%1 Variable1" is included in the table "%2 Variable2"	Checks if one table is included into another. Table values should have been saved using the step: And I save the value of "Table1" table as "Tab1"
+И я жду, что в табличном документе "%1 ИмяРеквизита" ячейка "%2 АдресЯчейки" станет равна "%3 Значение" в течение "%4 20" секунд	Ожидает в течение нужного числа секунд, что нужная ячейка табличного документа станет равна заданному значению.	And I wait "%2 CellAddress" cell in "%1 SpreadsheetDocName" spreadsheet document becomes equal to "%3 Value" for "%4 20" seconds	Waits the required spreadsheet document cell becomes equal to the specified value for the specified number of seconds.
+"И я жду, что таблица ""%1 ИмяТаблицы"" станет содержать строки в течение ""%2 20"" секунд:
+	| ИмяКолонки1 | ИмяКолонки2 |
+	| Значение1 | Значение2 |"	Проверяет, что таблица TestClient станет содержать в себе строки из переданной таблицы Gherkin в течение нужного числа секунд.	"And I wait that ""%1 TableName"" table will contain lines for ""%2 20"" seconds
+ | ColumnName1 | ColumnName2 |
+ | Value1 | Value2 |"	Checks if the TestClient table will contain Gherkin table lines for the specified number of seconds.
+И я запоминаю значение поля "%1 Заголовок поля" таблицы "%2 ИмяТаблицы" как "%3 ИмяПеременной"	Сохранение значения поля таблицы в переменную Контекст	And I save the value of "%1 FieldName" field of "%2 TableName" table as "%3 VariableName"	Save table field value to Context variable
+И я запоминаю значение поля с именем "%1 ИмяПоля" таблицы "%2 ИмяТаблицы" как "%3 ИмяПеременной"	Сохранение значения поля таблицы в переменную Контекст	And I save the value of the field named "%1 FieldName" of "%2 TableName" table as "%3 VariableName"	Save table field value to Context variable
+"И я запоминаю значение таблицы ""%1 Таблица1"" как ""%2 ИмяПеременной""
+	| 'ИмяКолонки1' |
+	| 'ИмяКолонки2' |"	Запоминает значение указанных колонок таблицы в переменную.	And I save the value of "%1 TableName" table as "%2 VariableName"	Saves specified table columns values into the variable
+И я запоминаю имя текущего поля как "%1 ИмяПеременной"	Запоминает имя активного поля в переменную	And I save the current field name as "%1 VariableName"	Saves active field name into the variable
+"Когда в логе сообщений TestClient есть сообщения только из списка
+	| 'Сообщение1' |
+	| 'Сообщение2' |"	Проверяет, что с сообщениях пользователя есть только те сообщения, которые указаны в списке. Порядок сообщений неважен.	"When TestClient messages log contains messages from the list only
+ | ""Message1"" |
+ | ""Message2"" |"	Checks if user messages contain only messages from the list. Messages order is not important.
+И в таблице текущее поле заполнено	Проверяет, что текущая ячейка текущей таблицы заполнена.	And current field in the table is filled	Checks if current cell of the current table is filled.
+И в таблице текущее поле не заполнено	Проверяет, что текущая ячейка текущей таблицы не заполнена.	And current field in the table is not filled	Checks if current cell of the current table is blank.
+"И выпадающий список ""%1 Заголовок элемента"" не содержит значения
+	| 'Значение1' |
+	| 'Значение2' |"	Проверяет, что открытый выпадающий список не содержит ни одного значения из переданного набора значений. Поиск элемента формы выполняется по заголовку.	"And ""%1 AttributeName"" drop-down list does not contain values
+ | Value1 |
+ | Value2 |"	Checks if opened drop-down list contains no values from the passed value set. Form attribute search by header.
+"И выпадающий список ""%1 Заголовок элемента"" содержит значения
+	| 'Значение1' |
+	| 'Значение2' |"	Проверяет, что открытый выпадающий список в содержит каждое значение из переданного набора значений. Поиск элемента формы выполняется по заголовку.	"And ""%1 AttributeName"" drop-down list contains values
+ | Value1 |
+ | Value2 |"	Checks if opened drop-down list contains all values from the passed value set. Form attribute search by header.
+"И выпадающий список ""%1 Заголовок элемента"" стал равен:
+	| 'Значение1' |
+	| 'Значение2' |"	Проверяет, что открытый выпадающий список в точности равен переданному набору значений. Поиск элемента формы выполняется по заголовку.	"And drop-down list ""%1 AttributeName"" is equal to:
+ | Value1 |
+ | Value2 |"	Checks if opened drop-down list is equal to the passed value set exactly. Form attribute search by header.
+"И выпадающий список с именем ""%1 ИмяЭлемента"" не содержит значения
+	| 'Значение1' |
+	| 'Значение2' |"	Проверяет, что открытый выпадающий список не содержит ни одного значения из переданного набора значений. Поиск элемента формы выполняется по имени.	"And drop-down list named ""%1 AttributeName"" does not contain values
+ | Value1 |
+ | Value2 |"	Checks if opened drop-down list contains no values from the passed value set. Form attribute search by name.
+"И выпадающий список с именем ""%1 ИмяЭлемента"" содержит значения
+	| 'Значение1' |
+	| 'Значение2' |"	Проверяет, что открытый выпадающий список в содержит каждое значение из переданного набора значений. Поиск элемента формы выполняется по имени.	"And drop-down list named ""%1 AttributeName"" contains values
+ | Value1 |
+ | Value2 |"	Checks if opened drop-down list contains all values from the passed value set. Form attribute search by name.
+"И выпадающий список с именем ""%1 ИмяЭлемента"" стал равен:
+	| 'Значение1' |
+	| 'Значение2' |"	Проверяет, что открытый выпадающий список в точности равен переданному набору значений. Поиск элемента формы выполняется по имени.	"And drop-down list named ""%1 AttributeName"" is equal to:
+ | Value1 |
+ | Value2 |"	Checks if opened drop-down list is equal to the passed value set exactly. Form attribute search by name.
+И у поля "%1 Заголовок поля" я нажимаю гиперссылку '%2 ИмяГиперссылки'	Нажимает на гиперссылку в поле с данным заголовком. Гиперссылка задаётся либо по её представлению, либо по номеру.	And I click "%2 HyperlinkName" hyperlink of "%1 FieldName" field	Clicks the hyperlink in the field with required header. Hyperlink search either by presentation or number.
+И у поля с именем "%1 ИмяПоля" я нажимаю гиперссылку '%2 ИмяГиперссылки'	Нажимает на гиперссылку в поле с данным заголовком. Гиперссылка задаётся либо по её представлению, либо по номеру.	And I click "%2 HyperlinkName" hyperlink of the field named "%1 FieldName"	Clicks the hyperlink in the field with required header. Hyperlink search either by presentation or number.
+И я выполняю скрипт SikuliX "%1 ИмяСкрипта"	Выполняет скрипт SikuliX. Скрипт сначала ищется в кталоге проекта, за тем в каталогах библиотек, затем в стандартных скриптах Vanessa-Automation.	And I execute "%1 ScriptName" SikuliX script	Executes SikuliX script. Script search order: Project catalog, then Library catalogs, then Vanessa-Automation standard scripts.
+И я жду, что в таблице текущее поле будет заполнено в течение "%1 10" секунд.	Проверяет, что текущая ячейка текущей таблицы перестанет быть пустой в течение нужного числа секунд.	And I wait current table field filling in "%1 Timeout" seconds	Checks for the current cell of the current table become filled in required number of seconds.
+И я жду, что в таблице текущее поле будет не заполнено в течение "%1 10" секунд.	Проверяет, что текущая ячейка текущей таблицы станет пустой в течение нужного числа секунд.	And I wait current table field remaining blank in "%1 Timeout" seconds	Checks for the current cell of the current table become blank in required number of seconds.
+И я устанавливаю максимальное время выполнения действия	Устанавливает максимальное время выполнения действий, которые возвращают значение в менеджер тестирования.	And I set the maximum action duration	Sets maximum duration for the actions that return values to the Test manager.
+Если это web клиент Тогда	Условие. Проверяет, что текущий TestClient - это web клиент.	If it is Web client Then	Condition. Checks if the current TestClient is Web client.
+Если это тонкий клиент тогда	Условие. Проверяет, что текущий TestClient - это тонкий клиент.	If it is Thin client then	Condition. Checks if the current TestClient is Thin client.
+И в таблице "%1 ИмяТаблицы" у поля "%2 Заголовок элемента" я жду значения "%3 Значение" в течение "%4 20" секунд	Ожидает значения в ячейке таблицы в текущей строке в течение указанного числа секунд. Ячейка указывается по её заголовку.	And I wait "%3 Value" value of "%2 FieldName" field in "%1 TableName" table for "%4 20" seconds	Awaits table cell value in the current line for the specified number of seconds. The cell is specified by its header.
+И в таблице "%1 ИмяТаблицы" у поля с именем "%2 ИмяЭлемента" я жду значения "%3 Значение" в течение "%4 20" секунд	Ожидает значения в ячейке таблицы в текущей строке в течение указанного числа секунд. Ячейка указывается по её имени.	And I wait "%3 Value" value of the field named "%2 FieldName" in "%1 TableName" table for "%4 20" seconds	Awaits table cell value in the current line for the specified number of seconds. The cell is specified by its name.
+"И файл ""%1 ИмяФайла"" не содержит строки
+	|""ПодСтрока1""|
+	|""ПодСтрока2""|"	Проверяет, что файле нет указанных строк/подстрок.	"And ""%1 FileName"" file does not contain lines
+ |""SubString1""|
+ |""SubString2""|"	Checks if the file does not contain the specified strings/substrings.
+"И файл ""%1 ИмяФайла"" содержит строки
+	|""ПодСтрока1""|
+	|""ПодСтрока2""|"	Проверяет, что файле есть указанные строки/подстроки.	"And ""%1 FileName"" file contains lines
+ |""SubString1""|
+ |""SubString2""|"	Checks if the file contains the specified strings/substrings.
+Когда в логе сообщений TestClient нет строки "%1 Нужное сообщение пользователю"	Проверяет в логе сообщений отсутствие нужной строки.	When TestClient log message does not contain "%1 RequiredUserMessage" string	Checks if the message log does not contain the required line.
+Тогда в окне сообщений пользователю нет сообщений	Проверяет, что в окне сообщений пользователю нет сообщений.	Then user message window does not contain messages	Checks is user message window does not contain messages.
+Дано В последнем сообщении TestClient есть строка по шаблону "%1 Д*"	Шаг позволяет проверить содержание самого нового сообщения пользователю. Допускается использовать символ *.	Given Recent TestClient message contains "%1 Y*" string by template	Step checks the content of the newest user message. "*" character is allowed.
+И В последнем сообщении TestClient нет строки "%1 Нет"	Шаг позволяет проверить, что в самом новом сообщении пользователю нет указанной строки.	And Recent TestClient message does not contain "%1 No" string	Step checks if the newest user message doesn't contain the specified substring.
+И я делаю "%1 10" раз	Цикл. Выполняет нужные действия указанное число раз. Можно прервать с помощью шага <Тогда я прерываю цикл>	And I repeat "%1 10" times	Loop. Repeats the required actions specified number of times. Can be interrupted by step <Then I interrupt the loop>
+И я закрываю главное окно TestClient	Закрывает главное окно TestClient. Равносильно нажатию на крестик на главном окне приложения. Обработку диалогов, которые могут возникнуть при закрыти приложения, должен обеспечить сам сценарий.	And I close TestClient main window	Closes TestClient main window. It is equivalent to cllicking the "X" button on application main window. The script itself should process the dialogs on closing the application.
+И в текущее поле я ввожу текст "%1 ЗначениеПоля"	Вводит в активное поле формы (не таблицы) переданное значение	And I input "%1 FieldValue" text to the current field	Inputs the passed value to the active field of the form (not of the table)
+И я жду доступности элемента "%1 Заголовок элемента" в течение "%2 20" секунд	Ожидание доступности элемента формы с нужным заголовком в течение указанного числа секунд	And I wait "%1 AttributeName" attribute availability in "%2 Timeout" seconds	Waiting for form attribute with required header availability in specified number of seconds
+И я жду доступности элемента с именем "%1 ИмяЭлемента" в течение "%2 20" секунд	Ожидание доступности элемента формы с нужным именем в течение указанного числа секунд	And I wait the attribute named "%1 AttributeName" availability in "%2 Timeout" seconds	Waiting for form attribute with the required name availability in specified number of seconds.
+И я запоминаю значение текущего поля как "%1 ИмяПеременной"	Запоминает значение активного поля (не таблицы) в переменную	And I save the current field value as "%1 VariableName"	Saves the active field (not the table) to the variable
+И в таблице "%1 ИмяТаблицы" в поле '%2 Заголовок поля' я ввожу значение выражения "%3 Выражение"	Вычисляет выражение и вводит результат в поле таблицы	And I input "%3 Expression" expression value in "%2 FieldName" field in "%1 Table"	Calculates the expression and inputs the result to the field
+И в таблице "%1 ИмяТаблицы" в поле с именем '%2 ИмяПоля' я ввожу значение выражения "%3 Выражение"	Вычисляет выражение и вводит результат в поле таблицы	And I input "%3 Expression" expression value in the field named "%2 FieldName" in "%1 Table"	Calculates the expression and inputs the result to the field
+Если в таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяПоля" имеет значение "%3 ЗначениеПоля" тогда	Условие. Проверяет значение ячейки таблицы. Имя ячейки указывается как оно задано в конфигураторе.	If the field named "%2 FieldName" in "%1 TableName" table is set to "%3 FieldValue" Then	Condition. Checks table cell value. Cell name is specified as it appears in the Designer.
+Если текущее окно имеет заголовок "%1 Заголовок окна" Тогда	Условие. Проверяет, что в данный момент активным окном является окно с нужным заголовком	If current window header is "%1 WindowName" Then	Condition. Checks if currently active window is the one with required header
+Затем я загружаю базу "%1 СтрокаСоединенияСБазой" из DT "%2 ПутьКDT"	Загружает базу из DT файла.	Then I upload "%1 DatabaseConnectionString" database from DT "%2 DTPath"	Uploads database from DT file.
+Затем я создаю пустую базу "%1 ПараметрыСозданияБазы"	Создаёт пустую базу по указанным параметрам.	Then I create empty database "%1 DatabaseCreationParameters"	Creates empty database by specified parameters.
+"И в таблице ""%1 ИмяТаблицы"" я перехожу к строке по шаблону
+	|'ИмяКолонки'|
+	|'*ЧастьСтроки*'|"	Переход к строке таблицы, когда в значении колонок встречаются символы *. Также символы * могут встречаться и в именах колонок.	"And I go to line in ""%1 TableName"" table by template
+ |""Name""|
+ |""*Substring*""|"	Move to the table line, if column values contain * characters
+И в таблице "%1 ИмяТаблицы" я снимаю флаг с именем "%2 ИмяФлага"	Устанавливает флаг в Ложь	And I remove checkbox named "%2 CheckboxName" in "%1 TableName" table	Sets checkbox to False
+И в таблице "%1 ИмяТаблицы" я устанавливаю флаг с именем "%2 ИмяФлага"	Устанавливает флаг в Истина	And I set checkbox named "%2 CheckboxName" in "%1 TableName" table	Sets checkbox to True
+И я фиксирую текущую форму	Фиксирует форму, с которой будет работать пользователь. Т.е. поиск элементов будет происходить только в этой форме.	And I fix current form	Fixes the form the user works with. I.e. elements search will only be performed in this form.
+"Когда Я копирую текущий профиль TestClient с установкой параметров:
+    | 'Имя'             | 'Синоним'        | 'Порт' | 'Строка соединения'                     | 'Логин' | 'Пароль' | 'Запускаемая обработка' |  'Дополнительные параметры строки запуска'  |
+    | 'ИмяПрофиля'      | 'СинонимПрофиля' | '1538' | 'Srvr=""localhost:1941"";Ref=""Test"";' | 'Админ' | 'Админ'  | 'c:\СуперОбработка.epf' |  '/UC'                                      |"	Копирует текущий активный профиль TestClient и устанавилвает в копии новые значение параметров. Если профиль с требуемым именем уже есть, то он будет перезаписан, иначе будет создан новый. Все параметры подключения указываются в таблице Gherkin, в которой должно быть две строки: первая строка с именами параметров, вторая строка со значениями параметров.	"When I copy current TestClient profile with parameters: 
+ | ""Connection name"" | ""Synonym"" | ""Port"" | ""Connection String"" | ""Username"" | ""Password"" | ""Data processor"" | ""Additional command line parameters"" |
+ | ""ProfileName"" | ""ProfileSynonym""|""1538"" | ""Srvr=""localhost:1941"";Ref=""Test"";"" | ""Admin"" | ""Admin"" | ""c:\SuperDataProcessor.epf"" | ""/UC"" |"	Copies current active TestClient profile and sets new parameters values in the copy. If the profile with required name exists, it will be overwritten, otherwise the new one will be created.  All connection parameters are specified in Gherkin table, where two lines to be: first line with parameter names, second with parameter values.
+Если таблица "%1 ИмяТаблицы" равна макету "%2 ИмяМакета" тогда	Условие. Истинно, если в таблица равна переданному макету.	If "%1 TableName" table is equal to "%2 TemplateName" Then	Condition. True if the table is equal to the passed template.
+"Если таблица ""%1 ИмяТаблицы"" равна переданной тогда
+	| 'Имя колонки' |
+	| 'Значение'               |"	Условие. Истинно, если в таблица равна переданной таблице Gherkin.	"If ""%1 TableName"" table is equal to the passed table Then
+ | ""Column name"" |
+ | ""Value"" |"	Condition. True if the table is equal to the passed Gherkin table.
+И в поле "%1 Заголовок поля" я ввожу конец следующего месяца	Вводит в поле текстовое представление значения даты равной концу следующего месяца. Например "31.01.2018".	And I input end of the next month date in "%1 FieldName" field	Inputs text representation of next month end date to the field. E.g. "31.01.2018".
+И в поле "%1 Заголовок поля" я ввожу конец текущего месяца	Вводит в поле текстовое представление значения даты равной концу текущего месяца. Например "31.01.2018".	And I input end of the current month date in "%1 FieldName" field	Inputs text representation of current month end date to the field. E.g. "31.01.2018".
+И в поле "%1 Заголовок поля" я ввожу начало следующего месяца	Вводит в поле текстовое представление значения даты равной началу следующего месяца. Например "01.01.2018".	And I input begin of the next month date in "%1 FieldName" field	Inputs text representation of next month begin date to the field. E.g. "01.01.2018".
+И в поле "%1 Заголовок поля" я ввожу начало текущего месяца	Вводит в поле текстовое представление значения даты равной началу текущего месяца. Например "01.01.2018".	And I input begin of the current month date in "%1 FieldName" field	Inputs text representation of current month begin date to the field. E.g. "01.01.2018".
+И я прикрепляю к сценарию значение таблицы "%1 ИмяТаблицы" как "%2 ИмяЗначения"	Прикрепляет к сценарию указанную таблицу. Параметр "ИмяЗначения" будет использован для имени файла. Прикрепленные данные пойдут в отчет о выполнении сценария.	And I attach "%1 TableName" table value to the script as "%2 ValueName"	Attaches the specified table to the script. "ValueName" parameter will be used as the file name. Attached data will go into the script report.
+И из выпадающего списка с именем "%1 ИмяПоля" я выбираю по строке "%2 ЧастьСтроки"	Выбор из выпадающего списка. Значение будет выбрано через ввод по строке. Допускается вводить строку не целиком.	And I select from the drop-down list named "%1 FieldName"  by "%2 StringPart" string	Select from drop-down list. The value will be selected through input by string. Allowed to input not entire line.
+И таблица "%1 ИмяТаблицы" не содержит строки из макета "%2 ИмяМакета"	Проверяет, что таблица TestClient содержит строки таблицы из макета. Т.е. если в таблице в TestClient 10 строк, то в шаге можно проверять наличие, например, только 3 строк. Также строки указанные в макете могут идти в любом порядке.	And "%1 TableName" table does not contain "%2 TemplateName" template lines	Checks if TestClient table contains the lines from template. I.e. if in the table at TestClient contains 10 lines, then in step you can check, for example, only 3 lines. Also the strings specified in the template may go in any order.
+И таблица "%1 ИмяТаблицы" содержит строки из макета "%2 ИмяМакета"	Проверяет, что таблица TestClient содержит строки таблицы из макета. Т.е. если в таблице в TestClient 10 строк, то в шаге можно проверять наличие, например, только 3 строк. Также строки указанные в макете могут идти в любом порядке.	And "%1 TableName" table contains "%2 TemplateName" template lines	Checks if TestClient table contains the lines from template. I.e. if in the table at TestClient contains 10 lines, then in step you can check, for example, only 3 lines. Also the strings specified in the template may go in any order.
+И я отменяю фиксирование формы	Снимает фиксирование формы.	And I cancel form fixation	Cancels form fixation.
+И я фиксирую форму "%1 ИмяФормы"	Фиксирует форму, с которой будет работать пользователь. Т.е. поиск элементов будет происходить только в этой форме.	And I fix "%1 FormName" form	Fixes the form the user works with. I.e. elements search will only be performed in this form.
+И я фиксирую форму с именем "%1 ИмяФормы"	Фиксирует форму, с которой будет работать пользователь. Т.е. поиск элементов будет происходить только в этой форме.	And I fix the form named "%1 FormName"	Fixes the form the user works with. I.e. elements search will only be performed in this form.
+И в таблице "%1 ИмяТаблицы" из выпадающего списка "%2 Заголовок поля" я выбираю по строке "%3 ЗначениеПоля"	Выбор значения из выпадающего списка. Сначала будет ввод по строке указанного значения, затем будет выбрано первое значение из списка.	And I select "%3 FieldValue" from "%2 FieldName" drop-down list by string in "%1 TableName" table	Select value from drop-down list. First input specified value by string, then select first value from the list.
+И в таблице "%1 ИмяТаблицы" из выпадающего списка "%2 Заголовок поля" я выбираю точное значение "%3 ЗначениеПоля"	Выбор значения из выпадающего списка. Должно быть указано точное значение	And I select "%3 FieldValue" exact value from "%2 FieldName" drop-down list in "%1 TableName" table	Select value from drop-down list. Exact value should be specified.
+И в таблице "%1 ИмяТаблицы" из выпадающего списка с именем "%2 ИмяПоля" я выбираю по строке "%3 ЗначениеПоля"	Выбор значения из выпадающего списка. Сначала будет ввод по строке указанного значения, затем будет выбрано первое значение из списка.	And I select "%3 FieldValue" by string from the drop-down list named "%2 FieldName" in "%1 TableName" table	Select value from drop-down list. First input specified value by string, then select first value from the list.
+И в таблице "%1 ИмяТаблицы" из выпадающего списка с именем "%2 ИмяПоля" я выбираю точное значение "%3 ЗначениеПоля"	Выбор значения из выпадающего списка	And I select "%3 FieldValue" exact value from the drop-down list named "%2 FieldName" in "%1 TableName" table	Select value from drop-down list
+И в таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяПоля" имеет значение "%3 ЗначениеПоля"	Проверка значения поля (ячейки) текущей строки таблицы	And the field named "%2 FieldName" in "%1 TableName" table is equal to "%3 FieldValue"	Current table line field value check
+И из выпадающего списка "%1 Заголовок поля" я выбираю по строке "%2 ЧастьСтроки"	Выбор из выпадающего списка. Значение будет выбрано через ввод по строке. Допускается вводить строку не целиком.	And I select from "%1 FieldName" drop-down list by "%2 StringPart" string	Select from drop-down list. The value will be selected through input by string. Allowed to input not entire line.
+И я выбираю пункт контекстного меню с именем "%1 ИмяПунктаМеню" на элементе формы "%2 Заголовок поля"	Выбирает нужный пункт контекстного меню у элемента формы	And I select context menu item named "%1 MenuItemName" of "%2 FormAttribute" form attribute	Selects the specified context menu item of form attribute
+И я выбираю пункт контекстного меню с именем "%1 ИмяПунктаМеню" на элементе формы с именем "%2 ЭлементФормы"	Выбирает нужный пункт контекстного меню у элемента формы	And I select context menu item named "%1 MenuItemName" of the form attribute named "%2 FormAttribute"	Selects the specified context menu item of form attribute
+Если в таблице "%1 ИмяТаблицы" поле "%2 Заголовок поля" имеет значение "%3 ЗначениеПоля" тогда	Условие. Проверяет значение ячейки таблицы. Имя ячейки указывается как оно отображено в заголовке.	If "%2 FieldName" field in "%1 TableName" table is set to "%3 FieldValue" Then	Condition. Checks table cell value. Cell name is specified as it appears in the Designer.
+И в течение "%1 100" секунд я выполняю	Цикл. Выполняет действия в цикле в течение заданного числа секунд. По истечении времени вызывает исключение, если не был вызван шаг <Тогда я прерываю цикл>	And for "%1 10" seconds I do	Do. Executes loop actions for specified number of seconds. Raises an exception upon time expiration.
+И представление элемента "%1 Заголовок элемента" стало равно "%2 ПредставлениеЭлемента"	Проверяет представление элемента формы. Работает, начиная с 8.3.12.	And "%1 AttributeName" attribute presentation became equal to "%2 AttributePresentation"	Checks form attribute presentation. Works starting from 8.3.12.
+И представление элемента с именем "%1 ИмяЭлемента" стало равно "%2 ПредставлениеЭлемента"	Проверяет представление элемента формы. Работает, начиная с 8.3.12.	And the attribute named "%1 AttributeName" presentation became equal to "%2 AttributePresentation"	Checks form attribute presentation. Works starting from 8.3.12.
+И я очищаю каталог "%1 ИмяКаталога"	Очищает указанный каталог.	And I clear "%1 DirectoryName" directory	Clears the specified directory
+И я создаю каталог "%1 ИмяКаталога"	Создает каталог с указанным именем, если его нет, а также все его подкаталоги.	And I create "%1 DirectoryName" directory	Creates the directory with the specified name, if it does not exist
+Тогда я прерываю цикл	Устанавливает признак, что надо завершить выполнение цикла	Then I interrupt the loop	Sets the loop completion mark.
+И в таблице "%1 ИмяТаблицы" я перехожу к предыдущей ячейке	Переходит к предыдущей ячейки таблицы	And in "%1 TableName" table I move to the previous cell	Moves to the previous table cell
+И в таблице "%1 ИмяТаблицы" я перехожу к следующей ячейке	Переходит к следующей ячейки таблицы	And in "%1 TableName" table I move to the next cell	Moves to the next table cell
+Дано я создаю таблицу в памяти "%1 Команды"	Создает пустую таблицу (массив структур) в памяти	Given I create table in memory "%1 Command"	Creates empty table (structures array) in memory
+"Если в таблице ""%1 ИмяТаблицы"" нет строк Тогда
+	| 'Имя колонки' |
+	| 'Значение'               |"	Условие. Истинно, если в таблице нет нужных строк.	"If ""%1 TableName"" table does not contain lines Then
+	| ""Column name"" |
+	| ""Value"" |"	Condition. True if the table does not contain the required lines.
+Если Во временной Таблице "%1 КомандыСОшибкой" количество строк "%2 больше" "%3 0" Тогда	Условие. Проверяет количество строк во временной таблице	If "%1 ErrorCommands" temporary table line number is "%2 ComparisonType" than "%3 0" Then	Condition. Checks line number in temporary table
+Если появилось окно предупреждения с одной кнопкой "%1 ОК" Тогда	Условие. Проверяет, что на экране появилось окно предупреждения	If the warning box with one button "%1 OK" appeared Then	Condition. Checks if warning window appears
+И в меню формы я выбираю "%1 ИмяПунктаМеню"	Выбирает значение из пункта меню. Например, когда происходит расшифровка отчета.	And on the form menu I select "%1 MenuItemName"	Selects menu item value E.g., on report details generating
+И в поле "%1 Год" я ввожу значение текущего года	Вводит в указанное поле номер года.	And I input current year value in "%1 Year" field	Inputs year number in the specified field
+И в поле "%1 Заголовок поля" я увеличиваю значение	Увеличивает значение поля в помощью специальной кнопки	And I increase value of "%1 FieldName" field	Increases field value by specific button
+И в поле "%1 Заголовок поля" я уменьшаю значение	Уменьшает значение поля в помощью специальной кнопки	And I decrease value of "%1 FieldName" field	Decreases field value by specific button
+И в поле с именем "%1 ИмяПоля" я ввожу номер длины "%2 17" полученный из текущей даты и времени	Вводит в поле ввода текст вида 00020180101101112	And in the field named "%1 FieldName" I input number of "%2 17" characters received from current date and time	Inputs text of '00020180101101112' kind to the input field
+И в поле с именем "%1 ИмяПоля" я ввожу номер полученный из текущей даты и времени	Вводит в поле ввода текст вида 20180101101112	And I input number received from current date and time in the field named "%1 FieldName"	Inputs text of '20180101101112' kind to the input field
+И в поле с именем "%1 ИмяПоля" я увеличиваю значение	Увеличивает значение поля в помощью специальной кнопки	And I increase value of field named "%1 FieldName"	Increases field value by specific button
+И в поле с именем "%1 ИмяПоля" я уменьшаю значение	Уменьшает значение поля в помощью специальной кнопки	And I decrease value of field named "%1 FieldName"	Decreases field value by specific button
+И в таблице "%1 ИмяТаблицы" в поле "%2 Заголовок поля" я увеличиваю значение	Увеличивает значение поля в помощью специальной кнопки	And I increase value of "%2 FieldName" field in "%1 TableName" table	Increases field value by specific button
+И в таблице "%1 ИмяТаблицы" в поле "%2 Заголовок поля" я уменьшаю значение	Уменьшает значение поля в помощью специальной кнопки	And I decrease value of "%2 FieldName" field in "%1 TableName" table	Decreases field value by specific button
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я увеличиваю значение	Увеличивает значение поля в помощью специальной кнопки	And I increase value of field named "%2 FieldName" in "%1 TableName" table	Increases field value by specific button
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я уменьшаю значение	Уменьшает значение поля в помощью специальной кнопки	And I decrease value of field named "%2 FieldName" in "%1 TableName" table	Decreases field value by specific button
+И в форме выбора периода я выбираю текущий месяц	Нажимает на кнопку, которая соответствует текущему месяцу в форме выбора периода.{ОбщаяФорма.ВыборПериода}	And I select current month in period choice form	Clicks the button that corresponds to the current month in period selection form.{CommonForm.PeriodSelection}
+И для каждой строки таблицы "%1 ТаблицаОбъектовМетаданных" я открываю нужную форму списка	Цикл. Открывает форму списка по текущей строке таблицы	And I open required list form for each line of "%1 MetadataObjectsTable" table	Do Opens list form by current table line
+И для каждой строки таблицы отбора я устанавливаю отбор в списке	Шаг выставляет отбор в форме списка, когда уже открыта форма отбора.	And for each filter line I set the filter in the list	Step sets list form filter, when filter form is already open.
+И для каждой строки таблицы отбора я устанавливаю отбор в списке если это возможно	Шаг выставляет отбор в форме списка, когда уже открыта форма отбора. Не вызывает исключение, если нет такого фильтра в списке.	And for each filter line I set the filter in the list if available	Step sets list form filter, when filter form is already open. Does not raise the exception if filter is not in the list.
+"И затем я выполняю код встроенного языка
+	| 'Сообщить(""Hellow world."")' |"	Позволяет выполнить произвольный код на встроенном языке. Код передаётся через таблицу Gherkin.	And then I execute 1C:Enterprise script	Allows execution of 1C:Enterprise language code
+И У гиперссылки "%1 СтрокаПоискаГиперссылки" элемента формы "%2 ЧастьИмениЭлементаФормы" я нажимаю на ссылку "%3 ЗначениеГиперссылки" программно	Позволяет нажать на гиперссылку программно. Необходимо подключить расширение "Гиперссылки".	And I program click "%3 HyperlinkValue" hyperlink value of "%1 LinkSearchString" hyperlink " on "%3 PartOfFormName" Form attribute	Allows program hyperlink click. "Hyperlinks" extension required.
+И у поля календаря "%1 Заголовок поля" я выбираю дату	Делает выбор даты, которая установлена в календаре	And I select date in "%1 FieldName" calendar field	Selects the date from the calendar
+И у поля календаря с именем "%1 ИмяПоля" я выбираю дату	Делает выбор даты, которая установлена в календаре	And I select date in calendar field named "%1 FieldName"	Selects the date from the calendar
+Когда я нажимаю на каждую команду подменю "%1 Печать"	Нажимает на каждую команду из подменю (группы кнопок)	When I click each item of "%1 Print" submenu	Clicks each submenu item (button group)
+Тогда я вызываю исключение по данным временной таблицы "%1 КомандыСОшибкой"	Если во временной таблице есть строки, то будет сформировано исключение, которое будет содержать значения строк	Then I raise an exception by temporary table data "%1 CommandsWithError"	If temporary table contains lines, the exception containing line values will be raised.
+Тогда я добавляю в таблицу "%1 Команды" данные текущей команды как "%2 КомандаПечати"	Добавляет в переменную в памяти значение текущей команды	Then I add the current command data as "%2 PrintCommand" to "%1 Commands" table	Adds the value of the current command to the variable in memory
+Тогда я добавляю в таблицу "%1 Команды" сообщения пользователя для текущей команды как "%2 ПроблемыКомандаПечати"	Добавляет в переменную в памяти сообщения пользовтаел текущей команды	Then I add the current command user messages as "%2 PrintCommandErrors" to "%1 Commands" table	Adds user messages value of the current command to the variable in memory
+Тогда открылась форма "%1 Справочник.Справочник1.Форма.ФормаЭлемента"	Проверяет, что на экране есть активное окно с нужной формой. Возможно передавать сразу несколько заголовков форм через таблицу Gherkin.	Then "%1 FormName" form is opened	Checks if the active window with required form presents at the screen
+И В таблице "%1 ИмяТаблицы" поле "%2 Заголовок реквизита" доступно не только для просмотра	Проверка установленного флага "Только просмотр" для реквизита в таблице	And in "%1 TableName" table "%2 AttributeName" attribute is not read only	Check if "Read only" checkbox is set for table attribute
+Дано Табличный документ "%1 РеквизитТабличныйДокумент" равен макету "%2 ИмяМакета"	Шаг позволяет проверить, что табличный документ соответствует эталону. Макет ищется сначала в обработке фича файла, затем в каталоге проекта. Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	Given "%1 SpreadsheetDocument" spreadsheet document is equal to "%2 TemplateName"	Step allows to check if spreadsheet document is equal to the pattern. Search for the template first in feature file processor, then in project directory. Try to save the spreadsheet document to the file in thin client to get the mxl file from TestClient. Always read by cells in web client. See details in Help, section 'comparison of spreadsheet document to the template'.
+Дано Табличный документ "%1 РеквизитТабличныйДокумент" равен макету "%2 ИмяМакета" по шаблону	Шаг позволяет проверить, что табличный документ соответствует эталону. В значениях эталонного макета допускается использовать символы *. Макет ищется сначала в обработке фича файла, затем в каталоге проекта. Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	Given "%1 SpreadsheetDocument" spreadsheet document is equal to "%2 TemplateName" by template	Step allows to check if spreadsheet document is equal to the pattern. Symbols * are allowed in pattern template. Search for the template first in feature file processor, then in project directory. Try to save the spreadsheet document to the file in thin client to get the mxl file from TestClient. Always read by cells in web client. See details in Help, section 'comparison of spreadsheet document to the template'.
+Дано текст субтитров "%1 Текст"	Выводит в автовидеоинструкцию нужный текст в виде субтитров. В качестве фона кадра будет взято текущее состояние экрана.	Given "%1 Text" subtitles text	Displays the specified text to automatic videomanual as subtitles.
+Если в сообщениях пользователю есть строка "%1 МояСтрока" Тогда	Условие. Проверяет, что в сообщениях пользователю содержится нужная строка или подстрока.	If user messages contain "%1 MyString" string Then	Condition. Checks if user messages contain specified string or substring
+"Если в таблице ""%1 ИмяТаблицы"" есть строки Тогда
+	| 'Имя колонки' |
+	| 'Значение'               |"	Условие. Истинно, если в таблице есть нужная строка/строки. Поиск строк производится через получение всех строк таблицы , а затем нужные строки будут искаться в полученных строках таблицы.	"If ""%1 TableName"" table contains lines Then
+	| ""Column name"" |
+	| ""Value"" |"	Condition. True if table contains required line/lines. Line search is made through getting all table lines and then the required lines will be found in table lines.
+"Если в таблице ""%1 ИмяТаблицы"" нет строки Тогда
+	| 'Имя колонки' |
+	| 'Значение'               |"	Условие. Истинно, если в таблице нет нужной строки. Шаг пытается сделать переход к строке и возвращает Ложь если это получилось сделать.	"If ""%1 TableName"" table does not contain line Then
+	| ""Column name"" |
+	| ""Value"" |"	Condition. True if table does not contain required line/lines. The step tries to go to the line and returns False if succeed.
+"Если в таблице ""%1 ИмяТаблицы"" есть колонки Тогда
+	| 'Колонка1' |
+	| 'Колонка2' |"	Условие. Проверяет, есть ли в таблице указанные колоноки. Заголовки колонок надо передать в шаг в виде таблицы Gherkin.	"If ""%1 Result"" table contains columns Then
+	| Column1"" |
+	| Column2"" |"	Condition. Checks if the table contains specified columns. Column headers must be passed to the step as Gherkin table.
+Если поле "%1 Заголовок поля" стало равно "%2 ЗначениеПоля" в течение "%3 10" секунд Тогда	Условие. Проверяет значение поля формы в течение нужного числа секунд.	If "%1 FieldName" field became equal to "%2 FieldValue" in "%3 10" seconds Then	Condition. Checks form field value in required number of seconds.
+Если поле с именем "%1 ИмяПоля" стало равно "%2 ЗначениеПоля" в течение "%3 10" секунд Тогда	Условие. Проверяет значение поля формы в течение нужного числа секунд. Поиск поля производится по имени.	If the field named "%1 FieldName" became equal to "%2 FieldValue" in "%3 10" seconds Then	Condition. Checks form field value in required number of seconds. Field search is performed by name.
+Если появилось окно с заголовком "%1 Заголовок окна" в течение "%2 10" секунд Тогда	Условие. Проверяет, что на экране появилось окно с нужным заголовком в течение нужного числа секунд	If the window with "%1 WindowName" header appeared in "%2 10" seconds Then	Condition. Checks if the window with required header appears at the screen in required number of seconds
+Если элемент "%1 ИмяЭлементаФормы" доступен для редактирования Тогда	Условие. Проверяет доступность элемента на форме. Поиск поля производится по имени.	If "%1 AttributeName" attribute is editable Then	Condition. Checks form attribute availability. Field search by name.
+Если элемент "%1 ИмяЭлементаФормы" не доступен для редактирования Тогда	Условие. Проверяет доступность элемента на форме. Поиск поля производится по имени.	If "%1 AttributeName" attribute is not editable Then	Condition. Checks form attribute availability. Field search by name.
+Если это начальная страница Тогда	Условие. Проверяет, то текущее окно это начальная страница	If this is start page Then	Condition. Checks if the current window is start page
+Затем я жду, что в сообщениях пользователю будет подстрока "%1 Нужное мне значение" в течение "%2 30" секунд	Ждет появления в сообщениях пользователю подстроки в течение нужного времени	Then I wait that in user messages the "%1 RequiredValue" substring will appear in "%2 30" seconds	Waits for the substring appearance in user messages for specified time
+Затем я останавливаю выполнение сценария	Останавливает выполнение шагов в данном сценарии.	Then I stop script execution	Stops steps execution in this script.
+Затем я сохраняю имя файла без расширения из переменной "%1 ПолноеИмяФайла" как "%2 ИмяФайла"	Получает имя файла без расширения из переменной, в которой хранится полный путь к файлу	Then I save file name without extension from the variable "%1 FullFileName" as "%2 FileName"	Gets file name without extension from the variable where full path to the file is stored
+Затем я сохраняю имя файла из переменной "%1 ПолноеИмяФайла" как "%2 ИмяФайла"	Получает имя файла из переменной, в которой хранится полный путь к файлу	Then I save file name from the variable "%1 FullFileName" as "%2 FileName"	Gets file name from the variable where full path to the file is stored
+И в поле "%1 Заголовок поля" я ввожу значение глобального ключа "%2 Ключ"	Вставка значения ранее сохраненного ключа в реквизит	And I input "%2 Key" global key value in "%1 FieldName" field	Inserts previously saved key value to the attribute
+И в поле "%1 Заголовок поля" я ввожу значение глобальной переменной "%2 ИмяПеременной"	Вставка значения ранее сохраненной переменной в реквизит	And I input "%2 VariableName" global variable value in "%1 FieldName" field	Inserts previously saved variable to the attribute
+И в поле "%1 Заголовок поля" я ввожу значение ключа "%2 Номер документа"	Вставка значения ранее сохраненного произвольного ключа в реквизит	And I input "%2 DocumentNumber" key value in "%1 FieldName" field	Inserts previously saved arbitrary key value to the attribute
+И в поле "%1 Заголовок поля" я ввожу значение переменной "%2 ИмяПеременной"	Вставка значения ранее сохраненной переменной в реквизит	And I input "%2 VariableName" variable value in "%1 FieldName" field	Inserts previously saved variable to the attribute
+И в поле "%1 Заголовок поля" я ввожу текущую дату	Вводит текстовое представление значения текущей даты в поле. Например "01.01.2018".	And I input current date in "%1 FieldName" field	Inputs text representation of the current date in the field. E.g. "01.01.2018".
+И в поле "%1 Заголовок поля" я ввожу текущую дату и текущее время	Вводит текстовое представление значения текущей даты и времени в поле. Например "01.01.2018 12:00:00".	And I input current date and time in "%1 FieldName" field	Inputs text representation of the current date and time in the field. E.g. "01.01.2018 12:00:00".
+И в поле с именем "%1 ИмяПоля" я ввожу текущую дату	Вводит текстовое представление значения текущей даты в поле. Например "01.01.2018".	And I input current date in the field named "%1 FieldName"	Inputs text representation of the current date in the field. E.g. "01.01.2018".
+И в поле с именем "%1 ИмяПоля" я ввожу текущую дату и текущее время	Вводит текстовое представление значения текущей даты и времени в поле. Например "01.01.2018 12:00:00".	And I input current date and time in the field named "%1 FieldName"	Inputs text representation of the current date and time in the field. E.g. "01.01.2018 12:00:00".
+И в таблице "%1 ИмяТаблицы" "%2 10" строк, у которых колонка "%3 ИмяКолонки" "%4 ВидСравнения" "%5 ЗначениеКолонки"	Проверяет, что у таблицы TestClient есть указанное число строк, у которых значение в нужной колоноке сответствует заданному	And "%1 TableName" table contains "%2 10" lines where "%3 ColumnName" "%4 ComparisonType" "%5 ColumnValue"	Checks if TestClient table contains specified number of lines where the value in specified column is equal to required
+И в таблице "%1 ИмяТаблицы" в поле "%2 Заголовок поля" я ввожу текущую дату	Ввод текущей даты в поле таблицы	And I input current date in "%2 FieldName" field of "%1 TableName" table	Input current date to the table field.
+"И в таблице ""%1 ИмяТаблицы"" текущая строка равна:
+	| ИмяКолонки1 | ИмяКолонки2 |
+	| Значение1 | Значение2 |"	Проверяет, что таблица TestClient стала равна таблице Gherkin	"And the current line of ""%1 TableName"" table is equal to
+	| ColumnName1 | ColumnName2 |
+	| Value1 | Value2 |"	Checks if TestClient table became equal to Gherkin table
+И в таблице "%1 ИмяТаблицы" я выделяю все строки выше текущей	Выделяет в таблице все строки выше данной	And in "%1 TableName" table I select all lines above the current line	Selects all table lines above this
+И в таблице "%1 ИмяТаблицы" я выделяю все строки ниже текущей	Выделяет в таблице все строки ниже данной	And in "%1 TableName" table I select all lines below the current line	Selects all table lines below this
+И в Таблицу "%1 ИмяТаблицы" в поле "%2 Заголовок поля" я ввожу значение переменной "%3 ИмяПеременной"	Вставка значения ранее сохраненной переменной в реквизит	And I input "%3 VariableName" variable value in "%2 FieldName" field in "%1 TableName" table	Inserts previously saved variable to the attribute
+И в табличном документе "%1 РеквизитТабличныйДокумент" я делаю двойной клик на текущей ячейке	Делает двойной клик на текущей ячейке табличного документа	And in "%1 SpreadsheetDocument" spreadsheet document I double-click the current cell	Double-clicks current cell of spreadsheet document
+И в табличном документе "%1 РеквизитТабличныйДокумент" я перехожу к ячейке "%2 R4C2"	Делает нужную ячейку табличного документа активной	And in "%1 SpreadsheetDocument" spreadsheet document I move to "%2 CellName" cell	Activates required cell of the spreadsheet document.
+И в табличном документе "%1 РеквизитТабличныйДокумент" ячейка с адресом "%2 АдресЯчейки" равна "%3 ЗначениеЯчейки"	Проверяет значение ячейки с указанным адресом.	And in "%1 SpreadsheetDocumentName" spreadsheet document the cell with address "%2 CellAddress" is equal to "%3 CellValue"	Checks the value of specified cell.
+И в табличный документ "%1 РеквизитТабличныйДокумент" я ввожу текст "%2 МойТекст"	Вводит текст в текщую ячейку табличного документа	And in "%1 SpreadsheetDocument" spreadsheet document I input text "%2 MyText"	Inputs text to the current cell of spreadsheet document
+И для каждого файла "%1 ТекФайл" из каталога "%2 ИмяКаталога"	Делает перебор файлов в каталоге, исключая подкаталоги. Также создаёт переменные:  _Имя, _ПолноеИмя, _ИмяБезРасширения, _Путь, _Расширение.	And for each "%1 CurrentFile" file from "%2 Directory" directory	Checks each file in the directory, excluding subdirectories.
+И значения табличных документов равны	Шаг на вход принимает таблицу, к которой указаны имена переменных Контекста ранее полученных макетов.	And spreadsheet documents values are equal	Step input takes the table with Context variables of previously received templates.
+И из выпадающего списка "%1 Заголовок поля" я выбираю точное значение "%2 ЗначениеПоля"	Выбор из выпадающего списка. Переданное значение должно в точности совпадать с тем, что видит пользователь при выборе из списка.	And I select "%2 FieldValue" exact value from "%1 FieldName" drop-down list	Select from drop-down list. Passed value should exactly match the one user sees when selecting from the list.
+И из выпадающего списка с именем "%1 ИмяПоля" я выбираю точное значение "%2 ЗначениеПоля"	Выбор из выпадающего списка. Переданное значение должно в точности совпадать с тем, что видит пользователь при выборе из списка.	And I select "%2 ListValue" exact value from the drop-down list named "%1 FieldName"	Select from drop-down list. Passed value should exactly match the one user sees when selecting from the list.
+И количество строк таблицы "%1 ИмяТаблицы" равно переменной "%2 ИмяПеременной"	Сравнение количество строк таблицы с переменной Контекста	And the number of "%1 TableName" table lines is equal to "%2 VariableName" variable	Comparison of table lines count to Context variable
+И область "%1 R1C1:R10C10" табличного документа "%2 РеквизитТабличныйДокумент" равна макету "%3 ИмяМакета"	Сравнивает значения указанной области макета с эталоном. Макет ищется сначала в обработке фича файла, затем в каталоге проекта.  Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	And "%1 AreaName" area of "%2 SpreadsheetDocumentName" spreadsheet document is equal "%3 TemplateName" template	Compares specified template area values to the pattern. Search for the template first in feature file processor, then in project catalog.  Try to save the spreadsheet document to the file in thin client to get the mxl file from TestClient. Always read by cells in web client. See details in Help, section 'comparison of spreadsheet document to the template'.
+И область "%1 R1C1:R10C10" табличного документа "%2 РеквизитТабличныйДокумент" равна макету "%3 ИмяМакета" по шаблону	Сравнивает значения указанной области макета с эталоном. В значениях допусается использовать символы *. Макет ищется сначала в обработке фича файла, затем в каталоге проекта.  Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	And "%1 AreaName" area of "%2 SpreadsheetDocumentName" spreadsheet document is equal to "%3 TemplateName" template by template	Compares specified template area values to the pattern. Symbols * are allowed in values.  Search for the template first in feature file processor, then in project catalog.  Try to save the spreadsheet document to the file in thin client to get the mxl file from TestClient. Always read by cells in web client. See details in Help, section 'comparison of spreadsheet document to the template'.
+И поле "%1 Заголовок поля" равно переменной "%2 ИмяПеременной"	Сравнение значения поля с переменной Контекста	And "%1 FieldName" field is equal to "%2 VariableName" variable	Compares field value to Context variable.
+И поле с именем "%1 ИмяПоля" заполнено	Проверяет заполненность поля формы	And the field named "%1 FieldName" is filled	Checks the filling of the form field
+И поле с именем "%1 ИмяПоля" равно переменной "%2 ИмяПеременной"	Сравнение значения поля с переменной Контекста	And the field named "%1 FieldName" is equal to "%2 VariableName" variable	Compare field value to Context variable.
+И поле таблицы "%1 ИмяТаблицы" "%2 ИмяПоля" равно переменной "%3 ИмяПеременной"	Сравнение значения поля с переменной Контекста. Имя поля задаётся как оно задано в конфигураторе.	And "%2 FieldName" field of "%1 TableName" table is equal to "%3 VariableName" variable	Compare field value to Context variable. Field search is performed by its name.
+"И таблица ""%1 ИмяТаблицы"" не содержит строки:
+	| ИмяКолонки1 | ИмяКолонки2 |
+	| Значение1 | Значение2 |"	Проверяет, что в таблице TestClient нет строк, указанных в таблице Gherkin.	"And ""%1 TableName"" table does not contain lines
+	| ColumnName1 | ColumnName2 |
+	| Value1 | Value2 |"	Checks if TestClient table does not contain the lines from Gherkin table.
+И таблица "%1 ИмяТаблицы" равна макету "%2 ИмяМакета"	Проверяет, что таблица TestClient стала равна переданному макету	And "%1 TableName" table is equal to "%2 TemplateName"	Checks if TetsClient table became equal to the passed template
+И таблица "%1 ИмяТаблицы" равна макету "%2 ИмяМакета" по шаблону	Проверяет, что таблица TestClient стала равна переданному макету. В ячейках макета можно использовать символы *	And "%1 TableName" table is equal to "%2 TemplateName" by template	Checks if TetsClient table became equal to the passed template. Symbols * are allowed in template cells
+"И таблица ""%1 ИмяТаблицы"" содержит строки:
+	| ИмяКолонки1 | ИмяКолонки2 |
+	| Значение1 | Значение2 |"	Проверяет, что таблица TestClient содержит строки таблицы Gherkin. Т.е. если в таблице в TestClient 10 строк, то в шаге можно проверять наличие, например, только 3 строк. Также строки указанные в шаге могут идти в любом порядке.	"And ""%1 TableName"" table contains lines
+	| ColumnName1 | ColumnName2 |
+	| Value1 | Value2 |"	Checks if TestClient table contains the lines from Gherkin table. I.e. if in the table at TestClient contains 10 lines, then in step you can check, for example, only 3 lines. Also the strings specified in the steps may go in any order
+"И таблица ""%1 ИмяТаблицы"" стала равной по шаблону:
+	| ИмяКолонки1 | ИмяКолонки2 |
+	| Значение1 | Значение2 |"	Проверяет, что таблица TestClient стала равна таблице Gherkin. Значения могут содержать один или несколько символов *.	"And ""%1 TableName"" table became equal by template
+	| ColumnName1 | ColumnName2 |
+	| Value1 | Value2 |"	Checks if TestClient table became equal to Gherkin table. One or several * characters are allowed.
+"И таблица ""%1 ИмяТаблицы"" стала равной:
+	| ИмяКолонки1 | ИмяКолонки2 |
+	| Значение1 | Значение2 |"	Проверяет, что таблица TestClient стала равна таблице Gherkin	"And ""%1 TableName"" table became equal
+	| ColumnName1 | ColumnName2 |
+	| Value1 | Value2 |"	Checks if TestClient table became equal to Gherkin table
+"И Табличный документ ""%1 ИмяТабДок"" содержит значения областей
+| ИмяОбласти | ЗначениеОбласти |"	Проверяет что в табличном документа содержатся значения, перечисленные в таблице. Таблица состоит из двух колонок: "ИмяОбласти" и "ЗначениеОбласти".	"And ""%1 SpreadsheetDocumentName"" spreadsheet document contains area values
+|AreaName| AreaValue|"	Checks if the spreadsheet document contains values listed in the table.  The table consists of two columns: "AreaName" and "AreaValue".
+"И Табличный документ ""%1 ИмяТабДок"" содержит строки в областях
+| ИмяОбласти | Подстрока |"	Проверяет что в табличном документа содержатся значения, перечисленные в таблице. Таблица состоит из двух колонок: "ИмяОбласти" и "Подстрока".	"And ""%1 SpreadsheetDocumentName"" spreadsheet document contains strings in areas
+|AreaName| Substring|"	Checks if the spreadsheet document contains values listed in the table.  The table consists of two columns: "AreaName" and "Substring".
+"И Табличный документ ""%1 РеквизитТабличныйДокумент"" содержит значения областей по шаблону
+| ИмяОбласти | ШаблонОбласти |"	Проверяет что в табличном документа содержатся значения, перечисленные в таблице. Таблица состоит из двух колонок: "ИмяОбласти" и "ШаблонОбласти". В шаблоне можно указывать символ * много раз.	"And ""%1 SpreadsheetDocumentName"" spreadsheet document contains area values by template
+|AreaName| AreaTemplate|"	Checks if the spreadsheet document contains values listed in the table.  The table consists of two columns: "AreaName" and "AreaTemplate". Several * characters are allowed in the template.
+И у элемента "%1 Заголовок элемента" я жду значения "%2 Значение" в течение "%3 20" секунд	Ожидание что элемент формы примет нужное значение в течение нужного времени. Иначе будет вызвано исключение.	And I wait "%2 Value" value of "%1 AttributeName" attribute for "%3 20" seconds	Waiting for required value of form attribute in specified time.  Else raise an exception.
+И у элемента с именем "%1 ИмяЭлемента" я жду значения "%2 Значение" в течение "%3 20" секунд	Ожидание что элемент формы примет нужное значение в течение нужного времени. Иначе будет вызвано исключение.	And I wait "%2 Value" value of the attribute named "%1 AttributeName" for "%3 20" seconds	Waiting for required value of form attribute in specified time.  Else raise an exception.
+И у элемента формы с именем "%1 ИмяПоля" текст редактирования стал равен "%2 ТекстПоля"	Проверка значения текста редактирования элемента формы	And the editing text of form attribute named "%1 FieldName" became equal to "%2 FieldText"	Checks form attribute editing text value
+И флаг с именем "%1 ИмяФлага" равен "%2 Истина"	Проверяет значение флага	And checkbox named "%1 CheckboxName" is equal to "%2 True"	Checks checkbox value
+И элемент "%1 Заголовок элемента" доступен только для просмотра	Проверка флага "Только просмотр"	And "%1 FieldName" attribute is read-only	Checks "Read only" checkbox
+И элемент с именем "%1 ИмяЭлемента" доступен только для просмотра	Проверка флага "Только просмотр"	And the attribute named "%1 FieldName" is read-only	Checks "Read only" checkbox
+И я выбираю из списка "%1 Значение"	Выбирает значение из списка, который привязан к форме. Такой список может появиться, если происходит перехват стандартных событий формы, и пользователю показывается другой список для выбора значения.	And I select "%1 Value" from the list	Selects value from the list bound to the form. This list may appear if the form standard event interception takes place, and another choice list will be displayed to user.
+И я жду закрытия окна "%1 Заголовок окна" в течение "%2 20" секунд	Ожидает, что окно исчезнет в течение указанного числа секунд. Поиск окна происходит среди всех открытых окон. Поэтому шаг будет ждать пока закроются все окна, удовлетворяющие переданному параметру "Заголовок окна".	And I wait "%1 WindowName" window closing in "%2 600" seconds	Waiting for window disappearance in specified number of seconds
+И я жду открытия окна "%1 Заголовок окна" в течение "%2 20" секунд	Ожидает, что окно появится в течение указанного числа секунд	And I wait "%1 WindowName" window opening in "%2 600" seconds	Waiting for window appearance in specified number of seconds
+И я жду появления элемента "%1 Заголовок элемента" в течение "%2 20" секунд	Ожидание появления (видимости) элемента формы с нужным заголовком в течение указанного числа секунд	And I wait "%1 AttributeName" attribute appearance in "%2 Timeout" seconds	Waiting for form with required header appearance in specified number of seconds
+И я жду появления элемента с именем "%1 ИмяЭлемента" в течение "%2 20" секунд	Ожидание появления (видимости) элемента формы с нужным именем в течение указанного числа секунд	And I wait the attribute named "%1 AttributeName" appearance in "%2 Timeout" seconds	Waits for form attribute with the required name appearance in specified number of seconds.
+И я жду, что в окне "%1 ЗаголовокОкна" в таблице "%2 ИмяТаблицы" количество строк будет "%3 больше" "%4 0" в течение "%5 20" секунд	В течение нужного числа секунд проверяется количество строк в таблице в нужном окне	And I wait that in "%1 WindowHeader" window in "%2 TableName" table number of lines will be "%3 ComparisonType" "%4 ComparisonNumber" for "%5 20" seconds	Checks table lines count in the specified window for required number of seconds
+И я жду, что в таблице "%1 ИмяТаблицы" количество строк будет "%2 больше" "%3 0" в течение "%4 20" секунд	В течение нужного числа секунд проверяется количество строк в таблице в текущем окне	And I wait that in "%1 TableName" table number of lines will be "%2 ComparisonType" "%3 ComparisonNumber" for "%4 20" seconds	Checks table lines count in the current window for required number of seconds
+И я жду, что поле "%1 Заголовок поля" перестанет быть пустым в течение "%2 30" секунд	Проверяет, что в течение нужного числа секунд текстовое поле станет заполненным.	And I wait "%1 GeneratedScript" field will be filled in "%2 30" seconds	Waits for text field filling for specified number of seconds.
+"И я жду, что таблица ""%1 ИмяТаблицы"" станет равна данной в течение ""%2 20"" секунд:
+	| ИмяКолонки1 | ИмяКолонки2 |
+	| Значение1 | Значение2 |"	Проверяет, что таблица TestClient станет равной таблице Gherkin в течение нужного числа секунд	And I wait that in "%1 TableName" table will be equal to this table for "%2 20" seconds	Checks that the table TestClient will be equal to the Gherkin table in specified number of seconds
+И я жду, что у группы страниц "%1 ГруппаСтраниц" текущей страницей станет "%2 ИмяСтраницы" в течение "%3 20" секунд	Ожидает, что у заданной группы текущей страницей станет нужная группа в течение указанного числа секунд	And wait for "%2 PageName" page become the current page in "%1 PageGroup" page group in "%3 20" seconds	Waits for the required page become current page in specified group in specified number of seconds.
+И я запоминаю значение поля с именем "%1 ИмяПоля" как "%2 ИмяПеременной"	Сохранение значения поля в переменную Контекст	And I save the value of the field named "%1 FieldName" as "%2 VariableName"	Save field value to Context variable
+И я запоминаю значение поля с именем "%1 ИмяПоля" как "%2 ИмяПеременной" глобально	Сохранение значения поля в переменную КонтекстСохраняемый	And I save the value of the field named "%1 FieldName" as "%2 VariableName" globally	Save field value to ContextSaved variable
+И я запоминаю значение табличного документа "%1 ИмяРеквизита" как "%2 ИмяПеременной"	Сохраняет значение табличного документа в переменную Контекста.	And I save the value of "%1 AttributeName" spreadsheet document as "%2 VariableName"	Save spreadsheet document value to Context variable.
+И я запоминаю количество строк таблицы "%1 ИмяТаблицы" как "%2 ИмяПеременной"	Сохранение количества строк таблицы в переменную Контекст	And I save number of "%1 TableName" table lines as "%2 VariableName"	Save talble lines number to Context variable
+И я нажимаю на кнопку открытия поля "%1 Заголовок поля"	Нажимает на кнопку открытия поля ввода.	And I click Open button of "%1 FieldName" field	Clicks Open button of the input field.
+И я нажимаю на кнопку открытия поля с именем "%1 ИмяПоля"	Нажимает на кнопку открытия поля ввода.	And I click Open button of the field named "%1 FieldName"	Clicks Open button of the input field.
+И я нажимаю на кнопку с именем "%1 ИмяКнопки"	Нажимает на кнопку с нужным именем	And I click the button named "%1 ButtonName"	Clicks the button with the specified name.
+И я нажимаю на кнопку создать поля "%1 Заголовок поля"	Эмулирует нажатие кнопки "Создать" у выпадающего списка.	And I click Create button of "%1 FieldName" field	Emulates clicking "Create" button in drop-down list.
+И я нажимаю на кнопку создать поля с именем "%1 ИмяПоля"	Эмулирует нажатие кнопки "Создать" у выпадающего списка.	And I click Create button of the field named "%1 FieldName"	Emulates clicking "Create" button in drop-down list.
+И я перехожу к закладке "%1 ИмяЗакладки"	Шаг делает переход к закладке формы	And I move to "%1 Subsidiary" tab	Go to the tab of the form.
+И я перехожу к закладке с именем "%1 ИмяЗакладки"	Шаг делает переход к закладке формы	And I move to the tab named "%1 Subsidiary"	Go to the tab of the form.
+И я устанавливаю текущему TestClient синоним "%1 МойСиноним"	Позволяет подключить указать дополнительный синоним для текущего профиля TestClient. Синоним может использовать как дополнительное имя сеанса TestClient.	And I set "%1 MySynonym" synonym to the current TestClient	Allows to specify additional synonym for current TestClient profile.
+"Когда в логе сообщений TestClient есть строки:
+	| 'Сообщение1' |
+	| 'Сообщение2' |"	Проверяет в логе сообщений наличие нужной строки.	"When there are lines in TestClient message log
+	| ""Message1"" |
+	| ""Message2"" |"	Checks if the message log contains the required line.
+Тогда значение поля "%1 Заголовок поля" содержит текст "%2 Значение поля"	Проверка, что значение поля формы содержит текст	Then "%1 FieldName" field value contains "%2 FieldValue" text	Checks is form field value contains text.
+Тогда значение поля с именем "%1 ИмяПоля" содержит текст "%2 Значение поля"	Проверка, что значение поля формы содержит текст	Then the field named "%1 FieldName" value contains "%2 FieldValue" text	Checks is form field value contains text.
+"Тогда область ""%1 R1C1:R10C10"" табличного документа ""%2 РеквизитТабличныйДокумент"" равна по шаблону:
+	| Значение1 | Значение2 |
+	| Значение3 | Значение4 |"	Проверяет равенство области табличного документа переданной таблице Gherkin. В значениях допускается использовать символы *. Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	"Then ""%1 AreaName"" area of ""%2 SpreadsheetDocumentName"" spreadsheet document is equal by template
+	| Value1 | Value2 |
+	| Value3 | Value4 |"	Checks if spreadsheet document area is equal to Gherkin table. Symbols * are allowed in values.  Try to save the spreadsheet document to the file in thin client to get the mxl file from TestClient. Always read by cells in web client. See details in Help, section 'comparison of spreadsheet document to the template'.
+"Тогда область ""%1 R1C1:R10C10"" табличного документа ""%2 РеквизитТабличныйДокумент"" равна:
+	| Значение1 | Значение2 |
+	| Значение3 | Значение4 |"	Проверяет равенство области табличного документа переданной таблице Gherkin. Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	"Then ""%1 AreaName"" area of ""%2 SpreadsheetDocumentName"" spreadsheet document is equal
+	| Value1 | Value2 |
+	| Value3 | Value4 |"	Checks if spreadsheet document area is equal to Gherkin table. Try to save the spreadsheet document to the file in thin client to get the mxl file from TestClient. Always read by cells in web client. See details in Help, section 'comparison of spreadsheet document to the template'.
+Тогда открылась форма с именем "%1 Справочник.Справочник1.Форма.ФормаЭлемента"	Проверяет, что на экране есть активное окно с нужной формой. Возможно передавать сразу несколько имен форм через таблицу Gherkin.	Then the form named "%1 FormName" is opened	Checks if the active window with required form presents at the screen
+Тогда переменная "%1 ИмяПеременной" имеет значение "%2 ЗначениеПеременной"	Проверяет значение переменной контекста	Then "%1 VariableName" variable is equal to "%2 VarialbeValue"	Checks Context variable value
+"Тогда табличный документ ""%1 РеквизитТабличныйДокумент"" равен по шаблону:
+	| Значение1 | Значение2 |
+	| Значение3 | Значение4 |"	Проверяет равенство табличного документа переданной таблице Gherkin. В значениях допускатеся использование символов *. Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	"Then ""%1 SpreadsheetDocument"" spreadsheet document is equal by template
+	| Value1 | Value2 |
+	| Value3 | Value4 |"	Checks if spreadsheet document is equal to Gherkin table. Symbols * are allowed in values.  Try to save the spreadsheet document to the file in thin client to get the mxl file from TestClient. Always read by cells in web client. See details in Help, section 'comparison of spreadsheet document to the template'.
+"Тогда табличный документ ""%1 РеквизитТабличныйДокумент"" равен:
+	| Значение1 | Значение2 |
+	| Значение3 | Значение4 |"	Проверяет равенство табличного документа переданной таблице Gherkin. Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	"Then ""%1 SpreadsheetDocument"" spreadsheet document is equal
+	| Value1 | Value2 |
+	| Value3 | Value4 |"	Checks if spreadsheet document is equal to Gherkin table. Try to save the spreadsheet document to the file in thin client to get the mxl file from TestClient. Always read by cells in web client. See details in Help, section 'comparison of spreadsheet document to the template'.
+Тогда элемент формы "%1 Заголовок поля" стал равен шаблону "%2 Шаблон"	Проверка значения элемента формы. В значении допускаются символы *	Then "%1 FieldName" form attribute became equal to "%2 Template" template	Checks form attribute value. Symbols * are allowed in value.
+Тогда элемент формы с именем "%1 ИмяПоля" стал равен шаблону "%2 Шаблон"	Проверка значения элемента формы. В значении допускаются символы *	Then the form attribute named "%1 FieldName" became equal to "%2 Template" template	Checks form attribute value. Symbols * are allowed in value.
+Дано Табличный документ "%1 РеквизитТабличныйДокумент" стал равен макету "%2 ИмяМакета"	Шаг позволяет проверить, что макет на форме соответствует эталону.	Given "%1 SpreadsheetDocument" spreadsheet document became equal to "%2 TemplateName"	Step allows to check if the template on the form is equal to the pattern.
+"Дано Я задаю таблицу строк ""%1 ТаблицаИсключений""
+| 'Товар1' |
+| 'Товар2' |"	Создает в памяти таблицу строк по переданной таблице	"Given I define ""%1 ExceptionTable"" lines table
+| Item1"" |
+| Item2"" |"	Creates lines table by passed table
+Дано Я открываю навигационную ссылку "%1 e1cib/data/Справочник.Справочник1?ref=ad018df0619b11d5458a440b8c472f30"	Открывает навигационную ссылку. Аналог Shift+F11	Given I open hyperlink "%1 e1cib/data/Catalog.Catalog1?ref=ad018df0619b11d5458a440b8c472f30"	Opens the hyperlink As Shift+F11
+Дано Я открываю основную форму отчета "%1 Отчет1"	Открывает форму отчета по его имени в метаданных	Given I open "%1 Report1" report default form	Opens report form by report name in metadata
+Дано Я открываю основную форму регистра накопления "%1 РегистрНакопления1"	Открывает основную форму регистра накопления по его имени в метаданных	Given I open "%1 AccumulationRegister1" accumulation register default form	Opens accumulation register default form by it's name in metadata
+Дано Я открываю основную форму регистра сведений "%1 РегистрСведений1"	Открывает основную форму регистра сведений по его имени в метаданных	Given I open "%1 InformationRegister1" information register default form	Opens accumulation register default form by it's name in metadata
+Дано Я сохраняю макет из обработки "%1 ИмяМакетаВОбработке" в файл "%2 ИмяФайла"	Сохраняет макет из обработки, связанной с фичей, в нужный файл.	Given I save "%1 TemplateName "data processor template to "%2 FileName" file	Saves the template of data processor related to the feature in the file.
+Если переменная "%1 ИмяПеременной" имеет значение "%2 ЗначениеПеременной" Тогда	Условие. Проверяет значение переменной контекста	If "%1 VariableName" variable is equal to "%2 VarialbeValue" Then	Condition. Checks context variable value
+И в поле "%1 Заголовок поля" я ввожу значение выражения "%2 1+1"	Вычисляет выражение и вводит результат в поле	And I input "%2 1+1" expression value in "%1 FieldName" field	Calculates the expression and inputs the result to the field
+И в поле "%1 Заголовок поля" я ввожу текст из макета "%2 ИмяМакета"	Вводит текст в поле. Текст будет взят из макета. Также вводит текст в форматированный документ и поле HTML документа.	And I input text from "%2 TemplateName" template in "%1 FieldName" field	Inputs text in the field The text is taken from the template
+И в поле с именем "%1 ИмяПоля" я ввожу значение выражения "%2 1+1"	Вычисляет выражение и вводит результат в поле	And I input "%2 1+1" expression value in the field named "%1 FieldName"	Calculates the expression and inputs the result to the field
+И в сообщениях пользователю нет одинаковых сообщений	Проверяет, что каждое сообщение пользователю встречается только один раз	And user messages dont contain same messages	Checks that each user message to the user occurs only once
+"И в таблице ""%1 ИмяТаблицы"" я перехожу к строке содержащей подстроки
+	|'ИмяКолонки'|
+	|'ЗначениеКолонки'|"	Переход к строке таблицы, когда значения колонок заданы не полностью, а подстрокой	"And I go to the line containing substrings in ""%1 TableName"" table
+	|""Name""|
+	| Item1""|"	Move to the table line if column values are specified not totally but as substrings
+И в табличном документе "%1 РеквизитТабличныйДокумент" значения в колонке "%2 ИмяКолонки" неравно значению "%3 "	Проверяет, что в табличном документе значение в колонке равно переданному параметру	And in "%1 SpreadsheetDocumentName" spreadsheet document the values in  "%2 ColumnName" column are not equal to "%3 Value" value	Checks that the value of spreadsheet document column is equal to the passed parameter
+И в табличном документе "%1 РеквизитТабличныйДокумент" значения в колонке "%2 ИмяКолонки" равно значению "%3 "	Проверяет, что в табличном документе значение в колонке равно переданному параметру	And in "%1 SpreadsheetDocumentName" spreadsheet document the values in  "%2 ColumnName" column are equal to "%3 Value" value	Checks that the value of spreadsheet document column is equal to the passed parameter
+И в табличном документе "%1 РеквизитТабличныйДокумент" значения в колонке "%2 ИмяКолонки" соответствуют условию "%3 равно" "%4 10"	Проверяет, что в табличном документе значение в колонке соответствует условию. Можно использовать числа.	And in "%1 SpreadsheetDocumentName" spreadsheet document the values in  "%2 ColumnName" meet the condition "%3 equal" "%4 Value"	Checks that the value of spreadsheet document column meets the condition Numbers are allowed.
+И В текущем окне я нажимаю кнопку командного интерфейса "%1 КомандаИнтерфейса"	Нажатие кнопки командного интерфейса в текущей форме	And In this window I click command interface button "%1 InterfaceCommand"	Clicks command interface button in the current form
+И для каждого значения "%1 ЗначениеИзМассива" из массива "%2 МассивЗначенийЧерезТочкуСЗапятой"	Перебирает массив значений. Первый параметр - это имя переменной, которое будет доступно в Контексте. Второй параметр, значения массива, разделенные символом ";"	And for each "%1 ValueFromArray" value from "%2 ArrayWithSemicolonDelimiter" array	Iterates values array. The first parameter is the name of the variable that will be available in the Context. The second parameter is the array values, separated by ";"
+И для каждого значения "%1 ЗначениеИзТаблицы" из таблицы в памяти "%2 Коллекция"	"Перебирает значение из указанной переменной. Первый параметр - это имя переменной, которое будет доступно в Контексте.
+Второй параметр, имя таблицы, которая сохранена в контексте.
+Если в переданной таблице одна колонка - тогда она интерпретируется как массив. Иначе - как таблица, где в первой строке указаны имена колонок. 
+По мере перебора строк таблицы будут обновляться значения в переменной Контекст, где именем переменной будет имя колонки. 
+Использовать значение переменной в других шагах нужно так: $ИмяНужнойКолонки$.
+Имя колонки должно соответствовать правилам образования ключей структуры."	And for each "%1 ValueFromArray" value from "%2 ArrayWithSemicolonDelimiter" table in memory	"Iterates the values of the specified variable. The first parameter is the name of the variable that will be available in the Context. The second parameter is the name of context stored table.
+If the passed table contains only one column then it is interpreted as an array. Else as a table, where the first line contains column names. As table lines iterate, value in Context variable updates. Variable names are equal to the column names. The column name must meet the rules of key structures formation."
+И область "%1 R1C1:R10C10" табличного документа "%2 РеквизитТабличныйДокумент" соответствует макету "%3 ИмяМакета"	Сравнивает значения указанной области макета с эталоном. Макет ищется сначала в обработке фича файла, затем в каталоге проекта.	And "%1 AreaName" area of "%2 SpreadsheetDocumentName" spreadsheet document corresponds to "%3 TemplateName" template	Compares specified template area values to the pattern. Search for the template first in feature file processor, then in project directory.
+И обратите внимание "%1 Текст обратите внимание"	Выводит в автовидеоинструкцию нужный текст в виде вставки. Белые буквы на черном фоне.	And note "%1 NoteText"	Displays the specified text to automatic videomanual as an insert. White letters on black background.
+"И табличный документ ""%1 РеквизитТабличныйДокумент"" не содержит значения:
+	| Значение1 |
+	| Значение2 |"	Проверяет, что в табличном документе нет значений из таблицы	"And ""%1 SpreadsheetDocumentName"" spreadsheet document does not contain values
+	| Value1 |
+	| Value2 |"	Checks that spreadsheet document does not contain values from the table
+"И табличный документ ""%1 РеквизитТабличныйДокумент"" содержит значения:
+	| Значение1 |
+	| Значение2 |"	Проверяет, что в табличном документе есть значения из таблицы	"And ""%1 SpreadsheetDocumentName"" spreadsheet document contains values
+	| Value1 |
+	| Value2 |"	Checks that spreadsheet document contains values from the table
+"И табличный документ формы с именем ""%1 РеквизитТабличныйДокумент"" содержит строки:
+	| Значение1 | Значение2 |
+	| Значение3 | Значение4 |"	Проверяет, что табличный документ TestClient содержит строки таблицы Gherkin	And form spreadsheet document named "%1 SpreadsheetDocument" contains lines	Checks if TestClient spreadsheet document contains lines from Gherkin table
+И у группы страниц "%1 ГруппаСтраниц" текущая страница "%2 ИмяСтраницы"	Проверяет что у заданной группы текущей страницей является указанная	And "%2 PageName" is the current page in "%1 PageGroup" page group	Checks if the specified page is the current in the group
+И я выбираю пункт контекстного меню "%1 ИмяПунктаМеню" на элементе формы "%2 Заголовок поля"	Выбирает нужный пункт контекстного меню у элемента формы	And I select context menu item "%1 MenuItemName" of "%2 FormAttribute" form attribute	Selects the specified context menu item of form attribute
+И я выбираю пункт контекстного меню "%1 ИмяПунктаМеню" на элементе формы с именем "%2 ЭлементФормы"	Выбирает нужный пункт контекстного меню у элемента формы	And I select context menu item "%1 MenuItemName" of the form attribute  named "%2 FormAttribute"	Selects the specified context menu item of form attribute
+И я вывожу значение переменной "%1 ИмяПеременной"	Выводит значение переменной контекста в окно сообщений	And I display "%1 VariableName" variable value	Displays context variable value in the message window
+И я меняю значение переключателя "%1 Заголовок элемента" на значение переменной "%2 ИмяПеременной"	Изменение значение переключателя на значение ранее сохраненной переменной	And I change "%1 RadiobuttonAttribute" radio button value to "%2 VariableName" variable value	Change the switch value to previously saved variable value
+И я меняю значение переключателя с именем "%1 РеквизитПереключатель" на значение переменной "%2 ИмяПеременной"	Изменение значение переключателя на значение ранее сохраненной переменной	And I change the radio button named "%1 RadiobuttonAttribute" value to "%2 VariableName" variable value	Change the switch value to previously saved variable value
+И Я обновляю нумерацию объектов для "%1 ПолноеИмяОбъектаМетаданных"	Выполняет обновление номеров для объекта метаданных по полному имени	And I update the numbering of objects for "%1 MetadataObjectFullName"	Performs numbers update for metadata object by its full name
+Когда Я задаю параметры чтения области макета "%1 R1C1:R100C20"	Указывает область чтения макета, когда он считывается по одной ячейке из данных TestClient	When I set "%1 R1C1:R100C20" template area reading parameters	Specifies template reading area when it is read cell by cell from TestClientData
+Дано В активном окне открылась форма с заголовком "%1 Заголовок формы"	Шаг проверяет, что в активном окне есть нужная форма.	Given form with "%1 FormTitle" header is opened in the active window	Step checks if active window contains required form.
+Дано В последнем сообщении TestClient есть строка "%1 НужнаяСтрока"	Шаг позволяет проверить содержание самого нового сообщения пользователю.	Given Recent TestClient message contains "%1 RequiredString" string	Step checks the content of the newest user message.
+Дано Ожидаем завершения фонового формирования отчета в течение "%1 10" секунд	Шаг работает только когда TestManager и TestClient работают в одной и той же базе. Шаг ждёт указанное время, что завершились активные фоновые задания.	Given wait for background report runing completion for "%1 10" seconds	Step is valid only if TestManager and TestClient work in the same database. The step waits for specified time that active background jobs are finished.
+Дано Открылось окно предупреждения с заголовком "%1 Заголовок" и текстом "%2 Текст"	Шаг проверяет, что сейчас на экране появилось окно предупреждения.	Given warning window with "%1 Header" header and "%2 Text" text is opened	Checks if warning window appears
+Дано Табличный документ формы с именем "%1 РеквизитТабличныйДокумент" стал равен макету с именем "%2 ИмяМакета"	Шаг позволяет проверить, что макет на форме соответствует эталону.	Given form spreadsheet document named "%1 SpreadsheetDocument" became equal to the template named "%2 TemplateName"	Step allows to check if the template on the form is equal to the pattern.
+Дано Я запускаю сценарий открытия TestClient или подключаю уже существующий	Подсценарий. Подключает новый TestClient если необходимо и закрывает в нём все окна	Given I launch TestClient opening script or connect the existing one	Connects new TestClient if needed it and closes all windows
+Дано Я открыл новый сеанс TestClient или подключил уже существующий	Открывает новый Клиент тестирования для профиля указанного в текущей строке таблицы клиентов тестирования. Если строка в таблице клиентов тестирования не менялась, то активной строкой будет первая строка, в которой всегда содержится профиль для подключения к той же базе, в которой запущен сеанс Менеджера тестирования.	Given I open new TestClient session or connect the existing one	Opens a new TesClient in the same database as TestManager or connect existing one
+Дано Я открываю основную форму обработки "%1 Обработка1"	Открывает форму обработки по её имени в метаданных	Given I open "%1 DataProcessor1" data processor default form	Opens data processor form by its name in metadata
+Дано Я открываю основную форму списка документа "%1 Документ1"	Открывает основную форму списка документа по его имени в метаданных	Given I open "%1 Document1" document default form	Opens document default list form by its name in metadata
+Дано Я открываю основную форму списка справочника "%1 Справочник1"	Открывает основную форму списка справочника по его имени в метаданных	Given I open "%1 Catalog1" catalog default form	Opens catalog default list form by its name in metadata
+Дано Я открыл сеанс TestClient от имени "%1 МойПользователь" с паролем "%2 МойПароль" или подключаю уже существующий	Позволяет подключить TestClient с нужным логином и паролем в тойже базе, в которой запущен TestManager, с помощью профиля "Этот клиент". При этом предыдущие подключения к этому профилю должны быть закрыты.	Given I open new TestClient session using "%1 MyUser" login and "%2 MyPassword" password or connect the existing one	Allows TestClient connection with specified login and password in TestManager database
+Если '%1 Истина' тогда	Условие. Проверяет выражение встроенного языка. В шаг передаётся один строковый параметр. Если внутри вычисляемого выражения используются строки, их нужно обрамлять кавычками. Спецсимволы (кавычки, апострофы) нужно экранировать.	If "%1 True" Then	Condition. Checks 1C:Enterprise script expression
+Если в окне предупреждения нет текста "%1 Нужный текст" тогда	Условие. Истинно, когда в окне предупреждения нет искомого текста.	If warning window does not contain "%1 RequiredText" text Then	Condition. True if warning message does not contain the specified text.
+"Если в таблице ""%1 ИмяТаблицы"" есть строка Тогда
+	| 'Имя колонки' |
+	| 'Значение'               |"	Условие. Истинно, если в таблице есть нужная строка. Допускается передвать только одну строку для поиска. Шаг пытается сделать переход к строке и возвращает Истина если это получилось сделать.	"If ""%1 TableName"" table contains line Then
+	| ""Column name"" |
+	| ""Value"" |"	Condition. True if the table contains the required line. Allowed to pass only one search string. The step tries to go to the line and returns True if succeed.
+Если в таблице "%1 ИмяТаблицы" количество строк "%2 меньше или равно" "%3 2" Тогда	Условие. Проверяет количество строк в таблице	If number of "%1 TableName" table lines is "%2 ComparisonType" "%3 ComparisonNumber" Then	Condition. Checks line number in the table
+Если в текущем окне есть сообщения пользователю Тогда	Условие. Проверяет, что в текущем окне есть сообщения пользователю.	If current window contains user messages Then	Condition. Checks that the current window contains user messages.
+Если Версия платформы "%1 >=" "%2 8.3.6" Тогда	Условие. Проверяет версию платформы	If platform version "%1 >=" "%2 8.3.6" Then	Condition. Checks platform version
+Если имя текущей формы "%1 ИмяФормы" Тогда	Условие. Проверяет имя текущей формы	If current form name is "%1 DocumentPrint" Then	Condition. Checks current form name
+Если поле "%1 Заголовок поля" имеет значение "%2 тест" тогда	Условие. Проверяет значение поля.	If "%1 FieldName" field is equal to "%2 Test" Then	Condition. Checks field value.
+Если поле с именем "%1 ИмяПоля" имеет значение "%2 тест" тогда	Условие. Проверяет значение поля.	If the field named "%1 FieldName" is equal to "%2 Test" Then	Condition. Checks field value.
+Если появилось окно с заголовком "%1 Заголовок окна" Тогда	Условие. Проверяет, что среди всех окон есть окно с нужным заголовком	If window with "%1 WindowName" header has appeared Then	Condition. Checks if the active window with required header presents at the screen
+Если появилось окно с заголовком из таблицы Тогда	Условие. Проверяет, что есть окно с заголовком из таблицы	If window with the header from the table has appeared Then	Condition. Checks if there is a window with a title from the table
+Если текущее окно "%1 не равно" ожидаемому окну "%2 НужноеОкно" Тогда	Условие. Проверяет что текущее окно равно/неравно нужному окну.	If the current window is "%1 ComparisonType" to expected window "%2 RequiredWindow" Then	Condition. Checks that the current window is equal to/is not equal to the specified window, which is saved before
+Если элемент "%1 ИмяЭлементаФормы" не присутствует на форме Тогда	Условие. Проверяет видимость элемента на форме. Поиск поля производится по имени.	If "%1 AttributeName" attribute is not present on the form Then	Condition. Checks form attribute visibility. Field search by name.
+Если элемент "%1 ИмяЭлементаФормы" присутствует на форме Тогда	Условие. Проверяет видимость элемента на форме. Поиск поля производится по имени.	If "%1 AttributeName" attribute is present on the form Then	Condition. Checks form attribute visibility. Field search by name.
+Если это не начальная страница Тогда	Условие. Проверяет, то текущее окно это не начальная страница	If this is not start page Then	Condition. Checks if the current window is not start page
+Затем Если появилось окно диалога я нажимаю на кнопку "%1 Заголовок кнопки"	Если на экране появилось диалоговое окно - нажимает на нужную кнопку.	Then If dialog box is visible I click "%1 ButtonName" button	If dialog box appears - clicks the button.
+Затем я останавливаю выполнение шагов всех сценариев.	Останавливает выполнение шагов. Другие сценарии выполнятся не будут.	Then I stop all script steps execution	Stops the steps execution. Other scripts will not be executed.
+Когда я нажимаю кнопку командного интерфейса "%1 Заголовок кнопки"	Нажимает на кнопку командного интерфейса	When I click command interface button "%1 ButtonName"	Clicks command interface button
+И В командном интерфейсе я выбираю "%1 ИмяКомандыПанелиРазделов" "%2 ИмяКомандыПанелиФункций"	Нажатие кнопки на панели разделов, затем в панели функций.	And In the command interface I select "%1 SectionPanelCommandName" "%2 FunctionPanelCommandName"	Clicks sections panel button, then functions panel button.
+И В панели функций в группе "%1 Основное" я выбираю "%2 ИмяКоманды"	Нажатие кнопки на панели функций нужной группы	And the functions panel I select "%2 CommandName" in "%1 Main" group	Clicks functions panel button in the specified group.
+И В панели функций я выбираю "%1 ИмяКоманды"	Нажатие кнопки на панели функций	And in functions panel I select "%1 CommandName"	Clicks functions panel button
+И в поле "%1 Заголовок поля" я ввожу текст "%2 Значение поля"	Вводит текст в поле. Также вводит текст в форматированный документ и поле HTML документа.	And I input "%2 FieldValue" text in "%1 FieldName" field	Inputs text in the field
+И в поле с именем "%1 ИмяПоля" я ввожу текст "%2 Значение поля"	Вводит текст в поле. Также вводит текст в форматированный документ и поле HTML документа.	And I input "%2 FieldValue" text in the field named "%1 FieldName"	Inputs text in the field
+И в поле с именем "%1 ИмяПоля" ввожу значение глобального ключа "%2 Ключ"	Вставка значения ранее сохраненного произвольного ключа в реквизит	And I input "%2 Key" global key value in the field named "%1 FieldName"	Inserts previously saved arbitrary key value to the attribute
+И в поле с именем "%1 ИмяПоля" ввожу значение глобальной переменной "%2 ИмяПеременной"	Вставка значения ранее сохраненной переменной в реквизит	And I input "%2 VariableName" global variable value in the field named "%1 FieldName"	Inserts previously saved variable to the attribute
+И в поле с именем "%1 ИмяПоля" ввожу значение ключа "%2 Номер документа"	Вставка значения ранее сохраненного произвольного ключа в реквизит	And I input "%2 DocumentNumber" key value in the field named "%1 FieldName"	Inserts previously saved arbitrary key value to the attribute
+И в поле с именем "%1 ИмяПоля" ввожу значение переменной "%2 ИмяПеременной"	Вставка значения ранее сохраненной переменной в реквизит	And I input "%2 VariableName" variable value in the field named "%1 FieldName"	Inserts previously saved variable to the attribute
+И В таблице "%1 ИмяТаблицы" я нажимаю кнопку выбора у реквизита "%2 Заголовок колонки"	Нажатие кнопки выбора у реквизита в таблице	And I click choice button of "%2 ColumnName" attribute in "%1 TableName" table	Clicks table attribute Choice button
+И В таблице "%1 ИмяТаблицы" я нажимаю кнопку выбора у реквизита с именем "%2 ИмяКолонки"	Нажатие кнопки выбора у реквизита в таблице	And I click choice button of the attribute named "%2 ColumnName" in "%1 TableName" table	Clicks table attribute Choice button
+И В таблице "%1 ИмяТаблицы" я нажимаю кнопку очистить у поля "%2 Заголовок колонки"	Нажатие кнопки очистить у поля в таблице	And I click Clear button of "%2 ColumnName" attribute in "%1 TableName" table	Clicks table attribute Clear button
+И В таблице "%1 ИмяТаблицы" я нажимаю кнопку очистить у поля с именем "%2 ИмяКолонки"	Нажатие кнопки очистить у поля в таблице	And I click Clear button of the attribute named "%2 ColumnName" in "%1 TableName"	Clicks table attribute Clear button
+И в таблице "%1 ИмяТаблицы" я активизирую поле "%2 Заголовок поля"	Активизирует поле таблицы	And I activate "%2 FieldName" field in "%1 TableName" table	Activate the table field
+И в таблице "%1 ИмяТаблицы" я активизирую поле с именем "%2 ИмяПоля"	Активизирует поле таблицы	And I activate field named "%2 FieldName" in "%1 TableName" table	Activate the table field
+И в таблице "%1 ИмяТаблицы" я выбираю текущую строку	Выбор текущей строки с указанием таблицы	And I select current line in "%1 TableName" table	Select current line specifying the table
+И в таблице "%1 ИмяТаблицы" я добавляю строку	Добавление строки	And I add a line in "%1 TableName" table	Adding a line
+И в таблице "%1 ИмяТаблицы" я начинаю редактирование строки	Начало редактирования строки	And I start line editing in "%1 TableName" table	Start line editing
+И в таблице "%1 ИмяТаблицы" я перехожу к первой строке	Переход к первой строке данной таблицы	And I go to the first line in "%1 TableName" table	Move to the first line in this table.
+И в таблице "%1 ИмяТаблицы" я перехожу к последней строке	Переход к последней строке данной таблицы	And I go to the last line in "%1 TableName" table	Move to the last line in this table.
+И в таблице "%1 ИмяТаблицы" я перехожу к предыдущей строке	Переход к предыдущей строке данной таблицы	And I go to the previous line in "%1 TableName" table	Move to the previous line in this table.
+И в таблице "%1 ИмяТаблицы" я перехожу к следующей строке	Переход к следующей строке данной таблицы	And I go to the next line in "%1 TableName" table	Move to the next line in this table
+"И в таблице ""%1 ИмяТаблицы"" я перехожу к строке:
+		| 'ИмяКолонки' |
+		| 'ЗначениеКолонки' |"	Переход к нужной строке данной таблицы. Если обернуть значение с помощью символа $, тогда значение будет взято из переменной Контекст. Если $$, тогда из КонтекстСохраняемый.	"And I go to line in ""%1 TableName"" table
+		|""Name""|
+		| Item1"" |"	Move to the specific line in this table. If you wrap the value with $ symbol, then the value will be taken from Context variable. If $$ then SavedContext
+И в таблице "%1 ИмяТаблицы" я перехожу на один уровень вверх	Переход на один уровень вверх в списке в режиме "Иерархический список"	And I move one level up in "%1 TableName" table	Move one level up in "Hierarchical list" mode
+И в таблице "%1 ИмяТаблицы" я перехожу на один уровень вниз	Переход на один уровень вниз в списке в режиме "Иерархический список"	And I move one level down in "%1 TableName" table	Move one level down in "Hierarchical list" mode
+И в таблице "%1 ИмяТаблицы" я перехожу на одну строку вверх	Переходим в таблице на предыдущую строку	And I move one line up in "%1 TableName" table	Move to the previous line of the table
+И В таблице "%1 ИмяТаблицы" я перехожу на одну строку вверх с выделением	Переходим в таблице на предыдущую строку с выделением	And I move one line up in "%1 TableName" table and select line	Move to the previous line of the table with selection
+И в таблице "%1 ИмяТаблицы" я перехожу на одну строку вниз	Переходим в таблице на следующую строку	And I move one line down in "%1 TableName" table	Move to the next line of the table
+И В таблице "%1 ИмяТаблицы" я перехожу на одну строку вниз с выделением	Переходим в таблице на следующую строку с выделением	And I move one line down in "%1 TableName" table and select line	Move to the next line of the table with selection
+"И в таблице ""%1 ИмяТаблицы"" я разворачиваю строку:
+		| 'ИмяКолонки' |
+		| 'ЗначениеКолонки' |"	Развернуть группу строк	"And I expand a line in ""%1 TableName"" table 
+		|""Name""|
+		| Item1"" |"	Expand lines group
+И в таблице "%1 ИмяТаблицы" я разворачиваю текущую строку	Развернуть текущую строку таблицы/дерева	And I expand current line in "%1 TableName" table	Expand current line of table/tree
+"И в таблице ""%1 ИмяТаблицы"" я сворачиваю строку:
+		| 'ИмяКолонки' |
+		| 'ЗначениеКолонки' |"	Свернуть группу строк	"And I collapse  a line in ""%1 TableName"" table
+		|""Name""|
+		| Item1"" |"	Collapse lines group
+И в таблице "%1 ИмяТаблицы" я сворачиваю текущую строку	Свернуть текущую строку таблицы/дерева	And I collapse current line in "%1 TableName" table	Collapse current line of table/tree
+И в таблице "%1 ИмяТаблицы" я удаляю строку	Удаление строки	And I delete a line in "%1 TableName" table	Delete line
+И в таблице "%1 ИмяТаблицы" в поле "%2 Заголовок поля" я ввожу текст "%3 НужныйМнеТекст"	Ввод текста в поле таблицы	And I input "%3 MyText" text in "%2 FieldName" field of "%1 TableName" table	Input text to the table field.
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я ввожу текст "%3 НужныйМнеТекст"	Ввод текста в поле таблицы	And I input "%3 MyText" text in the field named "%2 FieldName" of "%1 TableName" table	Input text to the table field.
+И в таблице "%1 ИмяТаблицы" из выпадающего списка "%2 Заголовок поля" я выбираю "%3 ЗначениеПоля"	Выбор значения из выпадающего списка	And I select "%3 FieldValue" from "%2 FieldName" drop-down list in "%1 TableName" table	Select value from drop-down list.
+И в таблице "%1 ИмяТаблицы" из выпадающего списка с именем "%2 ИмяПоля" я выбираю "%3 ЗначениеПоля"	Выбор значения из выпадающего списка	And I select "%3 FieldValue" from the drop-down list named "%2 FieldName" in "%1 TableName" table	Select value from drop-down list.
+И в таблице "%1 ИмяТаблицы" поле "%2 Заголовок поля" имеет значение "%3 ЗначениеПоля"	Проверка значения поля (ячейки) текущей строки таблицы	And in "%1 TableName" table "%2 CheckboxName" field is set to "%3 True"	Current table line field value check
+И в таблице "%1 ИмяТаблицы" я выбираю значение реквизита "%2 Заголовок поля" из формы списка	Выбор значения реквизита из выпадающего списка	And I select "%2 CatalogAttrChoiceForm" attribute value in "%1 TableName" table from the choice form	Select attribute value from drop-down list.
+И в таблице "%1 ИмяТаблицы" я выбираю значение реквизита с именем "%2 ИмяРеквизита" из формы списка	Выбор значения реквизита из выпадающего списка	And I select the attribute named "%2 CatalogAttrChoiceForm" value in "%1 TableName" table from the choice form	Select attribute value from drop-down list.
+И В таблице "%1 ИмяТаблицы" я завершаю редактирование строки	Завершение редактирования строки	And I finish line editing in "%1 TableName" table	Finish line editing
+И в таблице "%1 ИмяТаблицы" я изменяю флаг "%2 Заголовок флага"	Изменяет текущее состояние флага	And I change "%2 CheckboxName" checkbox in "%1 TableName" table	Change checkbox current value
+И в таблице "%1 ИмяТаблицы" я изменяю флаг с именем "%2 ИмяФлага"	Изменяет текущее состояние флага	And I change checkbox named "%2 CheckboxName" in "%1 TableName" table	Change checkbox current value
+И в таблице "%1 ИмяТаблицы" я нажимаю на кнопку "%2 Добавить"	Нажимает на кнопку таблицы. Кнопка ищется по заголовку.	And in the table "%1 TableName" I click "%2 Add" button	Click the table button. Search the button by header.
+И в таблице "%1 ИмяТаблицы" я нажимаю на кнопку с именем "%2 Добавить"	Нажимает на кнопку таблицы. Кнопка ищется по имени.	And in the table "%1 TableName" I click the button named "%2 Add"	Click the table button. Search the button by name.
+И в таблице "%1 ИмяТаблицы" я удаляю текущую строку	Удаляет текущую строку таблицы	And I delete current line in "%1 TableName" table	Delete current line of the table.
+И В таблице "%1 ИмяТаблицы" поле "%2 Заголовок реквизита" доступно	Проверка доступности элемента таблицы	And in "%1 TableName" table "%2 AttributeName" attribute is available	Check if the table attribute is available
+И В таблице "%1 ИмяТаблицы" поле "%2 Заголовок реквизита" доступно только для просмотра	Проверка установленного флага "Только просмотр" для реквизита в таблице	And in "%1 TableName" table "%2 AttributeName" attribute is read only	Check if "Read only" checkbox is set for table attribute
+И В таблице "%1 ИмяТаблицы" поле "%2 Заголовок реквизита" не доступно	Проверка не доступности элемента таблицы	And in "%1 TableName" table "%2 AttributeName" attribute is not available	Check if the table attribute is not available
+И В таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяРеквизита" доступно	Проверка доступности элемента таблицы	And in "%1 TableName" table the attribute named "%2 AttributeName" is available	Check if the table attribute is available
+И В таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяРеквизита" доступно не только для просмотра	Проверка установленного флага "Только просмотр" для реквизита в таблице	And in "%1 TableName" table the attribute named "%2 AttributeName" is not read only	Check if "Read only" checkbox is set for table attribute
+И В таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяРеквизита" не доступно	Проверка не доступности элемента таблицы	And in "%1 TableName" table the attribute named "%2 AttributeName" is not available	Check if the table attribute is not available
+И В таблице "%1 Список" я перехожу на первую строку	Переходим в ТЧ на первую строку	And I go to the first line of "%1 List" table	Go to the first line of the tabular section
+И В таблице "%1 Список" я перехожу на последнюю строку	Переходим в ТЧ на последнюю строку	And I go to the last line of "%1 List" table	Go to the last line of the tabular section
+И В таблице "%1 ИмяТаблицы" из выпадающего списка "%2 ИмяПоля" я выбираю "%3 ЗначениеПоля" с выбором	Выбор из выпадающего списка в таблице с дополнительным вызовом метода Выбрать(). Применялось на 8.3.6.	And I select "%3 FieldValue" from the drop-down list named "%2 FieldName" in "%1 TableName" table with selection	Select from the drop-down list in the table with the extra call of Select() method. Applied on 8.3.6.
+И в таблице "%1 ИмяТаблицы" я снимаю флаг "%2 Заголовок флага"	Устанавливает флаг в Ложь	And I remove "%2 CheckboxName" checkbox in "%1 TableName" table	Sets checkbox to False
+И в таблице "%1 ИмяТаблицы" я устанавливаю флаг "%2 Заголовок флага"	Устанавливает флаг в Истина	And I set "%2 CheckboxName" checkbox in "%1 TableName" table	Sets checkbox to True
+И В таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяПоля" доступно только для просмотра	Проверка установленного флага "Только просмотр" для реквизита в таблице	And in "%1 TableName" table the field named "%2 FieldName" is read only	Check if "Read only" checkbox is set for table attribute
+И выражение внутреннего языка '%1 Выражение' Истинно	Позволяет проверить произвольное выражение встроенного языка.	And 1C:Enterprise language expression "%1 Context.EndCount - Context.BeginCount = 1" is true	Allows you to check an arbitrary expression of 1C:Enterprise script
+И для каждой строки таблицы "%1 ИмяТаблицы" я выполняю	"Цикл. Выполняет шаги для каждой строки таблицы.
+Если передано имя таблицы, то будет попытка перебрать все строки в таблице клиента тестирования. 
+Если передана таблица Gherkin, то будут перебираться её строки. Первая должа содержать имена колонок. 
+При переходе к следующей строке будет создаваться переменная с именем каждой колонки."	And for each line of "%1 TableName" table I do	Do Executes the steps for each table line
+И из выпадающего списка "%1 Заголовок поля" я выбираю "%2 ЗначениеПоля"	Выбор из выпадающего списка. Значение будет выбрано через ввод по строке. Допускается вводить строку не целиком.	And I select "%2 FieldValue" value from "%1 FieldName" drop-down list	Select from drop-down list. The value will be selected through input by string. Allowed to input not entire line.
+И из выпадающего списка с именем "%1 МойВыпадающийСписок" я выбираю "%2 ЗначениеПоля"	Выбор из выпадающего списка. Значение будет выбрано через ввод по строке. Допускается вводить строку не целиком.	And I select "%2 ListValue" value from the drop-down list named "%1 FieldName"	Select from drop-down list. The value will be selected through input by string. Allowed to input not entire line.
+И Пауза "%1 1"	Позволяет сделать паузу нужной длительности.	And Delay "%1 1"	Allows the required duration delay.
+И Пока в таблице "%1 ИмяТаблицы" количество строк "%2 >" "%3 0" Тогда	Цикл. Выполняет шаги до тех пор, пока в таблице есть строки	And While the number of "%1 TableName" table lines "%2 >" "%3 0" Then	Do Executes steps while the table contains lines
+И Пока выражение встроенного языка "%1 УсловиеЦиклаНаВстроенномЯзыке" истинно тогда	Цикл. Выполняет шаги пока истинно условие	And While "%1 Context.ServiceVariable < 2" 1C:Enterprise script is True Then	Do Executes steps while condition is true
+И поле "%1 Заголовок поля" заполнено	Проверяет заполненность поля формы	And field "%1 FieldName" is filled	Checks the filling of the form field
+И поле "%1 Заголовок поля" не существует	Проверка не существования поля	And field "%1 FieldName" does not exist	Checks if the field does not exist
+И элемент формы "%1 Заголовок поля" отсутствует на форме	Проверка невидимости поля. Поле может не существовать.	And field "%1 FieldName" is not present on the form	Field invisibility check
+И элемент формы "%1 Заголовок поля" присутствует на форме	Проверка видимости поля. Поле обязано существовать.	And field "%1 FieldName" is present on the form	Field visibility check
+И поле "%1 Заголовок поля" существует	Проверка существования поля	And field "%1 FieldName" exists	Checks if the field exists
+И поле с именем "%1 ИмяПоля" имеет заголовок "%2 Заголовок"	Проверка, что у поля нужный заголовок. Поле ищется по внутреннему идентификатору.	And the field named "%1 FieldName" header is "%2 Header"	Check the field has specified header. The field is searched internal ID.
+И поле с именем "%1 ИмяПоля" не существует	Проверка не существования поля	And the field named "%1 FieldName" does not exist	Checks if the field does not exist
+И элемент формы с именем "%1 ИмяПоля" отсутствует на форме	Проверка невидимости поля. Поле может не существовать.	And the field named "%1 FieldName" does not exist on the form	Field invisibility check
+И элемент формы с именем "%1 ИмяПоля" присутствует на форме	Проверка видимости поля. Поле обязано существовать.	And the field named "%1 FieldName" exists on the form	Field visibility check
+И поле с именем "%1 ИмяПоля" существует	Проверка существования поля	And the field named "%1 FieldName" exists	Checks if the field exists
+И таблица формы с именем "%1 ИмяТаблицы" содержит строки:	Проверяет, что таблица TestClient содержит строки таблицы Gherkin	And form table named "%1 TableName" contains lines	Checks if TestClient table contains lines from Gherkin table
+И таблица формы с именем "%1 ИмяТаблицы" стала равной:	Проверяет, что таблица TestClient стала равна таблице Gherkin	And form table named "%1 TableName" became equal	Checks if TestClient table became equal to Gherkin table
+И табличный документ "%1 РеквизитТабличныйДокумент" соответствует макету "%2 ИмяМакета"	Сравнивает значения макета с эталоном. Макет ищется сначала в обработке фича файла, затем в каталоге проекта.	And "%1 SpreadsheetDocument" spreadsheet document corresponds to "%2 TemplateName"	Compares template values to the pattern. Search for the template first in feature file processor, then in project directory.
+И табличный документ формы с именем "%1 РеквизитТабличныйДокумент" стал пустым	Проверяет, что табличный документ пустой	And form spreadsheet document named "%1 SpreadsheetDocument" became empty	Checks if spreadsheet document is empty
+И табличный документ формы с именем "%1 РеквизитТабличныйДокумент" стал равен:	Проверяет равенство табличного документа переданной таблице Gherkin. Необходимо указать параметры считывания макета.	And form spreadsheet document named "%1 SpreadsheetDocument" became equal to	Checks if spreadsheet document is equal to Gherkin table. Specify the template read parameters.
+И у поля "%1 Заголовок поля" я перехожу к дате "%2 08.04.1981"	Делает переход к дате в поля календаря. Если переход делается через переменную контекста, то в ней должно лежать значение типа Дата.	And I go to the "%2 08.04.1981" date in "%1 FieldName" field	Moves to the date in calendar field.
+И у поля "%1 Заголовок поля" я выбираю пункт контекстного меню "%2 ИмяПунктаМеню"	Выбирает нужный пункт контекстного меню у поля	And I select "%2 MenuItemName" context menu item of "%1 FieldName" field	Selects the specified context menu item in the field
+И у поля с именем "%1 ИмяПоля" я выбираю пункт контекстного меню "%2 ИмяПунктаМеню"	Выбирает нужный пункт контекстного меню у поля	And I select "%2 MenuItemName" context menu item of the field named "%1 FieldName"	Selects the specified context menu item in the field
+И у поля с именем "%1 ИмяПоля" я перехожу к дате "%2 08.04.1981"	Делает переход к дате в поля календаря	And I go to the "%2 08.04.1981" date in the field named "%1 FieldName"	Moves to the date in calendar field.
+И у поля с именем "%1 ИмяПоля" текст подсказки равен "%2 ТекстПодсказки"	Проверка, что у поля нужный текст подсказки. Поле ищется по внутреннему идентификатору.	And a field named "%1 FieldName" tooltip text is equal to "%2 Title"	Check the field has specified tooltip. The field is searched internal ID.
+И у табличного документа с именем "%1 РеквизитТабличныйДокумент" я ввожу текст "%2 МойТекст"	Вводит текст в нужную ячейку табличного документа	And in spreadsheet document named "%1 SpreadsheetDocument" I input text "%2 MyText"	Inputs text to the specified spreadsheet document cell
+И у табличного документа с именем "%1 РеквизитТабличныйДокумент" я перехожу к ячейке "%2 R4C2"	Делает нужную ячейку табличного документа активной	And in spreadsheet document named "%1 SpreadsheetDocument" I move to "%2 CellName" cell	Activates required cell of the spreadsheet document.
+И у элемента "%1 Заголовок элемента" я жду значения "%2 Значение"	Ожидание что элемент формы примет нужное значение (таймаут 10)	And I wait "%2 Value" value of "%1 AttributeName" attribute	Waits for form attribute gets the required value (timeout 10)
+И у элемента с именем "%1 ИмяЭлемента" я жду значения "%2 Значение"	Ожидание что элемент формы примет нужное значение (таймаут 10)	And I wait "%2 Value" value of the attribute named "%1 AttributeName"	Waits for form attribute gets the required value (timeout 10)
+И флаг "%1 Заголовок флага" равен "%2 Истина"	Проверяет значение флага	And checkbox "%1 CheckboxName" is equal to "%2 True"	Checks checkbox value
+И элемент "%1 Заголовок поля" доступен не только для просмотра	Проверка флага "Только просмотр"	And "%1 FieldName" attribute is not read-only	Checks "Read only" checkbox
+И элемент с именем "%1 ИмяПоля" доступен не только для просмотра	Проверка флага "Только просмотр"	And the attribute named "%1 FieldName" is not read-only	Checks "Read only" checkbox
+И элемент формы "%1 Заголовок элемента" доступен	Проверка доступности элемента формы	And "%1 AttributeName" form attribute is available	Checks if the form attribute is available
+И элемент формы "%1 Заголовок элемента" не доступен	Проверка доступности элемента формы	And "%1 AttributeName" form attribute is unavailable	Checks if the form attribute is available
+И элемент формы с именем "%1 ИмяЭлемента" доступен	Проверка доступности элемента формы	And form attribute named "%1 AttributeName" is available	Checks if the form attribute is available
+И элемент формы с именем "%1 ИмяЭлемента" не доступен	Проверка доступности элемента формы	And form attribute named "%1 AttributeName" is unavailable	Checks if the form attribute is available
+И я активизирую TestClient "%1 ИмяПрофиляTestClient"	Позволяет переключить контекст на нужный TestClient. Поиск TestClient в таблице подключений просиходит по имени или синониму.	And I activate "%1 ClientName" TestClient	Allows switching the context to scecified TestClient. Searches TestClient in connections table by name or synonym.
+И я активизирую окно "%1 Заголовок окна"	Активизирует окно с нужным заголовком	And I activate "%1 WindowName" window	Activates the window with required title
+И я активизирую поле "%1 Заголовок поля"	Сделать поле активным	And I activate "%1 FieldName" field	Activate the field
+И я активизирую поле с именем "%1 ИмяПоля"	Сделать поле активным	And I activate the field named "%1 FieldName"	Activate the field
+И я буду выбирать внешний файл "%1 ИмяФайла"	Устанавливает результат диалога выбора файла. Допустимо указать директиву $КаталогПроекта$, чтобы подставить в часть пути путь к каталогу проекта.	And I select external file "%1 FileName"	Sets the result of file selection dialog box. It is allowed to specify $ProjectDirectory$ directive to substitute project directory to the path.
+И я вижу элемент "%1 Заголовок элемента"	Проверяет видимость элемента на форме	And I see "%1 AttributeName" attribute	Checks form attribute visibility
+И я вижу элемент "%1 Заголовок элемента" на форме	Проверяет видимость элемента на форме	And I see "%1 AttributeName" attribute on the form	Checks form attribute visibility
+И я вижу элемент с именем "%1 ИмяЭлемента"	Проверяет видимость элемента на форме	And I see the attribute named "%1 AttributeName"	Checks form attribute visibility
+И я вижу элемент с именем "%1 ИмяЭлемента" на форме	Проверяет видимость элемента на форме	And I see the attribute named "%1 AttributeName" on the form	Checks form attribute visibility
+И я выбираю значение реквизита "%1 Заголовок поля" из формы списка	Нажимает на кнопку "Выбрать из списка" у поля	And I select "%1 FieldName" attribute value from the choice list	Clicks "Select from list" field button
+И я выбираю значение реквизита с именем "%1 ИмяПоля" из формы списка	Нажимает на кнопку "Выбрать из списка" у поля	And I select the attribute named "%1 FieldName" value from the choice list	Clicks "Select from list" field button
+И я жду когда в табличном документе "%1 РеквизитТабличныйДокумент" заполнится ячейка "%2 r4c2" в течение "%3 20" секунд	По таймеру проверяет, что указанная ячейка табличного документа не пустая.	And I wait for filling of "%2 CellName" cell in "%1 SpreadsheetDocumentName" spreadsheet document for "%3 120" seconds	Checks by timer that specified spreadsheet document cell is not empty
+И я жду появления элемента "%1 Заголовок элемента"	Ожидание появления элемента формы с нужным заголовком	And I wait for "%1 AttributeName" attribute appearance	Waits for form attribute with required header appearance
+И я жду появления элемента с именем "%1 ИмяЭлемента"	Ожидание появления элемента формы с нужным именем	And I wait for the attribute named "%1 AttributeName" appearance	Waits for form attribute with required name appearance
+И я завершаю редактирование строки	Завершение редактирования строки текущей таблицы.	And I finish line editing	Finish current table line editing
+И я закрываю TestClient "%1 ИмяПрофиляTestClient"	Закрывает указанный TestClient Перед этим закрывает все окна в нём.	And I close "%1 ClientName" TestClient	Closes all specified TestClient windows and then terminated the TestClient.
+И я закрываю окно "%1 Заголовок окна"	Закрывает окно с нужным заголовком	And I close "%1 WindowName" window	Closes the window with required title
+И я закрываю окно предупреждения	Закрывает окно предупреждения если оно есть	And I close warning window	Closes warning window if it is available
+И я закрываю сеанс TESTCLIENT	Закрывает активный сеанс TestClient, если он есть. При этом происходит попытка закрыть моадльные диалоги, если они появляются.	And I close TestClient session	Closes active TestClient if it is available.
+И я закрываю текущее окно	Закрывает активное окно	And I close current window	Closes the active window
+И я закрыл все окна клиентского приложения	Закрывает все окна текущего TestClient.	And I close all client application windows	Closes all current TestClient windows.
+И я закрыл все окна клиентского приложения кроме "%1 Нужное окно"	Закрывает все окна текущего TestClient, кроме нужного окна.	And I close all client application windows except "%1 RequiredWindow"	Closes all current TestClient windows except the required one.
+И Я запоминаю значение выражения '%1 ВыражениеВстроенногоЯзыка' в переменную "%2 ИмяПеременной"	Позволяет сохранить в переменную Контекст произвольное выражение встроенного языка	And I save "%1 Expression" in "%2 InitialCount" variable	Allows saving of arbitrary code expression to Context variable
+И Я запоминаю значение выражения '%1 ВыражениеВстроенногоЯзыка' в переменную "%2 ИмяПеременной" глобально	Позволяет сохранить в переменную КонтекстСохраняемый произвольное выражение встроенного языка	And I save "%1 Expression" in "%2 InitialCount" variable globally	Allows saving of arbitrary code expression to ContextSaved variable
+И я запоминаю значение поля "%1 Заголовок поля" как "%2 ИмяПеременной"	Сохранение значения поля в переменную Контекст	And I save the value of "%1 FieldName" field as "%2 VariableName"	Save field value to Context variable
+И я запоминаю значение поля "%1 Заголовок поля" как "%2 ИмяПеременной" глобально	Сохранение значения поля в переменную КонтекстСохраняемый	And I save the value of "%1 FieldName" field as "%2 VariableName" globally	Save field value to ContextSaved variable
+И я запоминаю значение поля "%1 Заголовок поля" с ключом "%2 Номер документа"	Сохранение значения поля в переменную Контекст с произвольным ключом	And I save the value of "%1 FieldName" field with "%2 DocumentNumber" key	Saving field value to Context variable with arbitrary key
+И я запоминаю значение поля "%1 Заголовок поля" с ключом "%2 Номер документа" глобально	Сохранение значения поля в переменную КонтекстСохраняемый с произвольным ключом	And I save the value of "%1 FieldName" field with "%2 DocumentNumber" key globally	Saving field value to ContextSaved variable with arbitrary key
+И я запоминаю текущее окно как "%1 ЗаголовокОкна"	Сохранение значения заголовка текущего окна в переменную.	And I save the window as "%1 RequiredWindowsHeader"	Save current window header value to Context variable
+И я изменяю флаг "%1 Заголовок флага"	Изменяет текущее состояние флага	And I change checkbox "%1 CheckboxName"	Change checkbox current value
+И я изменяю флаг с именем "%1 ИмяФлага"	Изменяет текущее состояние флага	And I change checkbox named "%1 CheckboxName"	Change checkbox current value
+И я меняю значение переключателя "%1 Заголовок элемента" на "%2 Значение переключателя"	Меняет значение переключателя (радиобаттона)	And I change "%1 RadiobuttonAttribute" radio button value to "%2 FirstValue"	Changes the value of switch (RadioButton)
+И я меняю значение переключателя с именем "%1 РеквизитПереключатель" на "%2 Значение переключателя"	Меняет значение переключателя (радиобаттона)	And I change the radio button named "%1 RadiobuttonAttribute" value to "%2 FirstValue"	Changes the value of switch (RadioButton)
+И я нажимаю кнопку выбора у поля "%1 Заголовок поля"	Нажимает на кнопку выбора у поля	And I click Select button of "%1 FieldName" field	Clicks on Select field button
+И я нажимаю кнопку выбора у поля с именем "%1 ИмяПоля"	Нажимает на кнопку выбора у поля	And I click Choice button of the field named "%1 FieldName"	Clicks on Select field button
+И я нажимаю кнопку очистить у поля "%1 Заголовок поля"	Очищает поле	And I click Clear button of "%1 FieldName" field	Clears the field
+И я нажимаю кнопку очистить у поля с именем "%1 ИмяПоля"	Очищает поле	And I click Clear button of the field named "%1 FieldName"	Clears the field
+И я нажимаю на гиперссылку "%1 Гиперссылка"	Нажатие на гиперссылку.	And I click "%1 Hyperlink" hyperlink	Clicks the hyperlink.
+И я нажимаю на гиперссылку с именем "%1 Гиперссылка"	Нажатие на гиперссылку.	And I click the hyperlink named "%1 ButtonName"	Clicks the hyperlink.
+И я нажимаю на кнопку "%1 Заголовок кнопки"	Нажимает на кнопку с нужным заголовком	And I click "%1 ButtonName" button	Clicks the button with the specified header
+И я не вижу элемент "%1 Заголовок элемента"	Проверяет не видимость элемента на форме	And I dont see "%1 AttributeName" attribute	Checks form attribute invisibility
+И я не вижу элемент "%1 Заголовок элемента" на форме	Проверяет не видимость элемента на форме	And I dont see "%1 AttributeName" attribute on the form	Checks form attribute invisibility
+И я не вижу элемент с именем "%1 ИмяЭлемента"	Проверяет не видимость элемента на форме	And I dont see the attribute named "%1 AttributeName"	Checks form attribute invisibility
+И я не вижу элемент с именем "%1 ИмяЭлемента" на форме	Проверяет не видимость элемента на форме	And I dont see the attribute named "%1 AttributeName" on the form	Checks form attribute invisibility
+И я открываю выпадающий список "%1 Заголовок списка"	Открывает выпадающий список	And I open "%1 ListName" drop-down list	Opens drop-down list
+И я открываю выпадающий список с именем "%1 ИмяСписка"	Открывает выпадающий список	And I open the drop-down list name "%1 ListName	Opens drop-down list
+И Я открываю форму документа "%1 АвтоВзаимозачет" заполненного на основании не проведенного "%2 ПоступлениеАвтомобилей"	Открытие формы на основании не проведенного документа	And I open "%1 AutoNetting" document form filled on the basis of non-posted "%2 VehicleReceipt"	Open a form generated from non-posted document
+И Я открываю форму документа "%1 АвтоВзаимозачет" заполненного на основании проведенного "%2 ПоступлениеАвтомобилей"	Открытие формы на основании проведенного документа	And I open "%1 AutoNetting" document form filled on the basis of posted "%2 VehicleReceipt"	Open a form generated from posted document
+И я очищаю окно сообщений пользователю	Очищает окно сообщений пользователю.	And I clear user message window	Clears user message window.
+И Я очищаю фильтр на форме списка	Позволяет сбросить фильтр на список через меню "Ещё/Настроить список"	And I clear list form filter	Allows to reset the list filter via menu "More/Configure List"
+И я перехожу к следующему реквизиту	Переходит к следующему реквизиту формы	And I move to the next attribute	Go to next form attribute
+И я подключаю TestClient "%1 ИмяКлиента" логин "%2 Логин" пароль "%3 Пароль"	Позволяет подключить TestClient с нужным логином и паролем. Если указанный профиль уже существует, то будет использован переданный профиль. Если такого профиля нет, то он будет создан на основе профиля "Этот клиент", который в себе содержит строку подключения к тойже базе, в которой запущен TestManager	And I connect "%1 ClientName" TestClient using "%2 MyUser" login and "%3 MyPassword" password	Allows TestClient connection with specified login and password in TestManager database
+И Я подключаю клиент тестирования "%1 ИмяПрофиляTestClient" из таблицы клиентов тестирования	Подключение нового сеанса, если он не был запущен ранее.	And I connect "%1 TestClienName" test client from test client table	Connects TestClient by profile name
+И я подключаю профиль TestClient "%1 ИмяПрофиляTestClient"	Позволяет подключить TestClient по имени уже существующего профиля	And I connect "%1 Operator" profile of TestClient	Connects TestClient by existing profile name
+И я разворачиваю группу "%1 Заголовок группы"	Разворачивает группу	And I expand "%1 GroupName" group	Expands the group
+И я разворачиваю группу с именем "%1 ИмяГруппы"	Разворачивает группу	And I expand the group named "%1 GroupName"	Expands the group
+И я сворачиваю группу "%1 Заголовок группы"	Сворачивает группу	And I collapse "%1 GroupName" group	Collapses the group
+И я сворачиваю группу с именем "%1 ИмяГруппы"	Сворачивает группу	And I collapse the group named "%1 GroupName"	Collapses the group
+И я снимаю флаг "%1 Заголовок флага"	Устанавливает флаг в Ложь	And I remove checkbox "%1 CheckboxName"	Sets checkbox to False
+И я снимаю флаг с именем "%1 ИмяФлага"	Устанавливает флаг в Ложь	And I remove checkbox named "%1 CheckboxName"	Sets checkbox to False
+И Я создаю fixtures по макету "%1 Макет"	Создает данные из макета MXL	And I create fixtures by "%1 Template" template	Creates data from MXL template
+И я удаляю все строки таблицы "%1 ИмяТаблицы"	Очистить таблицу	And I delete all lines of "%1 TableName" table	Clears the table
+"И Я устанавливаю фильтр на список
+   	    | Наименование | Содержит | Товар1 |"	Позволяет установить фильтр на список через меню "Ещё/Настроить список"	"And I set list filter
+   	    | Name | Contains | Item1|"	Allows to set the list filter via menu "More/Configure List"
+"И Я устанавливаю фильтр на список если это возможно
+   	    | Наименование | Содержит | Товар1 |"	Позволяет установить фильтр на список через меню "Ещё/Настроить список". Причём если такого поля нет, то исключение вызываться не будет.	"And I set the list filter if available
+   	    | Name | Contains | Item1|"	Allows to set the list filter via menu "More/Configure List". At that if the field does not exist it will not raise the exception.
+И я устанавливаю флаг "%1 Заголовок флага"	Устанавливает флаг в Истина	And I set checkbox "%1 CheckboxName"	Sets checkbox to True
+И я устанавливаю флаг с именем "%1 ИмяФлага"	Устанавливает флаг в Истина	And I set checkbox named "%1 CheckboxName"	Sets checkbox to True
+Когда в логе сообщений TestClient есть строка "%1 Нужное сообщение пользователю"	Проверяет в логе сообщений наличие нужной строки.	When TestClient log message contains "%1 RequiredUserMessage" string	Checks if the message log contains the required line.
+Когда В панели открытых я выбираю "%1 ИмяКоманды"	Нажатие кнопки на панели открытых окон	When in opened panel I select "%1 CommandName"	Clicks the button at open windows panel
+Когда В панели разделов я выбираю "%1 ИмяКоманды"	Нажатие кнопки на панели разделов	And in sections panel I select "%1 CommandName"	Clicks sections panel button
+"Когда Проверяю шаги на Исключение:
+		|'И     в поле с именем ""Наименование2"" я ввожу текст ""Тестовый Элемент""'|"	Проверка негативного поведения шага. Т.е. проверяемый шаг/шаги должны вызвать исключние.	"When I Check the steps for Exception
+		|""In the field named ""Name2"" I enter the text ""TestItem""""|"	Checks the negative behavior of the step. I.e., the step/steps should raise the exception.
+Когда Я открываю форму документа "%1 АвтоВзаимозачет" заполненного на основании не проведенного "%2 ПоступлениеАвтомобилей" номер "%3 АВ00000080" от "%4 04.09.2016"	Открытие формы на основании не проведенного документа	And I open "%1 AutoNetting" document form filled on the basis of non-posted "%2 VehicleReceipt" number "%3 Number" from "%4 Date"	Open a form generated from non-posted document
+Когда Я открываю форму документа "%1 АвтоВзаимозачет" заполненного на основании проведенного "%2 ПоступлениеАвтомобилей" номер "%3 АИ00000002" от "%4 12.03.2017"	Открытие формы на основании проведенного документа	And I open "%1 AutoNetting" document form filled on the basis of posted "%2 VehicleReceipt" number "%3 Number" from "%4 Date"	Open a form generated from posted document
+Когда Я подключаю клиент тестирования "%1 ИмяКлиентаТестирования" из таблицы клиентов тестирования от имени "%2 Логин" с паролем "%3 Пароль"	Подключение нового сеанса, если он не был запущен ранее. Необходимо указать логин и пароль.	When I connect "%1 TestClientName" Test client from test client table with "%2 Username" username and "%3 Password" password	Connects the test client to the same database as TestManager with the specified username and password.
+"Когда Я подключаю клиент тестирования с параметрами:
+    | 'Имя'             | 'Синоним'        | 'Порт' | 'Строка соединения'                     | 'Логин' | 'Пароль' | 'Запускаемая обработка' |  'Дополнительные параметры строки запуска'  |
+    | 'ИмяПрофиля'      | 'СинонимПрофиля' | '1538' | 'Srvr=""localhost:1941"";Ref=""Test"";' | 'Админ' | 'Админ'  | 'c:\СуперОбработка.epf' |  '/UC'                                      |"	Подключает TestClient. Все параметры подключения указываются в таблице. Запускает новый сеанс, если не найден запущенный ранее.	"When I connect TestClient with parameters
+    | ""Connection name"" | ""Synonym"" | ""Port"" | ""Connection String"" | ""Username"" | ""Password"" | ""Data processor"" | ""Additional command line parameters"" |
+    | ""Test 1"" | ""Synonym1"" | ""1538"" | ""Srvr=""localhost:1941"";Ref=""Test"";"" | ""Admin"" | ""Admin"" | ""c:\СуперОбработка.epf"" | ""/UC"" |"	Connects TestClient. All connection setings are specified in the table.
+Тогда в таблице "%1 ИмяТаблицы" я выделяю все строки	Выделение всех строк в таблице	Then I select all lines of "%1 TableName" table	Select all table lines
+Тогда в таблице "%1 ИмяТаблицы" количество строк "%2 меньше или равно" "%3 2"	Проверка на количество строк в таблице	Then the number of "%1 TableName" table lines is "%2 ComparisonType" "%3 ComparisonNumber"	Checks line number in the table
+Тогда не появилось окно предупреждения системы	Проверяет, что на экране нет предупреждения системы.	Then system warning window does not appear	Checks that system warning is not displayed on the screen.
+Тогда открылось окно "%1 Заголовок окна"	Проверяет, что на экране есть активное окно с нужым заголовком. Возможно передавать сразу несколько заголовков окон через таблицу Gherkin.	Then "%1 FormName" window is opened	Checks if the active window with required header presents at the screen
+Тогда появилось предупреждение, содержащее текст "%1 Текст"	Проверяет, что появилось окно предупреждения, содержащее нужный текст.	Then warning message containing text "%1 Text" appears	Checks if warning window with required text is displayed.
+Тогда текст текущей ячейки таблицы "%1 Таблица" стал равен "%2 Значение поля"	Проверка значения текущей ячейки таблицы.	Then the text of current cell of "%1 Table" table became equal to "%3 FieldValue"	Current table cell value check
+Тогда текст ячейки таблицы "%1 Таблица" "%2 ИмяПоля" стал равен "%3 Значение поля"	Проверка значения ячейки таблицы. Имя ячейки указывается как оно указано в конфигураторе.	Then the text of "%2 FieldName" cell of "%1 Table" table became equal to "%3 FieldValue"	Table cell value check Cell name is specified as it appears in the Designer.
+Тогда элемент формы "%1 Заголовок поля" стал равен "%2 Значение поля"	Проверка значения элемента формы	Then "%1 FieldName" form attribute became equal to "%2 FieldValue"	Checks form attribute value
+Тогда элемент формы с именем "%1 ИмяПоля" стал равен "%2 Значение поля"	Проверка значения элемента формы	Then the form attribute named "%1 FieldName" became equal to "%2 FieldValue"	Checks form attribute value
+Тогда я вызываю исключение "%1 Текст исключения"	Вызывает исключение с нужным текстом	Then I raise "%1 ExceptionText" exception	Raises the exception with required text
+И для каждой строки таблицы "%1 ИмяТаблицы" я выполняю используя колонку "%2 N"	"Цикл. Выполняет шаги для каждой строки таблицы. При этом будет происходить явный переход по номеру строки.
+Если передано имя таблицы, то будет попытка перебрать все строки в таблице клиента тестирования. 
+Если передана таблица Gherkin, то будут перебираться её строки. Первая должа содержать имена колонок. 
+При переходе к следующей строке будет создаваться переменная с именем каждой колонки."	And for each "%1 TableName" table line I execute using column "%2 N"	"Loop. Executes the steps for each table line. Moving to the line is performed explicitly by line number.
+If table name is passed, it will try to iterate all lines of the test client table. 
+If Gherkin table is passed, its lines will be iterated. The first line should contain column names. 
+A variable named as each column will be created when moving to the next line."
+Когда в логе сообщений TestClient есть строка по шаблону "%1 Нужное сообщение пользователю"	Проверяет в логе сообщений наличие нужной строки. Символ * заменяет произолный набор символов.	When TestClient log message contains "%1 RequiredUserMessage" string by template	Checks if the message log contains the required line. The * symbol replaces the arbitrary character set.
+Затем количество файлов в каталоге "%1 ИмяКаталога" я запоминаю как "%2 КоличествоФайлов"	Получает количество файлов в каталоге и сохраняет в переменную.	Then I save files number in "%1 DirectoryName" directory as "%2 FilesNumber"	Gets the number of files in the directory and saves into the variable.
+И я жду открытия окна отличного от "%1 Заголовок окна" в течение "%2 20" секунд	Ожидает что откроется другое окно, отличное от переданного в течение указанного числа секунд. Используется, чтобы определить смену окон.	And I wait the window with header different from "%1 WindowName" opening in "%2 20" seconds	Waits for opening the window different from the passed one, within the specified number of seconds. Used to determine windows change.

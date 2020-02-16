@@ -1,0 +1,810 @@
+﻿Строка поиска	Translation
+%1 не найден;	%1 nu a fost găsit
+%1 Не умею обрабатывать реквизит <%2> у объекта <%3>	%1 Nu știu să se ocupe de recuzită <%2> la obiect <%3>
+%1.%2 в макете нет записей для регистра %3	%1.%2 în structura nu există înregistrări pentru a registrului %3
+%1.%2 не удалось создать новый набор записей.%3	%1.%2 nu a reușit să creeze un nou set de înregistrări.%3
+%1.%2 не удалось создать новый набор записей%3	%1.%2 nu a reușit să creeze un nou set de înregistrări%3
+%1.%2 не удалось создать новый элемент.%3	%1.%2 nu s-a putut crea un element nou.%3
+№%1. Заголовок=<%2>. Имя=<%3>. ТекстПоля = <%4>	Nr%1. Titlul=<%2>. Numele de=<%3>. ТекстПоля = <%4>
+TestClient НЕ подключен.	TestClient NU este conectat.
+TestClient подключен на %1 порту.	TestClient este conectat la %1 port.
+Web клиент не поддерживает запись действий пользователя.	Web clientul nu acceptă înregistrarea acțiunilor utilizatorului.
+Активирую окно с координатами: %1;%2	Activez fereastra de coordonate: %1
+Активная форма не найдена	Forma activă nu a fost găsit
+Активное окно не найдено.	Fereastra activă nu a fost găsit.
+больше	mai mult
+больше или равно	mai mare sau egal cu
+Были конфликты в именах снипетов.	Au fost conflicte în numele снипетов.
+Были ошибки в ПросканироватьИсходникиИНайтиВсеStepDefinition.	Au fost greșeli în ПросканироватьИсходникиИНайтиВсеstepdefinition.
+Было найдено окно предупреждения с текстом: <%1> А ожидалось, что таких окон не будет.	S-a găsit o fereastră de avertizare cu textul: <%1> Și era de așteptat ca astfel de ferestre nu va fi.
+Было найдено окно предупреждения. А ожидалось, что таких окон не будет.	A fost găsit de dialog de avertizare. Și era de așteptat ca astfel de ferestre nu va fi.
+В значение элемента формы %1 не найдена строка <%2>. Текущее значение поля <%3>	În valoare de element de formular %1 nu a fost găsit linia <%2>. Valoarea curentă a câmpului <%3>
+В ИБ загружены объекты: %1 шт.	În IB încărcate de obiecte: %1 bucată
+В каталоге <%1> должен был быть один файл xml.	În directorul <%1> a trebuit să fie un fișier xml.
+В меню нет значения <%1>	În meniu nici o valoare <%1>
+В метаданных %1 не найден реквизит-ключ <%2>. Ошибка в макете данных	În metadate %1 nu a fost găsit elemente de recuzită-cheie <%2>. Eroare în structura de date
+В параметрах JSON не найден каталог Фич.	În setările JSON nu a fost găsit catalog de Caracteristici.
+В переменной Контекст не обнаружено ранее сохраненное значение с именем <%1>	În variabila Contextul în care nu s-a detectat anterior, valoarea stocată cu numele <%1>
+В процедуру <УстановитьРезультатУсловия> передан неверный тип параметра <%1>. Ожидаемый тип: Булево.	În procedura de <УстановитьРезультатУсловия> transmis tip incorect de parametri <%1>. Așteptat de tip: Boolean.
+В результирующей таблице существуют две колонки с одинаковым заголовком: %1	În rezultantă tabel există două coloane cu același titlu: %1
+В списке нет значения <%1>	În lista de valori <%1>
+В строке <%1> не найдена подстрока <%2>	În bara de <%1> nu a fost găsit substr <%2>
+В сценарии <%1> найден тег исключение <%2>	În scenariul <%1> găsit o etichetă de excepție <%2>
+В сценарии <%1> найден тег отбор <%2>	În scenariul <%1> găsit o etichetă de selecție <%2>
+В таблице <%1>  НЕ найдено значение %2, а оно должно было быть.	În tabelul <%1> NU s-a găsit valoarea de 2%, iar aceasta trebuie să fi fost.
+В таблице <%1>  нет колонки <%2>	În tabelul <%1> nu coloana <%2>
+В таблице <%1> в строке №%2 найдено значение %3, а его не должно было быть.	În tabelul <%1> la linia nr%2-a găsit valoarea de 3%, dar nu a fost să fie.
+В таблице <%1> найдено <%2> значений. А ожидали <%3>. Имя колонки <%4>. Искомое значение <%5>	În tabelul <%1> s-au găsit <%2> valori. Iar așteptat <%3>. Numele de coloane <%4>. Valoare țintă <%5>
+В таблице <%1> не найдено ни одной строки	În tabelul <%1> nu s-a găsit nici o singură linie
+В таблице <%1> не найдено ячейки с заголовком <%2>	În tabelul <%1> nu a fost găsit de celule cu titlul <%2>
+В таблице <%1> не найдены колонки: %2	În tabelul <%1> nu a fost găsit coloane: %2
+В таблице <%1> не получилось активизировать поле <%2>.	În tabelul <%1> nu s-activați câmpul <%2>.
+В таблице <%1> нет строк для выбора.	În tabelul <%1> nici o siruri de caractere pentru a alege.
+В таблице <%1> ожидали получить <%2> строк, а получили <%3> строк.	În tabelul <%1> de așteptat pentru a obține <%2> rânduri, și a primit <%3> rânduri.
+В таблице <%1> ожидали получить %2 %3 строк, а получили <%4> строк.	În tabelul <%1> de așteptat pentru a obține %2 %3 rânduri, și a primit <%4> de linii.
+В таблице <%1> ожидали получить больше <%2> строк, а получили <%3> строк.	În tabelul <%1> de așteptat pentru a obține mai mult <%2> rânduri, și a primit <%3> rânduri.
+В таблице <%1> ожидали получить больше или равно <%2> строк, а получили <%3> строк.	În tabelul <%1> de așteptat pentru a obține mai mare sau egal cu <%2> rânduri, și a primit <%3> rânduri.
+В таблице <%1> ожидали получить меньше <%2> строк, а получили <%3> строк.	În tabelul <%1> de așteptat pentru a obține mai puțin de <%2> rânduri, și a primit <%3> rânduri.
+В таблице <%1> ожидали получить меньше или равно <%2> строк, а получили <%3> строк.	În tabelul <%1> de așteptat pentru a obține mai mic sau egal cu <%2> rânduri, și a primit <%3> rânduri.
+В таблице <%1> отсутствует колонка <%2>, указанная в параметрах.	În tabelul <%1> lipsește coloana <%2>, указанная în setările.
+В таблице <%1> поле с заголовком <%2> не найдено.	În tabelul <%1> caseta cu titlul <%2> nu a fost găsit.
+В таблице <%1> поле с именем <%2> не найдено.	În tabelul <%1> câmpul cu numele <%2> nu a fost găsit.
+В таблице <%1> у поля <%2> ожидали открытия выпадающего списка, но не дождались.	În tabelul <%1> u câmp <%2> așteptat a deschide lista drop-down, dar nu a mai venit.
+В таблице не найдена колонка <%1>	În tabel nu a fost găsit coloana <%1>
+В таблице параметров не было передано имя нового профиля. Колонка <Имя подключения>	În tabelul de parametri nu a fost transmis numele noului profil. Coloana <Nume conexiune>
+В таблице подключений уже есть подключение с именем <%1>	În tabelul de conexiuni deja o conexiune cu numele <%1>
+В табличном документе %1 колонок, а ожидалось %2 колонок.	În documentul tabelar %1 coloane, și era de așteptat %2 coloane.
+В табличном документе %1 строк, а ожидалось %2 строк.	În documentul tabelar %1 rânduri, și era de așteptat %2 rânduri.
+В табличном документе %1 строк, а ожидалось, что он пустой.	În documentul tabelar %1 rânduri, și era de așteptat ca el gol.
+В табличном документе в колонке <%1> значение не соответствует условию 'Значение в колонке %2 %3'. Текущее значение колонки <%4>. Ряд <%5>, колонка <%6>	În documentul tabelar în coloana <%1> valoarea nu este o condiție "Valoarea în coloana %2 %3'. Valoarea curentă a coloanei <%4>. O serie de <%5>, coloana <%6>
+В табличном документе в колонке <%1> ожидали значение <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	În documentul tabelar în coloana <%1> așteptat valoarea <%2>, și-au găsit <%3>. O serie de <%4>, coloana <%5>
+В табличном документе в колонке <%1> ожидали, что не будет значения <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	În documentul tabelar în coloana <%1> așteptat că nu va fi valori <%2>, și-au găsit <%3>. O serie de <%4>, coloana <%5>
+В табличном документе в колонке №%1 значение= <%2> , а ожидалось <%3>	În documentul tabelar în coloana nr%1 valoare= <%2> și era de așteptat <%3>
+В табличном документе колонка <%1> не найдена.	În documentul tabelar coloana <%1> nu a fost găsit.
+В файле <%1> нашли строки, а ожидали, что их нет:%2	În fișierul <%1> a găsit de comandă, și de așteptat, că lor nu:%2
+В файле <%1> не нашли строки, а ожидали, что они там есть:%2	În fișierul <%1> nu a fost găsit de comandă, și de așteptat, că sunt acolo:%2
+В фиче <%1> сценария <%2> найден тег исключение <%3>	În фиче <%1> script <%2> a fost găsit tag-ul excepție <%3>
+В фиче <%1> сценария <%2> найден тег отбор <%3>	În фиче <%1> script <%2> a fost găsit tag-ul de selecție <%3>
+В шаг необходимо передавать таблицу Gherkin, в которой 2 или более строк.	În pas necesar pentru a transmite un tabel Gherkin, în care 2 sau mai multe rânduri.
+В эталонной таблице существуют две колонки с одинаковым заголовком: %1	De referință în tabel există două coloane cu același titlu: %1
+ВерсияVA	ВерсияVA
+ВерсияПлатформы	ВерсияПлатформы
+Включите флаг <Включить отладочные сообщения> чтобы посмотреть выполняемые команды.	Porniți pavilion <Activați mesajele de depanare> pentru a vedea efectuate de echipa.
+Внутреняя ошибка. Неполное заполнение дерева метаданных. Отсутствует объект, образующий тип - %1	Interna eroare. Umplerea incompletă a lemnului de metadate. Lipsește un obiect, formând tip - %1
+Внутреняя ошибка. Неполное заполнение структуры ссылочных типов - %1	Interna eroare. Umplerea incompletă a structurii de tipuri de referință - %1
+Во вложенный сценарий <%1> было передано <%2> таблиц, а он принимает только <%3> таблиц.	În script-ul atașat <%1> a fost transferat <%2> tabele, și este nevoie de doar <%3> tabele.
+Возможно это обработка для обычных форм, а не для управляемых форм.	Este posibil acest lucru pentru prelucrarea formelor convenționale, și nu pentru gestionate de forme.
+Возможно это обработка для управляемых форм, а не для обычных форм.	Aceasta este posibil de prelucrare pentru gestionate de forme, nu de forme regulate.
+Все проверки пройдены.	Toate verificările complete.
+Вызов метода <%1>: %2	Apelul metodei <%1>: %2
+Выпадающий список <%1> не был сформирован.	O listă derulantă <%1> nu a fost format.
+Выпадающий список <%1> не открылся для ввода текста.	O listă derulantă <%1> nu s-a deschis pentru a introduce text.
+Выпадающий список <%1>. Ожидали, что в нём будет текст %2, а получили %3.	O listă derulantă <%1>. Se așteaptă că în ea va fi un text de 2%, și a primit %3.
+Выпадающий список с заголовком <%1> не найден.	O listă verticală cu titlul <%1> nu a fost găsit.
+Выпадающий список с именем <%1> не найден.	O listă verticală cu numele <%1> nu a fost găsit.
+Выполнение сценариев закончено. БЫЛИ ОШИБКИ.	Executarea scripturilor terminat. AU FOST ERORI.
+Выполнение сценариев закончено. Ошибок не было.	Executarea scripturilor terminat. Erori nu a fost.
+Выполняю	Fac
+Выражение <%1> оказалось равно <%2>, а ожидали <%3>.	Expresia <%1> s-a dovedit egal cu <%2>, iar așteptat <%3>.
+Генератор макета из реальных данных: Не умею обрабатывать такой тип <%1>	Generator de aspect de la date reale: Nu pot ocupa acest tip de <%1>
+ГолосовойДвижок - OK	ГолосовойДвижок - OK
+Группа с заголовком <%1> не найдена.	Grupa cu titlul <%1> nu a fost găsit.
+Группа с именем <%1> не найдена.	Un grup cu numele <%1> nu a fost găsit.
+Данные по основному подключению Клиента тестирования перезаполнены.	Datele de bază conectarea Testclient перезаполнены.
+Данный шаг не работает с таблицами.	Acest pas nu este de lucru cu tabele.
+ДатаВремяОшибки	ДатаВремяОшибки
+Делаю общий скриншот.	Fac total captură de ecran.
+Делаю перезапуск TESTCLIENT. ОписаниеОшибки=%1	Fac restart TESTCLIENT. ОписаниеОшибки=%1
+Делаю распаковку %1	Fac despachetarea %1
+Делаю скриншот.	Fac screenshot.
+Делаю скриншоты всех окон 1С.	Fac capturi de ecran pentru toate ferestrele de 1C.
+Длительность MP3 = 0. Файл=%1	Durata MP3 = 0. File=%1
+Для <%1> не найдено документа основания	Pentru <%1> nu a fost găsit documentul de baza
+Для генерации EPF должен быть установлен 1Script. В cmd должна выполняться команда: oscript	Pentru a genera EPF trebuie să fie instalat 1Script. În cmd, trebuie să se execute comanda: oscript
+Для подключения с именем <%1> изменен порт подключения, указанный порт уже есть в таблице подключений.	Pentru a vă conecta cu numele de <%1> schimbat portul, portul specificat deja în tabelul de conexiuni.
+Для текущей ячейки таблицы <%1> текущее значение равно <%2>, а ожидали <%3>	Pentru a memora o celulă de tabel <%1> valoarea actuală este egală cu <%2>, iar așteptat <%3>
+Для шага <%1> не найден EPF файл.	Pentru pasul <%1> nu a fost găsit EPF fișier.
+Для элемента формы %1 текущее значение равно <%2>, а ожидали <%3>	Pentru un element de forma %1 valoare curentă este <%2>, iar așteptat <%3>
+Для ячейки <%1> таблицы <%2> текущее значение равно <%3>, а ожидали <%4>	Pentru celula <%1> tabel <%2> valoarea actuală este egală cu <%3>, iar așteptat <%4>
+Добавил шаг: %1	A adăugat pas: %1
+ДобавитьСостояниеФормыTestclient:%1	ДобавитьСостояниеФормыTestclient:%1
+Должна быть передана минимум 1 строка	Trebuie să fi trecut cel puțin 1 linie
+Должна оставаться строка подключения текущего клиента	Trebuie să rămână un șir de conexiune curent al clientului
+Должно быть передано 2 строки	Ar trebui să fie transferate 2 linii
+Должны быть переданы минимум 2 строки. Первая строка с именами колонок, вторая и следующие - данные для проверки.	Ar trebui să fie transmise cel puțin 2 rânduri. Prima linie cu nume de coloane, a doua și următoarele date pentru verificare.
+ЗавершитьЗаписьДействийПользователя:%1	ЗавершитьЗаписьДействийПользователя:%1
+Загружен объект.Имя %1, Тип %2	Încărcat obiect.Numele De %1, Tip %2
+Загрузил новую версию	Încărcat o nouă versiune a
+Загрузил снипеты из кеш	Încărcat снипеты din cache-ul
+Закладка с заголовком <%1> не найдена.	Semn de carte cu titlul <%1> nu a fost găsit.
+Закладка с именем <%1> не найдена.	Semn de carte cu numele <%1> nu a fost găsit.
+Закончились фичи. Не стал назначать раннеру фичу.	S-au terminat фичи. Nu a desemna раннеру фичу.
+Закрытие TestClient <%1>	Închiderea TestClient <%1>
+Записал файл статуса билда: %1	A înregistrat fișierul statutul билда: %1
+Записался корректный элемент.	S-a înscris corect element.
+Записываю %1	Scrie %1
+Запись действий пользователя закончена.	Înregistrarea acțiunilor de utilizator s-a terminat.
+Запись действий пользователя начата.	Înregistrarea acțiunilor utilizatorului început.
+Запись действий пользователя приостановлена.	Înregistrarea acțiunilor de utilizator suspendat.
+Запись действий пользователя продолжена.	Înregistrarea acțiunilor utilizatorului continua.
+Запускаю генерацию epf.	Alerga generarea epf.
+Значение (%1) заполнено, а ожидалась незаполненность %2	Valoarea (%1) completată și a fost așteptată незаполненность %2
+Значение (%1) не заполнено, а ожидалась заполненность%2	Valoarea (%1) nu este completat, și a fost așteptată gradul de ocupare%2
+Значение [%1:%2]. Ожидали <%3>, а получили <%4>	Valoarea [%1:%2]. Așteptat <%3>, a primit <%4>
+Значение <%1> больше или равно, чем <%2>, а ожидалось меньше. %3	Valoarea <%1> mai mare sau egal decât <%2>, și se aștepta mai puțin. %3
+Значение <%1> больше, чем <%2>, а ожидалось меньше или равно. %3	Valoarea <%1> mai mare decât <%2> și era de așteptat mai mic sau egal cu. %3
+Значение параметра %1: ожидали <%2>, получили <%3>;	Valoarea parametrului %1: așteaptă <%2>, primit <%3>
+Значение параметра %1: ожидали подстроку <%2>, в <%3>;	Valoarea parametrului %1: așteaptă un subșir <%2>, în <%3>
+Значение параметра таймаута ожидания должно быть числом. Переданное значение: %1	Setarea timpului de expirare așteptare ar trebui să fie un număr. Transmis de valoare: %1
+ЗначениеНеНайдено: Реквизит <%1>: Искали значение <%2>, но не нашли.	ЗначениеНеНайдено: elemente de Recuzită <%1>: Cautat valoare <%2>, dar nu a găsit.
+Изменения формы обработаны.	Modificări de formă prelucrate.
+Изменилось имя формы: было: %1, стало: %2	S-a schimbat numele de forma: a: %1, a: %2
+имеет длину	are o lungime de
+имеет тип	are un tip de
+Именованная область %1 не найдена;	Именованная domeniu %1 nu a fost găsit
+ИмяКомпьютера <%1>; порт <%2>	Numecomputer <%1>
+ИмяПроцедуры	Procedurename.
+ИмяФайла	ИмяФайла
+Искали в %1 подстроку %2, но не нашли.%3	Au căutat în %1 subșir %2, dar nu a găsit.%3
+Исключение для просмотра значения.	O excepție pentru a vedea valoarea.
+Ищу снипеты в каталоге	Caut снипеты în directorul
+Ищу сценарии в каталоге	Caut script-uri în directorul
+Каталог <%1> не найден.	Directorul <%1> nu a fost găsit.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не существует.	Directorul ЗаписьВидеоКаталогДляВременныхФайлов <%1> nu există.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не указан.	Directorul ЗаписьВидеоКаталогДляВременныхФайлов <%1> nu este specificat.
+КаталогOutputИнструкцияHTML не задан.	КаталогOutputИнструкцияHTML nu este configurat.
+КаталогOutputИнструкцияMarkdown не задан.	КаталогOutputИнструкцияMarkdown nu este configurat.
+КаталогOutputСкриншоты не задан.	КаталогOutputСкриншоты nu este configurat.
+КаталогДляОбработки=%1	КаталогДляОбработки=%1
+Кнопка панели открытых окон <%1> не найдена.	Butonul de pe bara de ferestre deschise <%1> nu a fost găsit.
+Кнопка панели разделов <%1> не найдена.	Butonul de pe bara de partiții <%1> nu a fost găsit.
+Кнопка с именем <%1> не найдена.	Buton cu numele <%1> nu a fost găsit.
+Кнопка с именем <%1> не найдена. ТекущееОкно=%2	Buton cu numele <%1> nu a fost găsit. ТекущееОкно=%2
+кнопка, которую требуется нажать	butonul pe care doriți să faceți
+Кнопка/команда с заголовком <%1> не найдена.	Buton/comanda cu titlul <%1> nu a fost găsit.
+Кнопка/команда с заголовком <%1> не найдена. ТекущееОкно=%2	Buton/comanda cu titlul <%1> nu a fost găsit. ТекущееОкно=%2
+Количество секунд дял подключения TestClient: %1	Numărul de secunde sari de conectare TestClient: %1
+Команда меню <%1> не найдена в панели функций.	Echipa de meniu <%1> nu a fost găsit în bara de opțiuni.
+Команда ОстановитьЗаписьВидео вернула код возврата = %1	Echipa ОстановитьЗаписьВидео a returnat un cod de retur = %1
+Команда по объединению mp3 не выполнена. Файл1=%1, Файл2=%2, Файл3=%3	Echipa de unire mp3 nu a reușit. Fișier1=%1, Файл2=%2, Файл3=%3
+Команда по получению списка файлов каталога не выполнена. Каталог = %1	Echipa de la primirea listei de fișiere de catalog nu a reușit. Catalog = %1
+Команда системы реализована только под Windows.	Comanda sistemului este realizata doar sub Windows.
+Константа %1 не заполнена.	Constanta %1 nu este plină.
+КопироватьФайлКомандаСистемы:%1 команда:%2	КопироватьФайлКомандаСистемы:%1 echipa:%2
+между	între
+меньше	mai puțin
+меньше или равно	mai mic sau egal cu
+Надо сделать перезапуск фреймворка тестирования.	Este necesar de a face repornirea platformei yii testare.
+Найден активный элемент формы	Găsit activ un element de formular
+Найден упавший сценарий.	A fost găsit căzut scenariu.
+Найдена форма: ТекстЗаголовка=%1, ИмяФормы=%2. Окно <%3>	A fost găsit de forma: ТекстЗаголовка=%1, ИмяФормы=%2. Fereastra <%3>
+Найдено %1 окон.	S-au găsit %1 ferestre.
+Найдено более одного поля формы с заголовком <%1>. Рекомендуется искать элемент по имени.	S-au găsit mai mult de un câmp de formular cu antet <%1>. Este recomandat să caute elementul pe nume.
+НачатьЗаписьДействийПользователя:%1	НачатьЗаписьДействийПользователя:%1
+Нашли строки в таблице <%1>:%2	A găsit o linie din tabelul <%1>:%2
+не	nu
+Не верный формат области <%1>. %2	Nu este un format de domeniul <%1>. %2
+Не возможно открыть форму абстрактного объекта, укажите ссылку	Nu este posibil de a deschide forma abstractă a unui obiect, introduceți link-ul
+Не все служебные колонки заданы. В запросе обязательно должны быть колонки %1	Nu toate spatii de coloane specificat. În cerere trebuie să fie coloana %1
+не выполнен	nu este indeplinit
+Не дождались отображения окна TestClient. Таймаут <%1>	Nu a mai venit de afișare a ferestrei TestClient. Timeout <%1>
+Не задан регистратор для записей регистра %1. Переменная %2	Nu este setat logger pentru înregistrări registrului %1. Variabila %2
+Не заполнен служебный параметр КаталогИнструментов.	Nu este umplut de serviciu parametru КаталогИнструментов.
+Не известный тип параметра в ПолучитьПредставлениеПараметраПриПереводе() <%1>	Nu este cunoscut tip de parametru în ПолучитьПредставлениеПараметраПрипереводе() <%1>
+Не использовать	Nu folosi
+Не могу выгрузить статус сценариев, т.к. был передан каталог, а не файл.	Nu pot descărca statutul de scenarii, așa cum a fost transmis de director, nu de fișier.
+Не могу выгрузить статус сценариев, т.к. каталог %1 не существует.	Nu pot descărca statutul de scenarii, deoarece directorul %1 nu există.
+Не могу сфомировать отчет Allure. Не существует каталог для вывода отчета.	Nu pot сфомировать raportul Allure. Nu există un director pentru a imprima raportul.
+Не найден Клиент тестирования для подключения..	Nu a fost găsit TestClient pentru a vă conecta.
+Не найден активный элемент формы.	Nu a fost găsit activ un element de formular.
+НЕ найден инструмент по созданию скриншотов.	NU s-a găsit un instrument pentru crearea de capturi de ecran.
+Не найден каталог библиотеки: %1	Nu s-a găsit un catalog de biblioteca: %1
+Не найден каталог инструментов: %1	Nu a fost găsit catalog de instrumente: %1
+Не найден лог перегенерации EPF.	Nu a fost găsit log re-generarea de EPF.
+Не найден макет %1 ошибка: %2	Nu a fost găsit layout %1 eroare: %2
+Не найден перевод для шага <%1>	Nu a fost găsit traducere pentru pasul <%1>
+Не найден пользователь ИБ по имени <%1>	Nu s-a găsit un utilizator IB pe nume <%1>
+Не найден профиль Клиента тестирования <%1>	Nu a fost găsit profil TestClient <%1>
+Не найден путь к файлу JSON. Параметр: VBParams.	Nu a fost găsit calea de fișier JSON. Parametru: VBParams.
+Не найден тип шага <%1>	Nu s-a găsit un tip de pas <%1>
+Не найден файл <%1>	Fișierul nu a fost găsit <%1>
+Не найден файл макета <%1> в каталоге проекта <%2>	Fișierul nu a fost găsit aspect <%1> în directorul de proiect <%2>
+Не найден файл после распаковки: %1	Fișierul nu a fost găsit după despachetare: %1
+Не найден файл словаря замен. <%1>	Fișierul nu a fost găsit dicționar de substituții. <%1>
+Не найден файл служебной базы. <%1>	Fișierul nu a fost găsit de serviciu de bază. <%1>
+Не найден файл толстого клиента <%1>	Fișierul nu a fost găsit tolstoi client <%1>
+Не найден элемент дерева по данным поиска	Nu s-a găsit elementul lemn potrivit de căutare
+Не найден элемент Статистика на форме VB.	Nu s-a găsit un element de Statistică în formă de VB.
+Не найден эталон макета <%1>. Пустой каталог проекта.	Nu a fost găsit etalon aspect <%1>. Gol directorul de proiect.
+Не найдена активная форма.	Nu a fost găsit forma activă.
+Не найдена группа командного интерфейса <%1>	Nu a fost găsit de un grup de comandă interfață <%1>
+Не найдена строка в таблице ДанныеКлиентовТестирования с <Имя=Этот клиент>	Nu a fost găsit linie din tabel ДанныеКлиентовТестирования cu <Numele=Acest client>
+Не найдена строка примеров во вложенной структуре сценария. <%1>	Nu s-a găsit un șir de exemple în sub-structura de script-ul. <%1>
+Не найдена строка сценария.	Nu a fost găsit linia de script-ul.
+Не найдена таблица для редактирования.	Nu a fost găsit de un tabel pentru a edita.
+Не найдена установка VLC.	Nu a fost găsit instalarea VLC.
+Не найдено ключевое слово <%1>  для языка <%2>	Nu s-a găsit cuvântul cheie <%1> limba <%2>
+Не найдено ни одного окна 1С. Делаю обычный скриншот.	Nu am găsit nici o fereastră 1C. Fac normal screenshot.
+Не найдено ни одного сообщения пользователю.	Nu s-a găsit nici un mesaj pentru utilizator.
+Не найдено ни одного сценария. Запись видео невозможна.	Nu s-a găsit nici un scenariu. Înregistrarea video nu este posibilă.
+Не найдено ни одной строки в таблице клиентов тестирования, которая бы содержала <runner>	Nu s-a găsit nici o singură linie în tabelul clienți de testare, care conținea <runner>
+Не найдено окно VanessaAutomation в раннере %1	Nu s-a găsit fereastra VanessaBehavior în раннере %1
+Не найдено окно VanessaAutomation.	Nu s-a găsit fereastra VanessaBehavior.
+Не найдено окно предупреждения.	Nu s-a găsit o fereastră de avertizare.
+Не нашел значение реквизита у спр: ИмяСпр=%1, Наименование=%2, ИмяРек=%3, СтроковокПредставление=%4	Nu a găsit o valoare de elemente de recuzită de la cctm: ИмяСпр=%1, Tip=%2, Numele=%3, СтроковокПредставление=%4
+Не нашел колонку: %1	Nu am găsit coloana: %1
+Не нашел профиля TestClient с именем <%1>	Nu a gasit nici un profil TestClient cu numele <%1>
+Не нашел профиля TestClient с именем <%1> хотя он должен быть активным в данный момент.	Nu a gasit nici un profil TestClient cu numele <%1> deși el trebuie să fie activ în acest moment.
+Не нашел профиля TestClient с именем <%1> чтобы его закрыть.	Nu a gasit nici un profil TestClient cu numele <%1> pentru a-l închide.
+Не нашел путь к 1cv8c.exe: %1	Nu a găsit calea spre 1cv8c.exe: %1
+Не нашли меню функций раздела.	Nu a fost găsit meniul funcțiilor de secțiune.
+Не нашли окно с заголовком <%1>	Nu a găsit fereastra cu titlul <%1>
+Не нашли панель открытых окон.	Nu a fost găsit panoul de ferestre deschise.
+Не нашли панель разделов.	Nu a fost găsit panoul de partiții.
+Не нашли профиль <%1> в таблице TestClient.	Nu a fost găsit profil <%1> în tabelul de TestClient.
+Не нашли профиль <%1> в тестируемом экземпляре Vanessa-behavior.	Nu a fost găsit profil <%1> în тестируемом exemplar Vanessa-behavior.
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, "Управляемое приложение"	Nu a găsit modul de a rula <%1>. Probabil, trebuie să specificați cu un spațiu, de exemplu, "o aplicație Gestionată"
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, <Управляемое приложение>	Nu a găsit modul de a rula <%1>. Probabil, trebuie să specificați cu un spațiu, de exemplu, <o aplicație Gestionată>
+Не нашли таблицу с именем <%1>	Nu a gasit un tabel cu numele <%1>
+Не нашли элемент <%1> в коллекции, а хотели, чтобы он был в коллекции.%2	Nu a găsit elementul <%1> într-o colecție a vrut, el a fost într-o colecție.%2
+Не обнаружено активное окно.	Nu s-a detectat fereastra activă.
+Не ожиданное значение у переменной ТипСравнения: <%1>	Nu ожиданное valoare la variabila ТипСравнения: <%1>
+Не описано действие для кнопки <%1>	Nu este descris acțiunea pentru butonul <%1>
+Не определена фича для выполнения на раннере №0.	Nu este definit caracteristică pentru a efectua pe раннере nr 0.
+Не передан каталог фич для обработки. Используется %1\features	N-a fost transmis un catalog de caracteristici pentru prelucrare. Este folosit de %1\features
+Клиент тестирования не подключен.	Nu este conectat Testclient.
+Не получилось закрыть активное окно. %1	Nu s-închide fereastra activă. %1
+Не получилось определить активное окно Клиента тестирования из Контекста.	Nu s-a reușit de a determina fereastra activă TestClient din Context.
+Не получилось определить активное окно Клиента тестирования.	Nu s-a reușit de a determina fereastra activă TestClient.
+Не получилось получить значение таблицы <%1>	Nu s-a reușit de a obține valoarea din tabelul <%1>
+Не получилось прочитать параметр запуска.	Nu ai citit opțiune de pornire.
+Не получилось сделать выбор в поле <%1> значения <%2>. %3	Nu s-a reușit de a face o alegere în câmpul <%1> valori <%2>. %3
+Не получилось создать тестовый MP3	Nu s-a reușit de a crea un test MP3
+Не реализовано.	Nu este implementată.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>	Nu a putut tabelul <%1> face să selectați din lista de selectare <%2> bara <%3>
+Не смог выделить все строки в таблице <%1>. %2	Nu a reușit să aloce toate rândurile din tabel <%1>. %2
+Не смог выполнить команду по получению координат на экране всех окон 1С в панели задач.	Nu a putut executa comanda de obținere a coordonatelor de pe ecran toate ferestrele 1C în bara de activități.
+Не смог выполнить команду. <%1>	Nu a putut executa comanda. <%1>
+Не смог вычислить выражение: %1	Nu a reușit să calculeze expresia: %1
+Не смог загрузить %1. %2	Nu a reușit să încărcați %1. %2
+Не смог загрузить базу из dt: %1. ПутьКDT: %2. Статус возврата: %3	Nu a putut încărca baza de date de la dt: %1. ПутьКDT: %2. Starea de restituire: %3
+Не смог загрузить снипеты из %1	Nu a putut încărca снипеты din %1
+Не смог закрыть окно %1	Nu a putut închide fereastra %1
+Не смог закрыть окно повторно %1	Nu a putut închide fereastra de re - %1
+Не смог запустить конфигуратор. <%1>	Nu a putut rula configurator. <%1>
+Не смог из переданных параметров JSON определить каталог отчета Allure.	Nu am putut să transmise de parametri JSON pentru a determina directorul raport Allure.
+Не смог из переданных параметров JSON определить каталог отчета CucumberJson.	Nu am putut să transmise de parametri JSON pentru a determina directorul raport CucumberJson.
+Не смог из переданных параметров JSON определить каталог отчета jUnit.	Nu am putut să transmise de parametri JSON pentru a determina directorul raport jUnit.
+Не смог найти данные для подключения профиля клиента тестирования <%1>	Nu a putut găsi date pentru a conecta un profil de client de testare <%1>
+Не смог найти код модуля формы в файле ИмяФайлаФормаУФ.	Nu a putut găsi modul de cod de forma în fișierul ИмяФайлаФормаУФ.
+Не смог найти открытый конфигуратор.	Nu a putut găsi o piscină în configurator.
+Не смог найти сохранненное значение по переменой <%1>	Nu a putut găsi сохранненное valoarea de schimbare <%1>
+Не смог обработать XML в UILogToScript.	Nu a putut procesa XML în UILogToScript.
+Не смог обработать параметры в строке <%1>	Nu a putut procesa setări în bara de <%1>
+Не смог определить длительность у файла: %1	Nu a putut determina durata de la un fișier: %1
+Не смог определить СледующееОжидаемоеКлючевое по: %1	Nu a reușit să determine СледующееОжидаемоеКлючевое: %1
+Не смог определить следующий шаг для выполнения.	Nu a putut determina următorul pas pentru a efectua.
+Не смог определить тип значения для строки: %1	Nu a putut determina tipul de valoare pentru siruri de caractere: %1
+Не смог перейти к строке фильтра <%1>	Nu a putut trece la bara de filtru <%1>
+Не смог по переменной <%1> найти сохраненное значение.	Nu este în stare să variabila <%1> pentru a găsi valoarea stocată.
+Не смог подключить TestClient.	Nu a reușit să vă conectați TestClient.
+Не смог подключить TestClient. Прерывание по таймауту <%1>	Nu a reușit să vă conectați TestClient. Întrerupere de таймауту <%1>
+Не смог подключить обработку <%1>	Nu a reușit să vă conectați de prelucrare <%1>
+Не смог подключить профиль TestClient <%1>	Nu a reușit să vă conectați profilul TestClient <%1>
+Не смог подставить в строку параметры: <%1>	Nu a reușit să pună într-un șir de parametri: <%1>
+Не смог получить данные файла <%1>	Nu a putut obține fișierul de date <%1>
+Не смог получить значение из строки запуска	Nu a putut obține o valoare dintr-un șir de pornire
+Не смог получить значение поля <%1> у таблицы <%2>.%3	Nu a putut obține valoarea câmpului <%1> tabel <%2>.%3
+Не смог получить значение таблицы <%1>	Nu a putut obține valoarea din tabelul <%1>
+Не смог получить значение табличного документа <%1>	Nu a putut obține valoarea de tabele a documentului <%1>
+Не смог получить количество строк у таблицы <%1>	Nu a putut obține numărul de rânduri la tabel <%1>
+Не смог получить макет %1	Nu a putut obține aspectul %1
+Не смог получить состяние таблицы <%1>	Nu a putut obține состяние tabel <%1>
+Не смог получить строки таблицы <%1>	Nu a putut obține un rând de tabel <%1>
+Не смог получить строки таблицы.	Nu a putut obține un rând de tabel.
+Не смог получить строки ТЧ <%1>	Nu a putut obține de comandă PM <%1>
+Не смог получить строку сценария.	Nu a putut obține linia de script-ul.
+Не смог получить строку таблицы %1	Nu a putut obține un rând de tabel %1
+Не смог получить форму текущего окна.	Nu a putut obține forma ferestrei curente.
+Не смог ПолучитьГлавноеОкноТестируемогоПриложения.	Nu a putut ПолучитьГлавноеОкноТестируемогоПриложения.
+Не смог поменять параметры шага местами <%1>	Nu a fost capabil de a schimba setările de pași pe alocuri <%1>
+Не смог преобразовать к числу PID=%1	Nu a putut converti la numărul de PID=%1
+Не смог распаковать %1	Nu a putut dezarhiva %1
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>	Nu a reușit să facă alege dintr-o listă de selectare <%1> bara <%2>
+Не смог скопировать сценарий %1, т.к. произошло бы зацикливание.	Nu a putut să copiați script - %1, așa cum s-ar fi întâmplat cicluri de pre-dependențe.
+Не смог создать базу по строке: %1. Статус возврата: %2	Nu a putut crea o bază de comandă: %1. Starea de restituire: %2
+Не смог создать каталог для отчета Allure: %1	Nu a putut crea directorul pentru raportul Allure: %1
+Не смог создать каталог для отчета CucumberJson: %1	Nu a putut crea directorul pentru raportul CucumberJson: %1
+Не смог создать каталог для отчета jUnit: %1	Nu a putut crea directorul pentru raportul jUnit: %1
+Не смог создать объект сравнения файлов.	Nu a putut crea un obiect de comparație fișier.
+Не смог создать сервисные базы. Статус=%1	Nu a fost capabil de a crea servicii de bază. Statutul=%1
+Не смог удалить файл %1	Nu a putut șterge fișierul %1
+Не смогли найти таблицу <%1> в активном окне.	Nu a putut găsi un tabel <%1> din fereastra activă.
+Не стал загружать фичу: %1, т.к. в ней не найдено тегов фильтров.	Nu a încărca фичу: %1, deoarece în ea nu s-a găsit de tag-uri de filtre.
+Не стал загружать фичу: %1, т.к. обнаружен тег исключение: %2	Nu a încărca фичу: %1, t. a descoperit de tag-ul excepție: %2
+Не удалось авторизоваться в базе.	Nu a reușit să treceți datele în baza de date.
+Не удалось дождаться события завершения цикла в течение <%1> секунд.	Nu a reușit să așteptați un eveniment de terminarea ciclului, în termen de <%1> secunde.
+Не удалось найти документ по номеру <%1>. Тип Документ.%2	Nu a reușit să găsească documentul de numărul de <%1>. Tip De Document.%2
+Не удалось перейти к нужной строке в таблице <%1>. %2	Nu s-a reușit trecerea la o linie în tabelul <%1>. %2
+Не удалось подключить COM объект <Shell.Application>	Nu a reușit să vă conectați COM obiect <Shell.Application>
+Не удалось подключить COM объект <WScript.Shell>	Nu a reușit să vă conectați COM obiect <WScript.Shell>
+Не удалось подключить клиент тестирования. %1	Nu a reușit să vă conectați clientul de testare. %1
+Не удалось подключить форма %1 по причине:%2	Nu a reușit să vă conectați forma %1 motiv:%2
+Не удалось получить таймаут для запуска TestClient из значения %1. Используется значение по умолчанию: 25	Nu a reușit să obțină timeout pentru a rula TestClient din valori %1. Valoarea implicită: 25
+Не удалось получить таймаут для работы асинхронных шагов. Было передано значение: %1	Nu a reușit să obțină timeout pentru a lucra asincrone de pași. A fost transferat valoare: %1
+Не указан каталог для формирования видео инструкции.	Nu este specificat directorul pentru formarea instrucțiunile video.
+Не указан каталог с нужной версией платформы 8.3.10 или выше.	Nu este specificat directorul cu aceeași versiune a platformei 8.3.10 sau mai mare.
+Не указана команада для выполнения скриншотов. Например <%1>	Nu este indicată команада pentru a efectua capturi de ecran. De exemplu, <%1>
+Не указано имя файла лога в параметре <ИмяКаталогаЛогОшибок>	Nu se specifică un nume de fișier jurnal în parametrul <ИмяКаталогаЛогОшибок>
+Не указано имя файла лога в параметре <ИмяФайлаЛогВыполненияСценариев>	Nu se specifică un nume de fișier jurnal în parametrul <ИмяФайлаЛогВыполненияСценариев>
+Не указано количество кадров.	Nu se specifică numărul de cadre.
+Не установлен ffmpeg.	Nu este instalat ffmpeg.
+Не установлен ImageMagic (convert.exe)	Nu este instalat ImageMagic (convert.exe)
+Не установлен ImageMagic (convert.exe).	Nu este instalat ImageMagic (convert.exe).
+Не установлен oscript.	Nu este instalat oscript.
+Не установлен VLC 2.1.5.	Nu este instalat VLC 2.1.5.
+Не установлен ГолосовойДвижок.	Nu este instalat ГолосовойДвижок.
+Неверно задан макет. Неверная колонка в первой строке. Не указана обязательная колонка с именем [%1]	Este incorect setat aspect. Incorectă coloană de pe prima linie. Nu este obligatorie coloana cu numele [%1]
+Неверное число параметров в строке табилцы. Должно быть <	Un număr incorect de parametri în linia de табилцы. Ar trebui să fie <
+Неверное число параметров в строке таблицы. Должно быть <%1> параметров, а в строке найдено <%2>.	Un număr incorect de parametri în linia de tabel. Ar trebui să fie <%1> setări, iar în bara de găsit <%2>.
+Неверный режим поиска: Не поддерживаемый режим поиска. Реквизит <%1>: Искали значение <%2>	Este incorect modul de căutare: Nu este acceptat în modul de căutare. Recuzita <%1>: Cautat valoare <%2>
+Неверный формат области <%1>	Un format invalid domeniul <%1>
+Невидима	Invizibilă
+Недоступна	Nu este disponibilă
+Неивестный ТипПараметра в ПолучитьАсинхроноСостоянияОбъектовФайловойСистемы: %1	Неивестный ТипПараметра în ПолучитьАсинхроноСостоянияОбъектовфайловойсистемы: %1
+Неизвестная версия поставки Vanessa-Automation: %1	Necunoscută versiune de livrare Vanessa-Automation: %1
+Неизвестная ошибка в ПолучитьРезультатПрохожденияТестовСценария.	Eroare necunoscută în ПолучитьРезультатПрохожденияТестовсценария.
+НеизвестнаяОшибка	НеизвестнаяОшибка
+Неизвестный идентификатор плагина: <%1>	Necunoscut id-ul plug-in: <%1>
+Неизвестный КорневойТипКонфигурации <%1>	Necunoscut КорневойТипКонфигурации <%1>
+Неизвестный КорневойТипКонфигурации <%1> КорневойТипКонфигурации()	Necunoscut КорневойТипКонфигурации <%1> КорневойТипКонфигурации()
+Неизвестный менеджер регистра %1.%2 . Переменная %3	Necunoscut manager al registrului %1.%2 . Variabila %3
+Неизвестный тип вывода данных по изменению формы.	Tip necunoscut de date de ieșire de modificare a formei.
+Неизвестный Тип: %1 в ПолучитьЗначениеДляПередачиВМетод	Tip necunoscut: %1 în ПолучитьЗначениеДляПередачиВМетод
+Нельзя изменять текущее поле у зарезервированного подключения <Этот клиент>.	Nu se poate modifica câmpul curent au rezervate de conectare <Acest client>.
+Нельзя получить состав колонок для пустой таблицы.	Nu se poate obține o compoziție coloane pentru tabel gol.
+Необрабатываемый корневой тип <%1>	Необрабатываемый rădăcină de tip <%1>
+Необходимо установить программное обеспечение. Подробности тут: %1	Trebuie să instalați software-ul. Detalii aici: %1
+НеСовпадаютЗначенияВЯчейкеТаблицы	НеСовпадаютЗначенияВЯчейкеТаблицы
+Нет подключенных TestClient.	Nu conectate TestClient.
+Обнаружено несколько полей с заголовком <%1>	Există mai multe câmpuri cu titlul <%1>
+Обычная фича №%1 из %2. РаннерID=%3. %4	Normal onestitate nr%1 din %2. РаннерID=%3. %4
+Одна или несколько строк эталонной таблицы не найдена в таблице формы%1	Una sau mai multe linii de referință de masă nu a fost găsit în tabelul de forma%1
+Однопоточная фича №%1 из %2. РаннерID=%3. %4	Однопоточная onestitate nr%1 din %2. РаннерID=%3. %4
+Ожидали <%1> элементов справочника <%2>, а нашли <%3> элементов.	Așteptat <%1> elemente de referință <%2>, și-au găsit <%3> elemente.
+Ожидали в течение <%1> секунд доступности поля <%2>. Но такой элемент на форме не найден.	De așteptat în termen de <%1> secunde disponibilitate de câmp <%2>. Dar un astfel de element în formă nu a fost găsit.
+Ожидали в течение <%1> секунд доступности поля <%2>. ТекущаяДоступность=%3	De așteptat în termen de <%1> secunde disponibilitate de câmp <%2>. ТекущаяДоступность=%3
+Ожидали в течение <%1> секунд появления поля <%2>. Но такой элемент на форме не найден.	De așteptat în termen de <%1> secunde apariția câmpului <%2>. Dar un astfel de element în formă nu a fost găsit.
+Ожидали в течение <%1> секунд появления поля <%2>. ТекущаяВидимость=%3	De așteptat în termen de <%1> secunde apariția câmpului <%2>. ТекущаяВидимость=%3
+Ожидали в течение <%1> секунд у поля <%2> значения <%3>. Текущее значение <%4>	De așteptat în termen de <%1> secunde de la câmp <%2> valori <%3>. Valoarea curentă a <%4>
+Ожидали в течение <%1> секунд у таблицы <%2> количество строк %3 %4. Текущее количество строк <%5>	De așteptat în termen de <%1> secunde de la masă <%2> numărul de rânduri %3 %4. Numărul actual de linii de <%5>
+Ожидали в течение <%1> секунд, что закроется окно с заголовком <%2>	De așteptat în termen de <%1> secunde, că se va închide fereastra cu titlul <%2>
+Ожидали в течение <%1> секунд, что откроется окно с заголовком <%2>	De așteptat în termen de <%1> de secunde, se deschide fereastra cu titlul <%2>
+Ожидали в течение <%1> секунд, что поле <%2> будет заполненным.	De așteptat în termen de <%1> secunde, că câmpul <%2> va fi completat.
+Ожидали заполненность ссылки, а получили пустую ссылку.%1	Așteptat gradul de ocupare link-uri, dar au primit gol link.%1
+Ожидали идентичность файлов, а получили, что они различны.%1	Așteptat identitatea de fișiere, și au primit, că acestea sunt diferite.%1
+Ожидали получить только одну строку таблицы.	De așteptat pentru a obține o singură linie a tabelului.
+Ожидали статус <%1>, а получили <%2>	Așteptat statutul de <%1>, a primit un <%2>
+Ожидали существование объекта в ИБ, а получили объект не найден <%1> .%2	Așteptat existența obiectului în IB, și a primit un obiect nu a fost găsit <%1> .%2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения <%4>. Текущее значение <%5>.	Se așteptau la masă <%1>, în termen de <%2> de secunde de la câmp <%3> valori <%4>. Valoarea curentă a <%5>.
+Ожидали, что %1 %2 выбросит исключение %3 %4	Era de așteptat că %1 %2 va arunca o excepție %3 %4
+Ожидали, что активным окном будет <%1>, а нашли <%2>. Таймаут поиска окна: %3	Se așteptau ca fereastra activă va <%1> și a găsit <%2>. Depășirea timpului de căutare a ferestrei: %3
+Ожидали, что в сообщениях пользователю будет подстрока <%1>	Se așteaptă ca în mesajele utilizatorului va substr <%1>
+Ожидали, что вторым параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Așteaptă cel de-al doilea parametru va fi transmis serie de parametri pentru a metodei <%1>, și a primit un alt obiect de tip <%2>
+Ожидали, что вторым параметром будет передана структура параметров для метода <СоздатьДанныеПоТабличномуДокументу>, а получили другой объект с типом <%1>	Așteaptă cel de-al doilea parametru va fi transmisă structura parametrilor pentru metoda de <СоздатьДанныеПоТабличномуДокументу> și a primit un alt obiect de tip <%1>
+Ожидали, что количество строк таблицы <%1> будет равно переменной <%2>. Значение переменной <%3>. Количество строк <%4>	Se așteptau ca numărul de rânduri de tabel <%1> va fi egal cu variabila <%2>. Valoarea variabilei <%3>. Numărul de rânduri <%4>
+Ожидали, что окно сообщений пользователю будет пустое. В нём %1 сообщений.	Era de așteptat că fereastra de mesaje a utilizatorului va fi gol, iar ea %1 mesaje.
+Ожидали, что переменная <%1> будет равна <%2>. Текущее значение <%3>	Era de așteptat că variabila <%1> va fi egal cu <%2>. Valoarea curentă a <%3>
+Ожидали, что поле <%1> будет равно переменной <%2>. Значение переменной <%3>. ЗначениеПоля <%4>	Se așteaptă că, câmpul <%1> va fi egal cu variabila <%2>. Valoarea variabilei <%3>. ЗначениеПоля <%4>
+Ожидали, что поле с заголовком <%1> будет заполнено, но оно пустое.	Se așteaptă că, câmpul cu titlul <%1> va fi completat, dar este gol.
+Ожидали, что проверяемое значение (%1) %2 %3 %4	Se așteaptă că valoarea проверяемое (%1) %2 %3 %4
+Ожидали, что третьим параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Se așteptau ca al treilea parametru va fi transmis serie de parametri pentru a metodei <%1>, și a primit un alt obiect de tip <%2>
+Ожидали, что у группы <%1> текущей страницей будет <%2>, а оказалась <%3>	Se asteptau la un grup de <%1> pagina curentă va fi <%2>, dar s-a dovedit <%3>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Așteptat la masă de document <%1> în celula cu adresa <%2> valoare <%3>, a primit <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Așteptat la masă de document <%1> în celula cu adresa <%2> valoare <%3>, a primit <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Așteptat la masă de document <%1> în celula cu adresa <%2> valoare <%3>, a primit <%4>
+Ожидали, что ячейка <%1> будет заполнена.	Era de așteptat că o celulă <%1> va fi umplut.
+Ожидали, чтов таблице <%1> поле <%2> будет равно переменной <%3>. Значение переменной <%4>. ЗначениеПоля <%5>	De așteptat, căîn tabelul <%1> caseta <%2> va fi egal cu variabila <%3>. Valoarea variabilei <%4>. ЗначениеПоля <%5>
+Окно с заголовком <%1> не найдено.	Fereastra cu titlul <%1> nu a fost găsit.
+Описание ошибки: %1	Descriere bug: %1
+Остановка на брейкпоинте.	Oprire pe брейкпоинте.
+Ошибка в %1. %2	Eroare în %1. %2
+Ошибка в ДобавитьStepDefinitionВТекстМодуля.	Eroare în ДобавитьStepDefinitionВТекстМодуля.
+Ошибка в ПолучитьУжеСуществующиеСнипетыИзОбработок(). Файл/каталог %1 не существует.	Eroare în ПолучитьУжеСуществующиеСнипетыИзобработок(). Fișierul/directorul %1 nu există.
+Ошибка в файле %1, снипет %2 уже был в %3	Eroare în fișierul %1, снипет %2 a fost deja pe %3
+Ошибка перегенерации EPF. Файл %1 не найден.	Eroare de re-generarea de EPF. Fisierul %1 nu a fost găsit.
+Ошибка при выгрузке набора записей регистра: %1	Eroare atunci când descărcarea unui set de înregistrări registrului: %1
+Ошибка при выгрузке объекта: %1. Тип: %2	Eroare atunci când descărcarea de obiect: %1. Tip: %2
+Ошибка при закрытии всех окон Testclient.	Eroare la închiderea tuturor ferestrelor Testclient.
+Ошибка при поиске значений в макете %1:	Eroare la căutarea valorilor în structura %1:
+Ошибка при получении активной формы.	Eroare la obținerea formei active.
+Ошибка при получении списка процессов 1С.	Eroare la primirea listei de procese 1C.
+Ошибка при получении текста фичи:	Eroare la primirea textului фичи:
+Ошибка при построении дерева из файла <%1>%2%3	Eroare în construcția de lemn din fișierul <%1> %2 %3
+Ошибка при создании данных из макета. Неуникальное имя переменной: [%1]	Eroare la crearea de date din layout. Неуникальное nume de variabilă: [%1]
+Ошибка проверки значения таблицы <%1>. %2	Eroare de verificare tabelul cu valori <%1>. %2
+Ошибка создания временного файла в подкаталоге %1.	Eroare la crearea unui fișier temporar într-un subdirector %1.
+Ошибка создания скриншота:%1 команда:%2	Eroare la crearea poza:%1 echipa:%2
+Ошибка создания файла %1.	Eroare la crearea unui fișier %1.
+Ошибка чтения JSON. Неизвестный символ %1	Eroare de citire JSON. Necunoscut simbolul %1
+Ошибка чтения структуры JSON пропускаем чтение	Eroare de citire de structură JSON treci de lectură
+Ошибка чтения структуры JSON.	Eroare de citire de structură JSON.
+Ошибка. В фиче %1 было найдено несколько сценариев с именем %2	Eroare. În фиче %1 au fost găsite mai multe scenarii cu numele %2
+Ошибка. Найдено более 1 значения в кэше МетаданныеИмя [%1] по указанным параметрам поиска %2	Eroare. S-au găsit mai mult de 1 valori în cache МетаданныеИмя [%1] specificate de parametrii de căutare %2
+ОшибкаПроверки	ОшибкаПроверки
+Параметр <Запускаемая обработка> указывает на несуществующий файл.	Parametrul <Запускаемая de prelucrare a> indică un fișier inexistent.
+Параметр <Имя подключения> является обязательным.	Parametrul <Nume conexiune> este obligatorie.
+Параметр <Логин> не задан	Parametrul <Login> nu este setat
+Параметр %1 не найден в таблице параметров.	Parametrul %1 nu a fost găsit în tabelul de parametri.
+Первый параметр (%1) меньше второго (%2) а хотели, чтобы был больше или равен.%3	Primul parametru (%1) este mai mică de-al doilea (%2) a vrut să fie mai mare sau egal cu.%3
+Первый параметр (%1) меньше или равен второму (%2) а хотели, чтобы был больше.%3	Primul parametru (%1) este mai mică sau egală cu cea de-a doua (%2) a vrut să fie mai mult.%3
+Передан пустой путь в процедуру <СоздатьКаталогЕслиЕгоНет>.	Transmis gol calea procedurii <СоздатьКаталогЕслиЕгоНет>.
+Переданная дата (%1) не равна дате (%2) с точностью до 2-х секунд, а хотели, чтобы они равнялись. %3	Transmisă în data de (%1) nu este egal cu data de (%2) cu o precizie de 2 secunde, și a vrut să-acestea au fost. %3
+Переданный параметр (%1) не входит в период %2, а хотели, чтобы являлся. %3	A trecut un parametru (%1) nu intră într-o perioadă de 2%, și a vrut să-era. %3
+Переданный параметр (%1) не является Истиной, а хотели, чтобы являлся. %2	A trecut un parametru (%1) nu este Adevărul, ci au vrut, a fost. %2
+Переданный параметр (%1) не является Ложью, а хотели, чтобы являлся. %2	A trecut un parametru (%1) nu este o Minciună, și a vrut să-era. %2
+Передвижение курсора мышки - OK	Deplasarea cursorului mouse-ului - OK
+ПередВыполнениемШага: %1	ПередВыполнениемШага: %1
+Переключатель с заголовком <%1> не найден.	Comutator cu titlul <%1> nu a fost găsit.
+Переключатель с именем <%1> не найден.	Comutator cu numele <%1> nu a fost găsit.
+Переменная <%1> не найдена.	Variabila <%1> nu a fost găsit.
+Переменная <%1> ранее не была сохранена	Variabila <%1> anterior nu a fost salvat
+Пересоздан %1	Reinstantiated acest lucru face %1
+Пересоздаю %1	Пересоздаю %1
+ПланВидовРасчета.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланВидовРасчета.%1 nu a reușit să găsească elementul predefinit/grup [%2].%3
+ПланВидовРасчета.%1 не удалось создать новую группу.%2	ПланВидовРасчета.%1 nu s-a putut crea un nou grup.%2
+ПланВидовРасчета.%1 не удалось создать новый элемент.%2	ПланВидовРасчета.%1 nu s-a putut crea un element nou.%2
+ПланВидовХарактеристик.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланВидовХарактеристик.%1 nu a reușit să găsească elementul predefinit/grup [%2].%3
+ПланВидовХарактеристик.%1 не удалось создать новую группу.%2	ПланВидовХарактеристик.%1 nu s-a putut crea un nou grup.%2
+ПланВидовХарактеристик.%1 не удалось создать новый элемент.%2	ПланВидовХарактеристик.%1 nu s-a putut crea un element nou.%2
+ПланОбмена.%1 не удалось получить узел этой ИБ.%2	ПланОбмена.%1 nu a reușit să obțină un nod de acest IB.%2
+ПланОбмена.%1 не удалось создать новый узел.%2	ПланОбмена.%1 nu s-a putut crea un nod nou.%2
+ПланСчетов.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланСчетов.%1 nu a reușit să găsească elementul predefinit/grup [%2].%3
+ПланСчетов.%1 не удалось создать новую группу.%2	ПланСчетов.%1 nu s-a putut crea un nou grup.%2
+ПланСчетов.%1 не удалось создать новый элемент.%2	ПланСчетов.%1 nu s-a putut crea un element nou.%2
+Подключение с именем <%1> перезаполнено в таблице подключений	Conectare cu numele de <%1> перезаполнено în tabelul de conexiuni
+Подключили для отладки форма %1	Cuplat pentru depanare forma %1
+Подключились к сеансу TESTCLIENT.	Conectat la o sesiune de TESTCLIENT.
+Подсвет рамки - OK	Lumin - cadru OK
+Поле <%1> в данный момент невидимо пользователю.	Câmpul <%1> în acest moment este invizibil pentru utilizator.
+Поле <%1> существует, а ожидали, что его нет.	Câmpul <%1> există, și s-au așteptat că nu.
+Поле с заголовком <%1> не найдено.	Caseta cu titlul <%1> nu a fost găsit.
+Поле с именем <%1> не найдено.	Câmpul cu numele <%1> nu a fost găsit.
+Получить изменения формы	Pentru a obține modificări de formă
+Получить состояние всей формы	Pentru a obține starea de întregul formular
+ПолучитьИдентификаторПредставленияПоСсылке() : Неизвестный КорневойТипКонфигурации <%1>	ПолучитьИдентификаторПредставленияпоссылке() : Necunoscut КорневойТипКонфигурации <%1>
+ПолучитьСостояниеФормыTestClient:%1	ПолучитьСостояниеФормыTestClient:%1
+ПолучитьТаблицуЗначенийИзТабличногоДокумента: Требуется тип ТабличныйДокумент или ПолеТабличногоДокумента	ПолучитьТаблицуЗначенийИзТабличногодокумента: este Necesar un tip de ТабличныйДокумент sau ПолеТабличногоДокумента
+ПолучитьУжеСуществующиеСнипетыИзОбработок:%1	ПолучитьУжеСуществующиеСнипетыИзобработок:%1
+Пометка для шаг установлена.	Etichetarea pentru pasul instalat.
+Пометка снята.	Etichetarea perceput.
+порт <%1>	port <%1>
+Порт %1 занят или находится вне указанного диапазона, порт подключения изменен на %2	Port %1 este ocupat sau nu este în intervalul specificat, portul de conectare schimbat pe %2
+Построение дерева.	Rețeaua de lemn.
+Превышение таймаутуа ожидания завершения фонового задания.	Excesul de таймаутуа de așteptare a completa imaginea de locuri de muncă.
+Предупреждение с текстом %1 не найдено.	De avertizare cu textul %1 nu a fost găsit.
+Предыдущая ошибка: %1. ТаймаутОжидания=%2	Anterioară eroare: %1. ТаймаутОжидания=%2
+При подключении TestClient возникло сообщение:	Atunci când vă conectați TestClient a apărut un mesaj:
+ПроверитьРавенствоТаблиц: Второй параметр-таблица таблицей не является	ПроверитьРавенствоТаблиц: al Doilea parametru este identificat tabelului nu este
+ПроверитьРавенствоТаблиц: Первый параметр-таблица таблицей не является	ПроверитьРавенствоТаблиц: Primul parametru este identificat tabelului nu este
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Второй параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: al Doilea parametru este identificat nu este табличным document
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Первый параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: Primul parametru este identificat nu este табличным document
+ПроверитьТип: Тип значения параметра ТипИлиИмяТипа должен быть <Тип> или <Строка>, а получили <%1>%2	ПроверитьТип: Tip valoare parametru ТипИлиИмяТипа trebuie să fie <Tip> sau <Linie>, și a primit <%1>%2
+Проверка загрузки объектов в ИБ из макета данных выполнена успешно.	Verificarea de descărcare a obiectelor în IB din dispunerea de date efectuată cu succes.
+Проверьте работу команды <%1>	Verificați funcționarea echipei <%1>
+Профиль с именем <%1> не найден.	Profil cu numele <%1> nu a fost găsit.
+ПрочитатьПеременныеСреды:%1	ПрочитатьПеременныеСреды:%1
+Пустой адрес снипета у шага: %1	Gol adresa снипета la pas: %1
+ПутьКФиче=Неопределено	ПутьКФиче=Sir Nedefinit
+Работа с ключами для %1 пока не поддерживается	Lucrul cu cheile pentru %1 nu este încă acceptată
+Работаю по сценарию	Lucrez la un scenariu
+Работаю по фиче: %1	Lucrez de фиче: %1
+равно	oricum
+РазличаютсяКолонки	РазличаютсяКолонки
+Различия в таблицах:	Diferențele în tabele:
+РазноеКоличествоСтрок	РазноеКоличествоСтрок
+Раннер <%1> не подключен.	Runner <%1> nu este conectat.
+РежимСовместимостиTestManager	РежимСовместимостиTestManager
+Реквизит <%1> не найден.	Recuzita <%1> nu a fost găsit.
+с длиной	cu o lungime de
+Сеанс должен быть запущен с ключом TESTMANAGER.	Sesiunea trebuie să fi pornit cu cheia de TESTMANAGER.
+Снипет <%1> встречается %2 раз.	Снипет <%1> apare %de 2 ori.
+содержащее текст <%1>, а был текст <%2>	care conține text <%1>, iar textul a fost <%2>
+содержит	conține
+Создан %1	Creat %1
+Создан файл: %1	Creat de fișier: %1
+Создание epf по фичам закончено.	Crearea epf de фичам terminat.
+Создать тестовый mp3 - OK	Pentru a crea un test de mp3 - OK
+Создаю %1	Crea %1
+Справочник.%1 не удалось найти предопределенный элемент/группу [%2].%3	De referință.%1 nu a reușit să găsească elementul predefinit/grup [%2].%3
+Справочник.%1 не удалось создать новую группу.%2	De referință.%1 nu s-a putut crea un nou grup.%2
+Справочник.%1 не удалось создать новый элемент.%2	De referință.%1 nu s-a putut crea un element nou.%2
+Справочник.%1.%2 - получен пустой элемент.	De referință.%1.%2 - primit-un element gol.
+Сравниваемые значения (%1; %2) не равны, а хотели, чтобы были равны.%3	Compara valorile (%1
+Сравниваемые значения (%1; %2) равны, а хотели, чтобы были не равны.%3	Compara valorile (%1
+Странный параметр в логе инструкции HTML: %1	Ciudat parametru în jurnalul de instrucțiuni HTML: %1
+Странный параметр в логе инструкции Markdown: %1	Ciudat parametru în jurnalul instrucțiuni Continua: %1
+Строка <%1> из файла <%2> не найдена в файле <%3>	Linia <%1> din fișierul <%2> nu a fost găsit în fișierul <%3>
+Строка <%1> найдена в окне сообщений пользователю.	Linia <%1> a fost găsit în fereastra de mesaje a utilizatorului.
+Строка <%1> найдена в последнем сообщении пользователю. Найдено: %2	Linia <%1> a fost găsit în ultimul mesaj utilizatorului. Găsit: %2
+Строка <%1> не найдена в окне сообщений пользователю.	Linia <%1> nu a fost găsit în fereastra de mesaje a utilizatorului.
+Строка <%1> не найдена в последнем сообщении пользователю. Найдено: %2	Linia <%1> nu a fost găsit în ultimul mesaj utilizatorului. Găsit: %2
+Строка %1 не найдена в реквизите %2	Linie %1 nu a fost găsit în реквизите %2
+Строка №%1 не найдена в табличном документе на форме	Linie nr%1 nu a fost găsită în documentul tabelar în formă
+Строка №%1, обнаружен символ <|>, хотя не было ключевого слова <Примеры>.	Linie nr%1, descoperit simbolul <|>, deși nu a fost un cuvânt cheie <Exemple de>.
+Строка №%1, ожидалось (%2), а найдено (%3) ПредыдущееКлючевоеСлово=%4	Linie nr%1, era de așteptat (%2), și s-a găsit (%3) ПредыдущееКлючевоеСлово=%4
+Строка должна быть описана таблицей с двумя строками.	Linie trebuie să fie descrisă în tabel cu două linii.
+Строка с фича-файлом не найдена.	Linie cu onestitate fișierul nu a fost găsit.
+СтрокаЗапуска=%1	СтрокаЗапуска=%1
+существует	există
+Сценарий <%1> не загружен.	Script-ul <%1> nu este încărcat.
+Сценарий: %1	Scenariu: %1
+Таблица <%1> не соответствует эталону. Ожидали <%2> строк, а в ней <%3> строк.	Tabelul <%1> nu corespunde simplă apăsare. Așteptat <%2> rânduri, iar în ea <%3> rânduri.
+Таблица <%1> не стала равной за <%2> секунд. %3	Tabelul <%1> nu a devenit egal cu <%2> de secunde. %3
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Ожидали <%4>, а получили <%5>	Tabelul <%1>. Linia nr. <%2>. Coloana <%3>. Așteptat <%4>, și a primit <%5>
+Таблица формы с именем <%1> не найдена.	Tabelul formular cu numele <%1> nu a fost găsit.
+ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.Количество()=%2	ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.Numărul()=%2
+Таблицы должны совпадать, а они различны.%1	Tabele trebuie să fie identice, dar ele sunt diferite%1
+ТаблицыСовпадают	ТаблицыСовпадают
+Табличный документ <%1> оказался неравен <%2>.%3	Tabelul de document <%1> a fost неравен <%2>.%3
+Табличный документ не содержит нужные строки <%1>	Tabelul documentul nu conține dorite de comandă <%1>
+Табличный документ содержит ненужные строки <%1>	Tabelul documentul conține inutile linia <%1>
+ТестируемаяФорма <%1> не открылась, а должна была открыться	ТестируемаяФорма <%1> nu s-a deschis, și a trebuit să se deschidă
+ТестПропущен	ТестПропущен
+Технические данные	Date tehnice
+тип	tip
+Типом значения <%1> является <%2>, а ожидался тип <%3>.%4	Un tip de valoare <%1> este un <%2> și era de așteptat tip <%3>.%4
+Требуется документ, бизнес-процесс или задача. Неизвестный менеджер %1.%2 . Переменная %3	Este necesar un document de afaceri, proces sau activitate. Necunoscut manager de %1.%2 . Variabila %3
+ТЧ %1 не соответствует эталону. Ожидали %2 строк, а в ней %3 строк.	PM %1 nu corespunde simplă apăsare. Așteptat %2 rânduri, iar în ea %3 rânduri.
+ТЧ с именем <%1> не найдена.	PM cu nume <%1> nu a fost găsit.
+У окна <%1> не найдено ни одного элемента с типом <ТестируемоеПолеФормы>.	De la fereastra <%1> nu s-a găsit nici un element de tip <ТестируемоеПолеФормы>.
+У поля <%1> ожидали заголовок <%2>, а получили <%3>	La câmp <%1> așteptat titlu <%2>, a primit <%3>
+У поля <%1> ожидали отображаемый текст <%2>, а получили <%3>	La câmp <%1> așteptat textul <%2>, a primit <%3>
+У поля <%1> ожидали текст подсказки <%2>, а получили <%3>	La câmp <%1> așteptat text explicativ <%2>, a primit <%3>
+У текущего окна найдено %1 форм.	De la fereastra curentă găsit %1 forme.
+У элемента формы <%1> текущий текст редактирования <%2>, а ожидали <%3>	Un element de forma <%1> curent de text de editare <%2>, iar așteptat <%3>
+Удаляю элемент %1	Scoateți elementul %1
+Удаляю элемент справочника <%1> : <%2>	Scoateți elementul de referință <%1> : <%2>
+Уже открытый TestClient подключен на %1 порту.	Deja în aer liber TestClient este conectat la %1 port.
+Указан неверный диапазон портов: <%1>	Era incorectă gama de porturi: <%1>
+Указанное Имя колонки замещения [%1] не существует в макете.	Numele de coloane de ocupare [%1] nu există în structura.
+Установлен флаг "Остановка при возникновении ошибки". Выполнение следующих сценариев отменено.	Instalat pavilion Oprire, atunci când apare o eroare". Următoarele scenarii anulată.
+Установлен флаг <Остановка при возникновении ошибки>. Выполнение следующих сценариев отменено.	Instalat pavilion <Oprire atunci când apare o eroare>. Următoarele scenarii anulată.
+Утверждение "ИмеетДлину" не умеет работать с типом <%1>.%2	Aprobarea "ИмеетДлину" nu este capabil de a lucra cu tipul <%1>.%2
+Утверждение "ПроверитьВхождениеВКоллекцию" не умеет работать с типом коллекции <%1>.%2	Aprobarea "ПроверитьВхождениеВКоллекцию" nu este capabil de a lucra cu tipul de colectare <%1>.%2
+Утверждение "Содержит" не умеет работать с типом <%1>.%2	Aprobarea "Conține" nu este capabil de a lucra cu tipul <%1>.%2
+Утверждение <ИмеетДлину> не умеет работать с типом <%1>.%2	Aprobarea <ИмеетДлину> nu este capabil de a lucra cu tipul <%1>.%2
+Утверждение <ПроверитьВхождениеВКоллекцию> не умеет работать с типом коллекции <%1>.%2	Aprobarea <ПроверитьВхождениеВКоллекцию> nu este capabil de a lucra cu tipul de colectare <%1>.%2
+Утверждение <Содержит> не умеет работать с типом <%1>.%2	Aprobarea <Conține> nu este capabil de a lucra cu tipul <%1>.%2
+Утверждение ПроверитьРавенствоФайлов можно использовать только в толстом клиенте.	Aprobarea ПроверитьРавенствоФайлов se poate utiliza numai în gros de client.
+Файл <%1> не найден.	Fișierul <%1> nu a fost găsit.
+Файл <%1> не существует.	Fișierul <%1> nu există.
+Файл <vbFeatureReader.epf> не найден в каталоге инструментов <%1>	Fișierul <vbFeatureReader.epf> nu a fost găsit în directorul de instrumente <%1>
+Файл %1: <%2>	Fisierul %1: <%2>
+Файл EPF не создан.	Fișierul EPF nu a fost creat.
+Файл EPF не создан. Не смог создать каталог временной базы.	Fișierul EPF nu a fost creat. Nu a putut crea un director temporar de bază.
+Файл отчета Allure-report (%1) записан.	Fișierul de raport Allure-report (%1) înregistrat.
+Файл отчета CucumberJson-report (%1) записан.	Fișierul de raport CucumberJson-report (%1) înregistrat.
+Файл отчета jUnit-report (%1) записан.	Fișierul de raport jUnit-report (%1) înregistrat.
+Фича <%1> содержит тег @Tree. Найдены строки, которые содержат символы пробелов и символы табуляции в начале строки. Дерево не может быть корректно построено.	Onestitate <%1> contine tag-ul @Tree. Găsit rândurile care conțin caracterele spațiu și o filă de caractere de la începutul șirului. Un copac nu poate fi corect construit.
+Фича <%1> содержит тег @Tree. Часть строк содержит в начале строки символы пробелов <%2>, часть строк содержит символы табуляции <%3>. Дерево не может быть корректно построено.	Onestitate <%1> contine tag-ul @Tree. O parte din linii conține la începutul unui șir de caractere spații <%2>, o parte din linii conține caractere tab <%3>. Un copac nu poate fi corect construit.
+Фича: %1	Caracteristică: %1
+Фичи загружены	Фичи încărcate
+Флаг <Сохранять контексты перед выполнением шагов> установлен в <Истина>.	Pavilion <a Salva contexte înainte de a face pași> este setat la <Adevărul>.
+Флаг с заголовком <%1> не найден.	Pavilion cu titlul <%1> nu a fost găsit.
+Флаг с именем <%1> не найден.	Pavilion cu numele <%1> nu a fost găsit.
+Форма <%1> не найдена.	Forma <%1> nu a fost găsit.
+Форма окна с заголовком %1 не найдена.	Forma de fereastra cu titlul %1 nu a fost găsit.
+Форма с заголовком <%1> не найдена.	Forma cu titlul <%1> nu a fost găsit.
+Форма с заголовком %1 не найдена.	Forma cu titlul %1 nu a fost găsit.
+Хост сеанс надо запустить с ключом /TESTMANAGER.	Gazdă de sesiune trebuie să rulați cu cheia /TESTMANAGER.
+Хотели, чтобы алгоритм <%1> выполнился, а он упал с ошибкой <%2>. %3	A vrut să algoritm <%1> a fost indeplinita, iar el a căzut cu o eroare <%2>. %3
+Хотели, чтобы алгоритм <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	A vrut să algoritm <%1> a scăzut cu un mesaj de eroare <%2>, iar el a căzut cu un mesaj <%3>.%4
+Хотели, чтобы алгоритм <%1> упал, а он выполнился%2	A vrut să algoritm <%1> a căzut, iar el a fost executat%2
+Хотели, чтобы код <%1> выполнился, а он упал с ошибкой <%2>. %3	A vrut să-cod <%1> a fost indeplinita, iar el a căzut cu o eroare <%2>. %3
+Хотели, чтобы код <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	A vrut să-cod <%1> a scăzut cu un mesaj de eroare <%2>, iar el a căzut cu un mesaj <%3>.%4
+Хотели, чтобы код <%1> упал, а он выполнился%2	A vrut să-cod <%1> a căzut, iar el a fost executat%2
+Шаг	Pasul
+Шаг (%1) не выполнен.	Pas (%1) nu este indeplinita.
+Шаг (%1) не выполнен. Строка дерева №%2	Pas (%1) nu este indeplinita. Un șir de lemn nr%2
+Шаг (%1) не реализован.	Pas (%1) nu este realizat.
+Шаг <%1> должен был вызвать исключение, а он выполнился корректно.	Pasul <%1> a trebuit să declanșeze o excepție, iar el a fost executat corect.
+Шаг выполнен с ошибкой: %1	Pasul este executat cu o eroare: %1
+Шаг принимает на вход только таблицу Gherkin, в которой две строки. А было передано %1 строк.	Pasul acceptă la intrare doar un tabel Gherkin, în care două linii. Și a fost transferat %1 linii.
+Шаг сценария не реализован.	Pasul script-ul nu este realizat.
+Элемент с заголовком <%1> виден на текущей форме	Element cu titlul <%1> apare în forma actuală
+Элемент с заголовком <%1> доступен на форме	Element cu titlul <%1> este disponibil în formă de
+Элемент с заголовком <%1> доступен не только для просмотра	Element cu titlul <%1> este disponibil nu numai pentru a vizualiza
+Элемент с заголовком <%1> доступен только для просмотра	Element cu titlul <%1> este disponibil doar pentru vizualizare
+Элемент с заголовком <%1> не виден на текущей форме	Element cu titlul <%1> nu apare în forma actuală
+Элемент с заголовком <%1> не доступен на форме	Element cu titlul <%1> nu este disponibil în formă de
+Элемент с именем <%1> виден на текущей форме	Un element cu numele <%1> apare în forma actuală
+Элемент с именем <%1> доступен на форме	Un element cu numele <%1> este disponibil în formă de
+Элемент с именем <%1> доступен не только для просмотра	Un element cu numele <%1> este disponibil nu numai pentru a vizualiza
+Элемент с именем <%1> доступен только для просмотра	Un element cu numele <%1> este disponibil doar pentru vizualizare
+Элемент с именем <%1> не виден на текущей форме	Un element cu numele <%1> nu apare în forma actuală
+Элемент с именем <%1> не доступен на форме	Un element cu numele <%1> nu este disponibil în formă de
+Элемент формы <%1> не найден.	Element de formular <%1> nu a fost găsit.
+Элемент формы с именем <%1> не найден.	Element de formular cu numele <%1> nu a fost găsit.
+Элемента формы с заголовком <%1> не найдено.	Element de formular cu antet <%1> nu a fost găsit.
+Элемента формы с именем <%1> не найдено.	Element de formular cu numele <%1> nu a fost găsit.
+Это возможно только для шага.	Acest lucru este posibil numai pentru pasul.
+является NULL	este NULL
+является заполненным	este umplut
+является истиной	este adevărul
+является ложью	este o minciună
+является неопределено	este un sir nedefinit
+Не найден SikuliX скрипт <%1>.	Nu a fost găsit SikuliX script <%1>.
+Не удалось выполнить SukuliX скрипт <%1>.	Nu a reușit SukuliX script <%1>.
+Ожидали, что в таблице <%1> текуще поле будет заполнено.	Se așteaptă ca în tabelul <%1> текуще câmp va fi completat.
+Ожидали, что в таблице <%1> текуще поле будет не заполнено.	Se așteaptă ca în tabelul <%1> текуще câmp nu este completat.
+Ожидали у таблицы <%1> в течение <%2> секунд, что текущее поле будет заполнено.	Se așteptau la masă <%1>, în termen de <%2> de secunde, că actualul câmp va fi completat.
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Не смог получить значение из эталона.	Tabelul <%1>. Linia nr. <%2>. Coloana <%3>. Nu a putut obține valoarea de referință.
+Не получилось получить представление открытого списка выбора <%1>.	Nu s-a reușit de a obține o reprezentare a deschis lista de selectare <%1>.
+У списка выбора <%1> ожидалось %2 значений, а было получено %3 значений.	La lista de selectare <%1> era de așteptat %2 valori, și a fost primit %3 valori.
+Ожидалось получить %1, а было получено %2.	Era de așteptat să obțineți %1, și a fost primit %2.
+Открытый список выбора <%1> не равен эталону. Различия: %2	O listă de selecție <%1> nu este egal cu o simplă apăsare. Diferențe: %2
+Ожидалось, что открытый список содержит значение %1.	Era de așteptat că o listă conține o valoare de 1%.
+Открытый список выбора <%1> не содержит ожидаемые значения: %2	O listă de selecție <%1> nu conține valorile așteptate: %2
+Открытый список выбора <%1> содержит значения, которых не должно быть: %2	O listă de selecție <%1> conține valori, care nu ar trebui să fie: %2
+Не смог получить данные локализации сообщений.	Nu a putut obține datele de localizare de mesaje.
+У поля <%1> не получилось нажать на гиперссылку <%2>.	La câmp <%1> nu am reușit să faceți clic pe hyperlink <%2>.
+Вы уверены?	Esti sigur?
+Закрыть форму	Închideți formularul
+Не получилось нажать на кнопку <%1>.	Nu am reușit să faceți clic pe butonul <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд ячейка <%3> станет равна <%4>.	Așteptat la masă de document <%1>, în termen de <%2> de secunde celula <%3> va fi egal cu <%4>.
+Некоторые сообщения не были найдены в окне сообщений пользователю: %1	Unele mesaje nu au fost găsite în fereastra de mesaje a utilizatorului: %1
+В окне сообщений пользователю были найдены лишние сообщения: %1	În fereastra de mesaje a utilizatorului au fost găsite de prisos mesaje: %1
+Не получилось определить длительность у файла <%1>.	Nu s-a reușit de a determina durata fișierul <%1>.
+Не получилось добавить субтитры к файлу <%1>.	Nu s-a reușit de a adăuga subtitrări în fișierul <%1>.
+Команда ffmpeg по слиянию всех видео не выполнена.	Echipa de ffmpeg de fuziune toate video nu a reușit.
+Команда ffmpeg по перекодированю звука не выполнена.	Echipa de ffmpeg de перекодированю de sunet nu a reușit.
+Команда ffmpeg по добавлению водяной отметки и перекодированию звука не выполнена.	Echipa de ffmpeg pentru adăugarea de apă marca și перекодированию de sunet nu a reușit.
+Команда ffmpeg по кодированию в mp4 не выполнена.	Echipa de ffmpeg de codificare în format mp4 nu a reușit.
+Команда ffmpeg по добавлению mp3 в ролик не выполнена.	Echipa de ffmpeg pentru adăugarea mp3 spot nu a reușit.
+Не получилось создать файл TTS <%1>.	Nu s-a reușit de a crea un fișier TTS <%1>.
+Не указано имя голоса Text To Speech.	Nu se specifică numele voce Text To Speech.
+Не указана команда ffmpeg.	Nu este indicată echipa de ffmpeg.
+Не указана команда Convert.	Nu este indicată comanda Convert.
+Не найдено значение из колонки <%1>.	Nu s-a găsit valoarea din coloana <%1>.
+Не найдено значение <%1> из колонки <%2>.	Nu s-a găsit valoarea de <%1> din coloana <%2>.
+Не получилось сохранить в переменную <%1> таблицу с именем <%2>.	Nu a reușit să mențină în variabila <%1> tabel cu numele <%2>.
+Таблица <%1> пустая.	Tabelul <%1> gol.
+В таблицах <%1> и <%2> разное количество колонок <%3> и <%4>.	În tabelele <%1> și <%2> un număr diferit de coloane <%3> și <%4>.
+Не все строки таблицы <%1> найдены в таблице <%2>:	Nu toate rândurile din tabel <%1> găsite în tabelul <%2>:
+Для элемента с именем <%1> не найдена форма.	Pentru un element cu numele <%1> nu a fost găsită nicio forma.
+Не указано значение настройки Vanessa-automation: <КаталогПроекта>.	Nu se specifică setarea Vanessa-automation: <КаталогПроекта>.
+Не указано значение настройки Vanessa-automation: <КаталогиСкриптовSikuliX>.	Nu se specifică setarea Vanessa-automation: <КаталогиСкриптовSikuliX>.
+В каталоге <%1> не найден файл <%2>.	În directorul <%1> fișierul nu a fost găsit <%2>.
+В каталоге <%1> найдено больше одного файла <%2>: %3.	În directorul <%1> s-au găsit mai mult de un fișier <%2>: %3.
+Не получилось сделать клик мышкой по картинке <%1>.	Nu s-a reușit de a face clic cu mouse-ul pe imagine <%1>.
+Не получилось запустить Sikulix сервер.	Nu s-a alerga Sikulix server.
+Не получилось дождаться выполнения SikuliX скрипта <%1>.	Nu am reușit să așteptați pentru a efectua SikuliX script <%1>.
+Не получилось выполнить SikuliX скрипт <%1>.	Nu s-a reușit de a efectua SikuliX script <%1>.
+Ожидалось, что группа элементов <%1> содержит данные элементы формы: %2	Era de așteptat ca un grup de elemente <%1> conține elemente de date de forma: %2
+Ожидалось, что группа элементов <%1> не содержит данные элементы формы: %2	Era de așteptat ca un grup de elemente <%1> nu conține elemente de date de forma: %2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения отличного от <%4>. Текущее значение <%5>.	Se așteptau la masă <%1>, în termen de <%2> de secunde de la câmp <%3> valoare diferită de <%4>. Valoarea curentă a <%5>.
+Ожидалось, что в панели разделов будет <%1> элементов, а найдено <%2> элементов.	Era de așteptat ca în bara de partiții va <%1> elemente, și s-au găsit <%2> elemente.
+Ожидалось, что в панели разделов будут содержаться следующие элементы: %1	Era de așteptat ca în bara de secțiuni vor conține următoarele elemente: %1
+Ожидалось, что в панели разделов не будут содержаться следующие элементы: %	Era de așteptat ca în bara de partiții nu se vor conține următoarele elemente: %
+Ожидалось, что в панели функций будет <%1> элементов, а найдено <%2> элементов.	Era de așteptat ca în bara de opțiuni va <%1> elemente, și s-au găsit <%2> elemente.
+Ожидалось, что в панели функций будет элемент <%1> , а был найден элемент <%2>.	Era de așteptat ca în bara de opțiuni va fi elementul <%1> și a fost găsit elementul <%2>.
+Ожидалось, что в панели функций будут содержаться следующие элементы: %1	Era de așteptat ca în bara de opțiuni va conține următoarele elemente: %1
+Ожидалось, что в панели функций не будут содержаться следующие элементы: %1	Era de așteptat ca în bara de funcții nu va conține următoarele elemente: %1
+Группа <%1> не найдена в панели функций.	Un grup de <%1> nu a fost găsit în bara de opțiuni.
+Ожидалось, что в группе <%1> панели функций будут содержаться следующие элементы: %2	Era de așteptat ca, în grupul <%1> din bara de funcții va conține următoarele elemente: %2
+Ожидалось, что в группе <%1> панели функций не будут содержаться следующие элементы: %2	Era de așteptat ca, în grupul <%1> din bara de funcții nu va conține următoarele elemente: %2
+Ошибка. Не найдены настройки пользователя <%1> в файле <%2>.	Eroare. Nu au fost găsite setări de utilizator <%1> în fișierul <%2>.
+Функция <%1> реализована только для Windows.	Funcția <%1> implementat doar pentru Windows.
+У поля <%1> ожидали текст заголовка <%2>, а получили <%3>.	La câmp <%1> așteptat textul de antet <%2>, a primit <%3>.
+В таблице <%1> у поля <%2> ожидали заголовок <%3>, а получили <%4>.	În tabelul <%1> u câmp <%2> așteptat titlu <%3>, a primit <%4>.
+В таблице <%1> у поля <%2> ожидали текст подсказки <%3>, а получили <%4>.	În tabelul <%1> u câmp <%2> așteptat text explicativ <%3>, a primit <%4>.
+Не получилось выгрузить базу в dt: <%1>. Путь к DT: <%2>. Статус возврата: <%3>.	Nu a reușit pentru a descărca baza de la dt: <%1>. Calea DT: <%2>. Statutul de returnare: <%3>.
+Группа колонок <%1> в таблице <%2> не найдена.	Un grup de coloane <%1> tabelul <%2> nu a fost găsit.
+В таблице <%1> в группе колонок <%2> колонка <%3> не найдена.	În tabelul <%1> în grupul de coloane <%2> coloana <%3> nu a fost găsit.
+Не получилось найти на экране картинку <%1>.	Nu a reușit să găsească pe ecran o imagine <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд значение ячейки <%3> станет равно <%4>. Текущее значение <%5>.	Așteptat la masă de document <%1>, în termen de <%2> de secunde valoarea celulei <%3> va fi egal cu <%4>. Valoarea curentă a <%5>.
+Метод Шаг() не выполнен. Не удалось прочитать шаги из временного фича файла <%1>. Исходная строка:%2	Metoda Pas() nu este indeplinita. Nu s-a putut citi pașii temporară onestitate fișier <%1>. Original rând:%2
+Этот клиент	Acest client
+Не получилось найти данные макета <%1>.	Nu a reușit să găsească datele de dispunere <%1>.
+Не получилось выполнить эмуляцию хоткея <%1> <%2>.	Nu a făcut o emulare хоткея <%1> <%2>.
+Не получилось выполнить эмуляцию ENTER.	Nu a făcut o emulare ENTER.
+Не получилось дождаться картинки <%1> в течение <%2> секунд.	Nu am reușit să așteptați imagini <%1>, în termen de <%2> de secunde.
+Окно с заголовком <%1> не найдено. Текущее окно: <%2>.	Fereastra cu titlul <%1> nu a fost găsit. Fereastra curentă: <%2>.
+Строка <%1> не найдена в окне сообщений пользователю. Состояние окна сообщений:%2	Linia <%1> nu a fost găsit în fereastra de mesaje a utilizatorului. Starea ferestrei de mesaje:%2
+Не получилось определить родителя у шага <%1>.	Nu s-a reușit de a determina un părinte la un pas de <%1>.
+Не получилось определить позицию шага <%1> в группе шагов <%2>.	Nu s-a reușit de a determina poziția de pas <%1> în grupa de pași <%2>.
+Не получилось открыть форму регистра сведений <%1>.	Nu s-deschide formularul registrului de informații <%1>.
+Не получилось найти подсистему <%1> в регистре версии подсистем.	Nu a reușit să găsească un subsistem <%1> în registrul versiunea subsisteme.
+Ожидалось получить <%1> строк в таблице <%2>, а было получено <%3> строк.	Era de așteptat pentru a obține <%1> de rânduri în tabel <%2>, și a fost primit <%3> rânduri.
+Не получилось сохранить значение <%1> в переменную <%2>.	Nu a reușit să mențină valoarea <%1> în variabila <%2>.
+Не получилось подключиться к ранее запущенному клиенту тестирования <%1>, порт <%2>.	Nu s-a reușit să se conecteze la anterior запущенному client de testare <%1>, port <%2>.
+Не получилось прочитать параметр запуска <%1>.	Nu ai citit opțiunea de a rula <%1>.
+ИмяРаннера	ИмяРаннера
+ТипКлиентаТестирования	ТипКлиентаТестирования
+СтрокаСоединения	СтрокаСоединения
+Не получилось сохранить строку <%1> в переменную <%2>.	Nu a reușit să mențină linia <%1> în variabila <%2>.
+Неверно указано значение параметра направления вращения колеса мышки. Возможные значения: Вверх или Вниз.	Greșit se specifică setarea sensului de rotație a roții mouse-ului. Valorile posibile sunt: în Sus sau în Jos.
+Не получилось выполнить эмуляцию вращения колеса мышки в направлении <%1>, количество итераций <%2>.	Nu a făcut o emulare de rotație a roții mouse-ului în direcția <%1>, numărul de iterații <%2>.
+Обнаружено несколько файлов, экспортирующих подсценарий <%1>. Файлы: %2	Există mai multe fișiere, care подсценарий <%1>. Fișiere: %2
+Не получилось сделать клик праой кнопкой мышки по картинке <%1>.	Nu s-a reușit de a face clic праой butonul mouse-ului pe imagine <%1>.
+Не получилось переместить курсор мышки к картинке <%1>.	Nu s-mutați cursorul mouse-ului pentru a poza <%1>.
+Не существует клиента тестирования <%1>.	Nu există un client de testare <%1>.
+Ожидали, что процесс с ИД <%1> будет завершен в течение <%2> секунд.	Asteapta ca procesul de EID <%1> va fi finalizat în termen de <%2> de secunde.
+Значение переменной <%1> изменено на <%2>.	Valoarea variabilei <%1> schimbat la <%2>.
+Значение глобальной переменной <%1> изменено на <%2>.	Valoarea variabilei globale <%1> schimbat la <%2>.
+Переменная <%1> удалена.	Variabila <%1> eliminat.
+Глобальная переменная <%1> удалена.	Variabila globală <%1> eliminat.
+Контекст	Contextul
+Контекст глобальный	Contextul global
+Окно с заголовком <%1> не найдено. Таймаут поиска окна: <%2>.	Fereastra cu titlul <%1> nu a fost găsit. Depășirea timpului de căutare a ferestrei: <%2>.
+Не удалось получить токен.	Nu s-a reușit de a obține tichet.
+Не удалось получить токен. Код результата: <%1>. Ответ: <%2>.	Nu s-a reușit de a obține tichet. Codul rezultat: <%1>. Răspuns: <%2>.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Nu a reușit să obțină date. Codul rezultat: <%1>. Răspuns: <%2>.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>. Количество попыток <%4>.	Nu a putut tabelul <%1> face să selectați din lista de selectare <%2> la rîndul <%3>. Numărul de încercări de a <%4>.
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>. Количество попыток <%3>.	Nu a reușit să facă alege dintr-o listă de selectare <%1> la rîndul <%2>. Numărul de încercări de a <%3>.
+Не выполнены дополнительные процедуры обработки данных.	Nu sunt îndeplinite proceduri suplimentare de prelucrare a datelor.
+Обнаружено окно обновления конфигурации.	Descoperit fereastra de actualizare de configurare.
+Обнаружено окно c сообщением о неудачном обновлением конфигурации.	Descoperit de dialog c un mesaj cu privire la cazul în care actualizarea de configurare.
+Видео создано автоматически.	Video creat automat.
+Количество сценариев	Numărul de scenarii
+Количество шагов	Numărul de pași
+Версия Vanessa-Automation	Versiune Vanessa-Automatizare
+Версия скрипта сборки видео	Versiune de script-ul de asamblare video
+ЗаголовокАктивногоОкна	ЗаголовокАктивногоОкна
+ИмяАктивнойФормы	ИмяАктивнойФормы
+В таблице должно быть боле 1 строки, а получили <%1> строк.	În tabelul trebuie să fie mai mare de 1 rânduri, și a primit <%1> rânduri.
+Выполнить сценарии	Executa script-uri
+Загружены глобальные переменные.	Încărcate variabile globale.
+Не найден каталог: %1	Nu a fost găsit catalog: %1
+Выполнить	Run
+Выполняется...	Se realizează...
+Останавливается...	Se oprește...
+Обнаружено окно перехода на новую версию платформы 1С:Предприятие.	Descoperit de dialog trecerea la noua versiune a platformei 1C:Întreprindere.
+В таблице <%1> не получилось активизировать поле <%2> для редактирования.	În tabelul <%1> nu s-activați câmpul <%2> editare.
+Ожидалось в течение <%1> секунд, что откроется окно с заголовком отличным от <%2>.	Era de așteptat în termen de <%1> de secunde, se deschide fereastra cu titlul diferit de <%2>.
+Выберите файл настроек Vanessa Automation.	Selectați un fișier de setări Vanessa Automation.
+Версия загружаемых настроек не соответсвует версии обработки.	Versiune încărcate setările care nu corespunde versiunea de prelucrare.
+Информация: Параметр %1 не загружен.	Parametru: %1 nu este încărcat.
+Не получилось прочитать значение из строки запуска: %1.	Nu s-a reușit de a citi o valoare dintr-un șir de pornire: %1.
+При чтении переменных окружения операционной системы возникло исключение: %1	La citirea variabilelor de mediu sistem de operare a apărut o excepție: %1
+Не найден путь к файлу JSON. Параметр: VAParams.	Nu a fost găsit calea de fișier JSON. Parametru: VAParams.
+Ошибка чтения структуры JSON. Пропускаем чтение.	Eroare de citire de structură JSON. Treci de lectură.
+Ошибка чтения структуры JSON.	Eroare de citire de structură JSON.
+В параметрах JSON не найден каталог Фич.	În setările JSON nu a fost găsit catalog de Caracteristici.
+Использование устаревшего параметра "КаталогOutputСкриншоты". Новый параметр - "КаталогВыгрузкиСкриншотов".	Utilizarea unui parametru "КаталогOutputСкриншоты". O nouă opțiune - "КаталогВыгрузкиСкриншотов".
+Использование устаревшего параметра "КаталогOutputИнструкцияHTML". Новый параметр - "КаталогВыгрузкиИнструкцийHTML".	Utilizarea unui parametru "КаталогOutputИнструкцияHTML". O nouă opțiune - "КаталогВыгрузкиИнструкцийHTML".
+Использование устаревшего параметра "КаталогOutputИнструкцияMarkdown". Новый параметр - "КаталогВыгрузкиИнструкцийMarkdown".	Utilizarea unui parametru "КаталогOutputИнструкцияMarkdown". O nouă opțiune - "КаталогВыгрузкиИнструкцийMarkdown".
+Использование устаревшего параметра "КаталогOutputИнструкцияВидео". Новый параметр - "КаталогВыгрузкиИнструкцийВидео".	Utilizarea unui parametru "КаталогOutputИнструкцияВидео". O nouă opțiune - "КаталогВыгрузкиИнструкцийВидео".
+Использование устаревшего параметра "КаталогOutputjUnit". Новый параметр - "КаталогВыгрузкиjUnit".	Utilizarea unui parametru "КаталогOutputjUnit". O nouă opțiune - "КаталогВыгрузкиjUnit".
+В параметрах запуска JSON не определен каталог отчета jUnit.	În setările de lansare JSON nu este definit directorul raport jUnit.
+Использование устаревшего параметра "КаталогOutputCucumberJson". Новый параметр - "КаталогВыгрузкиCucumberJson"	Utilizarea unui parametru "КаталогOutputCucumberJson". O nouă opțiune - "КаталогВыгрузкиCucumberJson"
+В параметрах запуска JSON не определен отчета CucumberJson.	În setările de lansare JSON nu este determinat de raportul CucumberJson.
+Использование устаревшего параметра "КаталогOutputAllure". Новый параметр - "КаталогВыгрузкиAllure".	Utilizarea unui parametru "КаталогOutputAllure". O nouă opțiune - "КаталогВыгрузкиAllure".
+Использование устаревшего параметра "КаталогOutputAllureБазовый". Новый параметр - "КаталогВыгрузкиAllureБазовый".	Utilizarea unui parametru "КаталогOutputAllureБазовый". O nouă opțiune - "КаталогВыгрузкиAllureБазовый".
+Форма из переданного списка не найдена.	Forma de transmis lista nu a fost găsit.
+ИмяФичи	ИмяФичи
+ИмяСценария	ИмяСценария
+НомерСтрокиДерева	НомерСтрокиДерева
+НомерСтрокиФичи	НомерСтрокиФичи
+ПолнйПутьКФиче	ПолнйПутьКФиче
+Сценарий не определён.	Script-ul nu este definit.
+Шаг не определён.	Pasul nu este definit.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Nu a reușit să obțină date. Codul rezultat: <%1>. Răspuns: <%2>.
+ДеталиОшибки	ДеталиОшибки
+Команда по созданию картинки из текста не выполнена: %1	Comanda pentru crearea unei imagini din text nu a fost indeplinita: %1
+Не получилось получить командный интерфейс клиента тестирования.	Nu s-a reușit de a obține interfață de comandă client de testare.
+Окно предупреждения не найдено.	Fereastra de alertă nu a fost găsit.
+Не получилось выполнить помещение файла <%1>.	Nu s-a reușit de a efectua plasarea fișierului <%1>.
+Не найдено подключение SikuliX сервера.	Nu s-a găsit o conexiune SikuliX server.
+Подключение SikuliX сервера сброшено.	Conectarea SikuliX server a eșuat.
+Не указано значение настройки Vanessa-automation: <КаталогДляГенерацииКартинок>.	Nu se specifică setarea Vanessa-automation: <КаталогДляГенерацииКартинок>.
+Не получилось создать картинку по тексту <%1>.	Nu s-a reușit de a crea o imagine cu privire la textul de <%1>.
+Не найден профиль поиска картинки с текстом <%1>.	Nu s-a găsit profilul de căutare de imagini cu text <%1>.
+Команда не выполнена: %1	Echipa nu a reușit: %1
+Не получилось вычислить выражение: %1. Описание ошибки: %2	Nu am reușit să calculeze expresia: %1. Descriere bug: %2
+Не указано имя файла.	Nu se specifică un nume de fișier.
+Каталог <%1> не существует.	Directorul <%1> nu există.
+Не указано расширение файла.	Nu se specifică extensie de fișier.
+Не получилось закрыть активное окно <%1>. %2	Nu s-închide fereastra activă <%1>. %2
+Закрытие окна <%1>.	Închiderea ferestrei <%1>.

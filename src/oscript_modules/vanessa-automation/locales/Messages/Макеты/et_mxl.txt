@@ -1,0 +1,810 @@
+﻿Строка поиска	Translation
+%1 не найден;	%1 ei leitud
+%1 Не умею обрабатывать реквизит <%2> у объекта <%3>	%1 Ei oska hakkama rekvisiidid <%2> objekti <%3>
+%1.%2 в макете нет записей для регистра %3	%1.%2 paigutuses ei ole andmeid registrist %3
+%1.%2 не удалось создать новый набор записей.%3	%1.%2 ei ole suutnud luua uus kogum.%3
+%1.%2 не удалось создать новый набор записей%3	%1.%2 ei ole suutnud luua uus kogum%3
+%1.%2 не удалось создать новый элемент.%3	%1.%2 ei ole suutnud luua uus element.%3
+№%1. Заголовок=<%2>. Имя=<%3>. ТекстПоля = <%4>	Nr%1. Caption=<%2>. Nimi=<%3>. ТекстПоля = <%4>
+TestClient НЕ подключен.	TestClient EI ole ühendatud.
+TestClient подключен на %1 порту.	TestClient on ühendatud %1 sadamas.
+Web клиент не поддерживает запись действий пользователя.	Web klient ei toeta konto kasutaja tegevust.
+Активирую окно с координатами: %1;%2	Активирую akna koordinaadid: %1
+Активная форма не найдена	Aktiivne vorm ei leitud
+Активное окно не найдено.	Aktiivne aken ei leitud.
+больше	rohkem
+больше или равно	rohkem või võrdne
+Были конфликты в именах снипетов.	Olid konfliktid nimedes снипетов.
+Были ошибки в ПросканироватьИсходникиИНайтиВсеStepDefinition.	Olid vead ПросканироватьИсходникиИНайтиВсеstepdefinition.
+Было найдено окно предупреждения с текстом: <%1> А ожидалось, что таких окон не будет.	Leiti hoiatus kasti koos tekstiga: <%1> Ja loodeti, et selliseid aknaid ei ole.
+Было найдено окно предупреждения. А ожидалось, что таких окон не будет.	Leiti hoiatus kasti. Ja loodeti, et selliseid aknaid ei ole.
+В значение элемента формы %1 не найдена строка <%2>. Текущее значение поля <%3>	Väärtus üksuse vormi %1 ei leitud rida <%2>. Praegune välja väärtus <%3>
+В ИБ загружены объекты: %1 шт.	On ИБ laadida objektid: %1 tk
+В каталоге <%1> должен был быть один файл xml.	Kataloogi <%1> pidi olema üks xml-faili.
+В меню нет значения <%1>	Menüü ei ole väärtused <%1>
+В метаданных %1 не найден реквизит-ключ <%2>. Ошибка в макете данных	Metaandmete %1 ei leitud rekvisiidid-võti <%2>. Viga paigutuse andmed
+В параметрах JSON не найден каталог Фич.	Seadetes on JSON ei leitud kataloogi Фич.
+В переменной Контекст не обнаружено ранее сохраненное значение с именем <%1>	Muutuja Kontekst ei avastatud varem salvestatud väärtus nimega <%1>
+В процедуру <УстановитьРезультатУсловия> передан неверный тип параметра <%1>. Ожидаемый тип: Булево.	Protseduuri <УстановитьРезультатУсловия> edastatud vale parameetri tüüp <%1>. Oodatud tüüp: Boolean.
+В результирующей таблице существуют две колонки с одинаковым заголовком: %1	In-set tabelis on kaks veergu sama pealkirja: %1
+В списке нет значения <%1>	Loendis pole tähtis <%1>
+В строке <%1> не найдена подстрока <%2>	Real <%1> ei leitud substr <%2>
+В сценарии <%1> найден тег исключение <%2>	Stsenaarium <%1> leitud silt erand <%2>
+В сценарии <%1> найден тег отбор <%2>	Stsenaarium <%1> leitud silt valik <%2>
+В таблице <%1>  НЕ найдено значение %2, а оно должно было быть.	Tabel <%1> EI leitud väärtus on %2, ja ta oleks pidanud olema.
+В таблице <%1>  нет колонки <%2>	Tabel <%1> ei veerus <%2>
+В таблице <%1> в строке №%2 найдено значение %3, а его не должно было быть.	Tabel <%1> rea nr%2 leitud väärtus %3, ja see ei oleks pidanud olema.
+В таблице <%1> найдено <%2> значений. А ожидали <%3>. Имя колонки <%4>. Искомое значение <%5>	Tabel <%1> leiti <%2> väärtusi. Ja oodata <%3>. Nimi kõlarid <%4>. Otsitav väärtus <%5>
+В таблице <%1> не найдено ни одной строки	Tabel <%1> ei leitud ühtegi rida
+В таблице <%1> не найдено ячейки с заголовком <%2>	Tabel <%1> ei leitud lahtri päis <%2>
+В таблице <%1> не найдены колонки: %2	Tabel <%1> ei leitud kõlarid: %2
+В таблице <%1> не получилось активизировать поле <%2>.	Tabel <%1> ei õnnestunud aktiveerida väli <%2>.
+В таблице <%1> нет строк для выбора.	Tabel <%1> pole ridade valimiseks.
+В таблице <%1> ожидали получить <%2> строк, а получили <%3> строк.	Tabel <%1> oodata, et saada <%2> rida, ja said <%3> rida.
+В таблице <%1> ожидали получить %2 %3 строк, а получили <%4> строк.	Tabel <%1> oodata, et saada %2 %3 rida, ja said <%4> rida.
+В таблице <%1> ожидали получить больше <%2> строк, а получили <%3> строк.	Tabel <%1> oodata, et saada rohkem <%2> rida, ja said <%3> rida.
+В таблице <%1> ожидали получить больше или равно <%2> строк, а получили <%3> строк.	Tabel <%1> oodata, et saada suurem või võrdne <%2> rida, ja said <%3> rida.
+В таблице <%1> ожидали получить меньше <%2> строк, а получили <%3> строк.	Tabel <%1> oodata, et saada vähem kui <%2> rida, ja said <%3> rida.
+В таблице <%1> ожидали получить меньше или равно <%2> строк, а получили <%3> строк.	Tabel <%1> oodata, et saada väiksem või võrdne <%2> rida, ja said <%3> rida.
+В таблице <%1> отсутствует колонка <%2>, указанная в параметрах.	Tabel <%1> puudub veerg <%2>, указанная seadetes.
+В таблице <%1> поле с заголовком <%2> не найдено.	Tabel <%1> väli, mille teemaks on <%2> ei leitud.
+В таблице <%1> поле с именем <%2> не найдено.	Tabel <%1> väli nimega <%2> ei leitud.
+В таблице <%1> у поля <%2> ожидали открытия выпадающего списка, но не дождались.	Tabel <%1> välja <%2> ootasid avada rippmenüü, kuid ei oodanud.
+В таблице не найдена колонка <%1>	Tabelis ei leitud veerg <%1>
+В таблице параметров не было передано имя нового профиля. Колонка <Имя подключения>	Tabelis parameetrid ei edastatud nimi uue profiili. Veerg <Kasutajanimi>
+В таблице подключений уже есть подключение с именем <%1>	Tabelis ühenduste juba on ühendus nimega <%1>
+В табличном документе %1 колонок, а ожидалось %2 колонок.	Laud dokumendis %1 kõlarid ja oodatud %2 kõlarid.
+В табличном документе %1 строк, а ожидалось %2 строк.	Laud dokumendis %1 rida ja oodatud %2 rida.
+В табличном документе %1 строк, а ожидалось, что он пустой.	Laud dokumendis %1 rida, ning eeldati, et see on tühi.
+В табличном документе в колонке <%1> значение не соответствует условию 'Значение в колонке %2 %3'. Текущее значение колонки <%4>. Ряд <%5>, колонка <%6>	Laud dokumendis veerus <%1> väärtus ei vasta tingimusele "Väärtus veerus %2 %3'. Praegune väärtus veerus <%4>. Mitmeid <%5> veerg <%6>
+В табличном документе в колонке <%1> ожидали значение <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	Laud dokumendis veerus <%1> ootasid väärtus <%2> ja leidnud <%3>. Mitmeid <%4> veerg <%5>
+В табличном документе в колонке <%1> ожидали, что не будет значения <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	Laud dokumendis veerus <%1> ootasid, et ei ole tähtis <%2> ja leidnud <%3>. Mitmeid <%4> veerg <%5>
+В табличном документе в колонке №%1 значение= <%2> , а ожидалось <%3>	Laud dokumendis veerus nr%1 väärtus= <%2> ja oodatud <%3>
+В табличном документе колонка <%1> не найдена.	Laud dokumendis veerg <%1> ei leitud.
+В файле <%1> нашли строки, а ожидали, что их нет:%2	Failis <%1> leidnud reas ja ootasid, et neid ei ole:%2
+В файле <%1> не нашли строки, а ожидали, что они там есть:%2	Failis <%1> ei leidnud reas ja ootasid, et nad seal on:%2
+В фиче <%1> сценария <%2> найден тег исключение <%3>	On фиче <%1> script <%2> leitud silt erand <%3>
+В фиче <%1> сценария <%2> найден тег отбор <%3>	On фиче <%1> script <%2> leitud silt valik <%3>
+В шаг необходимо передавать таблицу Gherkin, в которой 2 или более строк.	Samm tuleb kanda tabelisse Gherkin, milles on 2 või rohkem rida.
+В эталонной таблице существуют две колонки с одинаковым заголовком: %1	Viide tabelis on kaks veergu sama pealkirja: %1
+ВерсияVA	ВерсияVA
+ВерсияПлатформы	ВерсияПлатформы
+Включите флаг <Включить отладочные сообщения> чтобы посмотреть выполняемые команды.	Lülitage lipu <Luba silumine sõnumid> et näha mida meeskond.
+Внутреняя ошибка. Неполное заполнение дерева метаданных. Отсутствует объект, образующий тип - %1	Внутреняя viga. Mittetäielik täitmine puu metaandmed. Puudub objekt, mis tüüp - %1
+Внутреняя ошибка. Неполное заполнение структуры ссылочных типов - %1	Внутреняя viga. Mittetäielik täitmine struktuuri viide tüüpi - %1
+Во вложенный сценарий <%1> было передано <%2> таблиц, а он принимает только <%3> таблиц.	Kogu manustatud script <%1> on saadetud <%2> tabelid, ja see võtab vaid <%3> tabelid.
+Возможно это обработка для обычных форм, а не для управляемых форм.	Võib-olla on see töötlemine tavapärastest, mitte õnnestus vorme.
+Возможно это обработка для управляемых форм, а не для обычных форм.	Võib-olla on see töötlemine õnnestus kujul, mitte tavalised vormid.
+Все проверки пройдены.	Kõik kontrollid läbitud.
+Вызов метода <%1>: %2	Kõne meetod <%1>: %2
+Выпадающий список <%1> не был сформирован.	Rippnimekiri <%1> ei ole moodustatud.
+Выпадающий список <%1> не открылся для ввода текста.	Rippnimekiri <%1> ei avati teksti sisestamiseks.
+Выпадающий список <%1>. Ожидали, что в нём будет текст %2, а получили %3.	Rippnimekiri <%1>. Lootsime, et seal on tekst %2, ja said %3.
+Выпадающий список с заголовком <%1> не найден.	Rippnimekiri pealkiri <%1> ei leitud.
+Выпадающий список с именем <%1> не найден.	Rippmenüü nimega <%1> ei leitud.
+Выполнение сценариев закончено. БЫЛИ ОШИБКИ.	Skripte on lõppenud. OLID VEAD.
+Выполнение сценариев закончено. Ошибок не было.	Skripte on lõppenud. Vigu ei olnud.
+Выполняю	Teen
+Выражение <%1> оказалось равно <%2>, а ожидали <%3>.	Väljend <%1> pöördus võrdne <%2> ja ootasid <%3>.
+Генератор макета из реальных данных: Не умею обрабатывать такой тип <%1>	Generaator paigutuse tegelikke andmeid: Ei oska töödelda selline tüüp <%1>
+ГолосовойДвижок - OK	ГолосовойДвижок - OK
+Группа с заголовком <%1> не найдена.	Grupp, mille teemaks on <%1> ei leitud.
+Группа с именем <%1> не найдена.	Rühm nimega <%1> ei leitud.
+Данные по основному подключению Клиента тестирования перезаполнены.	Andmed esmase ühendamise Testclient перезаполнены.
+Данный шаг не работает с таблицами.	See samm ei tööta tabelitega.
+ДатаВремяОшибки	ДатаВремяОшибки
+Делаю общий скриншот.	Teen üldine pilt.
+Делаю перезапуск TESTCLIENT. ОписаниеОшибки=%1	Teen restardi TESTCLIENT. ОписаниеОшибки=%1
+Делаю распаковку %1	Teen lahtipakkimise %1
+Делаю скриншот.	Teen screenshot.
+Делаю скриншоты всех окон 1С.	Teen pildid, kõik aknad 1S.
+Длительность MP3 = 0. Файл=%1	Kestus MP3 = 0. Fail=%1
+Для <%1> не найдено документа основания	<%1> ei leitud dokumendi põhjust
+Для генерации EPF должен быть установлен 1Script. В cmd должна выполняться команда: oscript	Luua EPF peab olema paigaldatud 1Script. Cmd peaks toimuma meeskond: oscript
+Для подключения с именем <%1> изменен порт подключения, указанный порт уже есть в таблице подключений.	Ühendus nimega <%1> muudetud port ühenduse määratud sadamasse juba tabelis ühendusi.
+Для текущей ячейки таблицы <%1> текущее значение равно <%2>, а ожидали <%3>	Praeguse tabeli lahtrid <%1> praegune väärtus on <%2> ja ootasid <%3>
+Для шага <%1> не найден EPF файл.	Pigi <%1> ei leitud EPF faili.
+Для элемента формы %1 текущее значение равно <%2>, а ожидали <%3>	Üksuse vormi %1 praegune väärtus on <%2> ja ootasid <%3>
+Для ячейки <%1> таблицы <%2> текущее значение равно <%3>, а ожидали <%4>	Lahtri <%1> tabelid <%2> praegune väärtus on <%3> ja ootasid <%4>
+Добавил шаг: %1	Lisatud samm: %1
+ДобавитьСостояниеФормыTestclient:%1	ДобавитьСостояниеФормыTestclient:%1
+Должна быть передана минимум 1 строка	Tuleb kanda vähemalt 1 rida
+Должна оставаться строка подключения текущего клиента	Peab jääma rida ühendada praeguse kliendi
+Должно быть передано 2 строки	Peaks olema üle 2 rida
+Должны быть переданы минимум 2 строки. Первая строка с именами колонок, вторая и следующие - данные для проверки.	Tuleb edastada vähemalt 2 rida. Esimene rida nimesid, kõlarid, teine ja järgmised andmed kontrollida.
+ЗавершитьЗаписьДействийПользователя:%1	ЗавершитьЗаписьДействийПользователя:%1
+Загружен объект.Имя %1, Тип %2	Koormatud ese.Nime %1, %Tüüp 2
+Загрузил новую версию	Uue versiooni alla laadinud
+Загрузил снипеты из кеш	Saatis снипеты välja vahemälu
+Закладка с заголовком <%1> не найдена.	Järjehoidja pealkiri <%1> ei leitud.
+Закладка с именем <%1> не найдена.	Järjehoidja nimega <%1> ei leitud.
+Закончились фичи. Не стал назначать раннеру фичу.	Lõppenud фичи. Ei saanud määrata раннеру фичу.
+Закрытие TestClient <%1>	Sulgemise TestClient <%1>
+Записал файл статуса билда: %1	Salvestatud fail staatuse билда: %1
+Записался корректный элемент.	Registreerusin korrektne element.
+Записываю %1	Kirjutan %1
+Запись действий пользователя закончена.	Konto kasutaja tegevus on lõppenud.
+Запись действий пользователя начата.	Konto kasutaja tegevust alustatud.
+Запись действий пользователя приостановлена.	Konto kasutaja tegevus on peatatud.
+Запись действий пользователя продолжена.	Konto kasutaja tegevust jätkata.
+Запускаю генерацию epf.	Saan põlvkonna epf.
+Значение (%1) заполнено, а ожидалась незаполненность %2	Väärtus (%1) täidetud ja ожидалась незаполненность %2
+Значение (%1) не заполнено, а ожидалась заполненность%2	Väärtus (%1) ei ole täidetud, ning ожидалась заполненность%2
+Значение [%1:%2]. Ожидали <%3>, а получили <%4>	Väärtus [%1:%2]. Ootasime <%3> ja said <%4>
+Значение <%1> больше или равно, чем <%2>, а ожидалось меньше. %3	Väärtus <%1> suurem või võrdne kui <%2> ning oodatud on väiksem. %3
+Значение <%1> больше, чем <%2>, а ожидалось меньше или равно. %3	Väärtus <%1> rohkem kui <%2> ning oodatud on väiksem või võrdne. %3
+Значение параметра %1: ожидали <%2>, получили <%3>;	Parameetri väärtus on %1: oodata <%2> sai <%3>
+Значение параметра %1: ожидали подстроку <%2>, в <%3>;	Parameetri väärtus on %1: oodata alamstringi <%2>, <%3>
+Значение параметра таймаута ожидания должно быть числом. Переданное значение: %1	Parameetri väärtus timeout error ootab peab olema number. Saadetud väärtus: %1
+ЗначениеНеНайдено: Реквизит <%1>: Искали значение <%2>, но не нашли.	ЗначениеНеНайдено: Rekvisiidid <%1>: Otsin väärtus <%2>, kuid ei leidnud.
+Изменения формы обработаны.	Muudatused vormi töödeldud.
+Изменилось имя формы: было: %1, стало: %2	Muutunud vormi nimi: oli: %1, muutunud: %2
+имеет длину	pikkus on
+имеет тип	tüüp on
+Именованная область %1 не найдена;	Nimeline piirkond %1 ei leitud
+ИмяКомпьютера <%1>; порт <%2>	ИмяКомпьютера <%1>
+ИмяПроцедуры	Procedurename
+ИмяФайла	Failinimi
+Искали в %1 подстроку %2, но не нашли.%3	Otsisid %1 alamstringi %2, kuid ei ole leidnud.%3
+Исключение для просмотра значения.	Erand vaatamiseks väärtused.
+Ищу снипеты в каталоге	Otsin снипеты kataloogi
+Ищу сценарии в каталоге	Otsin skriptid kataloogi
+Каталог <%1> не найден.	Kataloog <%1> ei leitud.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не существует.	Kataloog ЗаписьВидеоКаталогДляВременныхФайлов <%1> ei ole olemas.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не указан.	Kataloog ЗаписьВидеоКаталогДляВременныхФайлов <%1> pole määratud.
+КаталогOutputИнструкцияHTML не задан.	КаталогOutputИнструкцияHTML ei ole määratud.
+КаталогOutputИнструкцияMarkdown не задан.	КаталогOutputИнструкцияMarkdown ei ole määratud.
+КаталогOutputСкриншоты не задан.	КаталогOutputСкриншоты ei ole määratud.
+КаталогДляОбработки=%1	КаталогДляОбработки=%1
+Кнопка панели открытых окон <%1> не найдена.	Nupp paneeli avatud akende <%1> ei leitud.
+Кнопка панели разделов <%1> не найдена.	Nupp paneeli vaheseinad <%1> ei leitud.
+Кнопка с именем <%1> не найдена.	Nupp nimega <%1> ei leitud.
+Кнопка с именем <%1> не найдена. ТекущееОкно=%2	Nupp nimega <%1> ei leitud. ТекущееОкно=%2
+кнопка, которую требуется нажать	nupp, mida on vaja vajutada
+Кнопка/команда с заголовком <%1> не найдена.	Nupp/meeskond, mille teemaks on <%1> ei leitud.
+Кнопка/команда с заголовком <%1> не найдена. ТекущееОкно=%2	Nupp/meeskond, mille teemaks on <%1> ei leitud. ТекущееОкно=%2
+Количество секунд дял подключения TestClient: %1	Mitu sekundit дял ühenduse TestClient: %1
+Команда меню <%1> не найдена в панели функций.	Menüü käsk <%1> ei leitud paneeli funktsioone.
+Команда ОстановитьЗаписьВидео вернула код возврата = %1	Meeskond ОстановитьЗаписьВидео tagastas tagasi kood = %1
+Команда по объединению mp3 не выполнена. Файл1=%1, Файл2=%2, Файл3=%3	Meeskond siduda mp3 ei õnnestunud. Fail1=%1, Fail2=%2, Файл3=%3
+Команда по получению списка файлов каталога не выполнена. Каталог = %1	Meeskond oli loendi faili kataloogi ei õnnestu. Kataloog = %1
+Команда системы реализована только под Windows.	Meeskond süsteemi rakendada ainult Windows.
+Константа %1 не заполнена.	Konstant %1) ei ole täidetud.
+КопироватьФайлКомандаСистемы:%1 команда:%2	КопироватьФайлКомандаСистемы:%1 command:%2
+между	vahel
+меньше	vähem
+меньше или равно	on väiksem või võrdne
+Надо сделать перезапуск фреймворка тестирования.	Vaja teha restart фреймворка katsetamine.
+Найден активный элемент формы	Leitud aktiivne element vormi
+Найден упавший сценарий.	Leitud vähenenud stsenaarium.
+Найдена форма: ТекстЗаголовка=%1, ИмяФормы=%2. Окно <%3>	Leitud vorm: ТекстЗаголовка=%1, Vorminimi=%2. Aken <%3>
+Найдено %1 окон.	Leiti %1 aknad.
+Найдено более одного поля формы с заголовком <%1>. Рекомендуется искать элемент по имени.	Leiti rohkem kui ühe vormi väljad pealkiri <%1>. Soovitatav otsida element nimega.
+НачатьЗаписьДействийПользователя:%1	НачатьЗаписьДействийПользователя:%1
+Нашли строки в таблице <%1>:%2	Leitud rida tabelis <%1>:%2
+не	ei
+Не верный формат области <%1>. %2	Ei ole kindel formaat valdkonnas <%1>. %2
+Не возможно открыть форму абстрактного объекта, укажите ссылку	Ei ole võimalik avada vorm on abstraktne objekt, täpsustage linki
+Не все служебные колонки заданы. В запросе обязательно должны быть колонки %1	Ei ole kõik teenuse kõlarid määranud. Päring peab olema tingimata kõlarid %1
+не выполнен	ei täideta
+Не дождались отображения окна TestClient. Таймаут <%1>	Ei oodanud akna ekraani TestClient. Timeout <%1>
+Не задан регистратор для записей регистра %1. Переменная %2	Ei ole määratud registripidaja, et arvestust registrist %1. Muutuja %2
+Не заполнен служебный параметр КаталогИнструментов.	Ei ole täis kasuliku parameeter КаталогИнструментов.
+Не известный тип параметра в ПолучитьПредставлениеПараметраПриПереводе() <%1>	Ei tuntud tüüp parameetri ПолучитьПредставлениеПараметраПрипереводе() <%1>
+Не использовать	Mitte kasutada
+Не могу выгрузить статус сценариев, т.к. был передан каталог, а не файл.	Ei saa maha laadida staatus skriptid, t. kanti kataloogi, mitte fail.
+Не могу выгрузить статус сценариев, т.к. каталог %1 не существует.	Ei saa maha laadida staatus skriptid, t. kataloogi %1) ei ole olemas.
+Не могу сфомировать отчет Allure. Не существует каталог для вывода отчета.	Ei saa сфомировать aruanne Allure. Ei ole olemas kataloog trükkida aruande.
+Не найден Клиент тестирования для подключения..	Ei leitud TestClient ühendamiseks.
+Не найден активный элемент формы.	Ei leitud aktiivne element vormi.
+НЕ найден инструмент по созданию скриншотов.	EI leitud vahend luua pilte.
+Не найден каталог библиотеки: %1	Ei leitud raamatukogu kataloogi: %1
+Не найден каталог инструментов: %1	Ei leitud vahendid kataloogi: %1
+Не найден лог перегенерации EPF.	Ei leitud log перегенерации EPF.
+Не найден макет %1 ошибка: %2	Ei leitud paigutus %1 viga: %2
+Не найден перевод для шага <%1>	Ei leitud tõlge pigi <%1>
+Не найден пользователь ИБ по имени <%1>	Ei leitud kasutaja ИБ nimega <%1>
+Не найден профиль Клиента тестирования <%1>	Profiili ei leitud TestClient <%1>
+Не найден путь к файлу JSON. Параметр: VBParams.	Ei leitud faili tee JSON. Parameeter: VBParams.
+Не найден тип шага <%1>	Ei leitud tüüp sammu <%1>
+Не найден файл <%1>	Faili ei leitud <%1>
+Не найден файл макета <%1> в каталоге проекта <%2>	Faili ei leitud paigutuse <%1> kataloogi projekti <%2>
+Не найден файл после распаковки: %1	Faili ei leitud pärast lahtipakkimist: %1
+Не найден файл словаря замен. <%1>	Faili ei leitud sõnastiku asendused. <%1>
+Не найден файл служебной базы. <%1>	Faili ei leitud juhtimise alused. <%1>
+Не найден файл толстого клиента <%1>	Faili ei leitud paksu kliendi <%1>
+Не найден элемент дерева по данным поиска	Ei leitud puit element vastavalt otsing
+Не найден элемент Статистика на форме VB.	Ei leitud element Statistika vormis VB.
+Не найден эталон макета <%1>. Пустой каталог проекта.	Ei leitud standard paigutuse <%1>. Tühi kataloog projekti.
+Не найдена активная форма.	Ei leitud aktiivne vorm.
+Не найдена группа командного интерфейса <%1>	Ei leitud rühm käsu interface <%1>
+Не найдена строка в таблице ДанныеКлиентовТестирования с <Имя=Этот клиент>	Ei leitud rida tabelis ДанныеКлиентовТестирования <Nimi=See klient>
+Не найдена строка примеров во вложенной структуре сценария. <%1>	Ei leitud rida näiteid uues struktuuris script. <%1>
+Не найдена строка сценария.	Ei leitud rida skripti.
+Не найдена таблица для редактирования.	Ei leitud tabeli redigeerimiseks.
+Не найдена установка VLC.	Ei leitud install VLC.
+Не найдено ключевое слово <%1>  для языка <%2>	Ei leitud märksõna <%1> keel <%2>
+Не найдено ни одного окна 1С. Делаю обычный скриншот.	Ei leitud ühtegi aknad 1S. Teen tavaline pilt.
+Не найдено ни одного сообщения пользователю.	Ei leitud ühtegi postitust kasutaja.
+Не найдено ни одного сценария. Запись видео невозможна.	Ei leitud ühtegi stsenaariumi. Video salvestamine ei ole võimalik.
+Не найдено ни одной строки в таблице клиентов тестирования, которая бы содержала <runner>	Ei leitud ühtegi rida tabeli kliendid test, mis sisaldas <runner>
+Не найдено окно VanessaAutomation в раннере %1	Ei leitud aken VanessaBehavior on раннере %1
+Не найдено окно VanessaAutomation.	Ei leitud aken VanessaBehavior.
+Не найдено окно предупреждения.	Ei leitud hoiatus kasti.
+Не нашел значение реквизита у спр: ИмяСпр=%1, Наименование=%2, ИмяРек=%3, СтроковокПредставление=%4	Ei leidnud väärtus rekvisiidid on spr: ИмяСпр=%1, Nimetus=%2, ИмяРек=%3, СтроковокПредставление=%4
+Не нашел колонку: %1	Ei leidnud veerg: %1
+Не нашел профиля TestClient с именем <%1>	Ei leidnud profiili TestClient nimega <%1>
+Не нашел профиля TestClient с именем <%1> хотя он должен быть активным в данный момент.	Ei leidnud profiili TestClient nimega <%1> kuigi ta peab olema aktiivne hetkel.
+Не нашел профиля TestClient с именем <%1> чтобы его закрыть.	Ei leidnud profiili TestClient nimega <%1> et seda sulgeda.
+Не нашел путь к 1cv8c.exe: %1	Ei leidnud viis 1cv8c.exe: %1
+Не нашли меню функций раздела.	Ei leidnud valikute osas.
+Не нашли окно с заголовком <%1>	Ei leidnud akna päis <%1>
+Не нашли панель открытых окон.	Ei leidnud klapp on avatud aknad.
+Не нашли панель разделов.	Ei leidnud paneel vaheseinad.
+Не нашли профиль <%1> в таблице TestClient.	Ei leidnud profiili <%1> tabel TestClient.
+Не нашли профиль <%1> в тестируемом экземпляре Vanessa-behavior.	Ei leidnud profiili <%1> тестируемом eksemplaris Vanessa-behavior.
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, "Управляемое приложение"	Ei leidnud käivitada režiim <%1>. Võimalik, et on vaja täpsustada tühikuga, nt "Giidiga taotlus"
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, <Управляемое приложение>	Ei leidnud käivitada režiim <%1>. Võimalik, et on vaja täpsustada tühikuga, nt <Õnnestus taotluse>
+Не нашли таблицу с именем <%1>	Ei leidnud tabeli nimega <%1>
+Не нашли элемент <%1> в коллекции, а хотели, чтобы он был в коллекции.%2	Ei leidnud element <%1> kogumise ja tahaks, et ta oli galeriis.%2
+Не обнаружено активное окно.	Tuvastatud ei ole aktiivne aken.
+Не ожиданное значение у переменной ТипСравнения: <%1>	Ei ожиданное väärtus muutuja ТипСравнения: <%1>
+Не описано действие для кнопки <%1>	Ei ole kirjeldatud tegevus nupule <%1>
+Не определена фича для выполнения на раннере №0.	Ei ole määratud фича täitmiseks раннере nr 0.
+Не передан каталог фич для обработки. Используется %1\features	Ei ole üle antud kataloogi фич töötlemiseks. Kasutada %1\features
+Клиент тестирования не подключен.	Ei ole ühendatud Testclient.
+Не получилось закрыть активное окно. %1	Ei ole õnnestunud aktiivse akna. %1
+Не получилось определить активное окно Клиента тестирования из Контекста.	Ei ole õnnestunud kindlaks teha aktiivse akna TestClient Kontekstis.
+Не получилось определить активное окно Клиента тестирования.	Ei ole õnnestunud kindlaks teha aktiivse akna TestClient.
+Не получилось получить значение таблицы <%1>	Ei õnnestunud saada tabeli väärtus <%1>
+Не получилось прочитать параметр запуска.	Ei jõuagi lugeda parameeter algust.
+Не получилось сделать выбор в поле <%1> значения <%2>. %3	Ei jõuagi teha valik väljale <%1> väärtus <%2>. %3
+Не получилось создать тестовый MP3	Ei õnnestunud luua test MP3
+Не реализовано.	Ei rakendata.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>	Ei suutnud tabelis <%1> teha, et valida loendist valida <%2> rea <%3>
+Не смог выделить все строки в таблице <%1>. %2	Ei suutnud valida kõik read tabelis <%1>. %2
+Не смог выполнить команду по получению координат на экране всех окон 1С в панели задач.	Ei ole suutnud täita käsku saada koordinaadid ekraanil kõik aknad 1S tegumiribal.
+Не смог выполнить команду. <%1>	Ei ole suutnud täita käsku. <%1>
+Не смог вычислить выражение: %1	Ei suutnud arvutada avaldis: %1
+Не смог загрузить %1. %2	Ei suutnud alla laadida %1. %2
+Не смог загрузить базу из dt: %1. ПутьКDT: %2. Статус возврата: %3	Ei suutnud andmebaasi koormus dt: %1. ПутьКDT: %2. Toetuse staatus: %3
+Не смог загрузить снипеты из %1	Ei suutnud alla laadida снипеты %1
+Не смог закрыть окно %1	Ei saanud sulge aken %1
+Не смог закрыть окно повторно %1	Ei saanud sulge aken uuesti %1
+Не смог запустить конфигуратор. <%1>	Ei suutnud käivitada configurator. <%1>
+Не смог из переданных параметров JSON определить каталог отчета Allure.	Ei suutnud välja saadetud parameetrid JSON määrata kataloogi aruande Allure.
+Не смог из переданных параметров JSON определить каталог отчета CucumberJson.	Ei suutnud välja saadetud parameetrid JSON määrata kataloogi aruande CucumberJson.
+Не смог из переданных параметров JSON определить каталог отчета jUnit.	Ei suutnud välja saadetud parameetrid JSON määrata kataloogi aruande rongid.
+Не смог найти данные для подключения профиля клиента тестирования <%1>	Ei suutnud leida andmeid, et ühendada kliendi profiili test <%1>
+Не смог найти код модуля формы в файле ИмяФайлаФормаУФ.	Ei suutnud leida mooduli kood kuju failis ИмяФайлаФормаУФ.
+Не смог найти открытый конфигуратор.	Ei suutnud leida avatud configurator.
+Не смог найти сохранненное значение по переменой <%1>	Ei suutnud leida сохранненное väärtuse muutusega <%1>
+Не смог обработать XML в UILogToScript.	Ei suutnud töödelda XML UILogToScript.
+Не смог обработать параметры в строке <%1>	Ei saanud hakkama seaded reas <%1>
+Не смог определить длительность у файла: %1	Ei suutnud tuvastada kestus on faili: %1
+Не смог определить СледующееОжидаемоеКлючевое по: %1	Ei suutnud tuvastada СледующееОжидаемоеКлючевое: %1
+Не смог определить следующий шаг для выполнения.	Ei suutnud kindlaks teha järgmine samm teha.
+Не смог определить тип значения для строки: %1	Ei suutnud kindlaks, mis tüüpi väärtused read: %1
+Не смог перейти к строке фильтра <%1>	Ei suutnud liikuda real filter <%1>
+Не смог по переменной <%1> найти сохраненное значение.	Ei suutnud muutuja <%1> leida salvestatud väärtus.
+Не смог подключить TestClient.	Ei suutnud ühendada TestClient.
+Не смог подключить TestClient. Прерывание по таймауту <%1>	Ei suutnud ühendada TestClient. Katkestamise operatsiooni aeg sai otsa <%1>
+Не смог подключить обработку <%1>	Ei suutnud ühendada töötlemise <%1>
+Не смог подключить профиль TestClient <%1>	Ei suutnud ühendada profiili TestClient <%1>
+Не смог подставить в строку параметры: <%1>	Ei suutnud asendada string parameetrid: <%1>
+Не смог получить данные файла <%1>	Ei saanud andmed faili <%1>
+Не смог получить значение из строки запуска	Ei saanud väärtus rida käivitada
+Не смог получить значение поля <%1> у таблицы <%2>.%3	Ei saanud välja väärtus <%1> tabelid <%2>.%3
+Не смог получить значение таблицы <%1>	Ei saanud tabeli väärtus <%1>
+Не смог получить значение табличного документа <%1>	Ei saanud väärtus laud dokumendi <%1>
+Не смог получить количество строк у таблицы <%1>	Ei saanud ridade arv on tabelis <%1>
+Не смог получить макет %1	Ei saanud paigutus %1
+Не смог получить состяние таблицы <%1>	Ei saanud состяние tabeli <%1>
+Не смог получить строки таблицы <%1>	Ei saanud tabeli rida <%1>
+Не смог получить строки таблицы.	Ei saanud tabeli rida.
+Не смог получить строки ТЧ <%1>	Ei saanud rea PM <%1>
+Не смог получить строку сценария.	Ei saanud rea skripti.
+Не смог получить строку таблицы %1	Ei saanud tabeli rea %1
+Не смог получить форму текущего окна.	Ei suutnud saada vormi aktiivse akna.
+Не смог ПолучитьГлавноеОкноТестируемогоПриложения.	Ei suutnud ПолучитьГлавноеОкноТестируемогоПриложения.
+Не смог поменять параметры шага местами <%1>	Ei saanud vahetada seaded sammu kohati <%1>
+Не смог преобразовать к числу PID=%1	Ei suutnud teisendada arvu PID=%1
+Не смог распаковать %1	Ei suutnud unzip %1
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>	Ei suutnud valida loendist valida <%1> rea <%2>
+Не смог скопировать сценарий %1, т.к. произошло бы зацикливание.	Ei suutnud kopeerida skripti %1, t. juhtunud зацикливание.
+Не смог создать базу по строке: %1. Статус возврата: %2	Ei suutnud luua baasi rida: %1. Toetuse staatus: %2
+Не смог создать каталог для отчета Allure: %1	Ei suutnud luua kataloogi aruande Allure: %1
+Не смог создать каталог для отчета CucumberJson: %1	Ei suutnud luua kataloogi aruande CucumberJson: %1
+Не смог создать каталог для отчета jUnit: %1	Ei suutnud luua kataloogi aruande rongid: %1
+Не смог создать объект сравнения файлов.	Ei suutnud luua objekti võrrelda faile.
+Не смог создать сервисные базы. Статус=%1	Ei suutnud luua teenuste andmebaasi. Status=%1
+Не смог удалить файл %1	Ei suutnud eemaldada faili %1
+Не смогли найти таблицу <%1> в активном окне.	Ei suutnud leida tabeli <%1> aktiivses aknas.
+Не стал загружать фичу: %1, т.к. в ней не найдено тегов фильтров.	Ei saanud alla laadida фичу: %1, t., seda ei leitud tag filtrid.
+Не стал загружать фичу: %1, т.к. обнаружен тег исключение: %2	Ei saanud alla laadida фичу: %1, t. avastatud silt erand: %2
+Не удалось авторизоваться в базе.	Ei suutnud olema sisse logitud andmebaasi.
+Не удалось дождаться события завершения цикла в течение <%1> секунд.	Ei suutnud oodata sündmused lõpule tsükli jooksul <%1> sekundit.
+Не удалось найти документ по номеру <%1>. Тип Документ.%2	Ei suutnud leida dokumendi numbril <%1>. Tüüp Dokument.%2
+Не удалось перейти к нужной строке в таблице <%1>. %2	Ei suutnud liikuda soovitud rea tabelis <%1>. %2
+Не удалось подключить COM объект <Shell.Application>	Ei suutnud ühendada COM objekt <Shell.Application>
+Не удалось подключить COM объект <WScript.Shell>	Ei suutnud ühendada COM objekt <WScript.Shell>
+Не удалось подключить клиент тестирования. %1	Ei suutnud ühendada klient katsetamine. %1
+Не удалось подключить форма %1 по причине:%2	Ei suutnud ühendada vorm %1 põhjusel:%2
+Не удалось получить таймаут для запуска TestClient из значения %1. Используется значение по умолчанию: 25	Ei ole õnnestunud saada timeout joosta TestClient väärtused %1. Kasutatakse vaikeväärtust: 25
+Не удалось получить таймаут для работы асинхронных шагов. Было передано значение: %1	Ei ole õnnestunud saada timeout töö asünkroonne samme. Kanti väärtus: %1
+Не указан каталог для формирования видео инструкции.	Ei ole määratud kataloogi moodustamine video juhiseid.
+Не указан каталог с нужной версией платформы 8.3.10 или выше.	Ei ole määratud kataloogis vajaliku versioon platvorm 8.3.10 või kõrgem.
+Не указана команада для выполнения скриншотов. Например <%1>	Ei ole määratud команада teha pilte. Näiteks <%1>
+Не указано имя файла лога в параметре <ИмяКаталогаЛогОшибок>	Ei ole määratud faili nimi лога parameeter <ИмяКаталогаЛогОшибок>
+Не указано имя файла лога в параметре <ИмяФайлаЛогВыполненияСценариев>	Ei ole määratud faili nimi лога parameeter <ИмяФайлаЛогВыполненияСценариев>
+Не указано количество кадров.	Ei ole määratud kaadrite arv.
+Не установлен ffmpeg.	Ei ole paigaldatud ffmpeg.
+Не установлен ImageMagic (convert.exe)	Ei ole määratud ImageMagic (convert.exe)
+Не установлен ImageMagic (convert.exe).	Ei ole määratud ImageMagic (convert.exe).
+Не установлен oscript.	Ei ole määratud oscript.
+Не установлен VLC 2.1.5.	Ei ole installitud VLC 2.1.5.
+Не установлен ГолосовойДвижок.	Ei ole määratud ГолосовойДвижок.
+Неверно задан макет. Неверная колонка в первой строке. Не указана обязательная колонка с именем [%1]	Valesti määratud paigutus. Vale veerg esimeses reas. Ei ole määratud kohustuslik veerg nimega [%1]
+Неверное число параметров в строке табилцы. Должно быть <	Vale number parameetrite reas табилцы. Peaks olema <
+Неверное число параметров в строке таблицы. Должно быть <%1> параметров, а в строке найдено <%2>.	Vale number parameetrite tabeli rida. Peaks olema <%1> parameetrid ja real leitud <%2>.
+Неверный режим поиска: Не поддерживаемый режим поиска. Реквизит <%1>: Искали значение <%2>	Vale otsing: Ei toetatud otsing. Rekvisiidid <%1>: Otsin väärtus <%2>
+Неверный формат области <%1>	Vorming on vale ala <%1>
+Невидима	Pole nähtaval
+Недоступна	Pole saadaval
+Неивестный ТипПараметра в ПолучитьАсинхроноСостоянияОбъектовФайловойСистемы: %1	Неивестный ТипПараметра on ПолучитьАсинхроноСостоянияОбъектовфайловойсистемы: %1
+Неизвестная версия поставки Vanessa-Automation: %1	Tundmatu versioon pakkumise Vanessa-Automaatika: %1
+Неизвестная ошибка в ПолучитьРезультатПрохожденияТестовСценария.	Tundmatu viga ПолучитьРезультатПрохожденияТестовсценария.
+НеизвестнаяОшибка	НеизвестнаяОшибка
+Неизвестный идентификатор плагина: <%1>	Tundmatu plug-id: <%1>
+Неизвестный КорневойТипКонфигурации <%1>	Tundmatu КорневойТипКонфигурации <%1>
+Неизвестный КорневойТипКонфигурации <%1> КорневойТипКонфигурации()	Tundmatu КорневойТипКонфигурации <%1> КорневойТипКонфигурации()
+Неизвестный менеджер регистра %1.%2 . Переменная %3	Tundmatu juht registri %1.%2 . Muutuja %3
+Неизвестный тип вывода данных по изменению формы.	Tundmatu tüüp väljund andmete muutmise vorm.
+Неизвестный Тип: %1 в ПолучитьЗначениеДляПередачиВМетод	Tundmatu Tüüp: %1 ПолучитьЗначениеДляПередачиВМетод
+Нельзя изменять текущее поле у зарезервированного подключения <Этот клиент>.	Te ei saa muuta praegust väli on reserveeritud ühenduse <klient>.
+Нельзя получить состав колонок для пустой таблицы.	Ei saa koostis veergu tühja tabeli.
+Необрабатываемый корневой тип <%1>	Необрабатываемый root tüüp <%1>
+Необходимо установить программное обеспечение. Подробности тут: %1	Vaja paigaldada tarkvara. Detailid siin: %1
+НеСовпадаютЗначенияВЯчейкеТаблицы	НеСовпадаютЗначенияВЯчейкеТаблицы
+Нет подключенных TestClient.	Ei ole ühendatud TestClient.
+Обнаружено несколько полей с заголовком <%1>	Avastati mõned väljad, mille teemaks on <%1>
+Обычная фича №%1 из %2. РаннерID=%3. %4	Tavaline фича nr%1 %2. РаннерID=%3. %4
+Одна или несколько строк эталонной таблицы не найдена в таблице формы%1	Üks või mitu rida reference tabelit ei leitud tabeli vormi%1
+Однопоточная фича №%1 из %2. РаннерID=%3. %4	Однопоточная фича nr%1 %2. РаннерID=%3. %4
+Ожидали <%1> элементов справочника <%2>, а нашли <%3> элементов.	Ootasime <%1> elementide käsiraamat <%2> ja leidnud <%3> elemente.
+Ожидали в течение <%1> секунд доступности поля <%2>. Но такой элемент на форме не найден.	Ootasime üle <%1> sekundit jalutuskäigu väljad <%2>. Kuid selline element kujul ei leitud.
+Ожидали в течение <%1> секунд доступности поля <%2>. ТекущаяДоступность=%3	Ootasime üle <%1> sekundit jalutuskäigu väljad <%2>. ТекущаяДоступность=%3
+Ожидали в течение <%1> секунд появления поля <%2>. Но такой элемент на форме не найден.	Ootasime üle <%1> sekundit tekkimist välja <%2>. Kuid selline element kujul ei leitud.
+Ожидали в течение <%1> секунд появления поля <%2>. ТекущаяВидимость=%3	Ootasime üle <%1> sekundit tekkimist välja <%2>. ТекущаяВидимость=%3
+Ожидали в течение <%1> секунд у поля <%2> значения <%3>. Текущее значение <%4>	Ootasime üle <%1> sekundit on välja <%2> väärtus <%3>. Praegune väärtus <%4>
+Ожидали в течение <%1> секунд у таблицы <%2> количество строк %3 %4. Текущее количество строк <%5>	Ootasime üle <%1> sekundit tabelil <%2> ridade arv %3 %4. Praegune ridade arv <%5>
+Ожидали в течение <%1> секунд, что закроется окно с заголовком <%2>	Ootasime üle <%1> sekundit, mis sulgub aken, mille teemaks on <%2>
+Ожидали в течение <%1> секунд, что откроется окно с заголовком <%2>	Ootasime üle <%1> sekundit, mis avaneb aken pealkirjaga <%2>
+Ожидали в течение <%1> секунд, что поле <%2> будет заполненным.	Ootasime üle <%1> sekundit, et välja <%2> on täidetud.
+Ожидали заполненность ссылки, а получили пустую ссылку.%1	Ootasime заполненность lingid ja saanud tühja lingil.%1
+Ожидали идентичность файлов, а получили, что они различны.%1	Ootasime identiteet faili, kuid on saanud, et nad on erinevad.%1
+Ожидали получить только одну строку таблицы.	Oodata, et saada ainult üks rida tabelist.
+Ожидали статус <%1>, а получили <%2>	Ootasime staatuse <%1> ja said <%2>
+Ожидали существование объекта в ИБ, а получили объект не найден <%1> .%2	Ootasime olemasolu objekti ИБ, ja said objekti ei leitud <%1> .%2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения <%4>. Текущее значение <%5>.	Oodata on tabeli <%1> üle <%2> sekundit on välja <%3> väärtus <%4>. Praegune väärtus <%5>.
+Ожидали, что %1 %2 выбросит исключение %3 %4	Lootsime, et %1 %2 viskavad erand %3 %4
+Ожидали, что активным окном будет <%1>, а нашли <%2>. Таймаут поиска окна: %3	Lootsime, et aktiivne aken on <%1> ja leidnud <%2>. Timeout otsingu aken: %3
+Ожидали, что в сообщениях пользователю будет подстрока <%1>	Oodata, et proovivad kasutaja on substr <%1>
+Ожидали, что вторым параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Ootasid, et teine parameeter on üle array parameetrite meetod <%1> ja sai teise objekti tüüp <%2>
+Ожидали, что вторым параметром будет передана структура параметров для метода <СоздатьДанныеПоТабличномуДокументу>, а получили другой объект с типом <%1>	Ootasid, et teine parameeter antakse struktuuri parameetrid meetod <СоздатьДанныеПоТабличномуДокументу> ja sai teise objekti tüüp <%1>
+Ожидали, что количество строк таблицы <%1> будет равно переменной <%2>. Значение переменной <%3>. Количество строк <%4>	Lootsime, et ridade arv tabelis <%1> on võrdne muutuja <%2>. Muutuja väärtus on <%3>. Ridade arv <%4>
+Ожидали, что окно сообщений пользователю будет пустое. В нём %1 сообщений.	Lootsime, et aken sõnumi kasutajal on tühi, aga seda %1 sõnum.
+Ожидали, что переменная <%1> будет равна <%2>. Текущее значение <%3>	Lootsime, et muutuja <%1> on võrdne <%2>. Praegune väärtus <%3>
+Ожидали, что поле <%1> будет равно переменной <%2>. Значение переменной <%3>. ЗначениеПоля <%4>	Lootsime, et väli <%1> on võrdne muutuja <%2>. Muutuja väärtus on <%3>. ЗначениеПоля <%4>
+Ожидали, что поле с заголовком <%1> будет заполнено, но оно пустое.	Lootsime, et alal, mille teemaks on <%1> on täidetud, kuid see on tühi.
+Ожидали, что проверяемое значение (%1) %2 %3 %4	Lootsime, et testitav väärtus (%1) %2 %3 %4
+Ожидали, что третьим параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Lootsime, et kolmas parameeter on üle array parameetrite meetod <%1> ja sai teise objekti tüüp <%2>
+Ожидали, что у группы <%1> текущей страницей будет <%2>, а оказалась <%3>	Lootsime, et kontsernis <%1> lehega, millega on <%2> ja on osutunud <%3>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Lootsime, et laud dokumendi <%1> lahtri aadressiga <%2> väärtus <%3> ja said <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Lootsime, et laud dokumendi <%1> lahtri aadressiga <%2> väärtus <%3> ja said <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Lootsime, et laud dokumendi <%1> lahtri aadressiga <%2> väärtus <%3> ja said <%4>
+Ожидали, что ячейка <%1> будет заполнена.	Lootsime, et lahter <%1> on täis.
+Ожидали, чтов таблице <%1> поле <%2> будет равно переменной <%3>. Значение переменной <%4>. ЗначениеПоля <%5>	Ootasime, midaon tabelis <%1> välja <%2> on võrdne muutuja <%3>. Muutuja väärtus on <%4>. ЗначениеПоля <%5>
+Окно с заголовком <%1> не найдено.	Aken pealkirjaga <%1> ei leitud.
+Описание ошибки: %1	Vea kirjeldus: %1
+Остановка на брейкпоинте.	Peatus брейкпоинте.
+Ошибка в %1. %2	Viga %1. %2
+Ошибка в ДобавитьStepDefinitionВТекстМодуля.	Viga ДобавитьStepDefinitionВТекстМодуля.
+Ошибка в ПолучитьУжеСуществующиеСнипетыИзОбработок(). Файл/каталог %1 не существует.	Viga ПолучитьУжеСуществующиеСнипетыИзобработок(). Faili/kataloogi %1) ei ole olemas.
+Ошибка в файле %1, снипет %2 уже был в %3	Viga faili %1, снипет %2 oli juba %3
+Ошибка перегенерации EPF. Файл %1 не найден.	Viga перегенерации EPF. Faili %1 ei leitud.
+Ошибка при выгрузке набора записей регистра: %1	Viga kui maha kogum registrist: %1
+Ошибка при выгрузке объекта: %1. Тип: %2	Viga kui maha objekt: %1. Tüüp: %2
+Ошибка при закрытии всех окон Testclient.	Viga, kui sulgete kõik aknad Testclient.
+Ошибка при поиске значений в макете %1:	Viga otsides väärtuste paigutuses %1:
+Ошибка при получении активной формы.	Viga saamisel aktiivse vormi.
+Ошибка при получении списка процессов 1С.	Viga saamisel nimekirja protsesse 1S.
+Ошибка при получении текста фичи:	Viga saamisel teksti фичи:
+Ошибка при построении дерева из файла <%1>%2%3	Viga ehitamisel puu failist <%1> %2 %3
+Ошибка при создании данных из макета. Неуникальное имя переменной: [%1]	Viga luues andmete paigutusest. Неуникальное muutuja nimi: [%1]
+Ошибка проверки значения таблицы <%1>. %2	Viga kontrollimise väärtused tabeli <%1>. %2
+Ошибка создания временного файла в подкаталоге %1.	Viga luua ajutist faili alamkataloogis %1.
+Ошибка создания скриншота:%1 команда:%2	Viga luua скриншота:%1 command:%2
+Ошибка создания файла %1.	Viga faili loomise %1.
+Ошибка чтения JSON. Неизвестный символ %1	Loe viga JSON. Tundmatu sümbol %1
+Ошибка чтения структуры JSON пропускаем чтение	Loe viga struktuuri JSON vahele lugemine
+Ошибка чтения структуры JSON.	Loe viga struktuuri JSON.
+Ошибка. В фиче %1 было найдено несколько сценариев с именем %2	Viga. On фиче %1 leiti mitu skripti nimega %2
+Ошибка. Найдено более 1 значения в кэше МетаданныеИмя [%1] по указанным параметрам поиска %2	Viga. Leiti rohkem kui 1 väärtus vahemälu МетаданныеИмя [%1] nimetatud parameetrid otsida %2
+ОшибкаПроверки	ОшибкаПроверки
+Параметр <Запускаемая обработка> указывает на несуществующий файл.	Parameeter <Запускаемая töötlemine> näitab olematut faili.
+Параметр <Имя подключения> является обязательным.	Parameeter <Kasutajanimi> on kohustuslik.
+Параметр <Логин> не задан	Parameeter <Kasutajanimi> puudub
+Параметр %1 не найден в таблице параметров.	Parameeter %1 ei leitud tabelis parameetrid.
+Первый параметр (%1) меньше второго (%2) а хотели, чтобы был больше или равен.%3	Esimene parameeter (%1) väiksem kui teine (%2) ja tahaks, et oleks suurem või võrdne.%3
+Первый параметр (%1) меньше или равен второму (%2) а хотели, чтобы был больше.%3	Esimene parameeter (%1) on väiksem või võrdne teise väärtusega (%2) ja tahaks, et oleks rohkem.%3
+Передан пустой путь в процедуру <СоздатьКаталогЕслиЕгоНет>.	Üle tühja tee protseduuri <СоздатьКаталогЕслиЕгоНет>.
+Переданная дата (%1) не равна дате (%2) с точностью до 2-х секунд, а хотели, чтобы они равнялись. %3	Esitatakse kuupäev (%1) ei ole võrdne kuupäev (%2) täpsusega kuni 2-x sekundit ja tahtsid, et nad равнялись. %3
+Переданный параметр (%1) не входит в период %2, а хотели, чтобы являлся. %3	Toimetatakse parameeter (%1) ei kuulu perioodil %2, ja tahtsid, et oli. %3
+Переданный параметр (%1) не является Истиной, а хотели, чтобы являлся. %2	Toimetatakse parameeter (%1) ei ole Tõde, vaid tahtsid, et oli. %2
+Переданный параметр (%1) не является Ложью, а хотели, чтобы являлся. %2	Toimetatakse parameeter (%1) ei ole Vale, vaid tahtsid, et oli. %2
+Передвижение курсора мышки - OK	Liikumine kursori hiire - OK
+ПередВыполнениемШага: %1	ПередВыполнениемШага: %1
+Переключатель с заголовком <%1> не найден.	Lüliti, mille teemaks on <%1> ei leitud.
+Переключатель с именем <%1> не найден.	Lüliti nimega <%1> ei leitud.
+Переменная <%1> не найдена.	Muutuja <%1> ei leitud.
+Переменная <%1> ранее не была сохранена	Muutuja <%1> varem ei ole salvestatud
+Пересоздан %1	Reinstantiated %1
+Пересоздаю %1	Пересоздаю %1
+ПланВидовРасчета.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланВидовРасчета.%1 ei suutnud leida eelnevalt element/rühma [%2].%3
+ПланВидовРасчета.%1 не удалось создать новую группу.%2	ПланВидовРасчета.%1 ei ole suutnud luua uue rühma.%2
+ПланВидовРасчета.%1 не удалось создать новый элемент.%2	ПланВидовРасчета.%1 ei ole suutnud luua uus element.%2
+ПланВидовХарактеристик.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланВидовХарактеристик.%1 ei suutnud leida eelnevalt element/rühma [%2].%3
+ПланВидовХарактеристик.%1 не удалось создать новую группу.%2	ПланВидовХарактеристик.%1 ei ole suutnud luua uue rühma.%2
+ПланВидовХарактеристик.%1 не удалось создать новый элемент.%2	ПланВидовХарактеристик.%1 ei ole suutnud luua uus element.%2
+ПланОбмена.%1 не удалось получить узел этой ИБ.%2	ПланОбмена.%1 ei ole õnnestunud saada sõlm selle ИБ.%2
+ПланОбмена.%1 не удалось создать новый узел.%2	ПланОбмена.%1 ei ole suutnud luua uus sõlm.%2
+ПланСчетов.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланСчетов.%1 ei suutnud leida eelnevalt element/rühma [%2].%3
+ПланСчетов.%1 не удалось создать новую группу.%2	ПланСчетов.%1 ei ole suutnud luua uue rühma.%2
+ПланСчетов.%1 не удалось создать новый элемент.%2	ПланСчетов.%1 ei ole suutnud luua uus element.%2
+Подключение с именем <%1> перезаполнено в таблице подключений	Ühendus nimega <%1> перезаполнено tabelis ühendused
+Подключили для отладки форма %1	Püüdsin siluda vorm %1
+Подключились к сеансу TESTCLIENT.	Liitunud ühinemiseks TESTCLIENT.
+Подсвет рамки - OK	Подсвет raamid - OK
+Поле <%1> в данный момент невидимо пользователю.	Väli <%1> hetkel on nähtamatu kasutaja.
+Поле <%1> существует, а ожидали, что его нет.	Väli <%1> olemas, ja ootasid, et teda ei ole.
+Поле с заголовком <%1> не найдено.	Väli pealkiri <%1> ei leitud.
+Поле с именем <%1> не найдено.	Väli nimega <%1> ei leitud.
+Получить изменения формы	Saada kuju muutused
+Получить состояние всей формы	Saada seisund kogu vormi
+ПолучитьИдентификаторПредставленияПоСсылке() : Неизвестный КорневойТипКонфигурации <%1>	ПолучитьИдентификаторПредставленияпоссылке() : Tundmatu КорневойТипКонфигурации <%1>
+ПолучитьСостояниеФормыTestClient:%1	ПолучитьСостояниеФормыTestClient:%1
+ПолучитьТаблицуЗначенийИзТабличногоДокумента: Требуется тип ТабличныйДокумент или ПолеТабличногоДокумента	ПолучитьТаблицуЗначенийИзТабличногодокумента: Vajab tüüp ТабличныйДокумент või ПолеТабличногоДокумента
+ПолучитьУжеСуществующиеСнипетыИзОбработок:%1	ПолучитьУжеСуществующиеСнипетыИзобработок:%1
+Пометка для шаг установлена.	Lisa lipp samm on paigaldatud.
+Пометка снята.	Lipp maha võetud.
+порт <%1>	port <%1>
+Порт %1 занят или находится вне указанного диапазона, порт подключения изменен на %2	Port %1 on kinni või asub väljaspool nimetatud vahemikku, port ühenduse muudetud %2
+Построение дерева.	Hoone puidust.
+Превышение таймаутуа ожидания завершения фонового задания.	Liigne таймаутуа ootusi täita taustal ülesanded.
+Предупреждение с текстом %1 не найдено.	Hoiatus tekstiga %1 ei leitud.
+Предыдущая ошибка: %1. ТаймаутОжидания=%2	Eelmine viga: %1. ТаймаутОжидания=%2
+При подключении TestClient возникло сообщение:	Kui ühendate TestClient tekkis sõnum:
+ПроверитьРавенствоТаблиц: Второй параметр-таблица таблицей не является	ПроверитьРавенствоТаблиц: Teine parameeter-tabel tabeliks ei ole
+ПроверитьРавенствоТаблиц: Первый параметр-таблица таблицей не является	ПроверитьРавенствоТаблиц: Esimene parameeter-tabel tabeliks ei ole
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Второй параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: Teine parameeter-tabel ei ole табличным dokument
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Первый параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: Esimene parameeter-tabel ei ole табличным dokument
+ПроверитьТип: Тип значения параметра ТипИлиИмяТипа должен быть <Тип> или <Строка>, а получили <%1>%2	ПроверитьТип: Tüüp parameetri ТипИлиИмяТипа peab olema <Tüüp> või <Rida> ja said <%1>%2
+Проверка загрузки объектов в ИБ из макета данных выполнена успешно.	Kontrollimine laadida objektide ИБ paigutuse andmed on edukalt lõpule viidud.
+Проверьте работу команды <%1>	Kontrollige, et meeskond <%1>
+Профиль с именем <%1> не найден.	Profiili nimi <%1> ei leitud.
+ПрочитатьПеременныеСреды:%1	ПрочитатьПеременныеСреды:%1
+Пустой адрес снипета у шага: %1	Tühi aadress снипета on samm: %1
+ПутьКФиче=Неопределено	ПутьКФиче=Määratlemata Väljend
+Работа с ключами для %1 пока не поддерживается	Töö võtmed %1 kuni ei toetata
+Работаю по сценарию	Töötan stsenaariumi järgi
+Работаю по фиче: %1	Töötan üle фиче: %1
+равно	võrdne
+РазличаютсяКолонки	РазличаютсяКолонки
+Различия в таблицах:	Erinevused tabelites:
+РазноеКоличествоСтрок	РазноеКоличествоСтрок
+Раннер <%1> не подключен.	Jooksja <%1> ei ole ühendatud.
+РежимСовместимостиTestManager	РежимСовместимостиTestManager
+Реквизит <%1> не найден.	Rekvisiidid <%1> ei leitud.
+с длиной	pikkus
+Сеанс должен быть запущен с ключом TESTMANAGER.	Vestlus peab töötama koos võtmega TESTMANAGER.
+Снипет <%1> встречается %2 раз.	Снипет <%1> esineb %2 korda.
+содержащее текст <%1>, а был текст <%2>	milles on tekst <%1> ja oli tekst <%2>
+содержит	sisaldab
+Создан %1	Loodud %1
+Создан файл: %1	Loodud faili: %1
+Создание epf по фичам закончено.	Loo epf poolt фичам on lõppenud.
+Создать тестовый mp3 - OK	Luua test mp3 - OK
+Создаю %1	Loon %1
+Справочник.%1 не удалось найти предопределенный элемент/группу [%2].%3	Käsiraamat.%1 ei suutnud leida eelnevalt element/rühma [%2].%3
+Справочник.%1 не удалось создать новую группу.%2	Käsiraamat.%1 ei ole suutnud luua uue rühma.%2
+Справочник.%1 не удалось создать новый элемент.%2	Käsiraamat.%1 ei ole suutnud luua uus element.%2
+Справочник.%1.%2 - получен пустой элемент.	Käsiraamat.%1.%2 - saadud tühi element.
+Сравниваемые значения (%1; %2) не равны, а хотели, чтобы были равны.%3	Võrreldavad väärtused (%1
+Сравниваемые значения (%1; %2) равны, а хотели, чтобы были не равны.%3	Võrreldavad väärtused (%1
+Странный параметр в логе инструкции HTML: %1	Kummaline valik apache juhised HTML: %1
+Странный параметр в логе инструкции Markdown: %1	Kummaline valik apache juhised Markdown: %1
+Строка <%1> из файла <%2> не найдена в файле <%3>	Rida <%1> faili <%2> ei leitud faili <%3>
+Строка <%1> найдена в окне сообщений пользователю.	Rida <%1> leitud aknas sõnumite kasutaja.
+Строка <%1> найдена в последнем сообщении пользователю. Найдено: %2	Rida <%1> leitud viimases sõnumis kasutaja. Leitud: %2
+Строка <%1> не найдена в окне сообщений пользователю.	Rida <%1> ei leitud aknas sõnumite kasutaja.
+Строка <%1> не найдена в последнем сообщении пользователю. Найдено: %2	Rida <%1> ei leitud viimases sõnumis kasutaja. Leitud: %2
+Строка %1 не найдена в реквизите %2	Rida %1 ei leitud реквизите %2
+Строка №%1 не найдена в табличном документе на форме	Rida nr%1 ei leitud tabeli dokumendi vormis
+Строка №%1, обнаружен символ <|>, хотя не было ключевого слова <Примеры>.	Rida nr%1 avastada sümbol <|>, kuigi ei olnud märksõna <Näited>.
+Строка №%1, ожидалось (%2), а найдено (%3) ПредыдущееКлючевоеСлово=%4	Rida nr%1, oodatud (%2) ja leitud (%3) ПредыдущееКлючевоеСлово=%4
+Строка должна быть описана таблицей с двумя строками.	String peab olema kirjeldatud tabelis kahe reaga.
+Строка с фича-файлом не найдена.	Rida фича-faili ei leitud.
+СтрокаЗапуска=%1	СтрокаЗапуска=%1
+существует	olemas
+Сценарий <%1> не загружен.	Skript <%1> ei laetud.
+Сценарий: %1	Stsenaarium: %1
+Таблица <%1> не соответствует эталону. Ожидали <%2> строк, а в ней <%3> строк.	Tabel <%1> ei vasta эталону. Ootasime <%2> rida ja see <%3> rida.
+Таблица <%1> не стала равной за <%2> секунд. %3	Tabel <%1> ei saanud võrdse <%2> sekundit. %3
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Ожидали <%4>, а получили <%5>	Tabel <%1>. Rida nr<%2>. Veerg <%3>. Ootasime <%4> ja said <%5>
+Таблица формы с именем <%1> не найдена.	Tabel vormi nimega <%1> ei leitud.
+ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.Количество()=%2	ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.Kogus()=%2
+Таблицы должны совпадать, а они различны.%1	Tabelid peavad olema võrdsed, kuid nad on erinevad%1
+ТаблицыСовпадают	ТаблицыСовпадают
+Табличный документ <%1> оказался неравен <%2>.%3	Tabelina dokument <%1> osutunud неравен <%2>.%3
+Табличный документ не содержит нужные строки <%1>	Tabelina dokument ei sisalda ridu <%1>
+Табличный документ содержит ненужные строки <%1>	Tabelina dokument sisaldab mittevajalikud read <%1>
+ТестируемаяФорма <%1> не открылась, а должна была открыться	ТестируемаяФорма <%1> mitte lahti ja pidi avanema
+ТестПропущен	ТестПропущен
+Технические данные	Tehnilised andmed
+тип	tüüp
+Типом значения <%1> является <%2>, а ожидался тип <%3>.%4	Tüüpi väärtusi <%1> on <%2> ja võib tüüp <%3>.%4
+Требуется документ, бизнес-процесс или задача. Неизвестный менеджер %1.%2 . Переменная %3	Vajalik dokument, äri protsessi või ülesanne. Tundmatu juht %1.%2 . Muutuja %3
+ТЧ %1 не соответствует эталону. Ожидали %2 строк, а в ней %3 строк.	PM %1 ei vasta эталону. Ootasime %2 rida ning teda %3 rida.
+ТЧ с именем <%1> не найдена.	PM nimega <%1> ei leitud.
+У окна <%1> не найдено ни одного элемента с типом <ТестируемоеПолеФормы>.	Akna <%1> ei leitud ühtegi elemendi tüüp <ТестируемоеПолеФормы>.
+У поля <%1> ожидали заголовок <%2>, а получили <%3>	Kas väljad <%1> ootasid pealkiri <%2> ja said <%3>
+У поля <%1> ожидали отображаемый текст <%2>, а получили <%3>	Kas väljad <%1> ootasid kuvatav tekst <%2> ja said <%3>
+У поля <%1> ожидали текст подсказки <%2>, а получили <%3>	Kas väljad <%1> ootasid kohtspikri tekst <%2> ja said <%3>
+У текущего окна найдено %1 форм.	Praeguse akna leitud %1 vormid.
+У элемента формы <%1> текущий текст редактирования <%2>, а ожидали <%3>	Kas vormi elemendi <%1> praeguse teksti redigeerimise <%2> ja ootasid <%3>
+Удаляю элемент %1	Eemaldage %1 element
+Удаляю элемент справочника <%1> : <%2>	Eemaldage üksus käsiraamat <%1> : <%2>
+Уже открытый TestClient подключен на %1 порту.	Juba avatud TestClient on ühendatud %1 sadamas.
+Указан неверный диапазон портов: <%1>	Täpsustatud on vale port range: <%1>
+Указанное Имя колонки замещения [%1] не существует в макете.	Määratud Nimi kõlarid asendamise [%1] ei ole kujunduses.
+Установлен флаг "Остановка при возникновении ошибки". Выполнение следующих сценариев отменено.	Paigaldatud lipp "Stop vea ilmnemisel". Täidetud järgmised stsenaariumid on tühistatud.
+Установлен флаг <Остановка при возникновении ошибки>. Выполнение следующих сценариев отменено.	Paigaldatud lipu <Stop vea ilmnemisel>. Täidetud järgmised stsenaariumid on tühistatud.
+Утверждение "ИмеетДлину" не умеет работать с типом <%1>.%2	Väide "ИмеетДлину" ei oska töö tüüp <%1>.%2
+Утверждение "ПроверитьВхождениеВКоллекцию" не умеет работать с типом коллекции <%1>.%2	Väide "ПроверитьВхождениеВКоллекцию" ei oska töö tüüp kogumise <%1>.%2
+Утверждение "Содержит" не умеет работать с типом <%1>.%2	Väide "Sisaldab" ei oska töö tüüp <%1>.%2
+Утверждение <ИмеетДлину> не умеет работать с типом <%1>.%2	Väide <ИмеетДлину> ei oska töö tüüp <%1>.%2
+Утверждение <ПроверитьВхождениеВКоллекцию> не умеет работать с типом коллекции <%1>.%2	Väide <ПроверитьВхождениеВКоллекцию> ei oska töö tüüp kogumise <%1>.%2
+Утверждение <Содержит> не умеет работать с типом <%1>.%2	Väide <Sisaldab> ei oska töö tüüp <%1>.%2
+Утверждение ПроверитьРавенствоФайлов можно использовать только в толстом клиенте.	Väide ПроверитьРавенствоФайлов saab kasutada ainult толстом kliendi.
+Файл <%1> не найден.	Faili <%1> ei leitud.
+Файл <%1> не существует.	Faili <%1> ei ole olemas.
+Файл <vbFeatureReader.epf> не найден в каталоге инструментов <%1>	Faili <vbFeatureReader.epf> ei leitud kataloogist tööriistad <%1>
+Файл %1: <%2>	File %1: <%2>
+Файл EPF не создан.	Faili EPF ei loodud.
+Файл EPF не создан. Не смог создать каталог временной базы.	Faili EPF ei loodud. Ei suutnud luua kataloog ajutise baasi.
+Файл отчета Allure-report (%1) записан.	Aruande faili Allure-report (%1) registreerida.
+Файл отчета CucumberJson-report (%1) записан.	Aruande faili CucumberJson-report (%1) registreerida.
+Файл отчета jUnit-report (%1) записан.	Aruande faili rongid-report (%1) registreerida.
+Фича <%1> содержит тег @Tree. Найдены строки, которые содержат символы пробелов и символы табуляции в начале строки. Дерево не может быть корректно построено.	Фича <%1> sisaldab tag @Tree. Leida ridu, mis sisaldavad tähemärki tühikuteta ja tabeldusmärgid rea alguses. Puu ei saa õigesti ehitatud.
+Фича <%1> содержит тег @Tree. Часть строк содержит в начале строки символы пробелов <%2>, часть строк содержит символы табуляции <%3>. Дерево не может быть корректно построено.	Фича <%1> sisaldab tag @Tree. Osa rida sisaldab rea alguses tähemärki tühikuteta <%2>, osa rida sisaldab tabeldusmärgid <%3>. Puu ei saa õigesti ehitatud.
+Фича: %1	Фича: %1
+Фичи загружены	Фичи laadida
+Флаг <Сохранять контексты перед выполнением шагов> установлен в <Истина>.	Lipu <Salvestada kontekstides enne sammud> on <True>.
+Флаг с заголовком <%1> не найден.	Lipp, mille teemaks on <%1> ei leitud.
+Флаг с именем <%1> не найден.	Lipu nimega <%1> ei leitud.
+Форма <%1> не найдена.	Vorm <%1> ei leitud.
+Форма окна с заголовком %1 не найдена.	Vorm aknad pealkirja %1 ei leitud.
+Форма с заголовком <%1> не найдена.	Vorm, mille teemaks on <%1> ei leitud.
+Форма с заголовком %1 не найдена.	Vorm, mille teemaks %1 ei leitud.
+Хост сеанс надо запустить с ключом /TESTMANAGER.	Host logi sisse tuleb käivitada võtmega /TESTMANAGER.
+Хотели, чтобы алгоритм <%1> выполнился, а он упал с ошибкой <%2>. %3	Tahtsid, et algoritm <%1> выполнился, ja ta langes viga <%2>. %3
+Хотели, чтобы алгоритм <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	Tahtsid, et algoritm <%1> langes koos veateate <%2> ja ta kukkus koos sõnumiga <%3>.%4
+Хотели, чтобы алгоритм <%1> упал, а он выполнился%2	Tahtsid, et algoritm <%1> kukkus ja ta выполнился%2
+Хотели, чтобы код <%1> выполнился, а он упал с ошибкой <%2>. %3	Tahtsid, et kood on <%1> выполнился, ja ta langes viga <%2>. %3
+Хотели, чтобы код <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	Tahtsid, et kood on <%1> langes koos veateate <%2> ja ta kukkus koos sõnumiga <%3>.%4
+Хотели, чтобы код <%1> упал, а он выполнился%2	Tahtsid, et kood on <%1> kukkus ja ta выполнился%2
+Шаг	Samm
+Шаг (%1) не выполнен.	Samm (%1) ei ole täidetud.
+Шаг (%1) не выполнен. Строка дерева №%2	Samm (%1) ei ole täidetud. Rida puu nr%2
+Шаг (%1) не реализован.	Samm (%1) ei ole rakendatud.
+Шаг <%1> должен был вызвать исключение, а он выполнился корректно.	Samm <%1> pidi põhjustada erand ja ta выполнился korrektselt.
+Шаг выполнен с ошибкой: %1	Samm on tehtud viga: %1
+Шаг принимает на вход только таблицу Gherkin, в которой две строки. А было передано %1 строк.	Samm võtab sisse ainult tabeli Gherkin, kus kaks rida. Samas on saadetud %1 rida.
+Шаг сценария не реализован.	Samm script ei ole rakendatud.
+Элемент с заголовком <%1> виден на текущей форме	Element, mille teemaks on <%1> on nähtav praegusel kujul
+Элемент с заголовком <%1> доступен на форме	Element, mille teemaks on <%1> kättesaadav vormis
+Элемент с заголовком <%1> доступен не только для просмотра	Element, mille teemaks on <%1> kättesaadav mitte ainult vaatamiseks
+Элемент с заголовком <%1> доступен только для просмотра	Element, mille teemaks on <%1> saadaval ainult vaatamiseks
+Элемент с заголовком <%1> не виден на текущей форме	Element, mille teemaks on <%1> ei näe praegusel kujul
+Элемент с заголовком <%1> не доступен на форме	Element, mille teemaks on <%1> ei ole saadaval kujul
+Элемент с именем <%1> виден на текущей форме	Element nimega <%1> on nähtav praegusel kujul
+Элемент с именем <%1> доступен на форме	Element nimega <%1> kättesaadav vormis
+Элемент с именем <%1> доступен не только для просмотра	Element nimega <%1> kättesaadav mitte ainult vaatamiseks
+Элемент с именем <%1> доступен только для просмотра	Element nimega <%1> saadaval ainult vaatamiseks
+Элемент с именем <%1> не виден на текущей форме	Element nimega <%1> ei näe praegusel kujul
+Элемент с именем <%1> не доступен на форме	Element nimega <%1> ei ole saadaval kujul
+Элемент формы <%1> не найден.	Vormi element <%1> ei leitud.
+Элемент формы с именем <%1> не найден.	Vormi element nimega <%1> ei leitud.
+Элемента формы с заголовком <%1> не найдено.	Üksuse vormi, millel on pealkiri <%1> ei leitud.
+Элемента формы с именем <%1> не найдено.	Vormi elemendi nimega <%1> ei leitud.
+Это возможно только для шага.	See on võimalik ainult sammu.
+является NULL	on NULL
+является заполненным	on täidetud
+является истиной	on tõde
+является ложью	on vale
+является неопределено	on määratlemata väljend
+Не найден SikuliX скрипт <%1>.	Ei leitud SikuliX script <%1>.
+Не удалось выполнить SukuliX скрипт <%1>.	Ei suutnud täita SukuliX script <%1>.
+Ожидали, что в таблице <%1> текуще поле будет заполнено.	Lootsime, et tabelis <%1> текуще väli on täidetud.
+Ожидали, что в таблице <%1> текуще поле будет не заполнено.	Lootsime, et tabelis <%1> текуще väli ei ole täidetud.
+Ожидали у таблицы <%1> в течение <%2> секунд, что текущее поле будет заполнено.	Oodata on tabeli <%1> üle <%2> sekundit, et praegune valdkonnas on tühi.
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Не смог получить значение из эталона.	Tabel <%1>. Rida nr<%2>. Veerg <%3>. Ei saanud väärtus viide.
+Не получилось получить представление открытого списка выбора <%1>.	Ei õnnestunud saada aimu avatud valige loendist <%1>.
+У списка выбора <%1> ожидалось %2 значений, а было получено %3 значений.	On loendi valimiseks <%1> oodatud %2 väärtused ja saadi %3 väärtusi.
+Ожидалось получить %1, а было получено %2.	Oodatud saada %1, saadi %2.
+Открытый список выбора <%1> не равен эталону. Различия: %2	Avatud nimekiri <%1> ei võrdu эталону. Erinevused: %2
+Ожидалось, что открытый список содержит значение %1.	Loodeti, et avatud nimekiri sisaldab väärtus on %1.
+Открытый список выбора <%1> не содержит ожидаемые значения: %2	Avatud nimekiri <%1> ei sisalda oodatavad väärtused: %2
+Открытый список выбора <%1> содержит значения, которых не должно быть: %2	Avatud nimekiri <%1> sisaldab väärtusi, mida ei tohiks olla: %2
+Не смог получить данные локализации сообщений.	Ei saanud andmed lokaliseerimine sõnumeid.
+У поля <%1> не получилось нажать на гиперссылку <%2>.	Kas väljad <%1> ei õnnestunud klikkima hüperlingil <%2>.
+Вы уверены?	Oled sa kindel?
+Закрыть форму	Sulge vorm
+Не получилось нажать на кнопку <%1>.	Ei õnnestunud vajutada nupule <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд ячейка <%3> станет равна <%4>.	Lootsime, et laud dokumendi <%1> üle <%2> sekundit lahter <%3> muutub võrdne <%4>.
+Некоторые сообщения не были найдены в окне сообщений пользователю: %1	Mõned sõnumid ei ole leitud, akna sõnumite kasutaja: %1
+В окне сообщений пользователю были найдены лишние сообщения: %1	Teadete aknasse kasutajal on leitud üleliigsed postitused: %1
+Не получилось определить длительность у файла <%1>.	Ei ole õnnestunud kindlaks teha kestus on faili <%1>.
+Не получилось добавить субтитры к файлу <%1>.	Ei õnnestunud lisada subtiitrid faili <%1>.
+Команда ffmpeg по слиянию всех видео не выполнена.	Meeskond ffmpeg ühinemise kõik videod ei õnnestu.
+Команда ffmpeg по перекодированю звука не выполнена.	Meeskond ffmpeg on перекодированю heli ei õnnestu.
+Команда ffmpeg по добавлению водяной отметки и перекодированию звука не выполнена.	Meeskond ffmpeg lisamise veega märgini ja перекодированию heli ei õnnestu.
+Команда ffmpeg по кодированию в mp4 не выполнена.	Meeskond ffmpeg kohta kodeerimine mp4 ei õnnestu.
+Команда ffmpeg по добавлению mp3 в ролик не выполнена.	Meeskond ffmpeg lisamise mp3 rull ei õnnestu.
+Не получилось создать файл TTS <%1>.	Ei õnnestunud luua fail TTS <%1>.
+Не указано имя голоса Text To Speech.	Nime pole määratud hääli Text To Speech.
+Не указана команда ffmpeg.	Ei ole määratud meeskond ffmpeg.
+Не указана команда Convert.	Ei ole antud käsk Convert.
+Не найдено значение из колонки <%1>.	Ei leitud väärtus veerus <%1>.
+Не найдено значение <%1> из колонки <%2>.	Ei leitud väärtus <%1> veerg <%2>.
+Не получилось сохранить в переменную <%1> таблицу с именем <%2>.	Ei õnnestunud salvestada muutuja <%1> tabel nimega <%2>.
+Таблица <%1> пустая.	Tabel <%1> tühi.
+В таблицах <%1> и <%2> разное количество колонок <%3> и <%4>.	Tabelites <%1> ja <%2> misc tulpade <%3> ja <%4>.
+Не все строки таблицы <%1> найдены в таблице <%2>:	Ei tabelist kõik read <%1> leitud tabelis <%2>:
+Для элемента с именем <%1> не найдена форма.	Üksuse nimega <%1> ei leitud vorm.
+Не указано значение настройки Vanessa-automation: <КаталогПроекта>.	Ei ole määratud seaded Vanessa-automaatika: <КаталогПроекта>.
+Не указано значение настройки Vanessa-automation: <КаталогиСкриптовSikuliX>.	Ei ole määratud seaded Vanessa-automaatika: <КаталогиСкриптовSikuliX>.
+В каталоге <%1> не найден файл <%2>.	Kataloogi <%1> faili ei leitud <%2>.
+В каталоге <%1> найдено больше одного файла <%2>: %3.	Kataloogi <%1> leitud rohkem kui ühe faili <%2>: %3.
+Не получилось сделать клик мышкой по картинке <%1>.	Ei jõuagi teha klõps hiirega pildi järgi <%1>.
+Не получилось запустить Sikulix сервер.	Ei õnnestunud käivitada Sikulix server.
+Не получилось дождаться выполнения SikuliX скрипта <%1>.	Ei jõuagi ära oodata täitmise SikuliX skripti <%1>.
+Не получилось выполнить SikuliX скрипт <%1>.	Ei jõuagi teha SikuliX script <%1>.
+Ожидалось, что группа элементов <%1> содержит данные элементы формы: %2	Loodeti, et grupp on element <%1> sisaldab andmeid vormi elemendid: %2
+Ожидалось, что группа элементов <%1> не содержит данные элементы формы: %2	Loodeti, et grupp on element <%1> ei sisalda andmeid vormi elemendid: %2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения отличного от <%4>. Текущее значение <%5>.	Oodata on tabeli <%1> üle <%2> sekundit on välja <%3> väärtus väga hea <%4>. Praegune väärtus <%5>.
+Ожидалось, что в панели разделов будет <%1> элементов, а найдено <%2> элементов.	Loodeti, et paneeli partitsioonid on <%1> elementide, ning leitud <%2> elemente.
+Ожидалось, что в панели разделов будут содержаться следующие элементы: %1	Loodeti, et paneeli partitsiooni sisaldada järgmisi elemente: %1
+Ожидалось, что в панели разделов не будут содержаться следующие элементы: %	Loodeti, et paneeli vaheseinad ei ole sisaldada järgmisi elemente: %
+Ожидалось, что в панели функций будет <%1> элементов, а найдено <%2> элементов.	Loodeti, et paneeli funktsioone <%1> elementide, ning leitud <%2> elemente.
+Ожидалось, что в панели функций будет элемент <%1> , а был найден элемент <%2>.	Loodeti, et paneeli funktsioone on element <%1> , ja on leitud element <%2>.
+Ожидалось, что в панели функций будут содержаться следующие элементы: %1	Loodeti, et paneeli funktsioonid sisaldavad järgmisi elemente: %1
+Ожидалось, что в панели функций не будут содержаться следующие элементы: %1	Loodeti, et paneeli funktsioone ei saa sisaldada järgmisi elemente: %1
+Группа <%1> не найдена в панели функций.	Grupp <%1> ei leitud paneeli funktsioone.
+Ожидалось, что в группе <%1> панели функций будут содержаться следующие элементы: %2	Loodeti, et rühmas <%1> paneeli funktsioonid sisaldavad järgmisi elemente: %2
+Ожидалось, что в группе <%1> панели функций не будут содержаться следующие элементы: %2	Loodeti, et rühmas <%1> paneeli funktsioone ei saa sisaldada järgmisi elemente: %2
+Ошибка. Не найдены настройки пользователя <%1> в файле <%2>.	Viga. Ei ole leitud, kasutaja seaded <%1> faili <%2>.
+Функция <%1> реализована только для Windows.	Funktsioon <%1> realiseerida ainult Windows.
+У поля <%1> ожидали текст заголовка <%2>, а получили <%3>.	Kas väljad <%1> ootasid pealkirja tekst <%2> ja said <%3>.
+В таблице <%1> у поля <%2> ожидали заголовок <%3>, а получили <%4>.	Tabel <%1> välja <%2> ootasid pealkiri <%3> ja said <%4>.
+В таблице <%1> у поля <%2> ожидали текст подсказки <%3>, а получили <%4>.	Tabel <%1> välja <%2> ootasid kohtspikri tekst <%3> ja said <%4>.
+Не получилось выгрузить базу в dt: <%1>. Путь к DT: <%2>. Статус возврата: <%3>.	Ei õnnestunud laadida baasi dt: <%1>. Tee DT: <%2>. Toetuse staatus: <%3>.
+Группа колонок <%1> в таблице <%2> не найдена.	Grupp kõlarid <%1> tabel <%2> ei leitud.
+В таблице <%1> в группе колонок <%2> колонка <%3> не найдена.	Tabel <%1> jaotises veerud <%2> veerg <%3> ei leitud.
+Не получилось найти на экране картинку <%1>.	Ei õnnestunud leida ekraani pilt <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд значение ячейки <%3> станет равно <%4>. Текущее значение <%5>.	Lootsime, et laud dokumendi <%1> üle <%2> sekundit lahtri väärtus <%3> muutub võrdne <%4>. Praegune väärtus <%5>.
+Метод Шаг() не выполнен. Не удалось прочитать шаги из временного фича файла <%1>. Исходная строка:%2	Meetod Samm() ei ole teostatud. Ei suutnud lugeda samme ajutise фича faili <%1>. Algne rida:%2
+Этот клиент	See klient
+Не получилось найти данные макета <%1>.	Ei õnnestunud leida andmeid paigutuse <%1>.
+Не получилось выполнить эмуляцию хоткея <%1> <%2>.	Ei jõuagi teha эмуляцию хоткея <%1> <%2>.
+Не получилось выполнить эмуляцию ENTER.	Ei jõuagi teha эмуляцию ENTER.
+Не получилось дождаться картинки <%1> в течение <%2> секунд.	Ei jõuagi ära oodata pildid <%1> üle <%2> sekundit.
+Окно с заголовком <%1> не найдено. Текущее окно: <%2>.	Aken pealkirjaga <%1> ei leitud. Praegune kast: <%2>.
+Строка <%1> не найдена в окне сообщений пользователю. Состояние окна сообщений:%2	Rida <%1> ei leitud aknas sõnumite kasutaja. Seisukord aknad postitusi:%2
+Не получилось определить родителя у шага <%1>.	Ei ole õnnestunud kindlaks teha vanema juures sammu <%1>.
+Не получилось определить позицию шага <%1> в группе шагов <%2>.	Ei õnnestunud kindlaks positsiooni sammu <%1> jaotise samme <%2>.
+Не получилось открыть форму регистра сведений <%1>.	Ei õnnestunud avada vormi registrist teabe <%1>.
+Не получилось найти подсистему <%1> в регистре версии подсистем.	Ei õnnestunud leida allsüsteemi <%1> registris versioon allsüsteemid.
+Ожидалось получить <%1> строк в таблице <%2>, а было получено <%3> строк.	Oodatud saada <%1> rida tabelis <%2> ja saadi <%3> rida.
+Не получилось сохранить значение <%1> в переменную <%2>.	Ei õnnestunud salvestada väärtus <%1> muutuja <%2>.
+Не получилось подключиться к ранее запущенному клиенту тестирования <%1>, порт <%2>.	Ei õnnestu ühendada varem запущенному kliendile test <%1> port <%2>.
+Не получилось прочитать параметр запуска <%1>.	Ei jõuagi lugeda parameeter käivitada <%1>.
+ИмяРаннера	ИмяРаннера
+ТипКлиентаТестирования	ТипКлиентаТестирования
+СтрокаСоединения	СтрокаСоединения
+Не получилось сохранить строку <%1> в переменную <%2>.	Ei õnnestunud päästa rida <%1> muutuja <%2>.
+Неверно указано значение параметра направления вращения колеса мышки. Возможные значения: Вверх или Вниз.	Valesti märgitud parameetri väärtus pöörlemissuuna rattad hiirt. Võimalikud väärtused: Üles või Alla.
+Не получилось выполнить эмуляцию вращения колеса мышки в направлении <%1>, количество итераций <%2>.	Ei jõuagi teha эмуляцию rotatsiooni rattad hiire suunas <%1>, iteratsioonide arv <%2>.
+Обнаружено несколько файлов, экспортирующих подсценарий <%1>. Файлы: %2	Avastatud mitu faili, eksportivatele подсценарий <%1>. Failid: %2
+Не получилось сделать клик праой кнопкой мышки по картинке <%1>.	Ei jõuagi teha click праой hiire nuppu pildi järgi <%1>.
+Не получилось переместить курсор мышки к картинке <%1>.	Ei jõuagi liigutada hiirega pildile <%1>.
+Не существует клиента тестирования <%1>.	Ei ole kliendi test <%1>.
+Ожидали, что процесс с ИД <%1> будет завершен в течение <%2> секунд.	Lootsime, et protsessi ID <%1> lõpule <%2> sekundit.
+Значение переменной <%1> изменено на <%2>.	Muutuja väärtus on <%1> viimati muudetud: <%2>.
+Значение глобальной переменной <%1> изменено на <%2>.	Väärtus globaalse muutuja <%1> viimati muudetud: <%2>.
+Переменная <%1> удалена.	Muutuja <%1> on kustutatud.
+Глобальная переменная <%1> удалена.	Globaalne muutuja <%1> on kustutatud.
+Контекст	Kontekst
+Контекст глобальный	Globaalne kontekst
+Окно с заголовком <%1> не найдено. Таймаут поиска окна: <%2>.	Aken pealkirjaga <%1> ei leitud. Timeout otsingu aken: <%2>.
+Не удалось получить токен.	Ei ole õnnestunud saada tunnus.
+Не удалось получить токен. Код результата: <%1>. Ответ: <%2>.	Ei ole õnnestunud saada tunnus. Tulemuse kood: <%1>. Vastus: <%2>.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Ei õnnestunud andmeid saada. Tulemuse kood: <%1>. Vastus: <%2>.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>. Количество попыток <%4>.	Ei suutnud tabelis <%1> teha, et valida loendist valida <%2> rea <%3>. Katsete arv on <%4>.
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>. Количество попыток <%3>.	Ei suutnud valida loendist valida <%1> rea <%2>. Katsete arv on <%3>.
+Не выполнены дополнительные процедуры обработки данных.	Ei ole rakendatud täiendavate andmete töötlemise korra.
+Обнаружено окно обновления конфигурации.	Avastatud värskendamise akent konfiguratsiooni.
+Обнаружено окно c сообщением о неудачном обновлением конфигурации.	Avastatud aken c sõnum ebaõnnestunud uuendamist konfiguratsiooni.
+Видео создано автоматически.	Video on loodud automaatselt.
+Количество сценариев	Hulk skripte
+Количество шагов	Sammude arvu
+Версия Vanessa-Automation	Versioon Vanessa-Automaatika
+Версия скрипта сборки видео	Versioon skripti koost video
+ЗаголовокАктивногоОкна	ЗаголовокАктивногоОкна
+ИмяАктивнойФормы	ИмяАктивнойФормы
+В таблице должно быть боле 1 строки, а получили <%1> строк.	Tabelis peaks olema üle 1 rea, ja said <%1> rida.
+Выполнить сценарии	Käivita stsenaarium
+Загружены глобальные переменные.	Alla laadida globaalsed muutujad.
+Не найден каталог: %1	Ei leitud kataloogi: %1
+Выполнить	Run
+Выполняется...	Töötab...
+Останавливается...	Peatub...
+Обнаружено окно перехода на новую версию платформы 1С:Предприятие.	Avastatud aken minna uut platvormi versiooni 1S:Ettevõte.
+В таблице <%1> не получилось активизировать поле <%2> для редактирования.	Tabel <%1> ei õnnestunud aktiveerida väli <%2> redigeerimiseks.
+Ожидалось в течение <%1> секунд, что откроется окно с заголовком отличным от <%2>.	Oodatud jooksul <%1> sekundit, mis avaneb aken pealkirjaga erineb <%2>.
+Выберите файл настроек Vanessa Automation.	Valige seadete faili Vanessa Automaatika.
+Версия загружаемых настроек не соответсвует версии обработки.	Allalaaditav versioon seadeid ei vastab versiooni töötlemine.
+Информация: Параметр %1 не загружен.	Väärtus: %1) ei ole koormatud.
+Не получилось прочитать значение из строки запуска: %1.	Ei jõuagi lugeda väärtus string käivitada: %1.
+При чтении переменных окружения операционной системы возникло исключение: %1	Lugedes keskkonnamuutujaid operatsioonisüsteem on tekkinud, välja arvatud: %1
+Не найден путь к файлу JSON. Параметр: VAParams.	Ei leitud faili tee JSON. Parameeter: VAParams.
+Ошибка чтения структуры JSON. Пропускаем чтение.	Loe viga struktuuri JSON. Jätke lugemine.
+Ошибка чтения структуры JSON.	Loe viga struktuuri JSON.
+В параметрах JSON не найден каталог Фич.	Seadetes on JSON ei leitud kataloogi Фич.
+Использование устаревшего параметра "КаталогOutputСкриншоты". Новый параметр - "КаталогВыгрузкиСкриншотов".	Kasutades vananenud parameetri "КаталогOutputСкриншоты". Uus seade "КаталогВыгрузкиСкриншотов".
+Использование устаревшего параметра "КаталогOutputИнструкцияHTML". Новый параметр - "КаталогВыгрузкиИнструкцийHTML".	Kasutades vananenud parameetri "КаталогOutputИнструкцияHTML". Uus seade "КаталогВыгрузкиИнструкцийHTML".
+Использование устаревшего параметра "КаталогOutputИнструкцияMarkdown". Новый параметр - "КаталогВыгрузкиИнструкцийMarkdown".	Kasutades vananenud parameetri "КаталогOutputИнструкцияMarkdown". Uus seade "КаталогВыгрузкиИнструкцийMarkdown".
+Использование устаревшего параметра "КаталогOutputИнструкцияВидео". Новый параметр - "КаталогВыгрузкиИнструкцийВидео".	Kasutades vananenud parameetri "КаталогOutputИнструкцияВидео". Uus seade "КаталогВыгрузкиИнструкцийВидео".
+Использование устаревшего параметра "КаталогOutputjUnit". Новый параметр - "КаталогВыгрузкиjUnit".	Kasutades vananenud parameetri "КаталогOutputjUnit". Uus seade "КаталогВыгрузкиjUnit".
+В параметрах запуска JSON не определен каталог отчета jUnit.	Seadetes on käivitada JSON ei ole määratud kataloogi aruande rongid.
+Использование устаревшего параметра "КаталогOutputCucumberJson". Новый параметр - "КаталогВыгрузкиCucumberJson"	Kasutades vananenud parameetri "КаталогOutputCucumberJson". Uus seade "КаталогВыгрузкиCucumberJson"
+В параметрах запуска JSON не определен отчета CucumberJson.	Seadetes on käivitada JSON ei ole määratud aruande CucumberJson.
+Использование устаревшего параметра "КаталогOutputAllure". Новый параметр - "КаталогВыгрузкиAllure".	Kasutades vananenud parameetri "КаталогOutputAllure". Uus seade "КаталогВыгрузкиAllure".
+Использование устаревшего параметра "КаталогOutputAllureБазовый". Новый параметр - "КаталогВыгрузкиAllureБазовый".	Kasutades vananenud parameetri "КаталогOutputAllureБазовый". Uus seade "КаталогВыгрузкиAllureБазовый".
+Форма из переданного списка не найдена.	Kuju on välja saadetud nimekiri ei leitud.
+ИмяФичи	ИмяФичи
+ИмяСценария	ИмяСценария
+НомерСтрокиДерева	НомерСтрокиДерева
+НомерСтрокиФичи	НомерСтрокиФичи
+ПолнйПутьКФиче	ПолнйПутьКФиче
+Сценарий не определён.	Stsenaarium ei ole määratletud.
+Шаг не определён.	Samm ei ole määratletud.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Ei õnnestunud andmeid saada. Tulemuse kood: <%1>. Vastus: <%2>.
+ДеталиОшибки	ДеталиОшибки
+Команда по созданию картинки из текста не выполнена: %1	Meeskond luua pildi teksti ei ole teostatud: %1
+Не получилось получить командный интерфейс клиента тестирования.	Ei õnnestunud saada command liides kliendi katsetamine.
+Окно предупреждения не найдено.	Hoiatus kasti ei leitud.
+Не получилось выполнить помещение файла <%1>.	Ei jõuagi teha eeldus faili <%1>.
+Не найдено подключение SikuliX сервера.	Ei leitud ühendus SikuliX server.
+Подключение SikuliX сервера сброшено.	Ühendus SikuliX server käiakse.
+Не указано значение настройки Vanessa-automation: <КаталогДляГенерацииКартинок>.	Ei ole määratud seaded Vanessa-automaatika: <КаталогДляГенерацииКартинок>.
+Не получилось создать картинку по тексту <%1>.	Ei õnnestunud luua pilt teksti <%1>.
+Не найден профиль поиска картинки с текстом <%1>.	Profiili ei leitud otsida pilte, millel on tekst <%1>.
+Команда не выполнена: %1	Käsku ei täidetud: %1
+Не получилось вычислить выражение: %1. Описание ошибки: %2	Ei õnnestunud arvutada avaldis: %1. Vea kirjeldus: %2
+Не указано имя файла.	Ei ole määratud faili nimi.
+Каталог <%1> не существует.	Kataloog <%1> ei ole olemas.
+Не указано расширение файла.	Ei ole märgitud laiendiga faili.
+Не получилось закрыть активное окно <%1>. %2	Ei ole õnnestunud aktiivse akna <%1>. %2
+Закрытие окна <%1>.	Akna sulgemine <%1>.

@@ -1,0 +1,810 @@
+﻿Строка поиска	Translation
+%1 не найден;	%1 nerasta
+%1 Не умею обрабатывать реквизит <%2> у объекта <%3>	%1 Nėra gerai dirbti rekvizitai <%2> pas objektas <%3>
+%1.%2 в макете нет записей для регистра %3	%1.%2 išdėstymą nėra įrašų raidžių %3
+%1.%2 не удалось создать новый набор записей.%3	%1.%2 negalite kurti naujų įrašų.%3
+%1.%2 не удалось создать новый набор записей%3	%1.%2 nepavyko sukurti naują įrašų%3
+%1.%2 не удалось создать новый элемент.%3	%1.%2 nepavyko sukurti naują elementą.%3
+№%1. Заголовок=<%2>. Имя=<%3>. ТекстПоля = <%4>	Nr.%1. Antraštė=<%2>. Pavadinimas= " <%3>. ТекстПоля = <%4>
+TestClient НЕ подключен.	TestClient NĖRA prijungtas.
+TestClient подключен на %1 порту.	TestClient prijungtas %1 uoste.
+Web клиент не поддерживает запись действий пользователя.	Web klientas nepalaiko įrašymo vartotojo veiksmų.
+Активирую окно с координатами: %1;%2	Активирую langas su koordinačių: %1
+Активная форма не найдена	Aktyvi forma nerasta
+Активное окно не найдено.	Aktyvų langą nerasta.
+больше	daugiau
+больше или равно	daugiau arba lygu
+Были конфликты в именах снипетов.	Buvo konfliktai pavadinimuose снипетов.
+Были ошибки в ПросканироватьИсходникиИНайтиВсеStepDefinition.	Buvo klaidų ПросканироватьИсходникиИНайтиВсеstepdefinition.
+Было найдено окно предупреждения с текстом: <%1> А ожидалось, что таких окон не будет.	Buvo rasta langą įspėjimai su tekstu: <%1> O tikėtasi, kad tokių langų nebus.
+Было найдено окно предупреждения. А ожидалось, что таких окон не будет.	Buvo rasta langą įspėjimo. O tikėtasi, kad tokių langų nebus.
+В значение элемента формы %1 не найдена строка <%2>. Текущее значение поля <%3>	Į elemento vertė formos, %1 nerastas eilutė <%2>. Dabartinė vertė lauko <%3>
+В ИБ загружены объекты: %1 шт.	Į ИБ įkelti objektai yra " %1 vienetas
+В каталоге <%1> должен был быть один файл xml.	Katalogas <%1> turėjo būti vienas xml failą.
+В меню нет значения <%1>	Meniu nėra reikšmės <%1>
+В метаданных %1 не найден реквизит-ключ <%2>. Ошибка в макете данных	Metaduomenys %1 nerastas butaforija-raktas <%2>. Klaida išdėstymo duomenų
+В параметрах JSON не найден каталог Фич.	Galioja JSON nerastas katalogas Фич.
+В переменной Контекст не обнаружено ранее сохраненное значение с именем <%1>	Kintamasis Kontekste nerasta anksčiau išsaugotą reikšmę pavadinimu <%1>
+В процедуру <УстановитьРезультатУсловия> передан неверный тип параметра <%1>. Ожидаемый тип: Булево.	Į procedūrą <УстановитьРезультатУсловия> perduotas neteisingas parametras tipas <%1>. Tikimasi tipas: Boolean.
+В результирующей таблице существуют две колонки с одинаковым заголовком: %1	Į результирующей lentelėje yra du stulpelius su ta pačia antrašte: %1
+В списке нет значения <%1>	Sąraše nėra reikšmės <%1>
+В строке <%1> не найдена подстрока <%2>	Eilutėje <%1> nėra rasta substr <%2>
+В сценарии <%1> найден тег исключение <%2>	Scenarijus <%1> rasti žymė išimtis <%2>
+В сценарии <%1> найден тег отбор <%2>	Scenarijus <%1> rasti žymė atrankos <%2>
+В таблице <%1>  НЕ найдено значение %2, а оно должно было быть.	Lentelėje <%1> NĖRA rasta reikšmę %2, o ji turėjo būti.
+В таблице <%1>  нет колонки <%2>	Lentelėje <%1> ne garsiakalbiai <%2>
+В таблице <%1> в строке №%2 найдено значение %3, а его не должно было быть.	Lentelėje <%1> eilutėje nr.%2 nustatyta vertė %3, o jo ne taip turėjo būti.
+В таблице <%1> найдено <%2> значений. А ожидали <%3>. Имя колонки <%4>. Искомое значение <%5>	Lentelėje <%1> rasti <%2> reikšmes. O tikėjomės <%3>. Vardas skiltyje <%4 ir>. Ieškomojo reikšmė <%5>
+В таблице <%1> не найдено ни одной строки	Lentelėje <%1> nėra rasta nė vienos eilutės
+В таблице <%1> не найдено ячейки с заголовком <%2>	Lentelėje <%1> nėra rasta langelio su antrašte <%2>
+В таблице <%1> не найдены колонки: %2	Lentelėje <%1> ne rasti skiltyje: %2
+В таблице <%1> не получилось активизировать поле <%2>.	Lentelėje <%1> neatsitiko įjungti lauke <%2>.
+В таблице <%1> нет строк для выбора.	Lentelėje <%1> ne eilučių pasirinkimo.
+В таблице <%1> ожидали получить <%2> строк, а получили <%3> строк.	Lentelėje <%1> tikėjosi gauti <%2> eilučių, o gavo <%3> eilučių.
+В таблице <%1> ожидали получить %2 %3 строк, а получили <%4> строк.	Lentelėje <%1> tikėjosi gauti %2 %3 eilučių, o gavo <%4> eilučių.
+В таблице <%1> ожидали получить больше <%2> строк, а получили <%3> строк.	Lentelėje <%1> tikėjosi gauti daugiau <%2> eilučių, o gavo <%3> eilučių.
+В таблице <%1> ожидали получить больше или равно <%2> строк, а получили <%3> строк.	Lentelėje <%1> tikėjosi gauti daugiau arba lygu <%2> eilučių, o gavo <%3> eilučių.
+В таблице <%1> ожидали получить меньше <%2> строк, а получили <%3> строк.	Lentelėje <%1> tikėjosi gauti mažiau <%2> eilučių, o gavo <%3> eilučių.
+В таблице <%1> ожидали получить меньше или равно <%2> строк, а получили <%3> строк.	Lentelėje <%1> tikėjosi gauti mažiau arba lygu <%2> eilučių, o gavo <%3> eilučių.
+В таблице <%1> отсутствует колонка <%2>, указанная в параметрах.	Lentelėje <%1> nėra skiltis <%2>, указанная parametrų.
+В таблице <%1> поле с заголовком <%2> не найдено.	Lentelėje <%1> laukas su antrašte <%2> nėra rasta.
+В таблице <%1> поле с именем <%2> не найдено.	Lentelėje <%1> lauke, su pavadinimu <%2> nėra rasta.
+В таблице <%1> у поля <%2> ожидали открытия выпадающего списка, но не дождались.	Lentelėje <%1> iš lauko <%2> tikėjosi atidaryti meniu, bet ne дождались.
+В таблице не найдена колонка <%1>	Lentelėje nerastas skiltis <%1>
+В таблице параметров не было передано имя нового профиля. Колонка <Имя подключения>	Lentelėje parametrų nebuvo išsiųstas vardas naują rinkinį. Skiltis <ryšio Pavadinimas>
+В таблице подключений уже есть подключение с именем <%1>	Lentelėje jungtis jau yra ryšys su pavadinimu <%1>
+В табличном документе %1 колонок, а ожидалось %2 колонок.	Stalo dokumente %1 stulpelio, o tikėtasi %2 garsiakalbiai.
+В табличном документе %1 строк, а ожидалось %2 строк.	Stalo dokumente %1 eilutės, o tikėtasi %2 eilučių.
+В табличном документе %1 строк, а ожидалось, что он пустой.	Stalo dokumente %1 eilutės, o tikėtasi, kad ji yra tuščia.
+В табличном документе в колонке <%1> значение не соответствует условию 'Значение в колонке %2 %3'. Текущее значение колонки <%4>. Ряд <%5>, колонка <%6>	Stalo dokumento skiltyje <%1> vertė atitinka sąlygą 'Reikšmė stulpelyje %2 %3'. Dabartinė vertė skiltyje <%4 ir>. Nemažai <%5> skiltyje <%6>
+В табличном документе в колонке <%1> ожидали значение <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	Stalo dokumento skiltyje <%1> tikėjosi reikšmė <%2> rasti <%3>. Nemažai <%4> skiltyje <%5>
+В табличном документе в колонке <%1> ожидали, что не будет значения <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	Stalo dokumento skiltyje <%1> tikėjosi, kad nebus reikšmės <%2> rasti <%3>. Nemažai <%4> skiltyje <%5>
+В табличном документе в колонке №%1 значение= <%2> , а ожидалось <%3>	Stalo dokumento skiltyje nr.%1 value= <%2> ir tikėtasi <%3>
+В табличном документе колонка <%1> не найдена.	Stalo dokumente skiltis <%1> nėra rasta.
+В файле <%1> нашли строки, а ожидали, что их нет:%2	Faile <%1> rasti eilutes, ir tikėjosi, kad jų nėra:%2
+В файле <%1> не нашли строки, а ожидали, что они там есть:%2	Faile <%1> nėra rasta eilutę, ir tikėjosi, kad jie ten yra:%2
+В фиче <%1> сценария <%2> найден тег исключение <%3>	Į фиче <%1> scenarijaus <%2> rasti žymė išimtis <%3>
+В фиче <%1> сценария <%2> найден тег отбор <%3>	Į фиче <%1> scenarijaus <%2> rasti žymė atrankos <%3>
+В шаг необходимо передавать таблицу Gherkin, в которой 2 или более строк.	Žingsnis reikia perkelti lentelę Gherkin, kurioje yra 2 arba daugiau eilučių.
+В эталонной таблице существуют две колонки с одинаковым заголовком: %1	Į pavyzdinis lentelėje yra du stulpelius su ta pačia antrašte: %1
+ВерсияVA	ВерсияVA
+ВерсияПлатформы	ВерсияПлатформы
+Включите флаг <Включить отладочные сообщения> чтобы посмотреть выполняемые команды.	Įjunkite vėliava <Include derinimo pranešimai> norėdami pamatyti run komandą.
+Внутреняя ошибка. Неполное заполнение дерева метаданных. Отсутствует объект, образующий тип - %1	Внутреняя klaida. Nepilnas pildyti medžio metaduomenis. Nėra objektas, образующий tipas - %1
+Внутреняя ошибка. Неполное заполнение структуры ссылочных типов - %1	Внутреняя klaida. Nepilnas užpildymas struktūra nuoroda tipai - %1
+Во вложенный сценарий <%1> было передано <%2> таблиц, а он принимает только <%3> таблиц.	Per pridėtą scenarijų <%1> buvo išsiųstas <%2> lentelių, ir jis priima tik <%3> lentelių.
+Возможно это обработка для обычных форм, а не для управляемых форм.	Galbūt jis apdorojimo paprastų formų, o ne valdymo formos.
+Возможно это обработка для управляемых форм, а не для обычных форм.	Galbūt jis apdorojimo valdymo formos, bet ne įprastų formų.
+Все проверки пройдены.	Visi patikrinimai atlikti.
+Вызов метода <%1>: %2	Skambinkite metodas <%1>: %2
+Выпадающий список <%1> не был сформирован.	Выпадающий sąrašą <%1> nebuvo suformuota.
+Выпадающий список <%1> не открылся для ввода текста.	Выпадающий sąrašą <%1> ne atidaryta teksto.
+Выпадающий список <%1>. Ожидали, что в нём будет текст %2, а получили %3.	Выпадающий sąrašą <%1>. Tikėjomės, kad jame bus tekstą %2, ir gavo %3.
+Выпадающий список с заголовком <%1> не найден.	Выпадающий sąrašą su antrašte <%1> nerastas.
+Выпадающий список с именем <%1> не найден.	Выпадающий sąrašą pavadinimu <%1> nerastas.
+Выполнение сценариев закончено. БЫЛИ ОШИБКИ.	Vykdymo scenarijus baigtas. BUVO KLAIDŲ.
+Выполнение сценариев закончено. Ошибок не было.	Vykdymo scenarijus baigtas. Klaidų nebuvo.
+Выполняю	Atlikti
+Выражение <%1> оказалось равно <%2>, а ожидали <%3>.	Išraiška <%1> pasirodė, kad tiek <%2> ir tikėjosi <%3>.
+Генератор макета из реальных данных: Не умею обрабатывать такой тип <%1>	Generatorius išdėstymą iš realių duomenų: Ne gerai dirbti su tokio tipo <%1>
+ГолосовойДвижок - OK	ГолосовойДвижок - OK
+Группа с заголовком <%1> не найдена.	Grupė su antrašte <%1> nėra rasta.
+Группа с именем <%1> не найдена.	Grupė pavadinimu <%1> nėra rasta.
+Данные по основному подключению Клиента тестирования перезаполнены.	Duomenys pagrindiniu prijungti Testclient перезаполнены.
+Данный шаг не работает с таблицами.	Šis žingsnis neveikia su lentelėmis.
+ДатаВремяОшибки	ДатаВремяОшибки
+Делаю общий скриншот.	Darau bendras screenshot.
+Делаю перезапуск TESTCLIENT. ОписаниеОшибки=%1	Darau iš naujo TESTCLIENT. ОписаниеОшибки=%1
+Делаю распаковку %1	Darau распаковку %1
+Делаю скриншот.	Padaryti screenshot.
+Делаю скриншоты всех окон 1С.	Darau screenshot visus langus 1.
+Длительность MP3 = 0. Файл=%1	Trukmė MP3 = 0. File=%1
+Для <%1> не найдено документа основания	<%1> nėra rasta dokumento pagrindo
+Для генерации EPF должен быть установлен 1Script. В cmd должна выполняться команда: oscript	Generuoti EPF turi būti nustatytas 1Script. Į cmd turi būti komanda: oscript
+Для подключения с именем <%1> изменен порт подключения, указанный порт уже есть в таблице подключений.	Norėdami prisijungti su pavadinimu <%1> pakeistas port jungtis, uostas jau yra lentelėje ryšius.
+Для текущей ячейки таблицы <%1> текущее значение равно <%2>, а ожидали <%3>	Dabartinės lentelės langelius <%1> dabartinė reikšmė yra <%2> ir tikėjosi <%3>
+Для шага <%1> не найден EPF файл.	Intervalui <%1> nerastas EPF failą.
+Для элемента формы %1 текущее значение равно <%2>, а ожидали <%3>	Elemento formos, %1 dabartinė reikšmė yra <%2> ir tikėjosi <%3>
+Для ячейки <%1> таблицы <%2> текущее значение равно <%3>, а ожидали <%4>	Langelio <%1> lentelės <%2> dabartinė reikšmė yra <%3>, o tikėjosi <%4>
+Добавил шаг: %1	Papildomas žingsnis: %1
+ДобавитьСостояниеФормыTestclient:%1	ДобавитьСостояниеФормыTestclient:%1
+Должна быть передана минимум 1 строка	Turi būti perduota bent 1 eilutė
+Должна оставаться строка подключения текущего клиента	Turi likti jungtys dabartinio kliento
+Должно быть передано 2 строки	Turi būti perkelta į 2 eilutę
+Должны быть переданы минимум 2 строки. Первая строка с именами колонок, вторая и следующие - данные для проверки.	Turi būti perduota ne mažiau kaip 2 eilutės. Pirmoji eilutė su stulpelių pavadinimais, antroji ir šiuos duomenis patikrinti.
+ЗавершитьЗаписьДействийПользователя:%1	ЗавершитьЗаписьДействийПользователя:%1
+Загружен объект.Имя %1, Тип %2	Įkeltas objektas.Vardas %1, %Tipą 2
+Загрузил новую версию	Atsisiųsti naują versiją
+Загрузил снипеты из кеш	Atsisiųsti снипеты iš кеш
+Закладка с заголовком <%1> не найдена.	Stulpelis su antrašte <%1> nėra rasta.
+Закладка с именем <%1> не найдена.	Stulpelis su pavadinimu <%1> nėra rasta.
+Закончились фичи. Не стал назначать раннеру фичу.	Baigsis фичи. Ne tapo priskirti раннеру фичу.
+Закрытие TestClient <%1>	Uždaryti TestClient <%1>
+Записал файл статуса билда: %1	Įrašyti failą statusas билда: %1
+Записался корректный элемент.	Записался tinkamą elementą.
+Записываю %1	Įrašau %1
+Запись действий пользователя закончена.	Įrašyti vartotojo veiksmų baigtas.
+Запись действий пользователя начата.	Įrašyti vartotojo veiksmų pradėtas.
+Запись действий пользователя приостановлена.	Įrašyti vartotojo veiksmų sustabdytas.
+Запись действий пользователя продолжена.	Įrašyti vartotojo veiksmų toliau.
+Запускаю генерацию epf.	Paleisti генерацию epf.
+Значение (%1) заполнено, а ожидалась незаполненность %2	Vertė (%1) užpildyta, o ожидалась незаполненность %2
+Значение (%1) не заполнено, а ожидалась заполненность%2	Vertė (%1) nėra užpildyta, o ожидалась заполненность%2
+Значение [%1:%2]. Ожидали <%3>, а получили <%4>	Vertė [%1:%2]. Tikėjomės <%3>, o gavo <%4>
+Значение <%1> больше или равно, чем <%2>, а ожидалось меньше. %3	Reikšmė <%1> daugiau arba lygu nei <%2> ir tikėtasi mažiau. %3
+Значение <%1> больше, чем <%2>, а ожидалось меньше или равно. %3	Reikšmė <%1> daugiau negu <%2> ir tikėtasi mažiau arba lygu. %3
+Значение параметра %1: ожидали <%2>, получили <%3>;	Parametro reikšmė %1: tikėjomės <%2>, gavome <%3>
+Значение параметра %1: ожидали подстроку <%2>, в <%3>;	Parametro reikšmė %1: tikėjomės eilutės <%2>, <%3>
+Значение параметра таймаута ожидания должно быть числом. Переданное значение: %1	Parametro reikšmė таймаута budėjimo režimu, turi būti skaičius. Išsiųstą vertė: %1
+ЗначениеНеНайдено: Реквизит <%1>: Искали значение <%2>, но не нашли.	ЗначениеНеНайдено: Butaforija <%1>: Ieškoma reikšmė <%2>, bet nerado.
+Изменения формы обработаны.	Keisti formą tvarkomi.
+Изменилось имя формы: было: %1, стало: %2	Pasikeitė formos pavadinimą: buvo: %1, tapo: %2
+имеет длину	yra ilgio
+имеет тип	yra tipas
+Именованная область %1 не найдена;	Именованная sritį %1 nerasta
+ИмяКомпьютера <%1>; порт <%2>	ИмяКомпьютера <%1>
+ИмяПроцедуры	Procedurename
+ИмяФайла	ИмяФайла
+Искали в %1 подстроку %2, но не нашли.%3	Ieškoti %1 eilutės %2, tačiau nebuvo rasta.%3
+Исключение для просмотра значения.	Išimtis norėdami peržiūrėti vertybes.
+Ищу снипеты в каталоге	Ieškau снипеты kataloge
+Ищу сценарии в каталоге	Ieškau scenarijus kataloge
+Каталог <%1> не найден.	Katalogas <%1> nerastas.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не существует.	Katalogas ЗаписьВидеоКаталогДляВременныхФайлов <%1> nėra.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не указан.	Katalogas ЗаписьВидеоКаталогДляВременныхФайлов <%1> nėra nurodyta.
+КаталогOutputИнструкцияHTML не задан.	КаталогOutputИнструкцияHTML nėra nustatytas.
+КаталогOutputИнструкцияMarkdown не задан.	КаталогOutputИнструкцияMarkdown nėra nustatytas.
+КаталогOutputСкриншоты не задан.	КаталогOutputСкриншоты nėra nustatytas.
+КаталогДляОбработки=%1	КаталогДляОбработки=%1
+Кнопка панели открытых окон <%1> не найдена.	Mygtukas juostos atidarytus langus <%1> nėra rasta.
+Кнопка панели разделов <%1> не найдена.	Mygtukas juostos pertvaros <%1> nėra rasta.
+Кнопка с именем <%1> не найдена.	Mygtukas su pavadinimu <%1> nėra rasta.
+Кнопка с именем <%1> не найдена. ТекущееОкно=%2	Mygtukas su pavadinimu <%1> nėra rasta. ТекущееОкно=%2
+кнопка, которую требуется нажать	mygtukas, kurį reikia spausti
+Кнопка/команда с заголовком <%1> не найдена.	Mygtukas/komanda su antrašte <%1> nėra rasta.
+Кнопка/команда с заголовком <%1> не найдена. ТекущееОкно=%2	Mygtukas/komanda su antrašte <%1> nėra rasta. ТекущееОкно=%2
+Количество секунд дял подключения TestClient: %1	Kiek sekundžių дял prisijungti TestClient: %1
+Команда меню <%1> не найдена в панели функций.	Meniu komanda <%1> nėra rasta įrankių juostos funkcijas.
+Команда ОстановитьЗаписьВидео вернула код возврата = %1	Komanda ОстановитьЗаписьВидео gražino gamintojo grįžti = %1
+Команда по объединению mp3 не выполнена. Файл1=%1, Файл2=%2, Файл3=%3	Komanda sujungti mp3 nebaigta. Файл1=%1, Файл2=%2, Файл3=%3
+Команда по получению списка файлов каталога не выполнена. Каталог = %1	Komanda gauti failų sąrašą kataloge nėra atlikta. Dir = %1
+Команда системы реализована только под Windows.	Komanda sistema įgyvendinta tik pagal Windows.
+Константа %1 не заполнена.	Konstanta %1 nėra užimta.
+КопироватьФайлКомандаСистемы:%1 команда:%2	КопироватьФайлКомандаСистемы:%1 komanda:%2
+между	tarp
+меньше	mažiau
+меньше или равно	mažiau arba lygu
+Надо сделать перезапуск фреймворка тестирования.	Reikia padaryti iš naujo фреймворка bandymai.
+Найден активный элемент формы	Rastas aktyvus elementas formos
+Найден упавший сценарий.	Nustatyta, упавший scenarijų.
+Найдена форма: ТекстЗаголовка=%1, ИмяФормы=%2. Окно <%3>	Rasta forma: ТекстЗаголовка=%1, ИмяФормы=%2. Langas <%3>
+Найдено %1 окон.	Nustatyta, %1 langus.
+Найдено более одного поля формы с заголовком <%1>. Рекомендуется искать элемент по имени.	Rasta daugiau nei vieno formos laukus su antrašte <%1>. Rekomenduojama ieškoti elementas vardu.
+НачатьЗаписьДействийПользователя:%1	НачатьЗаписьДействийПользователя:%1
+Нашли строки в таблице <%1>:%2	Rasta lentelės eilutė <%1>:%2
+не	nėra
+Не верный формат области <%1>. %2	Ne ištikimas formatas srityje <%1>. %2
+Не возможно открыть форму абстрактного объекта, укажите ссылку	Neįmanoma atidaryti formą abstraktus objektas, nurodykite nuorodą
+Не все служебные колонки заданы. В запросе обязательно должны быть колонки %1	Ne visi paslaugų skiltyje suderinta. Prašymas būtinai turi būti col %1
+не выполнен	neįvykdytas
+Не дождались отображения окна TestClient. Таймаут <%1>	Ne дождались langą rodyti TestClient. Osd <%1>
+Не задан регистратор для записей регистра %1. Переменная %2	Nenurodytas registratorius įrašų raidžių %1. Kintamasis %2
+Не заполнен служебный параметр КаталогИнструментов.	Nėra užpildytas naudingumo parametras КаталогИнструментов.
+Не известный тип параметра в ПолучитьПредставлениеПараметраПриПереводе() <%1>	Žinomi tipas parametro ПолучитьПредставлениеПараметраПрипереводе() <%1>
+Не использовать	Nenaudoti
+Не могу выгрузить статус сценариев, т.к. был передан каталог, а не файл.	Negaliu iškrauti statusas scenarijus, t. k. buvo perduotas katalogas, o ne byla.
+Не могу выгрузить статус сценариев, т.к. каталог %1 не существует.	Negaliu iškrauti statusas scenarijus, t. k. katalogą %1 neegzistuoja.
+Не могу сфомировать отчет Allure. Не существует каталог для вывода отчета.	Negaliu сфомировать ataskaitą Vilioti. Nėra kataloge, norėdami pamatyti ataskaitą.
+Не найден Клиент тестирования для подключения..	Nerasta TestClient prisijungti.
+Не найден активный элемент формы.	Nerasta aktyvus elementas formos.
+НЕ найден инструмент по созданию скриншотов.	Nerasta įrankis kuriant vaizdus.
+Не найден каталог библиотеки: %1	Nerasta bibliotekos kataloge: %1
+Не найден каталог инструментов: %1	Nerasta įrankiai katalogas: %1
+Не найден лог перегенерации EPF.	Nerasta žurnalo перегенерации EPF.
+Не найден макет %1 ошибка: %2	Nerasta maketas %1 klaida: %2
+Не найден перевод для шага <%1>	Nerasta vertimo žingsnio <%1>
+Не найден пользователь ИБ по имени <%1>	Nerasta vartotojas ИБ pagal pavadinimą <%1>
+Не найден профиль Клиента тестирования <%1>	Nerasta profilis TestClient <%1>
+Не найден путь к файлу JSON. Параметр: VBParams.	Nerasta kelią JSON. Parametras: VBParams.
+Не найден тип шага <%1>	Nerasta tipas žingsnio <%1>
+Не найден файл <%1>	Failas nerastas <%1>
+Не найден файл макета <%1> в каталоге проекта <%2>	Nerasta failų išdėstymo <%1> katalogas projekto <%2>
+Не найден файл после распаковки: %1	Failas nerastas po išpakavimo: %1
+Не найден файл словаря замен. <%1>	Failas nerastas žodynas apsukų. <%1>
+Не найден файл служебной базы. <%1>	Failas nerastas nuosavos bazės. <%1>
+Не найден файл толстого клиента <%1>	Failas nerastas tolstojaus kliento <%1>
+Не найден элемент дерева по данным поиска	Nerastas elementas medis pasak ieškoti
+Не найден элемент Статистика на форме VB.	Nerastas elementas Statistika forma VB.
+Не найден эталон макета <%1>. Пустой каталог проекта.	Nerasta etalonu išdėstymas <%1>. Tuščias projekto katalogą.
+Не найдена активная форма.	Nerasta aktyvi forma.
+Не найдена группа командного интерфейса <%1>	Nerasta grupė: valdymo sąsajos <%1>
+Не найдена строка в таблице ДанныеКлиентовТестирования с <Имя=Этот клиент>	Nerasta eilutė lentelėje ДанныеКлиентовТестирования su <Pavadinimas= " Šis vartotojas>
+Не найдена строка примеров во вложенной структуре сценария. <%1>	Nerasta eilutė pavyzdžių, kai naujajame struktūrą scenarijų. <%1>
+Не найдена строка сценария.	Nerasta eilutė scenarijų.
+Не найдена таблица для редактирования.	Nerasta lentelę redaguoti.
+Не найдена установка VLC.	Nerasta įdiegti VLC.
+Не найдено ключевое слово <%1>  для языка <%2>	Nerasta raktinis žodis <%1> kalbos <%2>
+Не найдено ни одного окна 1С. Делаю обычный скриншот.	Nerasta nė vieno lango 1. Darau įprasta ekrano.
+Не найдено ни одного сообщения пользователю.	Nerasta nė vieno pranešimo vartotojui.
+Не найдено ни одного сценария. Запись видео невозможна.	Nerasta nė vieno scenarijaus. Vaizdo įrašas negalima.
+Не найдено ни одной строки в таблице клиентов тестирования, которая бы содержала <runner>	Nerasta nė vienos eilutės lentelę klientų tyrimo, kuris būtų penki <bėgikas>
+Не найдено окно VanessaAutomation в раннере %1	Nerasta langą VanessaBehavior į раннере %1
+Не найдено окно VanessaAutomation.	Nerasta langą VanessaBehavior.
+Не найдено окно предупреждения.	Nerasta langą įspėjimo.
+Не нашел значение реквизита у спр: ИмяСпр=%1, Наименование=%2, ИмяРек=%3, СтроковокПредставление=%4	Nustatyta vertė rekvizitai jūs спр: ИмяСпр=%1, Pavadinimas=%2, ИмяРек=%3, СтроковокПредставление=%4
+Не нашел колонку: %1	Neradau skiltyje: %1
+Не нашел профиля TestClient с именем <%1>	Neradau profilio TestClient su pavadinimu <%1>
+Не нашел профиля TestClient с именем <%1> хотя он должен быть активным в данный момент.	Neradau profilio TestClient su pavadinimu <%1> nors jis turi būti aktyvus šiuo metu.
+Не нашел профиля TestClient с именем <%1> чтобы его закрыть.	Neradau profilio TestClient su pavadinimu <%1> norėdami jį uždaryti.
+Не нашел путь к 1cv8c.exe: %1	Nustatyta, kad kelias į 1cv8c.exe: %1
+Не нашли меню функций раздела.	Nerasta meniu funkcijų pasiskirstymo.
+Не нашли окно с заголовком <%1>	Nerasta langas su antrašte <%1>
+Не нашли панель открытых окон.	Nebuvo rasta juosta atidarytus langus.
+Не нашли панель разделов.	Nebuvo rasta juosta skirsnių.
+Не нашли профиль <%1> в таблице TestClient.	Nerasta profilis <%1> lentelėje TestClient.
+Не нашли профиль <%1> в тестируемом экземпляре Vanessa-behavior.	Nerasta profilis <%1> тестируемом vienu Vanessa-behavior.
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, "Управляемое приложение"	Nerasta vykdomi <%1>. Galbūt, reikia nurodyti su tarpu, pavyzdžiui, "Valdoma programa"
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, <Управляемое приложение>	Nerasta vykdomi <%1>. Galbūt, reikia nurodyti su tarpu, pvz., <Valdoma programa>
+Не нашли таблицу с именем <%1>	Nerasta lentelę su pavadinimu <%1>
+Не нашли элемент <%1> в коллекции, а хотели, чтобы он был в коллекции.%2	Nerastas elementas <%1> kolekcija, o norėjo, kad jis buvo kolekcijos.%2
+Не обнаружено активное окно.	Nerasta aktyvų langą.
+Не ожиданное значение у переменной ТипСравнения: <%1>	Ne ожиданное reikšmę iš kintamojo ТипСравнения: <%1>
+Не описано действие для кнопки <%1>	Nėra aprašyta veiksmo mygtuką <%1>
+Не определена фича для выполнения на раннере №0.	Nėra apibrėžta фича atlikti раннере nr. 0.
+Не передан каталог фич для обработки. Используется %1\features	Nėra perduotas katalogas фич perdirbti. Naudojamas yra %1\features
+Клиент тестирования не подключен.	Nėra prijungtas Testclient.
+Не получилось закрыть активное окно. %1	Neatsitiko uždaryti aktyvų langą. %1
+Не получилось определить активное окно Клиента тестирования из Контекста.	Neatsitiko nustatyti aktyvų langą TestClient iš Konteksto.
+Не получилось определить активное окно Клиента тестирования.	Neatsitiko nustatyti aktyvų langą TestClient.
+Не получилось получить значение таблицы <%1>	Neatsitiko gauti reikšmė lentelės <%1>
+Не получилось прочитать параметр запуска.	Neatsitiko perskaityti parinktį paleisti.
+Не получилось сделать выбор в поле <%1> значения <%2>. %3	Neatsitiko pasirinkti lauke <%1> reikšmės <%2>. %3
+Не получилось создать тестовый MP3	Neatsitiko sukurti bandymo MP3
+Не реализовано.	Nėra įgyvendinta.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>	Negalėjo lentelėje <%1> padaryti pasirinkti iš sąrašo pasirinkite <%2> pagal eilutę <%3>
+Не смог выделить все строки в таблице <%1>. %2	Negalėčiau skirti visos lentelės eilutės <%1>. %2
+Не смог выполнить команду по получению координат на экране всех окон 1С в панели задач.	Negalėjo vykdyti komandą pagal darbo koordinates ekrane visus langus 1, užduočių juostoje.
+Не смог выполнить команду. <%1>	Nepavyko paleisti komandą. <%1>
+Не смог вычислить выражение: %1	Negalėjo apskaičiuoti išraiška: %1
+Не смог загрузить %1. %2	Ne uzkrauti %1. %2
+Не смог загрузить базу из dt: %1. ПутьКDT: %2. Статус возврата: %3	Ne uzkrauti bazę iš dt: %1. ПутьКDT: yra %2. Statusas grįžti: %3
+Не смог загрузить снипеты из %1	Ne uzkrauti снипеты iš %1
+Не смог закрыть окно %1	Negalėjo uždaryti langą %1
+Не смог закрыть окно повторно %1	Negalėjo uždaryti langą vėl %1
+Не смог запустить конфигуратор. <%1>	Nepavyko paleisti конфигуратор. <%1>
+Не смог из переданных параметров JSON определить каталог отчета Allure.	Negalėjo iš išsiųstus parametrus, JSON nustatyti katalogas ataskaitos Vilioti.
+Не смог из переданных параметров JSON определить каталог отчета CucumberJson.	Negalėjo iš išsiųstus parametrus, JSON nustatyti katalogas ataskaitos CucumberJson.
+Не смог из переданных параметров JSON определить каталог отчета jUnit.	Negalėjo iš išsiųstus parametrus, JSON nustatyti katalogas ataskaitos jUnit.
+Не смог найти данные для подключения профиля клиента тестирования <%1>	Nepavyko rasti duomenų ryšio profilio kliento bandymų <%1>
+Не смог найти код модуля формы в файле ИмяФайлаФормаУФ.	Nepavyko rasti kodas modulio formos faile ИмяФайлаФормаУФ.
+Не смог найти открытый конфигуратор.	Nepavyko rasti viešojo конфигуратор.
+Не смог найти сохранненное значение по переменой <%1>	Nepavyko rasti сохранненное reikšmė pagal переменой <%1>
+Не смог обработать XML в UILogToScript.	Ne, galėjo apdoroti XML UILogToScript.
+Не смог обработать параметры в строке <%1>	Ne, galėjo apdoroti parametrai eilutėje <%1>
+Не смог определить длительность у файла: %1	Negalėjo nustatyti, kiek iš failo: %1
+Не смог определить СледующееОжидаемоеКлючевое по: %1	Nepavyko nustatyti СледующееОжидаемоеКлючевое: %1
+Не смог определить следующий шаг для выполнения.	Nepavyko nustatyti kitas žingsnis yra atlikti.
+Не смог определить тип значения для строки: %1	Nepavyko nustatyti, kokio tipo reikšmių eilutės: %1
+Не смог перейти к строке фильтра <%1>	Negalėjo pereiti į eilutę filtro <%1>
+Не смог по переменной <%1> найти сохраненное значение.	Negalėjo kintamasis <%1> rasti įrašytą reikšmę.
+Не смог подключить TestClient.	Nepavyko prisijungti TestClient.
+Не смог подключить TestClient. Прерывание по таймауту <%1>	Nepavyko prisijungti TestClient. Nutraukti pagal таймауту <%1>
+Не смог подключить обработку <%1>	Nepavyko prisijungti tvarkymo <%1>
+Не смог подключить профиль TestClient <%1>	Nepavyko prisijungti profilis TestClient <%1>
+Не смог подставить в строку параметры: <%1>	Negalėjo pakeisti į eilutę parametrai: <%1>
+Не смог получить данные файла <%1>	Nepavyko gauti duomenų failo <%1>
+Не смог получить значение из строки запуска	Nepavyko gauti reikšmę iš eilutės paleisti
+Не смог получить значение поля <%1> у таблицы <%2>.%3	Nepavyko gauti lauko reikšmė <%1> mes lentelės <%2>.%3
+Не смог получить значение таблицы <%1>	Nepavyko gauti reikšmė lentelės <%1>
+Не смог получить значение табличного документа <%1>	Nepavyko gauti reikšmė lentelės dokumento <%1>
+Не смог получить количество строк у таблицы <%1>	Nepavyko gauti eilučių iš lentelės <%1>
+Не смог получить макет %1	Nepavyko gauti maketą %1
+Не смог получить состяние таблицы <%1>	Nepavyko gauti состяние lentelės <%1>
+Не смог получить строки таблицы <%1>	Nepavyko gauti lentelės eilutės <%1>
+Не смог получить строки таблицы.	Nepavyko gauti lentelės eilutėje.
+Не смог получить строки ТЧ <%1>	Nepavyko gauti eilutės ТЧ <%1>
+Не смог получить строку сценария.	Nepavyko gauti eilutę scenarijų.
+Не смог получить строку таблицы %1	Nepavyko gauti lentelės eilutės %1
+Не смог получить форму текущего окна.	Nepavyko gauti formą dabartinio lango.
+Не смог ПолучитьГлавноеОкноТестируемогоПриложения.	Negalėjo ПолучитьГлавноеОкноТестируемогоПриложения.
+Не смог поменять параметры шага местами <%1>	Negalėjo pakeisti parametrus veiksmo vietomis <%1>
+Не смог преобразовать к числу PID=%1	Negalėjo konvertuoti tarp PID=%1
+Не смог распаковать %1	Negalėjo išspausti %1
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>	Negalėjo padaryti pasirinkti iš sąrašo pasirinkite <%1> pagal eilutę <%2>
+Не смог скопировать сценарий %1, т.к. произошло бы зацикливание.	Nepavyko nukopijuoti scenarijų %1, t. k. būtų atsitikę зацикливание.
+Не смог создать базу по строке: %1. Статус возврата: %2	Nepavyko sukurti duomenų bazę ir pagal eilutėje: %1. Statusas grįžti: %2
+Не смог создать каталог для отчета Allure: %1	Nepavyko sukurti katalogą ataskaitos Vilioti: %1
+Не смог создать каталог для отчета CucumberJson: %1	Nepavyko sukurti katalogą ataskaitos CucumberJson: %1
+Не смог создать каталог для отчета jUnit: %1	Nepavyko sukurti katalogą ataskaitos jUnit: %1
+Не смог создать объект сравнения файлов.	Nepavyko sukurti objektą, palyginti failus.
+Не смог создать сервисные базы. Статус=%1	Nepavyko sukurti techninės priežiūros bazę. Status= " %1
+Не смог удалить файл %1	Nepavyko ištrinti failo %1
+Не смогли найти таблицу <%1> в активном окне.	Negalėjome rasti lentelę <%1> aktyviame lange.
+Не стал загружать фичу: %1, т.к. в ней не найдено тегов фильтров.	Ne tapo atsisiųsti фичу: %1, t. k. joje nerasta žymių filtrai.
+Не стал загружать фичу: %1, т.к. обнаружен тег исключение: %2	Ne tapo atsisiųsti фичу: %1, t. k. aptiktas žymė išimtis: %2
+Не удалось авторизоваться в базе.	Nepavyko авторизоваться bazėje.
+Не удалось дождаться события завершения цикла в течение <%1> секунд.	Nepavyko laukti įvykių užbaigti ciklą per <%1> sekundžių.
+Не удалось найти документ по номеру <%1>. Тип Документ.%2	Nepavyko rasti dokumentą numeriu <%1>. Tipas Dokumentą.%2
+Не удалось перейти к нужной строке в таблице <%1>. %2	Nepavyko patekti į norimą eilutę lentelėje <%1>. %2
+Не удалось подключить COM объект <Shell.Application>	Nepavyko prisijungti COM objektas <Shell.Application>
+Не удалось подключить COM объект <WScript.Shell>	Nepavyko prisijungti COM objektas <WScript.Shell>
+Не удалось подключить клиент тестирования. %1	Nepavyko prisijungti klientas bandymai. %1
+Не удалось подключить форма %1 по причине:%2	Nepavyko prisijungti forma %1 dėl:%2
+Не удалось получить таймаут для запуска TestClient из значения %1. Используется значение по умолчанию: 25	Nepavyko gauti osd paleisti TestClient iš reikšmes, %1. Naudojama numatytoji reikšmė: 25
+Не удалось получить таймаут для работы асинхронных шагов. Было передано значение: %1	Nepavyko gauti osd darbo asinchroninis žingsnių. Buvo perduotas, vertė: %1
+Не указан каталог для формирования видео инструкции.	Nėra nurodyta kataloge forma video instrukcijos.
+Не указан каталог с нужной версией платформы 8.3.10 или выше.	Nėra nurodyta kataloge norimą versija platforma 8.3.10 arba didesnis.
+Не указана команада для выполнения скриншотов. Например <%1>	Nėra nurodyta команада atlikti vaizdus. Pvz., <%1>
+Не указано имя файла лога в параметре <ИмяКаталогаЛогОшибок>	Nenurodyta failo pavadinimas лога parametro <ИмяКаталогаЛогОшибок>
+Не указано имя файла лога в параметре <ИмяФайлаЛогВыполненияСценариев>	Nenurodyta failo pavadinimas лога parametro <ИмяФайлаЛогВыполненияСценариев>
+Не указано количество кадров.	Nenurodyta kadrų skaičių.
+Не установлен ffmpeg.	Nėra nustatytas ffmpeg.
+Не установлен ImageMagic (convert.exe)	Nėra nustatytas ImageMagic (convert.exe)
+Не установлен ImageMagic (convert.exe).	Nėra nustatytas ImageMagic (convert.exe).
+Не установлен oscript.	Nėra nustatytas oscript.
+Не установлен VLC 2.1.5.	Nėra nustatytas VLC 2.1.5.
+Не установлен ГолосовойДвижок.	Nėra nustatytas ГолосовойДвижок.
+Неверно задан макет. Неверная колонка в первой строке. Не указана обязательная колонка с именем [%1]	Neteisingai nustatytas maketą. Neteisingas stulpelio pirmoje eilutėje. Nėra nurodyta privaloma skiltis pavadinimu " [%1]
+Неверное число параметров в строке табилцы. Должно быть <	Neteisingas parametrų skaičius eilutėje табилцы. Turi būti <
+Неверное число параметров в строке таблицы. Должно быть <%1> параметров, а в строке найдено <%2>.	Neteisingas parametrų skaičius lentelės eilutėje. Turi būti <%1> parametrai, ir eilutėje nerasta <%2>.
+Неверный режим поиска: Не поддерживаемый режим поиска. Реквизит <%1>: Искали значение <%2>	Neteisingas paieškos režimas: Ne palaikomos paieškos režimas. Rekvizitai <%1>: Ieškoma reikšmė <%2>
+Неверный формат области <%1>	Neteisingas formatas srityje <%1>
+Невидима	Невидима
+Недоступна	Nėra
+Неивестный ТипПараметра в ПолучитьАсинхроноСостоянияОбъектовФайловойСистемы: %1	Неивестный ТипПараметра į ПолучитьАсинхроноСостоянияОбъектовфайловойсистемы: %1
+Неизвестная версия поставки Vanessa-Automation: %1	Nežinoma versija pristatymo Vanessa-Automation: %1
+Неизвестная ошибка в ПолучитьРезультатПрохожденияТестовСценария.	Nežinoma klaida ПолучитьРезультатПрохожденияТестовсценария.
+НеизвестнаяОшибка	НеизвестнаяОшибка
+Неизвестный идентификатор плагина: <%1>	Nežinomas id plug-in: <%1>
+Неизвестный КорневойТипКонфигурации <%1>	Nežinomas КорневойТипКонфигурации <%1>
+Неизвестный КорневойТипКонфигурации <%1> КорневойТипКонфигурации()	Nežinomas КорневойТипКонфигурации <%1> КорневойТипКонфигурации()
+Неизвестный менеджер регистра %1.%2 . Переменная %3	Nežinomas vadybininkas raidžių %1.%2 . Kintamasis %3
+Неизвестный тип вывода данных по изменению формы.	Nežinomas išėjimo duomenų tipas pakeisti formos.
+Неизвестный Тип: %1 в ПолучитьЗначениеДляПередачиВМетод	Nežinomas Tipas: %1 ПолучитьЗначениеДляПередачиВМетод
+Нельзя изменять текущее поле у зарезервированного подключения <Этот клиент>.	Negalima keisti esamą jūs saugomos prisijungti <Šis vartotojas>.
+Нельзя получить состав колонок для пустой таблицы.	Negalima gauti sudėtis stulpelių tuščią lentelę.
+Необрабатываемый корневой тип <%1>	Необрабатываемый root tipas <%1>
+Необходимо установить программное обеспечение. Подробности тут: %1	Reikia įdiegti programinę įrangą. Išsami informacija čia: %1
+НеСовпадаютЗначенияВЯчейкеТаблицы	НеСовпадаютЗначенияВЯчейкеТаблицы
+Нет подключенных TestClient.	Nėra prisijungusių TestClient.
+Обнаружено несколько полей с заголовком <%1>	Nustatyta, kad kelis laukus su antrašte <%1>
+Обычная фича №%1 из %2. РаннерID=%3. %4	Įprasta фича nr.%1 %2. РаннерID=%3. %4
+Одна или несколько строк эталонной таблицы не найдена в таблице формы%1	Viena ar kelias eilutes pavyzdinis lentelės nerastas lentelės forma%1
+Однопоточная фича №%1 из %2. РаннерID=%3. %4	Однопоточная фича nr.%1 %2. РаннерID=%3. %4
+Ожидали <%1> элементов справочника <%2>, а нашли <%3> элементов.	Tikėjomės <%1> elementų, reference manual <%2> rasti <%3> elementų.
+Ожидали в течение <%1> секунд доступности поля <%2>. Но такой элемент на форме не найден.	Tikėjomės per <%1> sekundžių prieinamumo lauko <%2>. Tačiau toks elementas formoje nerastas.
+Ожидали в течение <%1> секунд доступности поля <%2>. ТекущаяДоступность=%3	Tikėjomės per <%1> sekundžių prieinamumo lauko <%2>. ТекущаяДоступность=%3
+Ожидали в течение <%1> секунд появления поля <%2>. Но такой элемент на форме не найден.	Tikėjomės per <%1> sekundžių pasirodymo lauko <%2>. Tačiau toks elementas formoje nerastas.
+Ожидали в течение <%1> секунд появления поля <%2>. ТекущаяВидимость=%3	Tikėjomės per <%1> sekundžių pasirodymo lauko <%2>. ТекущаяВидимость=%3
+Ожидали в течение <%1> секунд у поля <%2> значения <%3>. Текущее значение <%4>	Tikėjomės per <%1> sekundžių iš lauko <%2> reikšmės <%3>. Dabartinė vertė <%4>
+Ожидали в течение <%1> секунд у таблицы <%2> количество строк %3 %4. Текущее количество строк <%5>	Tikėjomės per <%1> sekundžių jūs lentelės <%2> eilučių skaičius %3 %4. Dabartinė suma <%5>
+Ожидали в течение <%1> секунд, что закроется окно с заголовком <%2>	Tikėjomės per <%1> sekundžių, kad bus uždarytas langas su antrašte <%2>
+Ожидали в течение <%1> секунд, что откроется окно с заголовком <%2>	Tikėjomės per <%1> sekundžių, kad atsivers langas su antrašte <%2>
+Ожидали в течение <%1> секунд, что поле <%2> будет заполненным.	Tikėjomės per <%1> sekundžių, kad lauke <%2> bus persmelktos.
+Ожидали заполненность ссылки, а получили пустую ссылку.%1	Tikėjomės заполненность nuorodos, o gavo tuščią nuorodą.%1
+Ожидали идентичность файлов, а получили, что они различны.%1	Tikėjomės tapatybę failus, taip gavo, kad jie yra skirtingi.%1
+Ожидали получить только одну строку таблицы.	Tikėjosi gauti tik vieną eilutę lentelėje.
+Ожидали статус <%1>, а получили <%2>	Tikėjomės statusą, <%1>, o gavo <%2>
+Ожидали существование объекта в ИБ, а получили объект не найден <%1> .%2	Tikėjomės egzistavimą objekto ИБ, o gavo objektas nerastas <%1> .%2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения <%4>. Текущее значение <%5>.	Tikėjomės mes lentelės <%1> per <%2> sekundžių iš lauko <%3> reikšmės <%4 ir>. Dabartinė vertė <%5>.
+Ожидали, что %1 %2 выбросит исключение %3 %4	Tikėjomės, kad %1 %2 выбросит išimtis %3 %4
+Ожидали, что активным окном будет <%1>, а нашли <%2>. Таймаут поиска окна: %3	Tikėjomės, kad aktyvus langas bus <%1>, o rado <%2>. Osd paieškos langą: %3
+Ожидали, что в сообщениях пользователю будет подстрока <%1>	Tikėjomės, kad laiškuose vartotojui bus substr <%1>
+Ожидали, что вторым параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Tikėjomės, kad antras parametras bus perduotas masyvo parametrų metodas <%1>, o gavo kitą objektą, kurio <%2>
+Ожидали, что вторым параметром будет передана структура параметров для метода <СоздатьДанныеПоТабличномуДокументу>, а получили другой объект с типом <%1>	Tikėjomės, kad antras parametras bus perkelta struktūra, parametrų metodas <СоздатьДанныеПоТабличномуДокументу>, o gavo kitą objektą, kurio <%1>
+Ожидали, что количество строк таблицы <%1> будет равно переменной <%2>. Значение переменной <%3>. Количество строк <%4>	Tikėjomės, kad eilučių skaičių lentelės <%1> bus dar kintamasis <%2>. Kintamojo reikšmė <%3>. Eilučių skaičius <%4>
+Ожидали, что окно сообщений пользователю будет пустое. В нём %1 сообщений.	Tikėjomės, kad pranešimo langą vartotojui bus tuščias, o jame %1 pranešimų.
+Ожидали, что переменная <%1> будет равна <%2>. Текущее значение <%3>	Tikėjomės, kad kintamasis <%1> bus lygi <%2>. Dabartinė vertė <%3>
+Ожидали, что поле <%1> будет равно переменной <%2>. Значение переменной <%3>. ЗначениеПоля <%4>	Tikėjomės, kad lauke <%1> bus dar kintamasis <%2>. Kintamojo reikšmė <%3>. ЗначениеПоля <%4>
+Ожидали, что поле с заголовком <%1> будет заполнено, но оно пустое.	Tikėjomės, kad lauke su antrašte <%1> bus užpildyta, bet ji yra tuščia.
+Ожидали, что проверяемое значение (%1) %2 %3 %4	Tikėjomės, kad проверяемое reikšmė (%1) %2 %3 %4
+Ожидали, что третьим параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Tikėjomės, kad trečias parametras bus perduotas masyvo parametrų metodas <%1>, o gavo kitą objektą, kurio <%2>
+Ожидали, что у группы <%1> текущей страницей будет <%2>, а оказалась <%3>	Tikėjomės, kad jūs grupė <%1> dabartinės puslapiu bus <%2>, o pasirodė, <%3>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Tikėjomės, kad jūs lentelės dokumento <%1> langelyje su adresu <%2> bus reikšmę <%3>, o gavo <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Tikėjomės, kad jūs lentelės dokumento <%1> langelyje su adresu <%2> bus reikšmę <%3>, o gavo <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Tikėjomės, kad jūs lentelės dokumento <%1> langelyje su adresu <%2> bus reikšmę <%3>, o gavo <%4>
+Ожидали, что ячейка <%1> будет заполнена.	Tikėjomės, kad langelis <%1> bus užimta.
+Ожидали, чтов таблице <%1> поле <%2> будет равно переменной <%3>. Значение переменной <%4>. ЗначениеПоля <%5>	Tikėjomės, чтов lentelėje <%1> laukas <%2> bus dar kintamasis <%3>. Kintamojo reikšmė <%4 ir>. ЗначениеПоля <%5>
+Окно с заголовком <%1> не найдено.	Langas su antrašte <%1> nėra rasta.
+Описание ошибки: %1	Klaidos aprašymas: %1
+Остановка на брейкпоинте.	Sustojimas брейкпоинте.
+Ошибка в %1. %2	Klaida %1. %2
+Ошибка в ДобавитьStepDefinitionВТекстМодуля.	Klaida ДобавитьStepDefinitionВТекстМодуля.
+Ошибка в ПолучитьУжеСуществующиеСнипетыИзОбработок(). Файл/каталог %1 не существует.	Klaida ПолучитьУжеСуществующиеСнипетыИзобработок(). Failo/katalogas %1 neegzistuoja.
+Ошибка в файле %1, снипет %2 уже был в %3	Klaida faile %1, снипет %2 jau buvo %3
+Ошибка перегенерации EPF. Файл %1 не найден.	Klaida перегенерации EPF. Failas %1 nerastas.
+Ошибка при выгрузке набора записей регистра: %1	Klaida iškrauti įrašų rinkinys raidžių: %1
+Ошибка при выгрузке объекта: %1. Тип: %2	Klaida iškrauti objektas: %1. Tipas: %2
+Ошибка при закрытии всех окон Testclient.	Klaida uždarant visus langus Testclient.
+Ошибка при поиске значений в макете %1:	Klaida ieškant reikšmių makete, %1:
+Ошибка при получении активной формы.	Klaida gavus aktyvios formos.
+Ошибка при получении списка процессов 1С.	Klaida gavus sąrašo procesai 1.
+Ошибка при получении текста фичи:	Klaida gavus teksto фичи:
+Ошибка при построении дерева из файла <%1>%2%3	Klaida apskaičiuojant medis iš failo <%1> %2 %3
+Ошибка при создании данных из макета. Неуникальное имя переменной: [%1]	Klaida kuriant duomenų išdėstymą. Неуникальное kintamojo pavadinimas: [%1]
+Ошибка проверки значения таблицы <%1>. %2	Klaida patikrinti vertybes lentelės <%1>. %2
+Ошибка создания временного файла в подкаталоге %1.	Klaida sukurti laikinąjį failą į pakatalogį %1.
+Ошибка создания скриншота:%1 команда:%2	Klaida sukurti скриншота:%1 komanda:%2
+Ошибка создания файла %1.	Klaida sukurti failą, %1.
+Ошибка чтения JSON. Неизвестный символ %1	Skaitymo klaida JSON. Nežinomas simbolis " %1
+Ошибка чтения структуры JSON пропускаем чтение	Skaitymo klaida struktūra JSON praleidžiame skaityti
+Ошибка чтения структуры JSON.	Skaitymo klaida struktūra JSON.
+Ошибка. В фиче %1 было найдено несколько сценариев с именем %2	Klaida. Į фиче %1 buvo rasta keli scenarijai, pavadinimu " %2
+Ошибка. Найдено более 1 значения в кэше МетаданныеИмя [%1] по указанным параметрам поиска %2	Klaida. Rasta daugiau nei 1 reikšmę į talpyklą МетаданныеИмя [%1] pagal nurodytus parametrus paieškos %2
+ОшибкаПроверки	ОшибкаПроверки
+Параметр <Запускаемая обработка> указывает на несуществующий файл.	Parametras <Запускаемая apdorojimas> nurodo į neegzistuojantį failą.
+Параметр <Имя подключения> является обязательным.	Parametras <ryšio Pavadinimas> yra privalomas.
+Параметр <Логин> не задан	Parametras <Login> nenurodytas
+Параметр %1 не найден в таблице параметров.	Parametras %1 nerastas lentelės parametrus.
+Первый параметр (%1) меньше второго (%2) а хотели, чтобы был больше или равен.%3	Pirmas parametras (%1) mažiau nei antrąjį (%2) ir norėjo, kad buvo didesnis ar lygus.%3
+Первый параметр (%1) меньше или равен второму (%2) а хотели, чтобы был больше.%3	Pirmas parametras (%1) yra mažesnis arba lygus antrąją (%2) ir norėjo, kad buvo daugiau.%3
+Передан пустой путь в процедуру <СоздатьКаталогЕслиЕгоНет>.	Perduodamas tuščias kelias į procedūrą <СоздатьКаталогЕслиЕгоНет>.
+Переданная дата (%1) не равна дате (%2) с точностью до 2-х секунд, а хотели, чтобы они равнялись. %3	Atsiųsta data (%1) nėra lygus datą (%2) su tikslumu iki 2-jų sekundžių, bet norėjo, kad jie равнялись. %3
+Переданный параметр (%1) не входит в период %2, а хотели, чтобы являлся. %3	Nurodytas parametras (%1) nėra įtrauktas į laikotarpis %2, o norėjo, kad buvo. %3
+Переданный параметр (%1) не является Истиной, а хотели, чтобы являлся. %2	Nurodytas parametras (%1) yra ne Tiesa, o norėjo, kad buvo. %2
+Переданный параметр (%1) не является Ложью, а хотели, чтобы являлся. %2	Nurodytas parametras (%1) yra ne Melas, o norėjo, kad buvo. %2
+Передвижение курсора мышки - OK	Judėjimas pelės žymeklį - OK
+ПередВыполнениемШага: %1	ПередВыполнениемШага: %1
+Переключатель с заголовком <%1> не найден.	Jungiklis su antrašte <%1> nerastas.
+Переключатель с именем <%1> не найден.	Jungiklis su pavadinimu <%1> nerastas.
+Переменная <%1> не найдена.	Kintamasis <%1> nėra rasta.
+Переменная <%1> ранее не была сохранена	Kintamasis <%1> anksčiau neįrašoma
+Пересоздан %1	Пересоздан %1
+Пересоздаю %1	Пересоздаю %1
+ПланВидовРасчета.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланВидовРасчета.%1 nepavyko rasti предопределенный elementas/grupę [%2].%3
+ПланВидовРасчета.%1 не удалось создать новую группу.%2	ПланВидовРасчета.%1 nepavyko sukurti naują grupę.%2
+ПланВидовРасчета.%1 не удалось создать новый элемент.%2	ПланВидовРасчета.%1 nepavyko sukurti naują elementą.%2
+ПланВидовХарактеристик.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланВидовХарактеристик.%1 nepavyko rasti предопределенный elementas/grupę [%2].%3
+ПланВидовХарактеристик.%1 не удалось создать новую группу.%2	ПланВидовХарактеристик.%1 nepavyko sukurti naują grupę.%2
+ПланВидовХарактеристик.%1 не удалось создать новый элемент.%2	ПланВидовХарактеристик.%1 nepavyko sukurti naują elementą.%2
+ПланОбмена.%1 не удалось получить узел этой ИБ.%2	ПланОбмена.%1 nepavyko gauti mazgas šios ИБ.%2
+ПланОбмена.%1 не удалось создать новый узел.%2	ПланОбмена.%1 nepavyko sukurti naują svetainę.%2
+ПланСчетов.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланСчетов.%1 nepavyko rasti предопределенный elementas/grupę [%2].%3
+ПланСчетов.%1 не удалось создать новую группу.%2	ПланСчетов.%1 nepavyko sukurti naują grupę.%2
+ПланСчетов.%1 не удалось создать новый элемент.%2	ПланСчетов.%1 nepavyko sukurti naują elementą.%2
+Подключение с именем <%1> перезаполнено в таблице подключений	Ryšys su pavadinimu <%1> перезаполнено lentelėje jungtys
+Подключили для отладки форма %1	Užsikabinęs derinimo forma %1
+Подключились к сеансу TESTCLIENT.	Prisijungę prie diskusijos TESTCLIENT.
+Подсвет рамки - OK	Подсвет sistema - OK
+Поле <%1> в данный момент невидимо пользователю.	Lauke <%1> šiuo metu yra nematomas vartotojui.
+Поле <%1> существует, а ожидали, что его нет.	Lauke <%1> egzistuoja, ir tikėjosi, kad jo nėra.
+Поле с заголовком <%1> не найдено.	Lauke su antrašte <%1> nėra rasta.
+Поле с именем <%1> не найдено.	Lauke, su pavadinimu <%1> nėra rasta.
+Получить изменения формы	Gauti pokyčiai formos
+Получить состояние всей формы	Gauti būsena visos formos
+ПолучитьИдентификаторПредставленияПоСсылке() : Неизвестный КорневойТипКонфигурации <%1>	ПолучитьИдентификаторПредставленияпоссылке() : Nežinomas КорневойТипКонфигурации <%1>
+ПолучитьСостояниеФормыTestClient:%1	ПолучитьСостояниеФормыTestClient:%1
+ПолучитьТаблицуЗначенийИзТабличногоДокумента: Требуется тип ТабличныйДокумент или ПолеТабличногоДокумента	ПолучитьТаблицуЗначенийИзТабличногодокумента: Reikia tipas ТабличныйДокумент arba ПолеТабличногоДокумента
+ПолучитьУжеСуществующиеСнипетыИзОбработок:%1	ПолучитьУжеСуществующиеСнипетыИзобработок:%1
+Пометка для шаг установлена.	Pažymėjimas, kad žingsnis įdėta.
+Пометка снята.	Pažymėjimas panaikintas.
+порт <%1>	port <%1>
+Порт %1 занят или находится вне указанного диапазона, порт подключения изменен на %2	Uostas %1 užimtas ar esate ne nustatytose ribose, uosto prisijungti pakeistas į %2
+Построение дерева.	Statyba iš medžio.
+Превышение таймаутуа ожидания завершения фонового задания.	Viršija таймаутуа laukimo pabaigos, fono darbą.
+Предупреждение с текстом %1 не найдено.	Įspėjimas su tekstu %1 nerasta.
+Предыдущая ошибка: %1. ТаймаутОжидания=%2	Ankstesnis klaida: %1. ТаймаутОжидания=%2
+При подключении TestClient возникло сообщение:	Prijungus TestClient atsirado pranešimas:
+ПроверитьРавенствоТаблиц: Второй параметр-таблица таблицей не является	ПроверитьРавенствоТаблиц: Antrasis parametras-lentelė lentele nėra
+ПроверитьРавенствоТаблиц: Первый параметр-таблица таблицей не является	ПроверитьРавенствоТаблиц: Pirmas parametras-lentelė lentele nėra
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Второй параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: Antrasis parametras-lentelė nėra табличным dokumentu
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Первый параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: Pirmas parametras-lentelė nėra табличным dokumentu
+ПроверитьТип: Тип значения параметра ТипИлиИмяТипа должен быть <Тип> или <Строка>, а получили <%1>%2	ПроверитьТип: Tipas parametro ТипИлиИмяТипа turi būti <Tipas> arba <Str>, o gavo <%1>%2
+Проверка загрузки объектов в ИБ из макета данных выполнена успешно.	Tikrinimas parsisiųsti objektų ИБ makete duomenų pavyksta.
+Проверьте работу команды <%1>	Patikrinkite, ar veikia komandas <%1>
+Профиль с именем <%1> не найден.	Profilio pavadinimą <%1> nerastas.
+ПрочитатьПеременныеСреды:%1	ПрочитатьПеременныеСреды:%1
+Пустой адрес снипета у шага: %1	Tuščias adresas снипета jūs žingsniai: %1
+ПутьКФиче=Неопределено	ПутьКФиче=Neapibrėžta Eilutė
+Работа с ключами для %1 пока не поддерживается	Darbas su raktais %1 kol nepalaikomas
+Работаю по сценарию	Dirbu pagal scenarijų
+Работаю по фиче: %1	Dirbu pagal фиче: %1
+равно	tiek
+РазличаютсяКолонки	РазличаютсяКолонки
+Различия в таблицах:	Skirtumai lentelėse:
+РазноеКоличествоСтрок	РазноеКоличествоСтрок
+Раннер <%1> не подключен.	Bausmė <%1> nėra prijungtas.
+РежимСовместимостиTestManager	РежимСовместимостиTestManager
+Реквизит <%1> не найден.	Rekvizitai <%1> nerastas.
+с длиной	ilgio
+Сеанс должен быть запущен с ключом TESTMANAGER.	Diskusija turėtų būti pradėtas raktas TESTMANAGER.
+Снипет <%1> встречается %2 раз.	Снипет <%1> susitinka %2 kartus.
+содержащее текст <%1>, а был текст <%2>	kuriame tekstą <%1>, o buvo tekstas <%2>
+содержит	yra
+Создан %1	Sukurta %1
+Создан файл: %1	Sukurtas failas: %1
+Создание epf по фичам закончено.	Kurti epf pagal фичам baigtos.
+Создать тестовый mp3 - OK	Sukurti bandymo mp3 - OK
+Создаю %1	Sukurti %1
+Справочник.%1 не удалось найти предопределенный элемент/группу [%2].%3	Vadovas.%1 nepavyko rasti предопределенный elementas/grupę [%2].%3
+Справочник.%1 не удалось создать новую группу.%2	Vadovas.%1 nepavyko sukurti naują grupę.%2
+Справочник.%1 не удалось создать новый элемент.%2	Vadovas.%1 nepavyko sukurti naują elementą.%2
+Справочник.%1.%2 - получен пустой элемент.	Vadovas.%1.%2 - gautas tuščias elementas.
+Сравниваемые значения (%1; %2) не равны, а хотели, чтобы были равны.%3	Сравниваемые verčių (%1
+Сравниваемые значения (%1; %2) равны, а хотели, чтобы были не равны.%3	Сравниваемые verčių (%1
+Странный параметр в логе инструкции HTML: %1	Keista parametras apache instrukcijos HTML: %1
+Странный параметр в логе инструкции Markdown: %1	Keista parametras apache instrukcijos Markdown: %1
+Строка <%1> из файла <%2> не найдена в файле <%3>	Eilutė <%1> iš failo <%2> nerastas faile <%3>
+Строка <%1> найдена в окне сообщений пользователю.	Eilutė <%1> rasta pranešimo langas vartotojui.
+Строка <%1> найдена в последнем сообщении пользователю. Найдено: %2	Eilutė <%1> rasta pastaruoju pranešimu vartotojui. Iš viso: %2
+Строка <%1> не найдена в окне сообщений пользователю.	Eilutė <%1> nėra rasta pranešimo langas vartotojui.
+Строка <%1> не найдена в последнем сообщении пользователю. Найдено: %2	Eilutė <%1> nėra rasta pastaruoju pranešimu vartotojui. Iš viso: %2
+Строка %1 не найдена в реквизите %2	Eilutės %1, rasta реквизите %2
+Строка №%1 не найдена в табличном документе на форме	Eilutė nr.%1 nerastas stalo dokumente forma
+Строка №%1, обнаружен символ <|>, хотя не было ключевого слова <Примеры>.	Eilutė nr.%1, rastas simbolis <|>, nors nebuvo raktinį žodį <Pavyzdžiai>.
+Строка №%1, ожидалось (%2), а найдено (%3) ПредыдущееКлючевоеСлово=%4	Eilutė nr.%1, tikėtasi (%2), o rasti (%3) ПредыдущееКлючевоеСлово=%4
+Строка должна быть описана таблицей с двумя строками.	Eilutė turi būti aprašyta lentele su dviem tuščių.
+Строка с фича-файлом не найдена.	Juosta su фича-failu nerasta.
+СтрокаЗапуска=%1	СтрокаЗапуска=%1
+существует	yra
+Сценарий <%1> не загружен.	Scenarijus <%1> nėra įkeltas.
+Сценарий: %1	Scenarijus: %1
+Таблица <%1> не соответствует эталону. Ожидали <%2> строк, а в ней <%3> строк.	Lentelėje <%1> neatitinka balansas. Tikėjomės <%2> eilučių, o jame <%3> eilučių.
+Таблица <%1> не стала равной за <%2> секунд. %3	Lentelėje <%1> ne tapo lygus už <%2> sekundžių. %3
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Ожидали <%4>, а получили <%5>	Lentelėje <%1>. Eilutė nr.<%2>. Skiltis <%3>. Tikėjomės <%4>, o gavo <%5>
+Таблица формы с именем <%1> не найдена.	Stalo forma pavadinimu <%1> nėra rasta.
+ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.Количество()=%2	ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.Kiekis()=%2
+Таблицы должны совпадать, а они различны.%1	Lentelės turi sutapti, o jie yra skirtingi%1
+ТаблицыСовпадают	ТаблицыСовпадают
+Табличный документ <%1> оказался неравен <%2>.%3	Lentelės dokumentas <%1> atsidūrė неравен <%2>.%3
+Табличный документ не содержит нужные строки <%1>	Lentelės dokumente nėra teisingos eilutės <%1>
+Табличный документ содержит ненужные строки <%1>	Lentelės dokumentas yra nereikalingas eilutes <%1>
+ТестируемаяФорма <%1> не открылась, а должна была открыться	ТестируемаяФорма <%1> ne pradėjo, o turėjo būti atskleista
+ТестПропущен	ТестПропущен
+Технические данные	Techniniai duomenys
+тип	tipas
+Типом значения <%1> является <%2>, а ожидался тип <%3>.%4	Tipo reikšmes <%1> yra <%2>, o ожидался tipas <%3>.%4
+Требуется документ, бизнес-процесс или задача. Неизвестный менеджер %1.%2 . Переменная %3	Reikalingas dokumentas, verslo procesų arba užduotis. Nežinomas vadybininkas %1.%2 . Kintamasis %3
+ТЧ %1 не соответствует эталону. Ожидали %2 строк, а в ней %3 строк.	ТЧ %1 neatitinka balansas. Tikėjomės %2 eilučių, o joje %3 eilučių.
+ТЧ с именем <%1> не найдена.	ТЧ su pavadinimu <%1> nėra rasta.
+У окна <%1> не найдено ни одного элемента с типом <ТестируемоеПолеФормы>.	Lange <%1> nėra rasta nė vieno elemento tipo <ТестируемоеПолеФормы>.
+У поля <%1> ожидали заголовок <%2>, а получили <%3>	Iš lauko <%1> tikėjosi antraštė <%2>, o gavo <%3>
+У поля <%1> ожидали отображаемый текст <%2>, а получили <%3>	Iš lauko <%1> tikėjosi rodomą tekstą <%2>, o gavo <%3>
+У поля <%1> ожидали текст подсказки <%2>, а получили <%3>	Iš lauko <%1> tikėjosi tekstas pasiūlymus <%2>, o gavo <%3>
+У текущего окна найдено %1 форм.	Jūs dabartinio lango rastas %1 formas.
+У элемента формы <%1> текущий текст редактирования <%2>, а ожидали <%3>	Jūs elemento formos <%1> dabartinis teksto redagavimo <%2> ir tikėjosi <%3>
+Удаляю элемент %1	Удаляю elemento " %1
+Удаляю элемент справочника <%1> : <%2>	Удаляю elementas, reference manual <%1> : <%2>
+Уже открытый TestClient подключен на %1 порту.	Jau atviras TestClient prijungtas %1 uoste.
+Указан неверный диапазон портов: <%1>	Nurodytas netinkamas prievadus: <%1>
+Указанное Имя колонки замещения [%1] не существует в макете.	Nurodyta Vardas skiltyje pakeitimo [%1] neegzistuoja makete.
+Установлен флаг "Остановка при возникновении ошибки". Выполнение следующих сценариев отменено.	Nustatyta vėliava "Stotelė, kai įvyksta klaida". Atlikti šių scenarijų atšauktas.
+Установлен флаг <Остановка при возникновении ошибки>. Выполнение следующих сценариев отменено.	Nustatyta vėliava <Stotelė, kai įvyksta klaida>. Atlikti šių scenarijų atšauktas.
+Утверждение "ИмеетДлину" не умеет работать с типом <%1>.%2	Teiginys "ИмеетДлину" negali dirbti su tipo <%1>.%2
+Утверждение "ПроверитьВхождениеВКоллекцию" не умеет работать с типом коллекции <%1>.%2	Teiginys "ПроверитьВхождениеВКоллекцию" ne moka dirbti, kurio kolekcijos <%1>.%2
+Утверждение "Содержит" не умеет работать с типом <%1>.%2	Teiginys "Yra" ne moka dirbti su tipo <%1>.%2
+Утверждение <ИмеетДлину> не умеет работать с типом <%1>.%2	Teiginys <ИмеетДлину> ne moka dirbti su tipo <%1>.%2
+Утверждение <ПроверитьВхождениеВКоллекцию> не умеет работать с типом коллекции <%1>.%2	Teiginys <ПроверитьВхождениеВКоллекцию> ne moka dirbti, kurio kolekcijos <%1>.%2
+Утверждение <Содержит> не умеет работать с типом <%1>.%2	Teiginys <Yra> ne moka dirbti su tipo <%1>.%2
+Утверждение ПроверитьРавенствоФайлов можно использовать только в толстом клиенте.	Teiginys ПроверитьРавенствоФайлов galima naudoti tik tolstojų klientą.
+Файл <%1> не найден.	Failas <%1> nerastas.
+Файл <%1> не существует.	Failas <%1> nėra.
+Файл <vbFeatureReader.epf> не найден в каталоге инструментов <%1>	Failas <vbFeatureReader.epf> neradote kataloge, įrankių <%1>
+Файл %1: <%2>	Failas %1: <%2>
+Файл EPF не создан.	Failo EPF nėra sukurta.
+Файл EPF не создан. Не смог создать каталог временной базы.	Failo EPF nėra sukurta. Nepavyko sukurti katalogo svorio bazės.
+Файл отчета Allure-report (%1) записан.	Failo ataskaitą Allure-report (%1) užregistruotas.
+Файл отчета CucumberJson-report (%1) записан.	Failo ataskaitą CucumberJson-report (%1) užregistruotas.
+Файл отчета jUnit-report (%1) записан.	Failo ataskaitą jUnit-report (%1) užregistruotas.
+Фича <%1> содержит тег @Tree. Найдены строки, которые содержат символы пробелов и символы табуляции в начале строки. Дерево не может быть корректно построено.	Фича <%1> yra žymė @Tree. Rasti eilutes, kurios yra tarpų simboliai ir tabuliatoriaus simboliai eilutės pradžioje. Medis negali būti tinkamai pastatytas.
+Фича <%1> содержит тег @Tree. Часть строк содержит в начале строки символы пробелов <%2>, часть строк содержит символы табуляции <%3>. Дерево не может быть корректно построено.	Фича <%1> yra žymė @Tree. Dalis eilučių yra eilutės pradžioje tarpų simboliai <%2>, dalis eilučių yra tabuliatoriaus simboliai <%3>. Medis negali būti tinkamai pastatytas.
+Фича: %1	Фича: %1
+Фичи загружены	Фичи parsisiųsti
+Флаг <Сохранять контексты перед выполнением шагов> установлен в <Истина>.	Vėliava <Įrašyti контексты prieš atlikdami žingsnių> nustatytas <True>.
+Флаг с заголовком <%1> не найден.	Vėliava su antrašte <%1> nerastas.
+Флаг с именем <%1> не найден.	Vėliava su pavadinimu <%1> nerastas.
+Форма <%1> не найдена.	Forma <%1> nėra rasta.
+Форма окна с заголовком %1 не найдена.	Forma lango su antrašte %1 nerastas.
+Форма с заголовком <%1> не найдена.	Forma su antrašte <%1> nėra rasta.
+Форма с заголовком %1 не найдена.	Forma su antrašte %1 nerastas.
+Хост сеанс надо запустить с ключом /TESTMANAGER.	Priimančiosios seansą reikia paleisti su raktu /TESTMANAGER.
+Хотели, чтобы алгоритм <%1> выполнился, а он упал с ошибкой <%2>. %3	Norėjo, kad algoritmas <%1> выполнился, o jis buvo su klaida <%2>. %3
+Хотели, чтобы алгоритм <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	Norėjo, kad algoritmas <%1> nukrito su pranešimu apie klaidą <%2>, o jis nukrito su pranešimu <%3>.%4
+Хотели, чтобы алгоритм <%1> упал, а он выполнился%2	Norėjo, kad algoritmas <%1> nukrito, o jis выполнился%2
+Хотели, чтобы код <%1> выполнился, а он упал с ошибкой <%2>. %3	Norėjo kodas <%1> выполнился, o jis buvo su klaida <%2>. %3
+Хотели, чтобы код <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	Norėjo kodas <%1> nukrito su pranešimu apie klaidą <%2>, o jis nukrito su pranešimu <%3>.%4
+Хотели, чтобы код <%1> упал, а он выполнился%2	Norėjo kodas <%1> nukrito, o jis выполнился%2
+Шаг	Žingsnis
+Шаг (%1) не выполнен.	Žingsnis (%1) nėra įvykdytas.
+Шаг (%1) не выполнен. Строка дерева №%2	Žingsnis (%1) nėra įvykdytas. Eilutė medžio nr.%2
+Шаг (%1) не реализован.	Žingsnis (%1) nėra įgyvendintas.
+Шаг <%1> должен был вызвать исключение, а он выполнился корректно.	Žingsnis <%1> turėjo sukelti išimtis, o jis выполнился teisingai.
+Шаг выполнен с ошибкой: %1	Žingsnis vykdomas klaida: %1
+Шаг принимает на вход только таблицу Gherkin, в которой две строки. А было передано %1 строк.	Žingsnis sutinka įėjimas tik lentelę Gherkin, kurioje dvi eilutės. O buvo išsiųstas %1 eilutės.
+Шаг сценария не реализован.	Žingsnis scenarijus nebus įgyvendintas.
+Элемент с заголовком <%1> виден на текущей форме	Elementas su antrašte <%1> matoma dabartine forma
+Элемент с заголовком <%1> доступен на форме	Elementas su antrašte <%1> galimas forma
+Элемент с заголовком <%1> доступен не только для просмотра	Elementas su antrašte <%1> galima ne tik peržiūrėti,
+Элемент с заголовком <%1> доступен только для просмотра	Elementas su antrašte <%1> galima tik peržiūrėti
+Элемент с заголовком <%1> не виден на текущей форме	Elementas su antrašte <%1> nėra matoma dabartine forma
+Элемент с заголовком <%1> не доступен на форме	Elementas su antrašte <%1> nėra formoje
+Элемент с именем <%1> виден на текущей форме	Elementas su pavadinimu <%1> matoma dabartine forma
+Элемент с именем <%1> доступен на форме	Elementas su pavadinimu <%1> galimas forma
+Элемент с именем <%1> доступен не только для просмотра	Elementas su pavadinimu <%1> galima ne tik peržiūrėti,
+Элемент с именем <%1> доступен только для просмотра	Elementas su pavadinimu <%1> galima tik peržiūrėti
+Элемент с именем <%1> не виден на текущей форме	Elementas su pavadinimu <%1> nėra matoma dabartine forma
+Элемент с именем <%1> не доступен на форме	Elementas su pavadinimu <%1> nėra formoje
+Элемент формы <%1> не найден.	Forma elementas <%1> nerastas.
+Элемент формы с именем <%1> не найден.	Forma elementas pavadinimu <%1> nerastas.
+Элемента формы с заголовком <%1> не найдено.	Elemento formos su antrašte <%1> nėra rasta.
+Элемента формы с именем <%1> не найдено.	Elemento formos su pavadinimu <%1> nėra rasta.
+Это возможно только для шага.	Tai įmanoma tik veiksmo.
+является NULL	yra NULL
+является заполненным	yra persmelktos
+является истиной	yra tiesos
+является ложью	yra melas
+является неопределено	yra neapibrėžta eilutė
+Не найден SikuliX скрипт <%1>.	Nerasta SikuliX scenarijų <%1>.
+Не удалось выполнить SukuliX скрипт <%1>.	Nepavyko SukuliX scenarijų <%1>.
+Ожидали, что в таблице <%1> текуще поле будет заполнено.	Tikėjomės, kad lentelėje <%1> текуще laukelyje bus užpildyta.
+Ожидали, что в таблице <%1> текуще поле будет не заполнено.	Tikėjomės, kad lentelėje <%1> текуще laukelyje bus užpildyta.
+Ожидали у таблицы <%1> в течение <%2> секунд, что текущее поле будет заполнено.	Tikėjomės mes lentelės <%1> per <%2> sekundžių, kad dabartinė laukelyje bus užpildyta.
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Не смог получить значение из эталона.	Lentelėje <%1>. Eilutė nr.<%2>. Skiltis <%3>. Nepavyko gauti reikšmę iš nuoroda.
+Не получилось получить представление открытого списка выбора <%1>.	Neatsitiko gauti pateikimas viešojo sąrašo pasirinkimo <%1>.
+У списка выбора <%1> ожидалось %2 значений, а было получено %3 значений.	Iš sąrašo pasirinkite <%1> tikėtasi %2 reikšmių, o gautas %3 reikšmes.
+Ожидалось получить %1, а было получено %2.	Tikėtasi gauti %1, o gautas %2.
+Открытый список выбора <%1> не равен эталону. Различия: %2	Atidaryti sąrašą pasirinkimo <%1> nėra lygus balansas. Skirtumai: %2
+Ожидалось, что открытый список содержит значение %1.	Tikėtasi, kad viešojo sąrašas yra vertė, %1.
+Открытый список выбора <%1> не содержит ожидаемые значения: %2	Atidaryti sąrašą pasirinkimo <%1> nėra laukiami reikšmės: %2
+Открытый список выбора <%1> содержит значения, которых не должно быть: %2	Atidaryti sąrašą pasirinkimo <%1> yra, vertės, kurios neturėtų būti: %2
+Не смог получить данные локализации сообщений.	Nepavyko gauti duomenų lokalizacijos pranešimų.
+У поля <%1> не получилось нажать на гиперссылку <%2>.	Iš lauko <%1> neatsitiko spustelėti hipersaitą <%2>.
+Вы уверены?	Ar tikrai?
+Закрыть форму	Uždaryti formą
+Не получилось нажать на кнопку <%1>.	Neatsitiko ir paspausti <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд ячейка <%3> станет равна <%4>.	Tikėjomės, kad jūs lentelės dokumento <%1> per <%2> sekundžių langelis <%3> taps lygi <%4 ir>.
+Некоторые сообщения не были найдены в окне сообщений пользователю: %1	Kai kurie pranešimai buvo rastos lange pranešimų vartotojas: %1
+В окне сообщений пользователю были найдены лишние сообщения: %1	Pranešimo langas vartotojui buvo rasti papildomų pranešimai: %1
+Не получилось определить длительность у файла <%1>.	Neatsitiko nustatyti, kiek jūs failo <%1>.
+Не получилось добавить субтитры к файлу <%1>.	Neatsitiko pridėti subtitrai failą <%1>.
+Команда ffmpeg по слиянию всех видео не выполнена.	Komanda ffmpeg dėl susiliejimo visas video nebaigta.
+Команда ffmpeg по перекодированю звука не выполнена.	Komanda ffmpeg pagal перекодированю garso nebuvo atliktas.
+Команда ffmpeg по добавлению водяной отметки и перекодированию звука не выполнена.	Komanda ffmpeg pagal papildyti vandens vėliavėlės ir перекодированию garso nebuvo atliktas.
+Команда ffmpeg по кодированию в mp4 не выполнена.	Komanda ffmpeg kodavimo, mp4 nebaigta.
+Команда ffmpeg по добавлению mp3 в ролик не выполнена.	Komanda ffmpeg pagal papildyti mp3 voleliu nebaigta.
+Не получилось создать файл TTS <%1>.	Neatsitiko sukurti failą TTS <%1>.
+Не указано имя голоса Text To Speech.	Nenurodyta vardas balso Text To Speech.
+Не указана команда ffmpeg.	Nėra nurodyta komanda ffmpeg.
+Не указана команда Convert.	Nėra nurodyta komanda Convert.
+Не найдено значение из колонки <%1>.	Nerasta reikšmę iš stulpelio <%1>.
+Не найдено значение <%1> из колонки <%2>.	Nerasta reikšmė <%1> iš kolonėlės <%2>.
+Не получилось сохранить в переменную <%1> таблицу с именем <%2>.	Neatsitiko įrašyti į kintamąjį <%1> lentelę su pavadinimu <%2>.
+Таблица <%1> пустая.	Lentelėje <%1> tuščia.
+В таблицах <%1> и <%2> разное количество колонок <%3> и <%4>.	Lentelėse <%1> ir <%2> misc skaičius stulpelių <%3> ir <%4 ir>.
+Не все строки таблицы <%1> найдены в таблице <%2>:	Ne visos lentelės eilutės <%1> rasti lentelėje <%2>:
+Для элемента с именем <%1> не найдена форма.	Elemento pavadinimu <%1> nėra rasta forma.
+Не указано значение настройки Vanessa-automation: <КаталогПроекта>.	Nenurodyta vertė parametrai Vanessa-automation: <КаталогПроекта>.
+Не указано значение настройки Vanessa-automation: <КаталогиСкриптовSikuliX>.	Nenurodyta vertė parametrai Vanessa-automation: <КаталогиСкриптовSikuliX>.
+В каталоге <%1> не найден файл <%2>.	Katalogas <%1> failas nerastas <%2>.
+В каталоге <%1> найдено больше одного файла <%2>: %3.	Katalogas <%1> rasti daugiau vieno failo <%2>: %3.
+Не получилось сделать клик мышкой по картинке <%1>.	Neatsitiko padaryti skelbimą pelės iš paveikslėlio <%1>.
+Не получилось запустить Sikulix сервер.	Neatsitiko paleisti Sikulix serveris.
+Не получилось дождаться выполнения SikuliX скрипта <%1>.	Neatsitiko palaukti, kol bus atlikti SikuliX scenarijų <%1>.
+Не получилось выполнить SikuliX скрипт <%1>.	Neatsitiko atlikti SikuliX scenarijų <%1>.
+Ожидалось, что группа элементов <%1> содержит данные элементы формы: %2	Tikėtasi, kad grupė elementų <%1> yra duomenų elementai formos: %2
+Ожидалось, что группа элементов <%1> не содержит данные элементы формы: %2	Tikėtasi, kad grupė elementų <%1> nėra duomenų elementai formos: %2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения отличного от <%4>. Текущее значение <%5>.	Tikėjomės mes lentelės <%1> per <%2> sekundžių iš lauko <%3> reikšmes, išskyrus <%4 ir>. Dabartinė vertė <%5>.
+Ожидалось, что в панели разделов будет <%1> элементов, а найдено <%2> элементов.	Tikimasi, kad juostos pertvaros bus <%1> elementų, o rasta <%2> elementų.
+Ожидалось, что в панели разделов будут содержаться следующие элементы: %1	Tikimasi, kad juostos pertvaros bus būti šie elementai: %1
+Ожидалось, что в панели разделов не будут содержаться следующие элементы: %	Tikimasi, kad juostos skyriai bus būti šie elementai: %
+Ожидалось, что в панели функций будет <%1> элементов, а найдено <%2> элементов.	Tikimasi, kad juostos funkcijas bus <%1> elementų, o rasta <%2> elementų.
+Ожидалось, что в панели функций будет элемент <%1> , а был найден элемент <%2>.	Tikimasi, kad juostos funkcijas, bus elementas <%1> , o buvo nerastas elementas <%2>.
+Ожидалось, что в панели функций будут содержаться следующие элементы: %1	Tikimasi, kad juostos funkcijas bus būti šie elementai: %1
+Ожидалось, что в панели функций не будут содержаться следующие элементы: %1	Tikimasi, kad juostos funkcijas nebus turėti šiuos elementus: %1
+Группа <%1> не найдена в панели функций.	Grupė <%1> nėra rasta įrankių juostos funkcijas.
+Ожидалось, что в группе <%1> панели функций будут содержаться следующие элементы: %2	Tikėtasi, kad grupėje <%1> skydelio funkcijas bus būti šie elementai: %2
+Ожидалось, что в группе <%1> панели функций не будут содержаться следующие элементы: %2	Tikėtasi, kad grupėje <%1> skydelio funkcijas nebus turėti šiuos elementus: %2
+Ошибка. Не найдены настройки пользователя <%1> в файле <%2>.	Klaida. Nerasta vartotojo nustatymai <%1> faile <%2>.
+Функция <%1> реализована только для Windows.	Funkcija <%1> įgyvendinta tik "Windows".
+У поля <%1> ожидали текст заголовка <%2>, а получили <%3>.	Iš lauko <%1> tikėjosi tekstas antraštės <%2>, o gavo <%3>.
+В таблице <%1> у поля <%2> ожидали заголовок <%3>, а получили <%4>.	Lentelėje <%1> iš lauko <%2> tikėjosi antraštė <%3>, o gavo <%4 ir>.
+В таблице <%1> у поля <%2> ожидали текст подсказки <%3>, а получили <%4>.	Lentelėje <%1> iš lauko <%2> tikėjosi tekstas pasiūlymus <%3>, o gavo <%4 ir>.
+Не получилось выгрузить базу в dt: <%1>. Путь к DT: <%2>. Статус возврата: <%3>.	Neatsitiko iškrauti bazę dt: <%1>. Kelias DT: <%2>. Statusas grįžti: <%3>.
+Группа колонок <%1> в таблице <%2> не найдена.	Grupė garsiakalbiai <%1> lentelėje <%2> nerastas.
+В таблице <%1> в группе колонок <%2> колонка <%3> не найдена.	Lentelėje <%1> grupėje garsiakalbiai <%2> skiltis <%3> nerastas.
+Не получилось найти на экране картинку <%1>.	Neatsitiko rasti ekrano nuotrauką <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд значение ячейки <%3> станет равно <%4>. Текущее значение <%5>.	Tikėjomės, kad jūs lentelės dokumento <%1> per <%2> sekundžių langelio reikšmę <%3> bus lygu <%4 ir>. Dabartinė vertė <%5>.
+Метод Шаг() не выполнен. Не удалось прочитать шаги из временного фича файла <%1>. Исходная строка:%2	Metodas Žingsnis() nėra įvykdytas. Nepavyko perskaityti veiksmus iš laikinojo фича failo <%1>. Pradinė eilutė:%2
+Этот клиент	Šis klientas
+Не получилось найти данные макета <%1>.	Ne pavyko rasti duomenų išdėstymas <%1>.
+Не получилось выполнить эмуляцию хоткея <%1> <%2>.	Neatsitiko atlikti эмуляцию хоткея <%1> <%2>.
+Не получилось выполнить эмуляцию ENTER.	Neatsitiko atlikti эмуляцию ENTER.
+Не получилось дождаться картинки <%1> в течение <%2> секунд.	Neatsitiko laukti atvaizdai <%1> per <%2> sekundžių.
+Окно с заголовком <%1> не найдено. Текущее окно: <%2>.	Langas su antrašte <%1> nėra rasta. Esamas langas: <%2>.
+Строка <%1> не найдена в окне сообщений пользователю. Состояние окна сообщений:%2	Eilutė <%1> nėra rasta pranešimo langas vartotojui. Būsena langai pranešimų:%2
+Не получилось определить родителя у шага <%1>.	Neatsitiko nustatyti tėvų mes žingsnio <%1>.
+Не получилось определить позицию шага <%1> в группе шагов <%2>.	Neatsitiko nustatyti poziciją žingsnio <%1> grupėje žingsnių <%2>.
+Не получилось открыть форму регистра сведений <%1>.	Neatsitiko atidaryti formą raidžių informacijos <%1>.
+Не получилось найти подсистему <%1> в регистре версии подсистем.	Neatsitiko rasti подсистему <%1> registre versijos posistemių.
+Ожидалось получить <%1> строк в таблице <%2>, а было получено <%3> строк.	Tikėtasi gauti <%1> eilučių lentelėje <%2>, o gautas <%3> eilučių.
+Не получилось сохранить значение <%1> в переменную <%2>.	Neatsitiko išsaugoti reikšmė <%1> kintamasis <%2>.
+Не получилось подключиться к ранее запущенному клиенту тестирования <%1>, порт <%2>.	Neatsitiko prisijungti prie anksčiau запущенному klientui bandymų <%1>, port <%2>.
+Не получилось прочитать параметр запуска <%1>.	Neatsitiko perskaityti parinktį paleisti <%1>.
+ИмяРаннера	ИмяРаннера
+ТипКлиентаТестирования	ТипКлиентаТестирования
+СтрокаСоединения	СтрокаСоединения
+Не получилось сохранить строку <%1> в переменную <%2>.	Neatsitiko įrašyti eilutę <%1> kintamasis <%2>.
+Неверно указано значение параметра направления вращения колеса мышки. Возможные значения: Вверх или Вниз.	Neteisingai nustatyta parametro reikšmė sukimosi krypties ratai pelės. Galimos reikšmės: Aukštyn arba Žemyn.
+Не получилось выполнить эмуляцию вращения колеса мышки в направлении <%1>, количество итераций <%2>.	Neatsitiko atlikti эмуляцию ratų sukimosi pelės kryptimi <%1>, iteracijų skaičius <%2>.
+Обнаружено несколько файлов, экспортирующих подсценарий <%1>. Файлы: %2	Nustatyta, kad kelis failus, экспортирующих подсценарий <%1>. Failus: %2
+Не получилось сделать клик праой кнопкой мышки по картинке <%1>.	Neatsitiko padaryti skelbimą праой pelės mygtuku pagal paveikslėlį <%1>.
+Не получилось переместить курсор мышки к картинке <%1>.	Neatsitiko perkelti pelės žymeklį į paveikslėlį <%1>.
+Не существует клиента тестирования <%1>.	Nėra klientų testavimo <%1>.
+Ожидали, что процесс с ИД <%1> будет завершен в течение <%2> секунд.	Tikėjomės, kad procesas ID <%1> bus baigtas per <%2> sekundžių.
+Значение переменной <%1> изменено на <%2>.	Kintamojo reikšmė <%1> pakeista <%2>.
+Значение глобальной переменной <%1> изменено на <%2>.	Reikšmė pasaulio kintamasis <%1> pakeista <%2>.
+Переменная <%1> удалена.	Kintamasis <%1> pašalinta.
+Глобальная переменная <%1> удалена.	Globalus kintamasis <%1> pašalinta.
+Контекст	Kontekstas
+Контекст глобальный	Pasaulinis kontekstas
+Окно с заголовком <%1> не найдено. Таймаут поиска окна: <%2>.	Langas su antrašte <%1> nėra rasta. Osd paieškos langą: <%2>.
+Не удалось получить токен.	Nepavyko gauti prieigos raktas.
+Не удалось получить токен. Код результата: <%1>. Ответ: <%2>.	Nepavyko gauti prieigos raktas. Kodas rezultato: <%1>. Atsakymas: <%2>.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Nepavyko gauti duomenų. Kodas rezultato: <%1>. Atsakymas: <%2>.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>. Количество попыток <%4>.	Negalėjo lentelėje <%1> padaryti pasirinkti iš sąrašo pasirinkite <%2> pagal eilutę <%3>. Skaičių kartų <%4 ir>.
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>. Количество попыток <%3>.	Negalėjo padaryti pasirinkti iš sąrašo pasirinkite <%1> pagal eilutę <%2>. Skaičių kartų <%3>.
+Не выполнены дополнительные процедуры обработки данных.	Vykdomi papildomų duomenų apdorojimo procedūras.
+Обнаружено окно обновления конфигурации.	Nustatyta, kad langas atnaujinti konfigūracijos.
+Обнаружено окно c сообщением о неудачном обновлением конфигурации.	Nustatyta, kad langas c pranešimą apie sužinoti, ar galima atnaujinti konfigūracijos.
+Видео создано автоматически.	Video sukurtas automatiškai.
+Количество сценариев	Skaičius scenarijus
+Количество шагов	Skaičių žingsnių
+Версия Vanessa-Automation	Versija Vanessa-Automation
+Версия скрипта сборки видео	Versija scenarijų surinkimo video
+ЗаголовокАктивногоОкна	ЗаголовокАктивногоОкна
+ИмяАктивнойФормы	ИмяАктивнойФормы
+В таблице должно быть боле 1 строки, а получили <%1> строк.	Lentelėje turėtų būti rūšys daugiau 1 eilutės, o gavo <%1> eilučių.
+Выполнить сценарии	Vykdyti scenarijus
+Загружены глобальные переменные.	Parsisiųsti globalių kintamųjų.
+Не найден каталог: %1	Nerasta katalogą: %1
+Выполнить	Vykdyti
+Выполняется...	Vykdoma...
+Останавливается...	Sustoja...
+Обнаружено окно перехода на новую версию платформы 1С:Предприятие.	Nustatyta, kad langas pereiti į naują versiją platforma 1:Įmonė.
+В таблице <%1> не получилось активизировать поле <%2> для редактирования.	Lentelėje <%1> neatsitiko įjungti lauke <%2> redaguoti.
+Ожидалось в течение <%1> секунд, что откроется окно с заголовком отличным от <%2>.	Tikėtasi per <%1> sekundžių, kad atsivers langas su antrašte nei <%2>.
+Выберите файл настроек Vanessa Automation.	Pasirinkite failo parametrus Vanessa Automation.
+Версия загружаемых настроек не соответсвует версии обработки.	Versija priimamų nuostatų nėra соответсвует versija apdorojimo.
+Информация: Параметр %1 не загружен.	Parametras: %1 partija.
+Не получилось прочитать значение из строки запуска: %1.	Neatsitiko perskaityti vertė iš eilutės paleisti: %1.
+При чтении переменных окружения операционной системы возникло исключение: %1	Skaitant aplinkos kintamieji operacinė sistema pradėjo veikti išimtis: %1
+Не найден путь к файлу JSON. Параметр: VAParams.	Nerasta kelią JSON. Parametras: VAParams.
+Ошибка чтения структуры JSON. Пропускаем чтение.	Skaitymo klaida struktūra JSON. Praleidžiame skaityti.
+Ошибка чтения структуры JSON.	Skaitymo klaida struktūra JSON.
+В параметрах JSON не найден каталог Фич.	Galioja JSON nerastas katalogas Фич.
+Использование устаревшего параметра "КаталогOutputСкриншоты". Новый параметр - "КаталогВыгрузкиСкриншотов".	Naudoti senos parametro "КаталогOutputСкриншоты". Naujas parametras - "КаталогВыгрузкиСкриншотов".
+Использование устаревшего параметра "КаталогOutputИнструкцияHTML". Новый параметр - "КаталогВыгрузкиИнструкцийHTML".	Naudoti senos parametro "КаталогOutputИнструкцияHTML". Naujas parametras - "КаталогВыгрузкиИнструкцийHTML".
+Использование устаревшего параметра "КаталогOutputИнструкцияMarkdown". Новый параметр - "КаталогВыгрузкиИнструкцийMarkdown".	Naudoti senos parametro "КаталогOutputИнструкцияMarkdown". Naujas parametras - "КаталогВыгрузкиИнструкцийMarkdown".
+Использование устаревшего параметра "КаталогOutputИнструкцияВидео". Новый параметр - "КаталогВыгрузкиИнструкцийВидео".	Naudoti senos parametro "КаталогOutputИнструкцияВидео". Naujas parametras - "КаталогВыгрузкиИнструкцийВидео".
+Использование устаревшего параметра "КаталогOutputjUnit". Новый параметр - "КаталогВыгрузкиjUnit".	Naudoti senos parametro "КаталогOutputjUnit". Naujas parametras - "КаталогВыгрузкиjUnit".
+В параметрах запуска JSON не определен каталог отчета jUnit.	Galioja paleisti JSON nenurodytas katalogas ataskaitos jUnit.
+Использование устаревшего параметра "КаталогOutputCucumberJson". Новый параметр - "КаталогВыгрузкиCucumberJson"	Naudoti senos parametro "КаталогOutputCucumberJson". Naujas parametras - "КаталогВыгрузкиCucumberJson"
+В параметрах запуска JSON не определен отчета CucumberJson.	Galioja paleisti JSON nėra apibrėžta ataskaitos CucumberJson.
+Использование устаревшего параметра "КаталогOutputAllure". Новый параметр - "КаталогВыгрузкиAllure".	Naudoti senos parametro "КаталогOutputAllure". Naujas parametras - "КаталогВыгрузкиAllure".
+Использование устаревшего параметра "КаталогOutputAllureБазовый". Новый параметр - "КаталогВыгрузкиAllureБазовый".	Naudoti senos parametro "КаталогOutputAllureБазовый". Naujas parametras - "КаталогВыгрузкиAllureБазовый".
+Форма из переданного списка не найдена.	Forma iš išsiųsto sąrašo nerastas.
+ИмяФичи	ИмяФичи
+ИмяСценария	ИмяСценария
+НомерСтрокиДерева	НомерСтрокиДерева
+НомерСтрокиФичи	НомерСтрокиФичи
+ПолнйПутьКФиче	ПолнйПутьКФиче
+Сценарий не определён.	Scenarijus nėra apibrėžta.
+Шаг не определён.	Žingsnis nėra apibrėžta.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Nepavyko gauti duomenų. Kodas rezultato: <%1>. Atsakymas: <%2>.
+ДеталиОшибки	ДеталиОшибки
+Команда по созданию картинки из текста не выполнена: %1	Komanda sukurti paveikslėlį iš teksto nepavyko: %1
+Не получилось получить командный интерфейс клиента тестирования.	Neatsitiko gauti komandinė sąsaja kliento bandymai.
+Окно предупреждения не найдено.	Langas įspėjimai nerasta.
+Не получилось выполнить помещение файла <%1>.	Neatsitiko atlikti prielaida failo <%1>.
+Не найдено подключение SikuliX сервера.	Nerasta ryšys SikuliX serverio.
+Подключение SikuliX сервера сброшено.	Ryšys SikuliX serverio сброшено.
+Не указано значение настройки Vanessa-automation: <КаталогДляГенерацииКартинок>.	Nenurodyta vertė parametrai Vanessa-automation: <КаталогДляГенерацииКартинок>.
+Не получилось создать картинку по тексту <%1>.	Neatsitiko sukurti atvaizdą, tekstas <%1>.
+Не найден профиль поиска картинки с текстом <%1>.	Profilis nerastas paieškos paveikslėlius su tekstu <%1>.
+Команда не выполнена: %1	Komanda nėra įgyvendinta: %1
+Не получилось вычислить выражение: %1. Описание ошибки: %2	Neatsitiko apskaičiuoti išraiška: %1. Klaidos aprašymas: %2
+Не указано имя файла.	Nenurodyta failo vardą.
+Каталог <%1> не существует.	Katalogas <%1> nėra.
+Не указано расширение файла.	Nenurodyta failo plėtinys.
+Не получилось закрыть активное окно <%1>. %2	Neatsitiko uždaryti aktyvų langą <%1>. %2
+Закрытие окна <%1>.	Uždaryti langą <%1>.

@@ -1,0 +1,898 @@
+﻿Шаг оригинал	Описание	Перевод шага	Перевод описания	
+Как <Роль>	Специальный текст	Ca <Rola>	Textul Special	
+Контекст:	Специальный текст	Context:	Textul Special	
+Сценарий: <описание сценария>	Специальный текст	Scenariu: <descrierea scenariului>	Textul Special	
+Функционал: <описание фичи>	Специальный текст	Funcționalitate: <descrierea funcționalității>	Textul Special	
+Чтобы <бизнес-эффект>	Специальный текст	Pentru <busines-effectul>	Textul Special	
+Я хочу <описание функционала>	Специальный текст	Eu vreau <descrierea funcționalității>	Textul Special	
+Fixtures	Категория шагов	Fixtures	Categoria pasilor	
+SikuliX	Категория шагов	SikuliX	Categoria pasilor	
+UI	Категория шагов	UI	Categoria pasilor	
+Автоинструкции	Категория шагов	Instrucții automatizate	Categoria pasilor	
+Активизировать	Категория шагов	Activați	Categoria pasilor	
+Активизировать TestClient	Категория шагов	Activați TestClient	Categoria pasilor	
+Активизировать поле	Категория шагов	Activați câmpul	Categoria pasilor	
+Активизировать строку	Категория шагов	Activați șirul	Categoria pasilor	
+Активность	Категория шагов	Activitate	Categoria pasilor	
+Буфер обмена	Категория шагов	clipboard	Categoria pasilor	
+Ввод даты	Категория шагов	Introducerea datei	Categoria pasilor	
+Ввод на основании	Категория шагов	Creare în baza	Categoria pasilor	
+Ввод по строке	Категория шагов	Introducere linie	Categoria pasilor	
+Ввод текста	Категория шагов	Introducerea textului	Categoria pasilor	
+Версия конфигурации	Категория шагов	Versiunea configuratiei	Categoria pasilor	
+Версия платформы	Категория шагов	Versiunea platformei	Categoria pasilor	
+Весь документ	Категория шагов	Tot documentul	Categoria pasilor	
+Видимость	Категория шагов	Viziblitate	Categoria pasilor	
+Видимость элементов	Категория шагов	Vizibilitatea elementelor	Categoria pasilor	
+Временная таблица	Категория шагов	Tabel temporar	Categoria pasilor	
+Время выполнения действия	Категория шагов	Timpul executarii acțiunii	Categoria pasilor	
+Всплывающие окна	Категория шагов	Sarcini de fundal	Categoria pasilor	
+Встроенный язык	Категория шагов	Limbajul implicit	Categoria pasilor	
+Вхождение таблицы в другую таблицу	Категория шагов	Introducerea tabelului într-un alt tabel	Categoria pasilor	
+Выбор из списка	Категория шагов	Selectarea din listă	Categoria pasilor	
+Выбор строки	Категория шагов	Alegerea rîndului	Categoria pasilor	
+Выделение строк	Категория шагов	rînduri bolduite	Categoria pasilor	
+Выпадающий список	Категория шагов	Drop-down list	Categoria pasilor	
+Гиперссылки	Категория шагов	hyperlink	Categoria pasilor	
+Группы	Категория шагов	Grupuri	Categoria pasilor	
+Добавить строку	Категория шагов	Adaugă rândul	Categoria pasilor	
+Доступность	Категория шагов	Acces	Categoria pasilor	
+Доступность элементов	Категория шагов	Disponibilitatea elemtelor	Categoria pasilor	
+Заголовок	Категория шагов	Titlu	Categoria pasilor	
+Закладки	Категория шагов	Marcaje	Categoria pasilor	
+Закрыть главное окно сеанса	Категория шагов	Închideți fereastra principală a sesiunii	Categoria pasilor	
+Закрыть сеанс TestClient	Категория шагов	închide sesiunea TestClient	Categoria pasilor	
+Заполненность	Категория шагов	Gradul de completare	Categoria pasilor	
+Заполнить данными	Категория шагов	Completați datele	Categoria pasilor	
+Запомнить значение поля	Категория шагов	Rețineți valoarea câmpului	Categoria pasilor	
+Запомнить значение таблицы	Категория шагов	Rețineți valoarea tabelului	Categoria pasilor	
+Запомнить имя поля	Категория шагов	Rețineți numele câmpului	Categoria pasilor	
+Зафиксировать форму	Категория шагов	Ficsați forma	Categoria pasilor	
+Значение выпадающего списка	Категория шагов	Valoarea listei derulate	Categoria pasilor	
+Значение поля	Категория шагов	Semnificația rândului	Categoria pasilor	
+Значение ячейки таблицы	Категория шагов	Valoarea celulei tabelului	Categoria pasilor	
+Иерархический список	Категория шагов	Lista ierarhică	Categoria pasilor	
+Имя формы	Категория шагов	Denumirea formei	Categoria pasilor	
+Исключения	Категория шагов	Excepție	Categoria pasilor	
+Календарь	Категория шагов	Calendar	Categoria pasilor	
+Кнопка выбора	Категория шагов	Buton de selectare	Categoria pasilor	
+Кнопки	Категория шагов	Butoane	Categoria pasilor	
+Количество строк	Категория шагов	Numărul de rânduri	Categoria pasilor	
+Колонки	Категория шагов	Coloana	Categoria pasilor	
+Командный интерфейс	Категория шагов	Interfața de comenzi	Categoria pasilor	
+Контекст	Категория шагов	Context	Categoria pasilor	
+Контекст сохраняемый	Категория шагов	Contextul salvat	Categoria pasilor	
+Контекстное меню	Категория шагов	Meniul de context	Categoria pasilor	
+Лог	Категория шагов	Log	Categoria pasilor	
+Макет	Категория шагов	Schemă	Categoria pasilor	
+Нет одинаковых сообщений	Категория шагов	Nu există mesaje identice	Categoria pasilor	
+Новое подключение к базе	Категория шагов	O nouă conexiune la baza de date	Categoria pasilor	
+Новое подключение к той же базе, где запущен TestManager	Категория шагов	O nouă conexiune la aceeași bază de date care se execută prin TestManager	Categoria pasilor	
+Нумерация	Категория шагов	Numerotare	Categoria pasilor	
+Область	Категория шагов	Regiune	Categoria pasilor	
+Область чтения	Категория шагов	Zona de citire	Categoria pasilor	
+Ожидание доступности элемента	Категория шагов	Așteaptarea elementelor disponibile	Categoria pasilor	
+Ожидание значения	Категория шагов	Așteptarea valorii	Categoria pasilor	
+Ожидание значения таблицы	Категория шагов	Așteptarea valorii tabelului	Categoria pasilor	
+Ожидание значения элемента	Категория шагов	Așteptarea însemnării elementului	Categoria pasilor	
+Ожидание значения ячейки таблицы	Категория шагов	Așteptarea valorii celulei tabelului	Categoria pasilor	
+Ожидание появления элемента	Категория шагов	Așteptarea apariției elementului	Categoria pasilor	
+Ожидание сообщения	Категория шагов	Așteptarea mesajului	Categoria pasilor	
+Окна	Категория шагов	ferestre	Categoria pasilor	
+Окно	Категория шагов	fereastră	Categoria pasilor	
+Остановить выполнение сценариев	Категория шагов	Opriți executarea scriptului	Categoria pasilor	
+Открыть	Категория шагов	Deschide	Categoria pasilor	
+Открыть картинку	Категория шагов	Deschid imaginea	Categoria pasilor	
+Открыть список	Категория шагов	Deschid lista	Categoria pasilor	
+Открыть форму объекта	Категория шагов	Deschideți forma obiectului	Categoria pasilor	
+Отчеты	Категория шагов	Rapoarte	Categoria pasilor	
+Очистить поле	Категория шагов	Ștergeți cîmpul	Categoria pasilor	
+Очистка окна сообщений	Категория шагов	Ștergerea ferestrei de mesaje	Categoria pasilor	
+Пакетный режим	Категория шагов	Regim de pachete de date	Categoria pasilor	
+Панель открытых	Категория шагов	Panoul deschis	Categoria pasilor	
+Панель разделов	Категория шагов	Panoul de rubrici	Categoria pasilor	
+Панель функций	Категория шагов	Panoul de funcții	Categoria pasilor	
+Перебор массива	Категория шагов	Alegeti multimea	Categoria pasilor	
+Перебор строк	Категория шагов	Alegerea liniilor	Categoria pasilor	
+Перейти к следующему реквизиту	Категория шагов	Mergeți la recuzita următoare	Categoria pasilor	
+Переключатели	Категория шагов	RadioButon	Categoria pasilor	
+Переменные среды	Категория шагов	Variabile de mediu	Categoria pasilor	
+Переход к строке	Категория шагов	Trecerea la rînd	Categoria pasilor	
+Переход к ячейке	Категория шагов	Trecerea la celulă	Categoria pasilor	
+Подключение TestClient	Категория шагов	Conectarea TestClient	Categoria pasilor	
+Подсказка	Категория шагов	Indiciu	Categoria pasilor	
+Поле таблицы	Категория шагов	Câmpul tabelului	Categoria pasilor	
+Поле формы	Категория шагов	Câmpul formei	Categoria pasilor	
+Поля	Категория шагов	cîmp	Categoria pasilor	
+Представление элемента	Категория шагов	Vizualizare element	Categoria pasilor	
+Проверка видимости	Категория шагов	Verificarea vizibilității	Categoria pasilor	
+Проверка доступности	Категория шагов	Verificarea accesibilitații	Categoria pasilor	
+Проверка значений именнованных областей	Категория шагов	Verificarea valorilor ariilor denumite	Categoria pasilor	
+Проверка значения	Категория шагов	Verificarea semnificației	Categoria pasilor	
+Проверка значения колонки таблицы	Категория шагов	Verificarea valorii coloanei tabelului	Categoria pasilor	
+Проверка значения поля	Категория шагов	Verificarea semnificației câmpului	Categoria pasilor	
+Проверка значения таблицы	Категория шагов	Verificarea valorii tabelului	Categoria pasilor	
+Проверка значения табличного документа	Категория шагов	Verificarea valorii documentului tabelar	Categoria pasilor	
+Проверка значения текущей строки таблицы	Категория шагов	Verificarea valoarea rîndului din tabelul curent	Categoria pasilor	
+Проверка колонки	Категория шагов	Verificarea coloanei	Categoria pasilor	
+Проверка на пустоту	Категория шагов	Verificarea locului gol	Categoria pasilor	
+Проверка отсутствия сообщений	Категория шагов	Verificarea lipsei mesajelor	Categoria pasilor	
+Проверка режима совестимости	Категория шагов	Verificarea regimului compatibilității	Categoria pasilor	
+Проверка состава колонок	Категория шагов	Verificați compoziția coloanelor	Categoria pasilor	
+Проверка существования	Категория шагов	Verificarea existenței	Categoria pasilor	
+Проверка текста сообщений	Категория шагов	Verificarea textului mesajului	Categoria pasilor	
+Проверка типа TestClient	Категория шагов	Verificarea tipului TestClient	Categoria pasilor	
+Произвольная база	Категория шагов	Baza arbitrara	Categoria pasilor	
+Произвольная строка	Категория шагов	Șir arbitrar	Categoria pasilor	
+Просмотр	Категория шагов	Vizionare	Categoria pasilor	
+Прочее	Категория шагов	Altele	Categoria pasilor	
+Прочитать значение	Категория шагов	citește valoarea	Categoria pasilor	
+Работа с подключенными TestClient	Категория шагов	Lucrul cu TestClient conectat	Categoria pasilor	
+Равенство по шаблону	Категория шагов	Egalitate după șablon	Categoria pasilor	
+Развернуть/Свернуть	Категория шагов	Deschide/închide	Categoria pasilor	
+Развернуть/свернуть группу	Категория шагов	Deschide/închide grupa	Categoria pasilor	
+Редактирование строки	Категория шагов	Redactarea rîndului	Categoria pasilor	
+Результат выполнения сценария	Категория шагов	Rezultatul execuției scripturilor	Categoria pasilor	
+Результат выражения в поле	Категория шагов	Rezultatul expresiei în cîmp	Categoria pasilor	
+Реквизиты	Категория шагов	Atribute	Categoria pasilor	
+Сделать паузу	Категория шагов	Faceți o pauza	Categoria pasilor	
+Содержит значения	Категория шагов	Conține valori	Categoria pasilor	
+Содержит строки	Категория шагов	Conține șiruri	Categoria pasilor	
+Содержит текст	Категория шагов	Conține text	Categoria pasilor	
+Содержит элементы	Категория шагов	Conține elemente	Categoria pasilor	
+Создать	Категория шагов	Creare	Categoria pasilor	
+Сообщения пользователю	Категория шагов	Mesaje pentru utilzator	Categoria pasilor	
+Сохранить в переменную	Категория шагов	Salvați in variabila	Categoria pasilor	
+Сохранить в файл	Категория шагов	Salvați în fișier	Categoria pasilor	
+Сохранить значение	Категория шагов	Salvați valoarea	Categoria pasilor	
+Сравнить табличные документы	Категория шагов	Compararea documentelor tabelare	Categoria pasilor	
+Строки	Категория шагов	rînduri	Categoria pasilor	
+Таблица	Категория шагов	Tabel	Categoria pasilor	
+Таблица Gherkin	Категория шагов	Tabel Gherkin	Categoria pasilor	
+Таблицы	Категория шагов	Tabele	Categoria pasilor	
+Табличный документ	Категория шагов	Document tabelar	Categoria pasilor	
+Текущая база	Категория шагов	Baza actuala	Categoria pasilor	
+Текущая страница	Категория шагов	Pagina curentă	Categoria pasilor	
+Текущая строка	Категория шагов	Linia curentă	Categoria pasilor	
+Текущее окно	Категория шагов	Fereastra curenta	Categoria pasilor	
+Точное значение	Категория шагов	Valoarea exactă	Categoria pasilor	
+Точное равенство	Категория шагов	Egalitate exactă	Categoria pasilor	
+Увеличить значение	Категория шагов	Creșteți valoarea	Categoria pasilor	
+Удаление строк	Категория шагов	Ștergerea rândurilor	Categoria pasilor	
+Удалить строку	Категория шагов	Șterge rândul	Categoria pasilor	
+Уменьшить значение	Категория шагов	Reduceți valoarea	Categoria pasilor	
+Условие	Категория шагов	Condiție	Categoria pasilor	
+Установить заголовок приложения	Категория шагов	Setați titlul aplicației	Categoria pasilor	
+Установить значение	Категория шагов	Setați valoarea	Categoria pasilor	
+Установить синоним	Категория шагов	Setați sinonim	Categoria pasilor	
+Файлы	Категория шагов	Fișier	Categoria pasilor	
+Фильтр	Категория шагов	Filtru	Categoria pasilor	
+Фильтр формы списка	Категория шагов	Filtru formei listei	Categoria pasilor	
+Флаги	Категория шагов	Bife	Categoria pasilor	
+Формы	Категория шагов	Forme	Categoria pasilor	
+Циклы	Категория шагов	Cicluri	Categoria pasilor	
+Эталонный макет	Категория шагов	Macheta de etalon	Categoria pasilor	
+Ячейки	Категория шагов	Celule	Categoria pasilor	
+Дано В последнем сообщении TestClient есть строка по шаблону "%1 Д*"	Шаг позволяет проверить содержание самого нового сообщения пользователю. Допускается использовать символ *.	Dat fiind ca in ultemul mesaj TestClient este rindul dupa șablon "%1 D*"	Pasul vă permite să verificați conținutul celui mai nou mesaj către utilizator. Puteți utiliza simbolul *.	
+Дано Табличный документ "%1 РеквизитТабличныйДокумент" равен макету "%2 ИмяМакета"	Шаг позволяет проверить, что табличный документ соответствует эталону. Макет ищется сначала в обработке фича файла, затем в каталоге проекта. Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	Dat fiind Documentul Tabelar "%1 AtributDocumentTabelar" este egal cu "%2 "	Pasul permite verificarea conformității documentului tabular cu standardul. Aspectul este căutat mai întâi în procesarea caracteristicii fișierului, apoi în directorul proiectului. Pentru a obține fișierul mxl de la TestClient, clientul subțire va încerca să salveze documentul foaie de calcul într-un fișier. În clientul Web, acesta va fi întotdeauna citit de celulă. Detalii în ajutor, în secțiunea dedicată comparării unui document tabular cu standardul.	
+Дано Табличный документ "%1 РеквизитТабличныйДокумент" равен макету "%2 ИмяМакета" по шаблону	Шаг позволяет проверить, что табличный документ соответствует эталону. В значениях эталонного макета допускается использовать символы *. Макет ищется сначала в обработке фича файла, затем в каталоге проекта. Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	Dat fiind documentul tabelar "%1 AtributDocumentTabelar" egal machetului "%2 NumeleȘablon" dupa șablon	Pasul permite verificarea conformității documentului tabular cu standardul. În valorile layout-ului de referință este permisă utilizarea caracterelor *. Aspectul este căutat mai întâi în procesarea caracteristicii fișierului, apoi în directorul proiectului. Pentru a obține fișierul mxl de la TestClient, clientul subțire va încerca să salveze documentul foaie de calcul într-un fișier. În clientul Web, acesta va fi întotdeauna citit de celulă. Detalii în ajutor, în secțiunea dedicată comparării unui document tabular cu standardul.	
+Дано текст субтитров "%1 Текст"	Выводит в автовидеоинструкцию нужный текст в виде субтитров.	Dat fiind textul subtitrare "%1 Text"	Afișează textul necesar sub formă de subtitrări în instrucțiunile video automata.	
+Дано я нажимаю ENTER	Эмулирует нажатие клавиши ENTER с помощью SikuliX.	Dat fiind am apăsat ENTER	Emulează apăsarea tastei Enter folosind SikuliX	
+Дано я нажимаю хоткей "%1 ХотКей" "%2 Модификатор"	Эмулирует нажатие хоткея с помощью SikuliX.	Dat fiind ca apăs tasta rapida "%1 TastaRapida" "%2 Modificator"	Emulază presa de tip hotkey cu SikuliX.	
+Дано я открываю картинку в основном редакторе "%1 ИмяКартинки"	Вызывает команду системы. Будет открыто приложение, которое ассоциировано для данного типа файлов	Dat fiind ca deschid imaginea în editorul principal "%1 NumeImagine"	Se apelează comanda sistemului. Aplicația asociată tipului de fișier se va deschide.	
+Дано Я открываю навигационную ссылку "%1 e1cib/data/Справочник.Справочник1?ref=ad018df0619b11d5458a440b8c472f30"	Открывает навигационную ссылку. Аналог Shift+F11	Având în vedere că deschid linkul de navigare "%1 e1cib / data / Nomenclator. Nomenclator1? Ref = ad018df0619b11d5458a440b8c472f30"	Deschide linkul de navigare. Analog Shift + F11	
+Дано Я открываю основную форму отчета "%1 Отчет1"	Открывает форму отчета по его имени в метаданных	Dat fiind că deschid raportul principal "%1 raport1"	Deschide formularul de raport după numele său în metadate	
+Дано Я открываю основную форму регистра накопления "%1 РегистрНакопления1"	Открывает основную форму регистра накопления по его имени в метаданных	Dat fiind că deschid registrul principal de înregistrare a acumulării "%1 RegistrulDeAcumulare1"	Deschide forma de bază a registrului de acumulare după numele său în metadate	
+Дано Я открываю основную форму регистра сведений "%1 РегистрСведений1"	Открывает основную форму регистра накопления по его имени в метаданных	Dat fiind că deschid forma de baza a registrului de date "%1 RegistrulDeDate1"	Deschide forma de bază a registrului de acumulare după numele său în metadate	
+Если в сообщениях пользователю есть строка "%1 МояСтрока" Тогда	Условие. Проверяет, что в сообщениях пользователю содержится нужная строка или подстрока.	Când mesajul către utilizator are șirul "%1 MayLine" Atunci	Stare. Verifică dacă utilizatorul are un șir sau un subreversor corect în mesaje.	
+"Если в таблице ""%1 ИмяТаблицы"" есть колонки Тогда
+ | 'Колонка1' |
+ | 'Колонка2' |"	Условие. Проверяет, есть ли в таблице указанные колоноки. Заголовки колонок надо передать в шаг в виде таблицы Gherkin.	"Când în tabel ""%1 NumeTabel"" există coloane atunci
+  |""Coloana1""|
+  |""Coloana2""|"	Stare. Verifică dacă există coloane în tabel. Titlurile coloanelor trebuie să fie trecute printr-o etapă sub forma unei mese Gherkin.	
+"Если в таблице ""%1 ИмяТаблицы"" есть строки Тогда
+ | 'Имя колонки' |
+ | 'Значение' |"	Условие. Истинно, если в таблице есть нужная строка/строки. Поиск строк производится через получение всех строк таблицы , а затем нужные строки будут искаться в полученных строках таблицы.	"Când în tabel ""%1 NumeTabel"" există rânduri atunci
+  | ""Denumirea coloanei"" |
+  | ""Valoare"" | """	Stare. Este adevărat, dacă masa are rândul / rândurile dorite. Rândurile sunt căutate prin preluarea tuturor rândurilor dintr-un tabel, iar rândurile necesare vor fi căutate în rândurile rezultate în tabel.	
+"Если в таблице ""%1 ИмяТаблицы"" нет строк Тогда
+ | 'Имя колонки' |
+ | 'Значение' |"	Условие. Истинно, если в таблице нет нужных строк.	"Când tabelul""""%1 NumeTabel"" nu există rânduri Apoi
+  | ""Denumirea coloanei""|
+  | ""Valoare"" |"	Stare. Este adevărat, dacă nu există rânduri în tabel.	
+"Если в таблице ""%1 ИмяТаблицы"" нет строки Тогда
+ | 'Имя колонки' |
+ | 'Значение' |"	Условие. Истинно, если в таблице нет нужной строки. Шаг пытается сделать переход к строке и возвращает Ложь если это получилось сделать.	"Când tabelul"" ""%1 NumeTabel"" ""nu există niciun rând
+  | ""Denumirea coloanei""|
+  | ""Valoare"" |"	Stare. Adevărat, dacă nu există nici un rând în tabel. Pasul încearcă să facă o tranziție la șir și returnează False dacă s-a dovedit a fi făcut.	
+Если в таблице "%1 ИмяТаблицы" поле "%2 Заголовок поля" имеет значение "%3 ЗначениеПоля" тогда	Условие. Проверяет значение ячейки таблицы. Имя ячейки указывается как оно отображено в заголовке.	Când în tabelul "%1 NumeTabel" cmpul "%2 Titlulul câmpului" este setat la "%3 ValoareCâmp" atunci	Stare. Verifică valoarea unei celule de tabelă. Numele celulei este indicat așa cum este afișat în Titlul.	
+Если в таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяПоля" имеет значение "%3 ЗначениеПоля" тогда	Условие. Проверяет значение ячейки таблицы. Имя ячейки указывается как оно задано в конфигураторе.	Când în tabel "%1 NumeTabel" cîmpul cu numele "%2 NumeCâmp" are valoarea "%3 ValoareaCâmp"	Stare. Verifică valoarea unei celule de tabelă. Numele celulei este specificat așa cum este specificat în configurator.	
+Если поле "%1 " стало равно "%2 ЗначениеПоля" в течение "%3 10" секунд Тогда	Условие. Проверяет значение поля формы в течение нужного числа секунд.	Când câmpul "%1 " devine egal cu "%2 ValoareCâmp" în timp de "%3 10" secunde atunci	Stare. Verifică valoarea câmpului de formular pentru numărul dorit de secunde.	
+Если поле с именем "%1 ИмяПоля" стало равно "%2 ЗначениеПоля" в течение "%3 10" секунд Тогда	Условие. Проверяет значение поля формы в течение нужного числа секунд. Поиск поля производится по имени.	Când câmpul cu numele "%1 NumeCâmp" devine egal cu "%2 ValoareCâmp" în timp de "%3 10" secunde atunci	Stare. Verifică valoarea câmpului de formular pentru numărul dorit de secunde. Câmpul de căutare se face după nume.	
+Если появилось окно с заголовком "%1 Заголовок окна" в течение "%2 10" секунд Тогда	Условие. Проверяет, что на экране появилось окно с нужным заголовком в течение нужного числа секунд	Când apare o fereastră cu titlul "%1 TitlulFerestrei" în timp de "%2 10" secunde atunci	Stare. Verifică dacă apare o fereastră cu titlul dorit pentru numărul de secunde dorit.	
+Если таблица "%1 ИмяТаблицы" равна макету "%2 ИмяМакета" тогда	Условие. Истинно, если в таблица равна переданному макету.	Când tabelul "%1 NumeTabel" este egala cu "%2 NumeleȘablon" atunci	Stare. Este adevărat, dacă masa este egală cu aspectul transmis.	
+"Если таблица ""%1 ИмяТаблицы"" равна переданной тогда
+ | 'Имя колонки' |
+ | 'Значение' |"	Условие. Истинно, если в таблица равна переданной таблице Gherkin.	"Când tabelul ""%1 NumeTabel"" egala cu cea transmisa atunci   | 'NumeleColoanei' |
+ | 'Valoare' |"	Stare. Este adevărat, dacă masa este egală cu tabelul Gherkin transferat.	
+Если текущее окно имеет заголовок "%1 Заголовок окна" Тогда	Условие. Проверяет, что в данный момент активным окном является окно с нужным заголовком	Când fereastra curentă are titlul "%1 Titlul ferestrei" atunci	Stare. Verifică dacă fereastra activă este fereastra cu titlul dorit.	
+Если установлен режим совместимости "%1 8.3.12" Тогда	Условие. Проверяет, что установлен нужный режим совместимости в базе, в которой запущен TestManager.	Când modul de compatibilitate este setat la "%1 8.3.12" Apoi	Stare. Verifică faptul că modul de compatibilitate solicitat este setat în baza de date în care rulează TestManager.	
+Если Файл "%1 ИмяФайла" существует тогда	Условие. Проверяет существование файла	Când fișierul "%1 " există atunci	Stare. Verifică existența unui fișier	
+Если элемент "%1 ИмяЭлементаФормы" доступен для редактирования Тогда	Условие. Проверяет доступность элемента на форме. Поиск поля производится по имени.	Când elementul "%1 NumeleElementuluiFormei" este permis pentru redactare atunci	Stare. Verifică disponibilitatea unui element dintr-un formular. Câmpul de căutare se face după nume.	
+Если элемент "%1 ИмяЭлементаФормы" не доступен для редактирования Тогда	Условие. Проверяет доступность элемента на форме. Поиск поля производится по имени.	Când elementul "%1 NumeleElementuluiFormei" nu este permis pentru redactare atunci	Stare. Verifică disponibilitatea unui element dintr-un formular. Câmpul de căutare se face după nume.	
+Если это web клиент Тогда	Условие. Проверяет, что текущий TestClient - это web клиент.	Când acesta este un client web, atunci	Stare. Verifică faptul că actualul TestClient este un client web.	
+Если это начальная страница Тогда	Условие. Проверяет, то текущее окно это начальная страница	Când aceasta este pagina de start atunci	Stare. Verifică faptul că fereastra curentă este pagina de start.	
+Если это тонкий клиент тогда	Условие. Проверяет, что текущий TestClient - это тонкий клиент.	Când acesta este un client subțire atunci	Stare. Verifică faptul că actualul TestClient este un client subțire.	
+Затем клик на картинку "%1 ИмяКартинки"	Делает клик на картинке. Картинка ищется в каталоге проекта.	Atunci faceți clic pe imaginea "%1 NumeImagine"	Face un clic pe imagine. Imaginea este căutată în directorul proiectului.	
+Затем я выгружаю базу "%1 СтрокаСоединенияСБазой" в DT "%2 ПутьКDT"	Выгружает базу в DT файл.	Atunci descarc baza "%1 RândulConexiuneCuBaza" în DT "%2 PunctКDT"	Descărcarea bazei de date în fișierul DT.	
+Затем я жду, что в сообщениях пользователю будет подстрока "%1 Нужное мне значение" в течение "%2 30" секунд	Ждет появления в сообщениях пользователю подстроки в течение нужного времени	Atunci aștept ca în mesajul pentu utilizator va fi un subșir "%1 Valoarea nevoită" în timp de "%2 30" secunde	Se așteaptă ca mesajele să apară în mesaje către utilizator pentru timpul necesar.	
+Затем я загружаю базу "%1 СтрокаСоединенияСБазой" из DT "%2 ПутьКDT"	Загружает базу из DT файла.	Atunci eu încarc baza "%1 RândulConexiuneCuBaza" din DT "%2 PunctКDT"	Încărcarea bazei de date din fișierul DT.	
+Затем я останавливаю выполнение сценария	Останавливает выполнение шагов в данном сценарии.	Atunci eu opresc executarea scenariului	Opreste executarea pasilor in acest scenariu.	
+Затем я останавливаю выполнение шагов всех сценариев.	Останавливает выполнение шагов. Другие сценарии выполнятся не будут.	Atunci opresc pașii tuturor scripturilor.	Încetează pașii de performanță. Alte scripturi nu vor fi difuzate.	
+Затем Я подключаю уже запущенный клиент тестирования "%1 ИмяПрофиля"	Подключает запущенный ранее клиент тестирования, который мог быть запущен из другой программы. Если сеанс не найден - выдёт исключение.	Atunci conectez clientul de testare deja pornit "%1 "	Conectează un client de test care a funcționat anterior, care ar fi putut fi lansat dintr-un alt program. Dacă sesiunea nu este găsită, va fi aruncată o excepție.	
+Затем я рисую стрелку от "%1 Vanessa_Automation" до "%2 Запуск_сценариев"	Рисует стрелку от одной картинки до другой. Поиск картинок на экране делается с помощью SikuliX. Если первый параметр равен пустой сроке, тогда точкой "от" будет центр экрана. Дополнительные параметры задаются через таблицу Gherkin.	Atunci trag o săgeată de la "%1 Vanessa_Automation" la "%2 Rularea_scripturilor"	Desenează o săgeată de la o imagine la alta. Căutarea de imagini pe ecran se face folosind SikuliX. Dacă primul parametru este gol, atunci punctul "de la" este centrul ecranului. Parametrii suplimentari sunt setați prin tabelul Gherkin.	
+Затем я создаю пустую базу "%1 ПараметрыСозданияБазы"	Создаёт пустую базу по указанным параметрам.	Atunci creez o bază de date goală "%1 ParametriiCreăriiBazei"	Creează o bază de date goală pentru parametrii specificați.	
+Затем я сохраняю имя файла без расширения из переменной "%1 ПолноеИмяФайла" как "%2 ИмяФайла"	Получает имя файла без расширения из переменной, в которой хранится полный путь к файлу	Atunci salvez numele fișierului fără o extensie din variabila "%1 " ca "%2 NumeFișier"	Obține numele fișierului fără extensie dintr-o variabilă care stochează calea completă la fișier.	
+Затем я сохраняю имя файла из переменной "%1 ПолноеИмяФайла" как "%2 ИмяФайла"	Получает имя файла из переменной, в которой хранится полный путь к файлу	Atunci salvez numele fișierului din variabila "%1 NumeFișierComplet" ca "%2 NumeFișier"	Obține numele fișierului dintr-o variabilă care stochează calea completă la fișier.	
+"И в группе ""%1 Заголовок группы"" не содержатся элементы
+ | 'ИмяЭлемента1' |
+ | 'ИмяЭлемента2' |"	Проверяет, что в группа с указанным заголовком не содержит элементы из таблицы. Элемент по умолчанию ищется заголовку. Чтобы искать по внутреннему имени нужно перед именем элемента добавить символ "!".	"Si în grup ""%1 Titlulul grupului"" nu conține elemente
+  | ""ElementNume1""|
+  | ""ElementNume2""|"	Verifică faptul că grupul cu Titlulul specificat nu conține elemente din tabel. Elementul implicit este căutat pentru un Titlul. Pentru a căuta după numele intern, adăugați caracterul "!" Înainte de numele elementului.	
+"И в группе ""%1 Заголовок группы"" содержатся элементы
+ | 'ИмяЭлемента1' |
+ | 'ИмяЭлемента2' |"	Проверяет, что в группа с указанным заголовком содержит элементы из таблицы. Элемент по умолчанию ищется заголовку. Чтобы искать по внутреннему имени нужно перед именем элемента добавить символ "!".	"Si grupul ""%1 Titlulul grupului"" conțin elementele
+  | ""ElementNume1""|
+  | ""ElementNume2""|"	Verifică dacă grupul cu Titlulul specific conține elemente din tabel. Elementul implicit este căutat pentru un Titlul. Pentru a căuta după numele intern, adăugați caracterul "!" Înainte de numele elementului.	
+"И в группе с именем ""%1 ИмяГруппы"" не содержатся элементы
+ | 'ИмяЭлемента1' |
+ | 'ИмяЭлемента2' |"	Проверяет, что в группа с указанным заголовком не содержит элементы из таблицы. Элемент по умолчанию ищется заголовку. Чтобы искать по внутреннему имени нужно перед именем элемента добавить символ "!".	"Si grupul cu numele ""%1 NumeGrup"" nu se conțin elementele
+ | ""ElementNume1""|
+ | ""ElementNume2""|"	Verifică faptul că grupul cu Titlulul specificat nu conține elemente din tabel. Elementul implicit este căutat pentru un Titlul. Pentru a căuta după numele intern, adăugați caracterul "!" Înainte de numele elementului.	
+"И в группе с именем ""%1 ИмяГруппы"" содержатся элементы
+ | 'ИмяЭлемента1' |
+ | 'ИмяЭлемента2' |"	Проверяет, что в группа с указанным именем содержит элементы из таблицы. Элемент по умолчанию ищется заголовку. Чтобы искать по внутреннему имени нужно перед именем элемента добавить символ "!".	"Si grupul cu numele ""%1 NumeGrup"" se conțin elementele
+| ""ElementNume1""|
+| ""ElementNume2""|"	Verifică dacă grupul cu numele specificat conține elemente din tabel. Elementul implicit este căutat pentru un Titlul. Pentru a căuta după numele intern, adăugați caracterul "!" Înainte de numele elementului.	
+И В командном интерфейсе я выбираю "%1 ИмяКомандыПанелиРазделов" "%2 ИмяКомандыПанелиФункций"	Нажатие кнопки на панели разделов, затем в панели функций.	Si comanda interfeței eu aleg "%1 NumeComandăSecțiunePanou" "%2 NumePanoulFuncțiilorComandă"	Apăsând butonul de pe bara de secțiuni, apoi pe panoul de funcții.	
+И в меню формы я выбираю "%1 ИмяПунктаМеню"	Выбирает значение из пункта меню. Например, когда происходит расшифровка отчета.	Si meniul formei eu aleg "%1 NumeleElementuluiMeniu"	Selectează o valoare dintr-un element de meniu. De exemplu, atunci când un raport este decriptat.	
+И в поле "%1 Заголовок поля" я ввожу значение выражения "%2 1+1"	Вычисляет выражение и вводит результат в поле	Si câmpul "%1 Titlulul câmpului" eu introduc valoarea expresiei "%2 1+1"	Calculează o expresie și introduce rezultatul în câmp.	
+И в поле "%1 Заголовок поля" я ввожу значение глобального ключа "%2 Ключ"	Вставка значения ранее сохраненного ключа в реквизит	Si câmpul "%1 Titlulul câmpului" eu ntroduc valoarea cheiei globale"%2 Cheie"	Introduceți valoarea cheii memorate anterior în documentul dorit	
+И в поле "%1 Заголовок поля" я ввожу значение глобальной переменной "%2 ИмяПеременной"	Вставка значения ранее сохраненной переменной в реквизит	Si câmpul "%1 Titlulul câmpului" eu introduc valoarea variabilei globale "%2 NumeVariabila"	Introducerea valorii unei variabile salvate anterior în documentul dorit	
+И в поле "%1 Заголовок поля" я ввожу значение ключа "%2 Номер документа"	Вставка значения ранее сохраненного произвольного ключа в реквизит	Si cîmpul "%1 Titlulul câmpului" eu introduc valoarea cheiei "%2 NumărDocument"	Introduceți valoarea unei chei arbitrare stocate anterior în documentul dorit	
+И в поле "%1 Заголовок поля" я ввожу значение переменной "%2 ИмяПеременной"	Вставка значения ранее сохраненной переменной в реквизит	Si câmpul "%1 Titlulul câmpului" eu introduc valoarea variabilei "%2 NumeVariabila"	Introducerea valorii unei variabile salvate anterior în documentul dorit	
+И в поле "%1 Заголовок поля" я ввожу конец следующего месяца	Вводит в поле текстовое представление значения даты равной концу следующего месяца. Например "31.01.2018".	Și în câmpul "%1 Titlul câmpului" intră la sfârșitul lunii următoare.	Introduce o reprezentare textuală a valorii datei egale cu sfârșitul lunii următoare în câmp. De exemplu, "01/31/2018".	
+И в поле "%1 Заголовок поля" я ввожу конец текущего месяца	Вводит в поле текстовое представление значения даты равной концу текущего месяца. Например "31.01.2018".	Și în câmpul "%1 Titlul câmpului" intră la sfârșitul lunii curente	Introduce o reprezentare textuală a valorii de dată egală cu sfârșitul lunii curente în câmp. De exemplu, "01/31/2018".	
+И в поле "%1 Заголовок поля" я ввожу начало следующего месяца	Вводит в поле текстовое представление значения даты равной началу следующего месяца. Например "01.01.2018".	Și în câmpul "%1 Titlul câmpului", intru în începutul lunii următoare	Introduce o reprezentare textuală a valorii datei egale cu începutul lunii următoare în câmp. De exemplu "01/01/2018".	
+И в поле "%1 Заголовок поля" я ввожу начало текущего месяца	Вводит в поле текстовое представление значения даты равной началу текущего месяца. Например "01.01.2018".	Și în câmpul "%1 Titlul câmpului" intră la începutul lunii curente	Introduce o reprezentare textuală a valorii datei egale cu începutul lunii curente în câmp. De exemplu "01/01/2018".	
+И в поле "%1 Заголовок поля" я ввожу текущую дату	Вводит текстовое представление значения текущей даты в поле. Например "01.01.2018".	Și în câmpul "%1 Titlul câmpului" intru în data curentă	Introduce o reprezentare textuală a valorii datei curente dintr-un câmp. De exemplu "01/01/2018".	
+И в поле "%1 Заголовок поля" я ввожу текущую дату и текущее время	Вводит текстовое представление значения текущей даты и времени в поле. Например "01.01.2018 12:00:00".	Si câmpul "%1 Titlul câmpului" introduceți data curentă și ora curentă	Introduce o reprezentare textuală a valorii curente de dată și oră într-un câmp. De exemplu, "01/01/2018 12:00:00".	
+И в поле "%1 Заголовок поля" я увеличиваю значение	Увеличивает значение поля в помощью специальной кнопки	Și în câmpul "%1 Titlul câmpului" măresc valoarea	Mărește valoarea câmpului utilizând butonul special.	
+И в поле "%1 Заголовок поля" я уменьшаю значение	Уменьшает значение поля в помощью специальной кнопки	Și în câmpul "%1 Titlul câmpului" scade valoarea	Reduce valoarea cîmpului utilizвnd butonul special.	
+И в поле с именем "%1 ИмяПоля" я ввожу значение выражения "%2 1+1"	Вычисляет выражение и вводит результат в поле	Și în câmpul numit "%1 NumeCâmp" introduceți valoarea expresiei "%2 1 + 1"	Calculează o expresie și introduce rezultatul în câmp.	
+И в поле с именем "%1 ИмяПоля" я ввожу текущую дату	Вводит текстовое представление значения текущей даты в поле. Например "01.01.2018".	Si câmpul numit "%1 NumeCâmp" introduceți data curentă	Introduce o reprezentare textuală a valorii datei curente dintr-un câmp. De exemplu "01/01/2018".	
+И в поле с именем "%1 ИмяПоля" я ввожу текущую дату и текущее время	Вводит текстовое представление значения текущей даты и времени в поле. Например "01.01.2018 12:00:00".	Si câmpul numit "%1 NumeCâmp", introduceți data curentă și ora curentă	Introduce o reprezentare textuală a valorii curente de dată și oră într-un câmp. De exemplu, "01/01/2018 12:00:00".	
+И в поле с именем "%1 ИмяПоля" я увеличиваю значение	Увеличивает значение поля в помощью специальной кнопки	Și în câmpul numit "%1 NumeCâmp" măresc valoarea	Mărește valoarea câmpului utilizând butonul special.	
+И в поле с именем "%1 ИмяПоля" я уменьшаю значение	Уменьшает значение поля в помощью специальной кнопки	Și în câmpul numit "%1 NumeCâmp" am scăzut valoarea	Reduce valoarea cîmpului utilizвnd butonul special.	
+И В последнем сообщении TestClient нет строки "%1 Нет"	Шаг позволяет проверить, что в самом новом сообщении пользователю нет указанной строки.	Și în ultimul mesaj TestClient nu există nici o linie "%1 Nu"	Pasul vă permite să verificați dacă utilizatorul nu are șirul specificat în cel mai nou mesaj.	
+И в сообщениях пользователю нет одинаковых сообщений	Проверяет, что каждое сообщение пользователю встречается только один раз	Și în mesajele către utilizator nu există mesaje identice.	Verifică că fiecare mesaj către utilizator este găsit o singură dată.	
+И в таблице "%1 ИмяТаблицы" "%2 10" строк, у которых колонка "%3 ИмяКолонки" "%4 ВидСравнения" "%5 ЗначениеКолонки"	Проверяет, что у таблицы TestClient есть указанное число строк, у которых значение в нужной колоноке сответствует заданному	În tabelul "%1 NumeTabel" "%2 10" rînduri, la care coloana "%3 NumeColoană" "%4 TipComparație" "%5 ValoareaColoanei"	Verifică faptul că tabelul TestClient are numărul de rânduri specificat care are valoarea din coloana corespunzătoare corespunzătoare celei specificate	
+И в таблице "%1 ИмяТаблицы" в поле '%2 Заголовок поля' я ввожу значение выражения "%3 Выражение"	Вычисляет выражение и вводит результат в поле таблицы	Și tabelul "%1 NumeTabel" în cîmpul '%2  Titlul câmpului' eu introduc valoarea expresiei "%3 Expresie"	Calculează o expresie și introduce rezultatul într-un câmp de tabel.	
+И в таблице "%1 ИмяТаблицы" в поле "%2 Заголовок поля" я ввожу текущую дату	Ввод текущей даты в поле таблицы	Și în tabelul "%1 NumeTabel" în câmpul "%2 Titlulul câmpului" intru în data curentă	Introduceți data curentă în câmpul tabelului	
+И в таблице "%1 ИмяТаблицы" в поле "%2 Заголовок поля" я увеличиваю значение	Увеличивает значение поля в помощью специальной кнопки	Și în tabelul "%1 NumeTabel" în câmpul "%2 Titlulul câmpului" măresc valoarea	Mărește valoarea câmpului utilizând butonul special.	
+И в таблице "%1 ИмяТаблицы" в поле "%2 Заголовок поля" я уменьшаю значение	Уменьшает значение поля в помощью специальной кнопки	Și în tabelul "%1 NumeTabel" din câmpul "%2 Titlulul câmpului", scade valoarea	Reduce valoarea cîmpului utilizвnd butonul special.	
+И в таблице "%1 ИмяТаблицы" в поле с именем '%2 ИмяПоля' я ввожу значение выражения "%3 Выражение"	Вычисляет выражение и вводит результат в поле таблицы	Și în tabelul "%1 NumeTabel" în câmpul numit '%2 NumeCâmp', introduceți valoarea expresiei "%3 expression"	Calculează o expresie și introduce rezultatul într-un câmp de tabel.	
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я ввожу конец следующего месяца	Вводит в поле таблицы текстовое представление значения даты равной концу следующего месяца. Например "31.01.2018".	Și în tabelul "%1 NumeTabel" în câmpul numit "%2 NumeCâmp", intră la sfârșitul lunii următoare	Introduceți o reprezentare textuală a valorii datei egale cu sfârșitul lunii următoare în câmpul din tabel. De exemplu, "01/31/2018".	
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я ввожу конец текущего месяца	Вводит в поле таблицы текстовое представление значения даты равной концу текущего месяца. Например "31.01.2018".	Și în tabelul "%1 NumeTabel" în câmpul numit "%2 Nume câmp" intră la sfârșitul lunii curente	Introduceți o reprezentare textuală a valorii de dată egală cu sfârșitul lunii curente în câmpul din tabel. De exemplu, "01/31/2018".	
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я ввожу начало следующего месяца	Вводит в поле таблицы текстовое представление значения даты равной началу следующего месяца. Например "01.01.2018".	Și în tabelul "%1 NumeTabel" în câmpul numit "%2 Nume câmp" intrăm la începutul lunii următoare	Introduceți o reprezentare textuală a valorii datei egale cu începutul lunii următoare în câmpul din tabel. De exemplu "01/01/2018".	
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я ввожу начало текущего месяца	Вводит в поле таблицы текстовое представление значения даты равной началу текущего месяца. Например "01.01.2018".	Și în tabelul "%1 NumeTabel" în câmpul numit "%2 Nume câmp" intrăm la începutul lunii curente	Introduceți o reprezentare textuală a valorii datei egale cu începutul lunii curente în câmpul tabelului. De exemplu "01/01/2018".	
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я увеличиваю значение	Увеличивает значение поля в помощью специальной кнопки	Și în tabelul "%1 NumeTabel" în câmpul numit "%2 NumeCâmp" măresc valoarea	Mărește valoarea câmpului utilizând butonul special.	
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я уменьшаю значение	Уменьшает значение поля в помощью специальной кнопки	Și în tabelul "%1 NumeTabel" în câmpul numit "%2 NumeCâmp" am scăzut valoarea	Reduce valoarea cîmpului utilizвnd butonul special.	
+И в таблице "%1 ИмяТаблицы" в текущее поле я ввожу текст "%2 НужныйМнеТекст"	Ввод текста в текущее поле таблицы.	Și în tabelul "%1 NumeTabel" din câmpul curent introduc textul "%2 RequiredMeText"	Introduceți text în câmpul curent al tabelului.	
+И в таблице "%1 ИмяТаблицы" заголовок активной колонки "%2 Текст"	Проверяет, что у активная колока таблицы имеет нужный заголовок	Și tabelul "%1 NumeTabel", titlul coloanei active este "%2 Text"	Verifică dacă coloana tabelă activă are titlul corect.	
+И в таблице "%1 ИмяТаблицы" из выпадающего списка "%2 Заголовок поля" я выбираю по строке "%3 ЗначениеПоля"	Выбор значения из выпадающего списка. Сначала будет ввод по строке указанного значения, затем будет выбрано первое значение из списка.	Și în tabelul "%1 NameTable" din lista drop-down "%2 Titlul câmpului" Selectez din linia "%3 ValoareCâmp"	Selectați o valoare din lista derulantă. Mai întâi va exista o intrare pe linia valorii specificate, apoi va fi selectată prima valoare din listă.	
+И в таблице "%1 ИмяТаблицы" из выпадающего списка "%2 Заголовок поля" я выбираю точное значение "%3 ЗначениеПоля"	Выбор значения из выпадающего списка. Должно быть указано точное значение	Și în tabelul "%1 NumeTabel" din lista derulantă "%2 TitlulCâmpului" Am selectat valoarea exactă "%3 ValoareCâmp"	Selectați o valoare din lista derulantă. Trebuie specificată valoarea exactă.	
+И в таблице "%1 ИмяТаблицы" из выпадающего списка с именем "%2 ИмяПоля" я выбираю по строке "%3 ЗначениеПоля"	Выбор значения из выпадающего списка. Сначала будет ввод по строке указанного значения, затем будет выбрано первое значение из списка.	Și tabelul "%1 NumeTabel" din lista drop-down cu numele "%2 NumeCâmp" eu aleg dupa rînd "%3 ValoareCâmp"	Selectați o valoare din lista derulantă. Mai întâi va exista o intrare pe linia valorii specificate, apoi va fi selectată prima valoare din listă.	
+И в таблице "%1 ИмяТаблицы" из выпадающего списка с именем "%2 ИмяПоля" я выбираю точное значение "%3 ЗначениеПоля"	Выбор значения из выпадающего списка	Și tabelul "%1 NumeTabel" din lista drop-down cu numele "%2 NumeCâmp" eu aleg valoarea exactă "%3 ValoareCâmp"	Selectarea unei valori din lista derulantă	
+И в таблице "%1 ИмяТаблицы" имя активной колонки "%2 Текст"	Проверяет, что у активная колока таблицы имеет нужное имя	Și tabelul "%1 NumeTabel" numele coloanei active "%2 Text"	Verifică că coloana tabelă activă are numele corect.	
+И В таблице "%1 ИмяТаблицы" поле "%2 Заголовок реквизита" доступно не только для просмотра	Проверка установленного флага "Только просмотр" для реквизита в таблице	Și în tabelul "%1 NumeTabel" câmpul "%2 TitluriAtribut" disponibil nu numai pentru vizualizare	Verificați setul "Vezi numai" pentru atributul din tabel	
+И в таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяПоля" имеет значение "%3 ЗначениеПоля"	Проверка значения поля (ячейки) текущей строки таблицы	Și tabelul "%1 NumeTabel" cîmpu cu numele "%2 NumeCâmp" are valoare pentru "%3 ValoareCâmp"	Verificați valoarea câmpului (celulă) al rândului curent din tabel	
+"И в таблице ""%1 ИмяТаблицы"" текущая строка равна:
+ | ИмяКолонки1 | ИмяКолонки2 |
+ | Значение1 | Значение2 |"	Проверяет, что таблица TestClient стала равна таблице Gherkin	"Și tabelul ""%1 NumeTabel"" rîndul curent este egal cu:
+ | NumeColoana1 | NumeColoana2 |
+ | Valoare1 | Valoare2 |"	Verifică faptul că tabelul TestClient devine egal cu tabelul Gherkin.	
+И в таблице "%1 ИмяТаблицы" у поля "%2 Заголовок элемента" я жду значения "%3 Значение" в течение "%4 20" секунд	Ожидает значения в ячейке таблицы в текущей строке в течение указанного числа секунд. Ячейка указывается по её заголовку.	Și tabelul "%1 NumeTabel" la cîmpul "%2 TitlulElement " aștept valoarea "%3 Valoare" în timp de "%4 20" secunde	Se așteaptă valori în celula tabelă din rândul curent pentru numărul specificat de secunde. Celula este indicată prin titlu.	
+И в таблице "%1 ИмяТаблицы" у поля "%2 Заголовок элемента" я жду значения отличного от "%3 Значение" в течение "%4 20" секунд	Ожидает значения отличного от указанного в ячейке таблицы в текущей строке в течение указанного числа секунд. Ячейка указывается по её заголовку.	Și tabelul "%1 NumeTabel" în cîmpul "%2 TitlulElement" eu aștept valoarea ce difera de "%3 Valoare" în timp de "%4 20" secunde	Se așteaptă valori diferite de cele specificate în celula de tabelă din rândul curent pentru numărul specificat de secunde. Celula este indicată prin titlu.	
+И в таблице "%1 ИмяТаблицы" у поля с именем "%2 ИмяЭлемента" я жду значения "%3 Значение" в течение "%4 20" секунд	Ожидает значения в ячейке таблицы в текущей строке в течение указанного числа секунд. Ячейка указывается по её имени.	Și tabelul "%1 NumeTabel" în cîmpul cu numele "%2 NumeElement" eu aștept valoarea "%3 Valoare" în timp de "%4 20" secunde	Se așteaptă valori în celula tabelă din rândul curent pentru numărul specificat de secunde. Celula este indicată de numele său.	
+И в таблице "%1 ИмяТаблицы" у поля с именем "%2 ИмяЭлемента" я жду значения отличного от "%3 Значение" в течение "%4 20" секунд	Ожидает значения отличного от указанного в ячейке таблицы в текущей строке в течение указанного числа секунд. Ячейка указывается по её имени.	Și tabelul "%1 NumeTabel" în cîmpul cu numele "%2 NumeElement" eu aștept valoarea ce difera de "%3 Valoare" în timp de "%4 20" secunde	Se așteaptă valori diferite de cele specificate în celula de tabelă din rândul curent pentru numărul specificat de secunde. Celula este indicată de numele său.	
+И в таблице "%1 ИмяТаблицы" я активизирую колонку "%2 Заголовок колонки" в группе "%3 ИмяГруппыКолонок"	Активизирует поле таблицы в указанной группе колонок.	Și tabelul "%1 NumeTabel" eu activez butonul "%2 TitlulColoană" în grupa "%3 NumeGrupColoane"	Activează un câmp de tabelă în grupul de coloane specificat.	
+И в таблице "%1 ИмяТаблицы" я активизирую колонку с именем "%2 ИмяКолонки" в группе "%3 ИмяГруппыКолонок"	Активизирует поле таблицы в указанной группе колонок.	Și tabelul "%1 NumeTabel" eu activez butonul cu numele "%2 NumeColoană" în grupa "%3 NumeGrupColoane"	Activează un câmp de tabelă în grupul de coloane specificat.	
+И в таблице "%1 ИмяТаблицы" я выделяю все строки выше текущей	Выделяет в таблице все строки выше данной	Și în tabelul "%1 NumeTabel" selectăm toate rândurile deasupra actualului	Selectează toate rândurile deasupra acestui tabel.	
+И в таблице "%1 ИмяТаблицы" я выделяю все строки ниже текущей	Выделяет в таблице все строки ниже данной	Și în tabelul "%1 NumeTabel" am selectat toate liniile de sub curent	Selectează toate rândurile din tabelul de mai jos.	
+И в таблице "%1 ИмяТаблицы" я перехожу к предыдущей ячейке	Переходит к предыдущей ячейки таблицы	Și în tabelul "%1 NumeTabel" mă mut la celula anterioară	Treceți la celula de tabelă anterioară.	
+И в таблице "%1 ИмяТаблицы" я перехожу к следующей ячейке	Переходит к следующей ячейки таблицы	Și în tabelul "%1 NumeTabel" mă mut la următoarea celulă	Treceți la celula următoare din tabel.	
+"И в таблице ""%1 ИмяТаблицы"" я перехожу к строке по шаблону
+ |'ИмяКолонки'|
+ |'*ЧастьСтроки*'|"	Переход к строке таблицы, когда в значении колонок встречаются символы *	"Și tabelul ""%1 NumeTabel"" eu trec la rindul după șablonul
+ |'NumeColoană'|
+ |'*ParteColoană*'|"	Salt la un rînd dintr-un tabel atunci Când caracterele din valoarea coloanei sunt *	
+"И в таблице ""%1 ИмяТаблицы"" я перехожу к строке с переключением выделения:
+ | 'ИмяКолонки' |
+ | 'ЗначениеКолонки' |"	Переход к нужной строке данной таблицы со сменой выделения строки (клавиша Ctrl). Если обернуть значение с помощью символа $, тогда значение будет взято из переменной Контекст. Если $$, тогда из КонтекстСохраняемый.	"Și tabelul ""%1 NumeTabel"" trec spre rînd prin schimbarea înserării:
+ | 'NumeColoană' |
+ | 'ValoareColoană' |"	Navigați la rândul dorit din acest tabel schimbând selecția rândului (tasta Ctrl). Dacă înfășurați valoarea cu simbolul $, atunci valoarea va fi luată din variabila Context. Dacă $ $$, apoi din Context Conserved.	
+"И в таблице ""%1 ИмяТаблицы"" я разворачиваю строку с подчиненными:
+ | 'ИмяКолонки' |
+ | 'ЗначениеКолонки' |"	Развернуть группу строк со всеми подчиненными строками. Нужен режим совместимости 8.3.13 или выше.	"Și tabelul ""%1 NumeTabel"" deschid randul cu siruri subordonate :
+ | 'NumeColoană' |
+ | 'ValoareColoană' |"	Extindeți un grup de linii cu toate liniile subordonate. Modul de compatibilitate 8.3.13 sau mai mare este necesar.	
+И в таблице "%1 ИмяТаблицы" я разворачиваю текущую строку с подчиненными	Развернуть текущую строку таблицы/дерева со всеми подчиненными строками. Нужен режим совместимости 8.3.13 или выше.	Și tabel "%1 NumeTabel" deschid randul curent cu subordonate	Extindeți rândul curent de tabel / arbore cu toate rândurile subordonate. Modul de compatibilitate 8.3.13 sau de mai sus.	
+И в таблице "%1 ИмяТаблицы" я снимаю флаг с именем "%2 ИмяФлага"	Устанавливает флаг в Ложь	Și tabel "%1 NumeTabel" scot bifa de pe numele "%2 NumeBifă"	Setează steagul la Fals	
+И в таблице "%1 ИмяТаблицы" я устанавливаю флаг с именем "%2 ИмяФлага"	Устанавливает флаг в Истина	Și tabel "%1 NumeTabel" bifez pe numele "%2 NumeBifă"	Setează drapelul la adevărat	
+И в таблице клиентов тестирования я активизирую строку '%1 ИмяКлиентаТестирования'	Актвизирует строку с нужным клиентом тестирования. Поиск строки просходит с начала по имени, затем по синониму.	Și în tabela de testare a clienților activez șirul "%1 NumeClientTestare"	Acționează șirul cu clientul de testare dorit. Căutarea pentru șir începe de la început cu numele, apoi cu sinonimul.	
+И в таблице текущее поле заполнено	Проверяет, что текущая ячейка текущей таблицы заполнена.	Și tabel este completat câmpul curent	Verifică dacă celula curentă din tabelul curent este plină.	
+И в таблице текущее поле не заполнено	Проверяет, что текущая ячейка текущей таблицы не заполнена.	Și în tabel câmpul curent nu este ocupat	Verifică dacă celula curentă din tabelul curent este goală.	
+И в Таблицу "%1 ИмяТаблицы" в поле "%2 Заголовок поля" я ввожу значение переменной "%3 ИмяПеременной"	Вставка значения ранее сохраненной переменной в реквизит	Și tabelul "%1 NumeTabel" în cîmpul "%2 Titlul Câmp" introduc valoarea variabilei "%3 NumeVariabila"	Introducerea valorii unei variabile salvate anterior în documentul dorit	
+И в табличном документе "%1 РеквизитТабличныйДокумент" я делаю двойной клик на текущей ячейке	Делает двойной клик на текущей ячейке табличного документа	Și documentul tabelar "%1 AtributDocumentTabelar" fac dublu clic pe celula curenta	Faceți dublu clic pe celula curentă a documentului foaie de calcul.	
+И в табличном документе "%1 РеквизитТабличныйДокумент" я перехожу к ячейке "%2 R4C2"	Делает нужную ячейку табличного документа активной	Și documentul tabelar "%1 AtributDocumentTabelar" trec la celula "%2 R4C2"	Face ca celula dorită a documentului tabelă să fie activă.	
+И в табличном документе "%1 РеквизитТабличныйДокумент" ячейка с адресом "%2 АдресЯчейки" равна "%3 ЗначениеЯчейки"	Проверяет значение ячейки с указанным адресом.	Și documentul tabelar "%1 AtributDocumentTabelar" celula cu adresa "%2 AdresaCelulei" este egală "%3 ValoareaCelulei"	Verifică valoarea celulei cu adresa specificată.	
+И в табличный документ "%1 РеквизитТабличныйДокумент" я ввожу текст "%2 МойТекст"	Вводит текст в текщую ячейку табличного документа	Și documentul tabelar "%1 AtributDocumentTabelar" introduc textul "%2 TextulMeu"	Introduce textul în celula curentă a unui document tabelar.	
+И в текущее поле я ввожу текст "%1 ЗначениеПоля"	Вводит в активное поле формы (не таблицы) переданное значение	Și în câmpul curent introduc textul "%1 ValoareCâmp"	Intră în câmpul activ al unui formular (nu tabel) valoarea transmisă	
+И в течение "%1 100" секунд я выполняю	Цикл. Выполняет действия в цикле в течение заданного числа секунд. По истечении времени вызывает исключение, если не был вызван шаг <Тогда я прерываю цикл>	Și timp de "%1 100" secunde eu efectuez	Ciclul. Efectuează acțiuni într-o buclă pentru un anumit număr de secunde. Când timpul expiră, aruncă o excepție dacă un pas nu a fost numit <Atunci am întrerupt ciclul>	
+"И выпадающий список ""%1 Заголовок элемента"" не содержит значения
+ | 'Значение1' |
+ | 'Значение2' |"	Проверяет, что открытый выпадающий список не содержит ни одного значения из переданного набора значений. Поиск элемента формы выполняется по заголовку.	"Și lista deschisă ""%1 TitlulElement"" nu contine valorile
+ | 'Valoare1' |
+ | 'Valoare2' |"	Verifică dacă lista derulantă deschisă nu conține valori din setul de valori transferat. Căutarea unui element de formă se realizează după titlu.	
+"И выпадающий список ""%1 Заголовок элемента"" содержит значения
+ | 'Значение1' |
+ | 'Значение2' |"	Проверяет, что открытый выпадающий список в содержит каждое значение из переданного набора значений. Поиск элемента формы выполняется по заголовку.	"Și lista deschisa ""%1 TitlulElement"" conține valorile
+  | 'Valoare1' |
+  | 'Valoare2' |"	Verifică că lista verticală deschisă conține fiecare valoare din valoarea setată. Căutarea unui element de formă se realizează după titlu.	
+"И выпадающий список ""%1 Заголовок элемента"" стал равен:
+ | 'Значение1' |
+ | 'Значение2' |"	Проверяет, что открытый выпадающий список в точности равен переданному набору значений. Поиск элемента формы выполняется по заголовку.	"Și lista deschisa ""%1 TitlulElement"" devine egal:
+ | 'Valoare1' |
+ | 'Valoare2' |"	Verifică că lista verticală deschisă este exact egală cu valoarea setată. Căutarea unui element de formă se realizează după titlu.	
+"И выпадающий список с именем ""%1 ИмяЭлемента"" не содержит значения
+ | 'Значение1' |
+ | 'Значение2' |"	Проверяет, что открытый выпадающий список не содержит ни одного значения из переданного набора значений. Поиск элемента формы выполняется по имени.	"Și lista deschisa cu numele ""%1 NumeElement"" nu conține valorile
+  | 'Valoare1' |
+  | 'Valoare2' |"	Verifică dacă lista derulantă deschisă nu conține valori din setul de valori transferat. Căutați un element de formă după nume.	
+"И выпадающий список с именем ""%1 ИмяЭлемента"" содержит значения
+ | 'Значение1' |
+ | 'Значение2' |"	Проверяет, что открытый выпадающий список в содержит каждое значение из переданного набора значений. Поиск элемента формы выполняется по имени.	"Și lista deschisa cu numele ""%1 NumeElement"" contine valorile
+  | 'Valoare1' |
+  | 'Valoare2' |"	Verifică că lista verticală deschisă conține fiecare valoare din valoarea setată. Căutați un element de formă după nume.	
+"И выпадающий список с именем ""%1 ИмяЭлемента"" стал равен:
+ | 'Значение1' |
+ | 'Значение2' |"	Проверяет, что открытый выпадающий список в точности равен переданному набору значений. Поиск элемента формы выполняется по имени.	"Și lista deschisa cu numele ""%1 NumeElement"" devine egal :
+  | 'Valoare1' |
+  | 'Valoare2' |"	Verifică că lista verticală deschisă este exact egală cu valoarea setată. Căutați un element de formă după nume.	
+И для каждого файла "%1 ТекФайл" из каталога "%2 C:\Temp\Video"	Делает перебор файлов в каталоге, исключая подкаталоги.	Și pentru fiecare fișier "%1 TechFile" din catalog "%2 C: \ Temp \ Video"	Face enumerarea fișierelor din director, cu excepția subdirectoarelor.	
+И для каждой строки таблицы отбора я устанавливаю отбор в списке	Шаг выставляет отбор в форме списка, когда уже открыта форма отбора.	Și pentru fiecare rând din tabelul de selecție am setat selecția în listă	Pasul stabilește selecția sub forma unei liste atunci când formularul de selecție este deja deschis.	
+И для каждой строки таблицы отбора я устанавливаю отбор в списке если это возможно	Шаг выставляет отбор в форме списка, когда уже открыта форма отбора. Не вызывает исключение, если нет такого фильтра в списке.	Și pentru fiecare rând din tabelul de selecție am setat selecția în listă, dacă este posibil	Pasul stabilește selecția sub forma unei liste atunci când formularul de selecție este deja deschis. Nu provoacă o excepție dacă nu există un astfel de filtru în listă.	
+"И затем я выполняю код встроенного языка
+ | 'Сообщить(""Hellow world."")' |"	Позволяет выполнить произвольный код на встроенном языке. Код передаётся через таблицу Gherkin.	"Și apoi execut codul de limbă încorporat
+ | 'Mesaj(""Hellow world."")' |"	Vă permite să executați codul arbitrar în limba încorporată. Codul este transmis prin tabelul Gherkin.	
+И значения табличных документов равны	Шаг на вход принимает таблицу, к которой указаны имена переменных Контекста ранее полученных макетов.	Și valorile documentelor tabulare sunt egale	Pasul de intrare acceptă un tabel la care sunt indicate numele variabilelor de context ale machetelor obținute anterior.	
+И из выпадающего списка "%1 Заголовок поля" я выбираю по строке "%2 ЧастьСтроки"	Выбор из выпадающего списка. Значение будет выбрано через ввод по строке. Допускается вводить строку не целиком.	Și din lista deschisa "%1 TitlulCâmp"aleg după rînd "%2 ParteColoană"	Selectați din lista derulantă. Valoarea va fi selectată prin introducerea pe linie. Este permisă introducerea unui șir în întregime.	
+И из выпадающего списка "%1 Заголовок поля" я выбираю точное значение "%2 ЗначениеПоля"	Выбор из выпадающего списка. Переданное значение должно в точности совпадать с тем, что видит пользователь при выборе из списка.	Și din lista deschisa "%1 TitlulCâmp" eu aleg valoarea exactă "%2 ParteColoană"	Selectați din lista derulantă. Valoarea transferată trebuie să se potrivească exact cu ceea ce văd utilizatorul atunci când alegeți din listă.	
+И из выпадающего списка с именем "%1 ИмяПоля" я выбираю по строке "%2 ЧастьСтроки"	Выбор из выпадающего списка. Значение будет выбрано через ввод по строке. Допускается вводить строку не целиком.	Și din lista deschisa cu numele "%1 NumeCâmp" aleg după rînd "%2 ParteColoană"	Selectați din lista derulantă. Valoarea va fi selectată prin introducerea pe linie. Este permisă introducerea unui șir în întregime.	
+И из выпадающего списка с именем "%1 ИмяПоля" я выбираю точное значение "%2 ЗначениеПоля"	Выбор из выпадающего списка. Переданное значение должно в точности совпадать с тем, что видит пользователь при выборе из списка.	Și din lista deschisa cu numele "%1 NumeCâmp" eu aleg valoarea exactă "%2 ValoareCâmp"	Selectați din lista derulantă. Valoarea transferată trebuie să se potrivească exact cu ceea ce văd utilizatorul atunci când alegeți din listă.	
+И количество строк таблицы "%1 ИмяТаблицы" равно переменной "%2 ИмяПеременной"	Сравнение количество строк таблицы с переменной Контекста	Și cantitatea rîndurilor tabelare "%1 NumeTabel" egală cu variabila "%2 NumeVariabila"	Comparând numărul de rânduri dintr-o masă cu o variabilă de context	
+И область "%1 R1C1:R10C10" табличного документа "%2 РеквизитТабличныйДокумент" равна макету "%3 ИмяМакета"	Сравнивает значения указанной области макета с эталоном. Макет ищется сначала в обработке фича файла, затем в каталоге проекта.  Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	Și regiunea "%1 R1C1:R10C10" documentului tabelar "%2 AtributDocumentTabelar" egală cu schema "%3 NumeleȘablonului"	Compară valorile zonei specificate a aspectului cu standardul. Aspectul este căutat mai întâi în procesarea caracteristicii fișierului, apoi în directorul proiectului. Pentru a obține fișierul mxl de la TestClient, clientul subțire va încerca să salveze documentul foaie de calcul într-un fișier. În clientul Web, acesta va fi întotdeauna citit de celulă. Detalii în ajutor, în secțiunea dedicată comparării unui document tabular cu standardul.	
+И область "%1 R1C1:R10C10" табличного документа "%2 РеквизитТабличныйДокумент" равна макету "%3 ИмяМакета" по шаблону	Сравнивает значения указанной области макета с эталоном. В значениях допусается использовать символы *. Макет ищется сначала в обработке фича файла, затем в каталоге проекта.  Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	Și regiunea "%1 R1C1:R10C10" documentului tabelar "%2 AtributDocumentTabelar" egala cu schema "%3 NumeleȘablonului" după șablon	Compară valorile zonei specificate a aspectului cu standardul. Valorile pot folosi *. Aspectul este căutat mai întâi în procesarea caracteristicii fișierului, apoi în directorul proiectului. Pentru a obține fișierul mxl de la TestClient, clientul subțire va încerca să salveze documentul foaie de calcul într-un fișier. În clientul Web, acesta va fi întotdeauna citit de celulă. Detalii în ajutor, în secțiunea dedicată comparării unui document tabular cu standardul.	
+И обратите внимание "%1 Текст обратите внимание"	Выводит в автовидеоинструкцию нужный текст в виде вставки. Белые буквы на черном фоне.	Și atrageți atenția "%1 Notă de text"	Afișează textul necesar sub forma unei inserții în avtovideoinstruktsiyu. Literele albe pe fundal negru.	
+"И панель разделов не содержит пункты меню
+ | 'ИмяЭлемента1' |
+ | 'ИмяЭлемента2' |"	Проверяет, что панель разделов не содержит элементы из переданной таблицы, содержащей пункты панели разделов.	"Și bara secțiunii nu conține elemente de meniu
+ | 'NumeElement1' |
+ | 'NumeElement2' |"	Verifică faptul că panoul de partiții nu conține elemente din tabelul care a trecut prin conținutul elementelor din panoul de partiții.	
+"И панель разделов равна
+ | 'ИмяЭлемента1' |
+ | 'ИмяЭлемента2' |"	Проверяет равенство панели разделов переданной таблице, содержащей пункты панели разделов.	"Bara secțiunii este egală
+ | 'NumeElement1' |
+ | 'NumeElement2' |"	Verifică egalitatea panoului de partiții la tabela transferată care conține elementele din panoul de partiții.	
+"И панель разделов содержит пункты меню
+ | 'ИмяЭлемента1' |
+ | 'ИмяЭлемента2' |"	Проверяет, что панель разделов содержит элементы из переданной таблицы, содержащей пункты панели разделов.	"Și panoul secțiunilor conține elemente de meniu                                                                                           | 'NumeElement1' |
+ | 'NumeElement2' |"	Verifică dacă bara secțiunii conține elemente din tabelul care a fost transmis, care conține elemente de bara de secțiune.	
+"И панель функций не содержит пункты меню
+ | 'ИмяЭлемента1' |
+ | 'ИмяЭлемента2' |"	Проверяет, что панель функций не содержит элементы из переданной таблицы, содержащей пункты панели функций.	"Și bara funcțiilor nu conține punctele meniuliu
+ | 'NumeElement1' |
+ | 'NumeElement2' |"	Verifică faptul că panoul de funcții nu conține elemente din tabelul care conține elemente de panou de funcții.	
+"И панель функций равна
+ | 'ИмяЭлемента1' |
+ | 'ИмяЭлемента2' |"	Проверяет равенство панели функция переданной таблице, содержащей пункты панели функий.	"Și bara funcțiilor este egală
+ | 'NumeElement1' |
+ | 'NumeElement2' |"	Verifică egalitatea funcției tabloului de bord la tabelul transferat care conține elementele funcționale ale tabloului de bord	
+"И панель функций содержит пункты меню
+ | 'ИмяЭлемента1' |
+ | 'ИмяЭлемента2' |"	Проверяет, что панель функций содержит элементы из переданной таблицы, содержащей пункты панели функций.	"Și bara funcțiilor conține punctele meniuliu
+ | 'NumeElement1' |
+ | 'NumeElement2' |"	Verifică faptul că panoul cu funcții conține elemente din tabelul care a intrat, care conține elementele din panoul funcțional.	
+И поле "%1 Заголовок поля" равно переменной "%2 ИмяПеременной"	Сравнение значения поля с переменной Контекста	Și cîmpul "%1 TitlulCâmp" egală variabilei "%2 NumeVariabile"	Compararea valorii cîmpului cu variabila de context	
+И поле с именем "%1 ИмяПоля" заполнено	Проверяет заполненность поля формы	Și cîmpul cu numele "%1 NumeCâmp" este indeplinita	Verifică câmpul complet al formularului	
+И поле с именем "%1 ИмяПоля" равно переменной "%2 ИмяПеременной"	Сравнение значения поля с переменной Контекста	Și cîmpul cu numele "%1 NumeCâmp" egală variabilei "%2 NumeVariabile"	Compararea valorii cîmpului cu variabila de context	
+И поле таблицы "%1 ИмяТаблицы" "%2 ИмяПоля" равно переменной "%3 ИмяПеременной"	Сравнение значения поля с переменной Контекста. Имя поля задаётся как оно задано в конфигураторе.	Și Câmpul tabelei "%1 NumeTabel" "%2 NumeCâmp" egală cu variabila "%3 NumeVariabilei"	Compararea valorii câmpului cu variabila de context. Numele câmpului este setat așa cum este specificat în configurator.	
+И поле таблицы "%1 ИмяТаблицы" с именем "%2 ИмяРеквизита" имеет заголовок "%3 Заголовок"	Проверка, что у поля таблицы нужный заголовок. Поле ищется по внутреннему идентификатору.	Și Câmpul tabelei "%1 NumeTabel" cu numele "%2 NumeAtribut" are titlu "%3 Titlu"	Verificați dacă câmpul tabelului are Titlulul dorit. Câmpul este căutat de identificatorul intern.	
+И представление элемента "%1 Заголовок элемента" стало равно "%2 ПредставлениеЭлемента"	Проверяет представление элемента формы. Работает, начиная с 8.3.12.	Și reprezentarea elementului "%1 Titlul element" devine egal "%2 VizualizareElement"	Verifică prezentarea unui element de formular. Lucrări începând cu 8.3.12.	
+И представление элемента с именем "%1 ИмяЭлемента" стало равно "%2 ПредставлениеЭлемента"	Проверяет представление элемента формы. Работает, начиная с 8.3.12.	Și reprezentarea elementului cu numele "%1 NumeElement" devine egal "%2 VizualizareElement"	Verifică prezentarea unui element de formular. Lucrări începând cu 8.3.12.	
+И таблица "%1 ИмяПеременной1" содержится в таблице "%2 ИмяПеременной2"	Проверяет, что одна таблица содержится в другой. Значения таблиц должны были быть сохранены ранее с помощью шага: И я запоминаю значение таблицы "Таблица1" как "Таб1"	Si tabelul "%1 NumeVariabila1" se conține în tabelul "%2 NumeVariabila2"	Verifică că un tabel este conținut în altul. Valorile tabelelor ar fi trebuit să fie salvate mai devreme folosind pasul: Și îmi amintesc valoarea tabelului "Table1" ca "Tab1"	
+И таблица "%1 ИмяТаблицы" не содержит строки из макета "%2 ИмяМакета"	Проверяет, что таблица TestClient содержит строки таблицы из макета. Т.е. если в таблице в TestClient 10 строк, то в шаге можно проверять наличие, например, только 3 строк. Также строки указанные в макете могут идти в любом порядке.	Și tabelul "%1 NumeTabel" nu conține rânduri din planul "%2 NumeleȘablonului"	Verifică dacă tabela TestClient conține rânduri de tabelă din layout. Ie dacă există 10 rânduri în tabelul TestClient, atunci în pas puteți verifica prezența, de exemplu, a numai 3 rânduri. De asemenea, liniile specificate în layout pot merge în orice ordine.	
+"И таблица ""%1 ИмяТаблицы"" не содержит строки:
+ | ИмяКолонки1 | ИмяКолонки2 |
+ | Значение1 | Значение2 |"	Проверяет, что в таблице TestClient нет строк, указанных в таблице Gherkin.	"Și tabelul ""%1 NumeTabel"" nu conține rânduri:
+ | NumeColoana1 | NumeColoana2 |
+ | Valoare1 | Valoare2 |"	Verifica că tabelul TestClient nu are rânduri listate în tabelul Gherkin.	
+И таблица "%1 ИмяТаблицы" равна макету "%2 ИмяМакета"	Проверяет, что таблица TestClient стала равна переданному макету	Si tabelul "%1 NumeTabel" egala cu planul "%2 NumeleȘablonului"	Verifică faptul că tabela TestClient a devenit egală cu aspectul trecut	
+И таблица "%1 ИмяТаблицы" равна макету "%2 ИмяМакета" по шаблону	Проверяет, что таблица TestClient стала равна переданному макету. В ячейках макета можно использовать символы *	Si tabelul "%1 NumeTabel" egala cu planul "%2 NumeleȘablonului" după șablonul	Verifică faptul că tabela TestClient a devenit egală cu aspectul trecut. Puteți utiliza * caractere în celulele de aspect.	
+И таблица "%1 ИмяТаблицы" содержит строки из макета "%2 ИмяМакета"	Проверяет, что таблица TestClient содержит строки таблицы из макета. Т.е. если в таблице в TestClient 10 строк, то в шаге можно проверять наличие, например, только 3 строк. Также строки указанные в макете могут идти в любом порядке.	Si tabelul "%1 NumeTabel" conține linii din planul "%2 NumeleȘablonului"	Verifică dacă tabela TestClient conține rânduri de tabelă din layout. Ie dacă există 10 rânduri în tabelul TestClient, atunci în pas puteți verifica prezența, de exemplu, a numai 3 rânduri. De asemenea, liniile specificate în layout pot merge în orice ordine.	
+"И таблица ""%1 ИмяТаблицы"" содержит строки:
+ | ИмяКолонки1 | ИмяКолонки2 |
+ | Значение1 | Значение2 |"	Проверяет, что таблица TestClient содержит строки таблицы Gherkin. Т.е. если в таблице в TestClient 10 строк, то в шаге можно проверять наличие, например, только 3 строк. Также строки указанные в шаге могут идти в любом порядке.	"Si tabelul ""%1 NumeTabel"" conține linii:
+ | NumeColoană1 | NumeColoană2 |
+ | Valoare1 | Valoare2 |"	Verifică dacă tabela TestClient conține rândurile din tabelul Gherkin. Ie dacă există 10 rânduri în tabelul TestClient, atunci în pas puteți verifica prezența, de exemplu, a numai 3 rânduri. De asemenea, liniile specificate în pas pot merge în orice ordine.	
+"И таблица ""%1 ИмяТаблицы"" стала равной по шаблону:
+ | ИмяКолонки1 | ИмяКолонки2 |
+ | Значение1 | Значение2 |"	Проверяет, что таблица TestClient стала равна таблице Gherkin. Значения могут содержать один или несколько символов *.	"Si tabelul ""%1 NumeTabel"" a devenit egala cu planul:
+ | NumeColoană1 | NumeColoană2 |
+ | Valoare1 | Valoare2 |"	Verifică faptul că tabela TestClient a devenit egală cu tabelul Gherkin. Valorile pot conține unul sau mai mulți caractere *.	
+"И таблица ""%1 ИмяТаблицы"" стала равной:
+ | ИмяКолонки1 | ИмяКолонки2 |
+ | Значение1 | Значение2 |"	Проверяет, что таблица TestClient стала равна таблице Gherkin	"Si tabelul ""%1 NumeTabel"" a devenit egala:
+ | NumeColoană1 | NumeColoană2 |
+ | Valoare1 | Valoare2 |"	Verifică faptul că tabelul TestClient devine egal cu tabelul Gherkin.	
+"И Табличный документ ""%1 ИмяТабДок"" содержит значения областей
+| ИмяОбласти | ЗначениеОбласти |"	Проверяет что в табличном документа содержатся значения, перечисленные в таблице. Таблица состоит из двух колонок: "ИмяОбласти" и "ЗначениеОбласти".	"Si documentul tabelar ""%1 NumeDocTab"" conține valorile Câmpului
+| NumeCâmp | ValoareaRegiunii |"	Verifică dacă documentul tabelar conține valorile listate în tabel. Tabelul conține două coloane: "RegionName" și "RegionValue".	
+"И Табличный документ ""%1 ИмяТабДок"" содержит строки в областях
+| ИмяОбласти | Подстрока |"	Проверяет что в табличном документа содержатся значения, перечисленные в таблице. Таблица состоит из двух колонок: "ИмяОбласти" и "Подстрока".	"Si documentul tabelar ""%1 NumeDocTab"" conține șiruri în câmpuri
+| NumeCâmp | Subșir |"	Verifică dacă documentul tabelar conține valorile listate în tabel. Tabelul constă din două coloane: "DomainName" și "Substring".	
+"И Табличный документ ""%1 РеквизитТабличныйДокумент"" содержит значения областей по шаблону
+| ИмяОбласти | ШаблонОбласти |"	Проверяет что в табличном документа содержатся значения, перечисленные в таблице. Таблица состоит из двух колонок: "ИмяОбласти" и "ШаблонОбласти". В шаблоне можно указывать символ * много раз.	"Si documentul tabelar ""%1 AtributDocumentTabelar"" conține valorile Câmpului după șablon
+| NumeCâmp | ȘablonCâmp |"	Verifică dacă documentul tabelar conține valorile listate în tabel. Tabelul este format din două coloane: "Denumirea zonei" și "Zona șablonului". În șablon, puteți specifica simbolul * de mai multe ori.	
+И у группы страниц "%1 ГруппаСтраниц" текущая страница "%2 ИмяСтраницы"	Проверяет что у заданной группы текущей страницей является указанная	Și grupul de pagini "%1 GrupulPaginilor" pagina curenta "%2 NumelePagenii"	Verifică faptul că pagina curentă pentru grupul specificat este cea specificată	
+И у поля "%1 Заголовок поля" я нажимаю гиперссылку '%2 ИмяГиперссылки'	Нажимает на гиперссылку в поле с данным заголовком. Гиперссылка задаётся либо по её представлению, либо по номеру.	Si la Câmp "%1 Titlul Câmp" fac clic pe hyperlink '%2 HyperlinkName'	Dă click pe hyperlinkul din câmp cu titlul dat. Hyperlink-ul este stabilit fie prin prezentarea fie prin număr.	
+И у поля календаря "%1 Заголовок поля" я выбираю дату	Делает выбор даты, которая установлена в календаре	Și în câmpul calendar "TitlulCâmp" aleg data	Selectează data setată în calendar	
+И у поля календаря с именем "%1 ИмяПоля" я выбираю дату	Делает выбор даты, которая установлена в календаре	Si în câmpul de calendar cu numele "%1 NumeCâmp" am selectat data	Selectează data setată în calendar	
+И у поля с именем "%1 ИмяПоля" я нажимаю гиперссылку '%2 ИмяГиперссылки'	Нажимает на гиперссылку в поле с данным заголовком. Гиперссылка задаётся либо по её представлению, либо по номеру.	Și pentru câmpul numit "%1 NumeCâmp", fac clic pe hyperlinkul "%2 HyperlinkName"	Dă click pe hyperlinkul din câmp cu titlul dat. Hyperlink-ul este stabilit fie prin prezentarea fie prin număr.	
+И у поля таблицы "%1 ИмяТаблицы" с именем "%2 ИмяРеквизита" текст подсказки равен "%3 Текст подсказки"	Проверка, что у поля таблицы нужный текст подсказки. Поле ищется по внутреннему идентификатору.	Și la câmpul tabelei "%1 NumeTabel" cu numele "%2 NumeAtribut" textul explicativ egal "%3 TextAjutor"	Verificați dacă câmpul tabelului are textul dorit. Câmpul este căutat de identificatorul intern.	
+И у элемента "%1 Заголовок элемента" я жду значения "%2 Значение" в течение "%3 20" секунд	Ожидание что элемент формы примет нужное значение в течение нужного времени. Иначе будет вызвано исключение.	Si la elementul "%1 Titlulul elementului" eu aștept valoarea "%2 Valoarea" în timp de "%3 20" secunde	Așteptând ca elementul de formă să ia valoarea potrivită pentru momentul potrivit. În caz contrar, o excepție va fi aruncată.	
+И у элемента с именем "%1 ИмяЭлемента" я жду значения "%2 Значение" в течение "%3 20" секунд	Ожидание что элемент формы примет нужное значение в течение нужного времени. Иначе будет вызвано исключение.	Si la elementul cu numele "%1 NumeElement"aștept valoarea "%2 Valoare" în timp de "%3 20" secunde	Așteptând ca elementul de formă să ia valoarea potrivită pentru momentul potrivit. În caz contrar, o excepție va fi aruncată.	
+И у элемента формы с именем "%1 ИмяПоля" текст редактирования стал равен "%2 ТекстПоля"	Проверка значения текста редактирования элемента формы	Și pentru elementul de formă cu numele "%1 NumeCâmp" textul de editare a devenit "%2 TextCâmp"	Validarea textului elementului de formă editat	
+"И файл ""%1 ИмяФайла"" не содержит строки
+ |""ПодСтрока1""|
+ |""ПодСтрока2""|"	Проверяет, что файле нет указанных строк/подстрок.	"Și fișierul ""%1 NumeCâmp"" nu conține linia
+  | 'SubȘirul1' |
+  | 'SubȘirul2' |"	Verifică dacă fișierul nu are liniile / subrețelele specificate.	
+"И файл ""%1 ИмяФайла"" содержит строки
+ |""ПодСтрока1""|
+ |""ПодСтрока2""|"	Проверяет, что файле есть указанные строки/подстроки.	"Și fișierul ""%1 NumeCâmp"" conține linia
+  | 'SubȘirul1' |
+  | 'SubȘirul2' |"	Verifică dacă fișierul are liniile / substring-urile specificate.	
+И Файл "%1 ИмяФайла" существует	Проверяет существование файла	Și fișierul "%1 NumeFișier" există	Verifică existența unui fișier	
+И флаг с именем "%1 ИмяФлага" равен "%2 Истина"	Проверяет значение флага	Și steagul numit "%1 NumeSteag" este "%2 Adevăr"	Verifică valoarea pavilionului	
+И элемент "%1 Заголовок элемента" доступен только для просмотра	Проверка флага "Только просмотр"	Și elementul "%1 TitlulElement" este disponibil numai pentru vizionare	Verificați pavilionul "Numai vizualizare"	
+И элемент с именем "%1 ИмяЭлемента" доступен только для просмотра	Проверка флага "Только просмотр"	Și elementul numit "%1 NumeElement" este disponibil numai pentru vizualizare.	Verificați pavilionul "Numai vizualizare"	
+И элемент формы "%1 Заголовок поля" отсутствует на форме	Проверка невидимости поля. Поле может не существовать.	Și elementul de formă "%1 Titlul câmp" lipsește pe formular	Verificați invizibilitatea câmpului. Este posibil ca câmpul să nu existe.	
+И элемент формы "%1 Заголовок поля" присутствует на форме	Проверка видимости поля. Поле обязано существовать.	Și elementul de formă "Titlul câmpului%1" este prezent în formular	Verificați vizibilitatea câmpului. Trebuie să existe câmpul.	
+И элемент формы "%1 Заголовок поля" существует и невидим на форме	Проверка невидимости поля. Поле обязано существовать.	Și elementul de formă "%1 Titlul câmp" există și este invizibil pe formular.	Verificați invizibilitatea câmpului. Trebuie să existe câmpul.	
+И элемент формы с именем "%1 ИмяПоля" отсутствует на форме	Проверка невидимости поля. Поле может не существовать.	Și elementul de formă numit "%1 NumeCâmp" lipsește pe formular	Verificați invizibilitatea câmpului. Este posibil ca câmpul să nu existe.	
+И элемент формы с именем "%1 ИмяПоля" присутствует на форме	Проверка видимости поля. Поле обязано существовать.	Și un element de formă numit "%1 NumeCâmp" este prezent pe formular	Verificați vizibilitatea câmpului. Trebuie să existe câmpul.	
+И элемент формы с именем "%1 ИмяПоля" существует и невидим на форме	Проверка невидимости поля. Поле обязано существовать.	Și un element de formular cu numele "%1 NumeCâmp" există și este invizibil pe formular.	Verificați invizibilitatea câmpului. Trebuie să existe câmpul.	
+И я включаю проверку видимости элементов с учётом видимости групп элементов	Включает проверку видимости элементов с учетом родителя.	Și includ verificarea vizibilității elementelor, luând în considerare vizibilitatea grupurilor de elemente	Include o verificare a vizibilității elementelor bazate pe părinte.	
+И я включаю проверку доступности элементов с учётом доступности групп элементов	Включает проверку доступности элементов с учетом родителя.	Și activez verificarea accesibilității pentru articole, având în vedere disponibilitatea grupurilor de articole.	Include un control al disponibilității elementelor bazate pe părinte.	
+И я выбираю из списка "%1 Значение"	Выбирает значение из списка, который привязан к форме. Такой список может появиться, если происходит перехват стандартных событий формы, и пользователю показывается другой список для выбора значения.	Și eu aleg din lista "%1 Valoare"	Selectează o valoare din lista care este atașată la formular. O astfel de listă poate apărea dacă sunt interceptate evenimente standard de formular și o altă listă este afișată utilizatorului pentru a selecta o valoare.	
+И я выбираю пункт контекстного меню "%1 ИмяПунктаМеню" на элементе формы "%2 Заголовок поля"	Выбирает нужный пункт контекстного меню у элемента формы	Și eu selectez elementul de meniu contextual "%1 NumeElementMeniu" pe elementul formei "%2 Titlul Câmp"	Selectați elementul de meniu contextual necesar din elementul de formular	
+И я выбираю пункт контекстного меню "%1 ИмяПунктаМеню" на элементе формы с именем "%2 ЭлементФормы"	Выбирает нужный пункт контекстного меню у элемента формы	Și eu selectez elementul de meniu contextual "%1 NumeElementMeniu" pe elementul formei "%2 ElementulFormei"	Selectați elementul de meniu contextual necesar din elementul de formular	
+И я выбираю пункт контекстного меню с именем "%1 ИмяПунктаМеню" на элементе формы "%2 Заголовок поля"	Выбирает нужный пункт контекстного меню у элемента формы	Și am selectat elementul de meniu contextual cu numele "%1 NumeElementMeniu" pe elementul formei "%2 Titlulul Câmpului"	Selectați elementul de meniu contextual necesar din elementul de formular	
+И я выбираю пункт контекстного меню с именем "%1 ИмяПунктаМеню" на элементе формы с именем "%2 ЭлементФормы"	Выбирает нужный пункт контекстного меню у элемента формы	Și eu selectez elementul de meniu contextual cu numele "%1 NumeElementMeniu" pe elementul formei cu numele "%2 ElementulFormei"	Selectați elementul de meniu contextual necesar din elementul de formular	
+И я выключаю проверку видимости элементов с учётом видимости групп элементов	Выключает проверку видимости элементов с учетом родителя.	Și opresc verificarea vizibilității elementelor luând în considerare vizibilitatea grupurilor de elemente	Dezactivează verificarea vizibilității pentru elementele bazate pe părinte.	
+И я выключаю проверку доступности элементов с учётом доступности групп элементов	Выключает проверку доступности элементов с учетом родителя.	Și dezactivez verificarea accesibilității elementelor pe baza disponibilității grupurilor de articole.	Dezactivează verificarea accesibilității elementului pe baza părintelui.	
+"И я выполняю код встроенного языка на сервере
+ | 'Сообщить(""Hellow world."")' |"	Позволяет выполнить произвольный код на встроенном языке на сервере. Код передаётся через таблицу Gherkin.	"Și am rula codul limbii încorporate pe server
+ | 'Mesaj(""Hellow world."")' |"	Vă permite să executați codul arbitrar în limba încorporată de pe server. Codul este transmis prin tabelul Gherkin.	
+И я выполняю скрипт SikuliX "%1 ИмяСкрипта"	Выполняет скрипт SikuliX. Скрипт сначала ищется в кталоге проекта, за тем в каталогах библиотек, затем в стандартных скриптах Vanessa-Automation.	Si rulez scriptul SikuliX "%1 NumeScript"	Rulează scriptul SikuliX. Scriptul este căutat mai întâi în directorul de proiect, apoi în cataloagele bibliotecii, apoi în scripturile standard Vanessa-Automation.	
+И я делаю "%1 10" раз	Цикл. Выполняет нужные действия указанное число раз. Можно прервать с помощью шага <Тогда я прерываю цикл>	Și eu fac "%1 10" ori	Ciclul. Efectuează acțiunile necesare de câte ori este specificat. Puteți întrerupe cu pasul <Atunci întrerup ciclul>	
+И я добавляю информацию в лог "%1 Текст"	Делает запись строки в текстовый лог, который определен в настройке "Лог выполнения сценариев".	Și adaug informațiile în jurnalul "%1 Text"	Scrie un șir într-un jurnal de text, care este definit în setarea "Jurnal de execuție script".	
+И я жду доступности элемента "%1 Заголовок элемента" в течение "%2 20" секунд	Ожидание доступности элемента формы с нужным заголовком в течение указанного числа секунд	Și aștept disponibilitatea elementului "%1 Titlul Elementullui" pentru "%2 20" secunde	În așteptarea disponibilității elementului de formular cu titlul dorit pentru numărul de secunde specificat	
+И я жду доступности элемента с именем "%1 ИмяЭлемента" в течение "%2 20" секунд	Ожидание доступности элемента формы с нужным именем в течение указанного числа секунд	Și aștept disponibilitatea unui element numit "%1 NumeElement" pentru "%2 20" secunde	În așteptarea disponibilității unui element de formular cu numele dorit pentru numărul de secunde specificat	
+И я жду закрытия окна "%1 Заголовок окна" в течение "%2 20" секунд	Ожидает, что окно исчезнет в течение указанного числа секунд. Поиск окна происходит среди всех открытых окон. Поэтому шаг будет ждать пока закроются все окна, удовлетворяющие переданному параметру "Заголовок окна".	Și aștept să se închidă fereastra, "%1 Titlu Fereastra" pentru "%2 20" secunde	Se așteaptă ca fereastra să dispară pentru numărul de secunde specificat. O căutare de ferestre are loc în toate ferestrele deschise. Prin urmare, pasul va aștepta până când toate ferestrele care satisfac parametrul "Titlul ferestrei" sunt închise.	
+И я жду картинки "%1 ИмяКартинки" в течение "%2 20" секунд	Ожидает появления картинки на экране в течение нужного числа секунд.	Și aștept imaginea "%1 NumeImagine" pentru "%2 20" secunde	Se așteaptă o imagine pe ecran pentru numărul dorit de secunde.	
+И я жду открытия окна "%1 Заголовок окна" в течение "%2 20" секунд	Ожидает, что окно появится в течение указанного числа секунд	Și aștept să se deschidă fereastra, "%1 Titlu Fereastra" pentru "%2 20" secunde	Se așteaptă ca fereastra să apară pentru numărul de secunde specificat.	
+И я жду появления элемента "%1 Заголовок элемента" в течение "%2 20" секунд	Ожидание появления (видимости) элемента формы с нужным заголовком в течение указанного числа секунд	Și aștept ca elementul să apară "%1 Titlul Element" pentru "%2 20" secunde	În așteptarea apariției (vizibilității) unui element de formular cu titlul dorit pentru numărul de secunde specificat	
+И я жду появления элемента с именем "%1 ИмяЭлемента" в течение "%2 20" секунд	Ожидание появления (видимости) элемента формы с нужным именем в течение указанного числа секунд	Și aștept ca un element cu numele "%1 NumeElement" să apară pentru "%2 20" secunde	Așteptarea aspectului (vizibilității) unui element de formular cu numele dorit pentru numărul de secunde specificat	
+И я жду, что в таблице "%1 ИмяТаблицы" количество строк будет "%2 больше" "%3 0" в течение "%4 20" секунд	В течение нужного числа секунд проверяется количество строк в таблице в текущем окне	Și mă aștept ca în tabelul "%1 NumeElement" numărul de rânduri să fie "%2 mai mult" "%3 0" pentru "%4 20" secunde	Pentru numărul de secunde necesar, este bifat numărul de rânduri din tabelul din fereastra curentă.	
+И я жду, что в таблице текущее поле будет заполнено в течение "%1 10" секунд.	Проверяет, что текущая ячейка текущей таблицы перестанет быть пустой в течение нужного числа секунд.	Și mă aștept ca câmpul curent din tabel să fie completat pentru "%1 10" secunde.	Verifică faptul că celula curentă din tabelul curent nu mai este goală pentru numărul dorit de secunde.	
+И я жду, что в таблице текущее поле будет не заполнено в течение "%1 10" секунд.	Проверяет, что текущая ячейка текущей таблицы станет пустой в течение нужного числа секунд.	Și mă aștept ca câmpul curent din tabel să nu fie completat pentru "%1 10" secunde.	Verifică că celula curentă din tabelul curent devine goală pentru numărul dorit de secunde.	
+И я жду, что в табличном документе "%1 ИмяРеквизита" ячейка "%2 АдресЯчейки" станет равна "%3 Значение" в течение "%4 20" секунд	Ожидает в течение нужного числа секунд, что нужная ячейка табличного документа станет равна заданному значению.	Și aștept ca în documentul tabular "%1 NumeAtribul” celula "%2 AdresaCelulei" să devină "%3 Valoare" pentru "%4 20" secunde	Se așteaptă numărul necesar de secunde în care celula dorită din documentul tabel devine egală cu valoarea specificată.	
+И я жду, что поле "%1 Заголовок поля" перестанет быть пустым в течение "%2 30" секунд	Проверяет, что в течение нужного числа секунд текстовое поле станет заполненным.	Și aștept ca câmpul "%1 TitluCâmp" va înceta să fie gol în timp de "%2 30" secunde	Verifică faptul că numărul de secunde necesar este completat cu câmpul de text	
+И я жду, что поле с именем "%1 ИмяПоля" перестанет быть пустым в течение "%2 30" секунд	Проверяет, что в течение нужного числа секунд текстовое поле станет заполненным.	Și aștept ca câmpul numit "%1 NumeCâmp" va înceta să fie gol în timp de "%2 30" secunde	Verifică apoi în intervalul de secunde necesar câmpul de text va fi umplut.	
+"И я жду, что таблица ""%1 ИмяТаблицы"" станет равна данной в течение ""%2 20"" секунд:
+ | ИмяКолонки1 | ИмяКолонки2 |
+ | Значение1 | Значение2 |"	Проверяет, что таблица TestClient станет равной таблице Gherkin в течение нужного числа секунд	"Și mă aștept ca tabelul ""%1 NumeTabel"" va fi egal cu datele în timp de ""%2 20"":
+  | NumeColoana1 | NumeColoana2
+  | Valoare1 | Valoare2 |"	Verifică faptul că tabelul TestClient devine egal cu tabelul Gherkin pentru numărul de secunde dorit.	
+"И я жду, что таблица ""%1 ИмяТаблицы"" станет содержать строки в течение ""%2 20"" секунд:
+ | ИмяКолонки1 | ИмяКолонки2 |
+ | Значение1 | Значение2 |"	Проверяет, что таблица TestClient станет содержать в себе строки из переданной таблицы Gherkin в течение нужного числа секунд.	"Și mă aștept ca tabela ""%1 NumeTabel"" să conțină rânduri în timp de ""%2 20"" secunde:
+  | NumeColoana1 | NumeColoana2
+  | Valoare1 | Valoare2 |"	Verifică dacă tabela TestClient va conține rândurile din tabelul Gherkin transferat pentru numărul de secunde dorit.	
+И я жду, что у группы страниц "%1 ГруппаСтраниц" текущей страницей станет "%2 ИмяСтраницы" в течение "%3 20" секунд	Ожидает, что у заданной группы текущей страницей станет нужная группа в течение указанного числа секунд	Și aștept ca grupul de pagini "%1 GrupPagini" să devină pagina curentă "%2 NumePagini" în timp de "%3 20" secunde	Se așteaptă ca grupul specificat să aibă pagina curentă pentru grupul dorit pentru numărul de secunde specificat.	
+И я закрываю главное окно TestClient	Закрывает главное окно TestClient. Равносильно нажатию на крестик на главном окне приложения. Обработку диалогов, которые могут возникнуть при закрыти приложения, должен обеспечить сам сценарий.	Și închid fereastra principală TestClient	Închide fereastra principală TestClient. Este echivalent cu clic pe cruce în fereastra principală a aplicației. Dialogurile care pot apărea la închiderea unei aplicații ar trebui să fie gestionate de script-ul însuși.	
+"И я заполняю таблицу ""%1 ИмяТаблицы"" данными
+ | 'ИмяКолонки1' | 'ИмяКолонки2' |
+ | 'Значение1' | 'Значение2' |"	Заполняет указанную таблицу данными, переданными в таблице Gherkin.	"Și umplem tabelul ""%1 NumeTabel"" cu date
+  | NumeColoana1 | NumeColoana2|
+  | Valoare1 | Valoare2 |"""	Umple masa specificată cu datele transmise în tabelul Gherkin.	
+И я запоминаю версию конфигурации "%1 ИмяКонфигурации" как "%2 Версия"	Для типовых конфигураций. Требует наличия прав на открытие регистра сведений "ВерсииПодсистем".	Și memorez versiunea de configurare "%1 NumeConfigurație " ca "%2 Versiune"	Pentru configurații tipice. Necesită drepturi de deschidere a informațiilor din registru "Subsistemul Versiuni".	
+"И я запоминаю выделенные строки таблицы ""%1 Таблица1"" как ""%2 ИмяПеременной""
+ | 'ИмяКолонки1' |
+ | 'ИмяКолонки2' |"	Запоминает значение выделенных строк указанных колонок таблицы в переменную.	"Și îmi amintesc rândurile evidențiate ale tabelului ""%1 Table1"" ca ""%2 NumeVariabil""
+  | ""NumeColoana1""|
+  | ""NumeColoana2""|"	Stochează valoarea rândurilor selectate din coloanele specificate ale tabelului într-o variabilă.	
+И Я запоминаю значение переменной среды '%1 MY_ENV_VAR' в переменную '%2 ЗначениеПеременнойСреды'	Позволяет сохранить переменную среды как переменную контекста.	Si eu rețin valoarea variabilei mediului '%1 MY_ENV_VAR' în variabila '%2 ValoareaVariabileiMudiului'	Permite salvarea unei variabile de mediu ca variabilă de context.	
+И я запоминаю значение поля "%1 Заголовок поля" таблицы "%2 ИмяТаблицы" как "%3 ИмяПеременной"	Сохранение значения поля таблицы в переменную Контекст	Si eu rețin valoarea câmpului cu numele "%1 TitlulCâmp" tabelului "%2 NumeTabel" ca "%3 NumeVariabila"	Salvarea valorii unui câmp de tabel la o variabilă Context	
+И я запоминаю значение поля с именем "%1 ИмяПоля" как "%2 ИмяПеременной"	Сохранение значения поля в переменную Контекст	Si eu rețin valoarea câmpului cu numele "%1 NumeCâmp" ca "%2 NumeVariabilei"	Salvarea valorii cîmpului în context variabil	
+И я запоминаю значение поля с именем "%1 ИмяПоля" как "%2 ИмяПеременной" глобально	Сохранение значения поля в переменную КонтекстСохраняемый	Si eu rețin valoarea câmpului cu numele "%1 NumeCâmp" ca "%2 NumeVariabilei" global	Salvarea valorii câmpului la o variabilă ContextSaved	
+И я запоминаю значение поля с именем "%1 ИмяПоля" таблицы "%2 ИмяТаблицы" как "%3 ИмяПеременной"	Сохранение значения поля таблицы в переменную Контекст	Si eu rețin valoarea câmpului cu numele "%1 NumeCâmp" tabelului "%2 NumeTabel" ca "%3 NumeVariabilei"	Salvarea valorii unui câmp de tabel la o variabilă Context	
+"И я запоминаю значение таблицы ""%1 Таблица1"" как ""%2 ИмяПеременной""
+ | 'ИмяКолонки1' |
+ | 'ИмяКолонки2' |"	Запоминает значение указанных колонок таблицы в переменную.	"Si eu rețin valoarea tabelei ""%1 Table1"" ca ""%2 NumeVariabil""
+  | ""NumeColoana1""|
+  | ""NumeColoana2""|"	Stochează valoarea coloanelor de tabelă specificate într-o variabilă.	
+И я запоминаю значение табличного документа "%1 ИмяРеквизита" как "%2 ИмяПеременной"	Сохраняет значение табличного документа в переменную Контекста.	Si eu rețin valoarea documentului tabelar "%1 NumeAtribut" ca "%2 NumeVariabila"	Salvează valoarea unui document tabelar la o variabilă de context.	
+И я запоминаю значение текущего поля как "%1 ИмяПеременной"	Запоминает значение активного поля (не таблицы) в переменную	Si eu rețin valoarea domeniului actual ca "%1 NumeVariabila"	Stochează valoarea câmpului activ (nu tabelul) într-o variabilă	
+И я запоминаю имя текущего поля как "%1 ИмяПеременной"	Запоминает имя активного поля в переменную	Si eu rețin numele domeniului actual ca "%1 NumeVariabila"	Memorează numele câmpului activ la o variabilă.	
+И я запоминаю количество строк таблицы "%1 ИмяТаблицы" как "%2 ИмяПеременной"	Сохранение количества строк таблицы в переменную Контекст	Si eu rețin numărul de rânduri din tabel "%1 NumeTabel" ca "%2 NumeVariabila"	Salvarea numărului de rânduri dintr-un tabel într-o variabilă Context	
+И я запоминаю строку "%1 НужнаяСтрока" в переменную "%2 ИмяПеременной"	Запоминает значение строки в переменную.	Si eu completez rîndul cu "%1 NumeRînd" în variabila "%2 NumeVariabila"	Stochează valoarea șirului într-o variabilă.	
+И я запускаю SikuliX сервер	Запускает SikuliX сервер.	Și eu pornesc SikuliX server	începe serverul SikuliX.	
+И я меняю значение переключателя '%1 Заголовок элемента' на '%2 Значение переключателя' по шаблону	Меняет значение переключателя (радиобаттона). При этом возможно использовать символ * в значении. Работает в 8.3.12 и выше.	Schimb valoarea comutatorului cu numele '%1 Titlul Elementului' pe '%2 Valoarea comutatorului' dupa șablon	Modifică valoarea comutatorului (radiobutton). Este posibil să utilizați simbolul * în valoare. Funcționează în 8.3.12 și mai sus.	
+И я меняю значение переключателя с именем '%1 ИмяЭлемента' на '%2 Значение переключателя' по шаблону	Меняет значение переключателя (радиобаттона). При этом возможно использовать символ * в значении. Работает в 8.3.12 и выше.	Și schimba valoarea comutatorului cu numele '%1 NumeElement' pe '%2 Valoarea comutatorului' după șablonul	Modifică valoarea comutatorului (radiobutton). Este posibil să utilizați simbolul * în valoare. Funcționează în 8.3.12 și mai sus.	
+И я нажимаю на кнопку открытия поля "%1 Заголовок поля"	Нажимает на кнопку открытия поля ввода.	Și fac clic pe butonul deschiderii câmpului "%1 Titlul Câmp"	Faceți clic pe buton pentru a deschide câmpul de introducere.	
+И я нажимаю на кнопку открытия поля с именем "%1 ИмяПоля"	Нажимает на кнопку открытия поля ввода.	Și fac clic pe butonul deschis al câmpului cu nume "%1 NumeCâmp"	Faceți clic pe buton pentru a deschide câmpul de introducere.	
+И я нажимаю на кнопку с именем "%1 ИмяКнопки"	Нажимает на кнопку с нужным именем	Și fac clic pe butonul numit "%1 NumeButon"	Apăsați butonul cu numele dorit	
+И я нажимаю на кнопку создать поля "%1 Заголовок поля"	Эмулирует нажатие кнопки "Создать" у выпадающего списка.	Și fac clic pe butonul Creare câmpuri "%1 Titlul Câmp"	Imitează clic pe butonul "Creați" dintr-o listă derulantă.	
+И я нажимаю на кнопку создать поля с именем "%1 ИмяПоля"	Эмулирует нажатие кнопки "Создать" у выпадающего списка.	Și fac clic pe butonul de creare a câmpurilor cu nume "%1 NumeCâmp"	Imitează clic pe butonul "Creați" dintr-o listă derulantă.	
+И я нажимаю на кнопку текущего месяца	Нажимает на кнопку текущего месяца в форме ввода даты.	Și fac clic pe butonul lunii curente	Faceți clic pe butonul din luna curentă în formularul de introducere a datei.	
+И я определяю координаты картинки "%1 ИмяКартинки" как "%2 ИмяПеременной"	Определяет коордианты картинки с помощью SikuliX и сохраняет структуру с координатами в переменную	Și eu determin coordonatele imaginii "%1 NumeImagine" ca "%2 NumeVariabila"	Definește coordonatele imaginii cu SikuliX și salvează structura cu coordonatele unei variabile	
+И я отменяю фиксирование формы	Снимает фиксирование формы.	Și eu anulezi fixarea formei	Elimină formularul de fixare.	
+И я очищаю каталог "%1 ИмяКаталога"	Очищает указанный каталог	Și eu curați catalogul "%1 NumeCatalog"	Șterge directorul specificat.	
+И я перехожу к закладке "%1 Вспомогательная"	Шаг делает переход к закладке формы	Și mă întorc la fila "%1 Ajutătoare"	Pasul face trecerea la fila formular	
+И я перехожу к закладке с именем "%1 Вспомогательная"	Шаг делает переход к закладке формы	Și mă întorc la fila cu nume "%1 Ajutătoare"	Pasul face trecerea la fila formular	
+И я помещаю в буфер обмена строку '%1 Нужная строка'	Помещает строку в буфер обмена.	Și am pus în clipboard un rînd '%1 Rîndul dorit'	Plasează un șir în clipboard.	
+И я прикрепляю к сценарию значение таблицы "%1 ИмяТаблицы" как "%2 ИмяЗначения"	Прикрепляет к сценарию указанную таблицу. Параметр "ИмяЗначения" будет использован для имени файла. Прикрепленные данные пойдут в отчет о выполнении сценария.	Și am atașat la scenariu valoarea tabelului "%1 NumeTabel" ca "%2 NumeVariabila"	Atașați tabelul specificat la scenariu. Parametrul "NameName" va fi utilizat pentru numele fișierului. Datele atașate vor fi raportate la executarea scriptului.	
+И я создаю каталог "%1 ИмяКаталога"	Создает каталог с указанным именем, если его нет, а также все его подкаталоги.	Și am creez catalog "%1 NumeCatalog"	Creează un director cu numele specificat, dacă nu există, precum și toate subdirectoarele sale.	
+И я устанавливаю максимальное время выполнения действия	Устанавливает максимальное время выполнения действий, которые возвращают значение в менеджер тестирования.	Și am setat timpul maxim de execuție pentru acțiune.	Setează timpul maxim de execuție pentru acțiunile care returnează o valoare managerului de testare.	
+И я устанавливаю текущему TestClient синоним "%1 МойСиноним"	Позволяет подключить указать дополнительный синоним для текущего профиля TestClient. Синоним может использовать как дополнительное имя сеанса TestClient.	Și am setat curentului TestClient sinonim "%1 SinonimulMeu"	Vă permite să vă conectați pentru a specifica un sinonim suplimentar pentru profilul curent TestClient. Un sinonim poate fi folosit ca un nume de sesiune opțional TestClient.	
+И я устанавливаю текущему сеансу заголовок приложения "%1 Управляющий сеанс"	Устанавливает текущему сеансу 1С нужный заголовок приложения.	Și am setat titlul aplicației actuale de sesiune "%1 Gestionarea sesiunii"	Setează titlul aplicației dorite pentru sesiunea 1C dorită.	
+И я фиксирую текущую форму	Фиксирует форму, с которой будет работать пользователь. Т.е. поиск элементов будет происходить только в этой форме.	Și eu fixez forma curenta	Fixează formularul cu care utilizatorul va lucra. Ie elementele vor fi căutate numai în această formă.	
+И я фиксирую форму "%1 ИмяФормы"	Фиксирует форму, с которой будет работать пользователь. Т.е. поиск элементов будет происходить только в этой форме.	Eu fixez forma "%1 NumeForma"	Fixează formularul cu care utilizatorul va lucra. Ie elementele vor fi căutate numai în această formă.	
+И я фиксирую форму с именем "%1 ИмяФормы"	Фиксирует форму, с которой будет работать пользователь. Т.е. поиск элементов будет происходить только в этой форме.	Eu fixez forma cu numele "%1 NumeForma"	Fixează formularul cu care utilizatorul va lucra. Ie elementele vor fi căutate numai în această formă.	
+"Когда в логе сообщений TestClient есть сообщения только из списка
+ | 'Сообщение1' |
+ | 'Сообщение2' |"	Проверяет, что с сообщениях пользователя есть только те сообщения, которые указаны в списке. Порядок сообщений неважен.	"Când în logo mesajului TestClient este mesajul doar din lista                        | 'Mesaj1' |
+ | 'Mesaj2' |"	Verifică că există numai mesaje afișate în mesajele utilizatorului. Ordinea mesajelor nu este importantă.	
+"Когда в логе сообщений TestClient есть строки:
+ | 'Сообщение1' |
+ | 'Сообщение2' |"	Проверяет в логе сообщений наличие нужной строки.	"Când în logo mesajului TestClient este linie:                                                 | 'Mesaj1' |
+ | 'Mesaj2' |"	Verificările din mesaj înregistrează prezența liniei dorite.	
+Когда в логе сообщений TestClient нет строки "%1 Нужное сообщение пользователю"	Проверяет в логе сообщений отсутствие нужной строки.	Când în logo mesajului TestClient nui linie "%1 Mesajul dorit către utilizator"	Verificările din mesajul înregistrează absența liniei dorite.	
+Когда Я задаю параметры чтения области макета "%1 R1C1:R100C20"	Указывает область чтения макета, когда он считывается по одной ячейке из данных TestClient	Când setez parametrii citirii zonei machetului "%1 R1C1:R100C20"	Specifică zona de citire a aspectului când se citește o celulă din datele TestClient.	
+"Когда Я копирую текущий профиль TestClient с установкой параметров:
+ | 'Имя подключения' | 'Синоним' | 'Порт' | 'Строка соединения' | 'Логин' | 'Пароль' | 'Запускаемая обработка' | 'Дополнительные параметры строки запуска' |
+ | 'ИмяПрофиля' | 'СинонимПрофиля' | '1538' | 'Srvr=""localhost:1941"";Ref=""Test"";' | 'Админ' | 'Админ' | 'c:\СуперОбработка.epf' | '/UC' |"	Копирует текущий активный профиль TestClient и устанавилвает в копии новые значение параметров. Если профиль с требуемым именем уже есть, то он будет перезаписан, иначе будет создан новый. Все параметры подключения указываются в таблице Gherkin, в которой должно быть две строки: первая строка с именами параметров, вторая строка со значениями параметров.	"Când copiez profilul curent TestClient cu parametrii de setare:                      | 'NumeConectare' | 'Sinonim' | 'Portul' | 'Rîndul conecțiunii' | 'Login' | 'Parola' | 'Începeți procesarea' | 'Opțiuni avansate de linie de pornire' |
+ | 'NumeProfil' | 'SinonimProfil' | '1538' | 'Srvr=""localhost:1941"";Ref=""Test"";' | 'Administrator' | 'Administrator' | 'c:\СуперОбработка.epf' | '/UC' |"	Copiază profilul curent TestClient activ și stabilește noile valori ale parametrilor în copie. Dacă există deja un profil cu numele necesar, acesta va fi suprascris, altfel va fi creat un nou. Toți parametrii de conectare sunt specificați în tabelul Gherkin, în care ar trebui să existe două linii: prima linie cu numele parametrilor, a doua linie cu valorile parametrilor.	
+"Когда Я подключаю уже запущенный клиент тестирования с параметрами:
+ | 'Имя подключения' | 'Синоним' | 'Порт' | 'Строка соединения' | 'Логин' | 'Пароль' | 'Запускаемая обработка' | 'Дополнительные параметры строки запуска' |
+ | 'ИмяПрофиля' | 'СинонимПрофиля' | '1538' | 'Srvr=""localhost:1941"";Ref=""Test"";' | 'Админ' | 'Админ' | 'c:\СуперОбработка.epf' | '/UC' |"	Подключает запущенный ранее клиент тестирования, который мог быть запущен из другой программы. Если сеанс не найден - выдёт исключение.	"Când conectez un client de testare care rulează deja cu parametrii:              | 'NumeConectare' | 'Sinonim' | 'Portul' | 'Rîndul conecțiunii' | 'Login' | 'Parola' | 'Începeți procesarea' | 'Opțiuni avansate de linie de pornire' |
+ | 'NumeProfil' | 'SinonimProfil' | '1538' | 'Srvr=""localhost:1941"";Ref=""Test"";' | 'Administrator' | 'Administrator' | 'c:\СуперОбработка.epf' | '/UC' |"	Conectează un client de test care a funcționat anterior, care ar fi putut fi lansat dintr-un alt program. Dacă sesiunea nu este găsită, va fi aruncată o excepție.	
+Тогда в окне сообщений пользователю нет сообщений	Проверяет, что в окне сообщений пользователю нет сообщений.	Atunci nu există mesaje în fereastra mesajului.	Verifică faptul că în fereastra de mesaje nu există mesaje către utilizator.	
+Тогда значение поля "%1 Заголовок поля" не содержит текст "%2 Подстрока"	Проверка, что значение поля формы содержит текст	Atunci valoarea câmpului "%1 Titlul Câmp" nu contine textul "%2 Subșir"	Verificați dacă valoarea câmpului de formular conține text	
+Тогда значение поля "%1 Заголовок поля" содержит текст "%2 Значение поля"	Проверка, что значение поля формы содержит текст	Atunci valoarea cîmpului "%1 Titlul Câmp" contine textul "%2 Valoare Câmp"	Verificați dacă valoarea câmpului de formular conține text	
+Тогда значение поля с именем "%1 ИмяПоля" не содержит текст "%2 Подстрока"	Проверка, что значение поля формы содержит текст	Atunci valoarea câmpului "%1 NumeCâmp" nu conține textul "%2 Subșir"	Verificați dacă valoarea câmpului de formular conține text	
+Тогда значение поля с именем "%1 ИмяПоля" содержит текст "%2 Значение поля"	Проверка, что значение поля формы содержит текст	Atunci valoarea cîmpului numit "%1 NumeCâmp" contine textul "%2 Valoare Câmp"	Verificați dacă valoarea câmpului de formular conține text	
+"Тогда область ""%1 R1C1:R10C10"" табличного документа ""%2 РеквизитТабличныйДокумент"" равна по шаблону:
+ | Значение1 | Значение2 |
+ | Значение3 | Значение4 |"	Проверяет равенство области табличного документа переданной таблице Gherkin. В значениях допускается использовать символы *. Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	"Atunci zona ""%1 R1C1:R10C10"" documentului tabelar ""%2 AtributDocumentTabelar"" egală dupa șablon:
+  |  Valoare1 |  Valoare2 |
+  |  Valoare3 |  Valoare4 |"	Verifică dacă suprafața documentului tabel este egală cu tabelul Gherkin transferat. Valorile pot folosi caracterele *. Pentru a obține fișierul mxl de la TestClient, clientul subțire va încerca să salveze documentul foaie de calcul într-un fișier. În clientul Web, acesta va fi întotdeauna citit de celulă. Detalii în ajutor, în secțiunea dedicată comparării unui document tabular cu standardul.	
+"Тогда область ""%1 R1C1:R10C10"" табличного документа ""%2 РеквизитТабличныйДокумент"" равна:
+ | Значение1 | Значение2 |
+ | Значение3 | Значение4 |"	Проверяет равенство области табличного документа переданной таблице Gherkin. Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	"Atunci zona ""%1 R1C1:R10C10"" documentului tabelar ""%2 AtributDocumentTabelar"" egală:
+ |  Valoare1 |  Valoare2 |
+ |  Valoare3 |  Valoare4 |"	Verifică dacă suprafața documentului tabel este egală cu tabelul Gherkin transferat. Pentru a obține fișierul mxl de la TestClient, clientul subțire va încerca să salveze documentul foaie de calcul într-un fișier. În clientul Web, acesta va fi întotdeauna citit de celulă. Detalii în ajutor, în secțiunea dedicată comparării unui document tabular cu standardul.	
+Тогда открылась форма "%1 Справочник.Справочник1.Форма.ФормаЭлемента"	Проверяет, что на экране есть активное окно с нужной формой	Atunci sa deschis forma "%1 Nomenclator.Nomenclator1.Forma.FormaElement"	Verifică dacă ecranul are o fereastră activă cu formularul dorit.	
+Тогда открылась форма с именем "%1 Справочник.Справочник1.Форма.ФормаЭлемента"	Проверяет, что на экране есть активное окно с нужной формой	Atunci sa deschis forma cu nume "%1 Nomenclator.Nomenclator1.Forma.FormaElement"	Verifică dacă ecranul are o fereastră activă cu formularul dorit.	
+Тогда переменная "%1 ИмяПеременной" имеет значение "%2 ЗначениеПеременной"	Проверяет значение переменной контекста	Atunci variabila "%1 NumeVariabila" are semnificatie "%2 ValoareaVariabilei"	Verifică valoarea unei variabile de context.	
+"Тогда табличный документ ""%1 РеквизитТабличныйДокумент"" равен по шаблону:
+ | Значение1 | Значение2 |
+ | Значение3 | Значение4 |"	Проверяет равенство табличного документа переданной таблице Gherkin. В значениях допускатеся использование символов *. Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	"Atunci documentul tabelar ""%1 AtributDocumentTabelar"" egal după șablon:
+ |  Valoare1 |  Valoare2 |
+ |  Valoare3 |  Valoare4 |"	Verifică egalitatea documentului tabel cu tabelul Gherkin transferat. Valorile permit utilizarea caracterelor *. Pentru a obține fișierul mxl de la TestClient, clientul subțire va încerca să salveze documentul foaie de calcul într-un fișier. În clientul Web, acesta va fi întotdeauna citit de celulă. Detalii în ajutor, în secțiunea dedicată comparării unui document tabular cu standardul.	
+"Тогда табличный документ ""%1 РеквизитТабличныйДокумент"" равен:
+ | Значение1 | Значение2 |
+ | Значение3 | Значение4 |"	Проверяет равенство табличного документа переданной таблице Gherkin. Чтобы получить mxl файл из TestClient, в тонком клиенте будет сделана попытка сохранить табличный документ в файл. В Web клиенте он всегда будет считываться по ячейкам. Детали в справке, в разделе, посвященному сравнению табличного документа с эталоном.	"Atunci documentul tabelar ""%1 AtributDocumentTabelar"" egal:
+ |  Valoare1 |  Valoare2 |
+ |  Valoare3 |  Valoare4 |"	Verifică egalitatea documentului tabel cu tabelul Gherkin transferat. Pentru a obține fișierul mxl de la TestClient, clientul subțire va încerca să salveze documentul foaie de calcul într-un fișier. În clientul Web, acesta va fi întotdeauna citit de celulă. Detalii în ajutor, în secțiunea dedicată comparării unui document tabular cu standardul.	
+Тогда элемент формы "%1 Заголовок поля" стал равен шаблону "%2 Шаблон"	Проверка значения элемента формы. В значении допускаются символы *	Atunci elementul formei "%1 Titlulul Câmpului"a devenit egal cu șablonul "%2 Șablon"	Verificarea valorii unui element de formular. Caracterele valide sunt *	
+Тогда элемент формы с именем "%1 ИмяПоля" стал равен шаблону "%2 Шаблон"	Проверка значения элемента формы. В значении допускаются символы *	Atunci elementul de formă cu numele "%1 NumeCâmp" a devenit egal cu șablonul "%2 Șablon"	Verificarea valorii unui element de formular. Caracterele valide sunt *	
+Тогда я прерываю цикл	Устанавливает признак, что надо завершить выполнение цикла	Atunci eu întrerup ciclul	Setează steagul pentru a finaliza buclă.	
+Тогда я удаляю файл "%1 ИмяФайла"	Удаляет файл	Atunci eu șterg fișierul "%1 NumeFișier"	Șterge fișierul	
+Дано Я открыл новый сеанс TestClient или подключил уже существующий	Открывает новый TesClient в той же базе, что и TestManager или подключает уже существующий	Dat fiind că Eu am lansat TestClient sau am conectat unul existent	Deschide TesClient nou în aceiași bază ca și TestManager sau conectează pe cel deja existent	
+Дано Я запускаю сценарий открытия TestClient или подключаю уже существующий	Подсценарий. Подключает новый TestClient если необходимо и закрывает в нём все окна	Dat fiind ca Eu lansez Scenariul de deschidere TestClient sau conectez unul existent	Conectează TestClient nou la necesitate sau închide în el toate ferestrele	
+Когда я нажимаю кнопку командного интерфейса "%1 Заголовок кнопки"	Нажимает на кнопку командного интерфейса	Când Eu butonez "%1 Depozite" din Interfața de comenzi	Tastează butonul interfeței de control	
+Когда В панели разделов я выбираю "%1 ИмяКоманды"	Нажатие кнопки на панели разделов	Când Eu selectez "%1 Principal" în Panoul Compartimentelor	Tastarea butonului pe panoul compartimentelor	
+И В панели функций я выбираю "%1 ИмяКоманды"	Нажатие кнопки на панели функций	Și Eu selectez "%1 Catalog1" în Panoul de Funcții a Secțiunii Curente	Tastarea butonului pe panoul funcțiilor	
+Тогда открылось окно "%1 Заголовок окна"	Проверяет, что на экране есть активное окно с нужым заголовком	Atunci se deschide fereastra "%1 Catalog1 (creare)"	Verifică ca pe ecran să existe fereastra activă cu titlul dorit	
+И в поле с именем "%1 ИмяПоля" я ввожу текст "%2 Значение поля"	Вводит текст в поле. Также вводит текст в форматированный документ и поле HTML документа.	Și in câmpul "%2 NumeCâmp" eu scriu text "%1 Valoare câmp"	Introduce textul în cîmp	
+И я открываю выпадающий список с именем "%1 ИмяСписка"	Открывает выпадающий список	Și Eu deschid lista derulată numit "%1 Atribut1"	Deschide lista drop-down	
+И я нажимаю кнопку выбора у поля с именем "%1 ИмяПоля"	Нажимает на кнопку выбора у поля	Și Eu butonez Selectare câmpului cu numele "%1 Atribut1"	Tastează butonul de selectare la câmp	
+И из выпадающего списка с именем "%1 МойВыпадающийСписок" я выбираю "%2 ЗначениеПоля"	Выбор из выпадающего списка	Și Eu de la lista derulată numit "%1 Atribut1" selectez "%2 ValoareEnum2"	Selecterea de la lista derulată	
+И в таблице "%1 ИмяТаблицы" я нажимаю на кнопку "%2 Добавить"	Нажимает на кнопку таблицы. Кнопка ищется по заголовку.	Și Eu butonez "%2 Adaugare" în Tabel "%1 ParteaTabelară"	Tastează butonul tabelului. Butonul este căutat după titlu.	
+И в таблице "%1 ИмяТаблицы" в поле "%2 Заголовок поля" я ввожу текст "%3 НужныйМнеТекст"	Ввод текста в поле таблицы	Și Eu în tabel "%1 NumeTabel" în câmpul "%2 Titlul câmpului" eu introduc textul "%3 TextulNevoitMie"	Introducerea textului în cîmpul tabelului	
+И В таблице "%1 ИмяТаблицы" я завершаю редактирование строки	Завершение редактирования строки	Și Eu termin editarea liniei în Tabelul "%1 ParteaTabelară1"	Finalizarea editării rândului	
+И я нажимаю на кнопку "%1 Заголовок кнопки"	Нажимает на кнопку с нужным заголовком	Și Eu butonez "%1 Titlul butonului"	Tastează butonul cu titlul dorit	
+Дано В активном окне открылась форма с заголовком "%1 Заголовок формы"	Шаг проверяет, что в активном окне есть нужная форма.	Dat fiind că în fereastra activă se deschide forma cu denumirea "%1 Titlul formei"	Pasul verifică ca în fereastra activă să existe forma dorită.	
+Дано В последнем сообщении TestClient есть строка "%1 НужнаяСтрока"	Шаг позволяет проверить содержание самого нового сообщения пользователю.	Dat fiind în ultimul mesaj TestClient există rândul "%1 RândNecesar"	Pasul permite verificarea conținutului mesajului cel mai nou pentru utilizator.	
+Дано Ожидаем завершения фонового формирования отчета в течение "%1 10" секунд	Шаг работает только когда TestManager и TestClient работают в одной и той же базе. Шаг ждёт указанное время, что завершились активные фоновые задания.	Dat fiind că așteptăm terminarea sarcinii de fundal a formării raportului în decurs de "%1 10" secunde	Pasul așteaptă timpul indicat pentru finalizarea sarcinilor de fundal active.	
+Дано Открылось окно предупреждения с заголовком "%1 Заголовок" и текстом "%2 Текст"	Шаг проверяет, что сейчас на экране появилось окно предупреждения.	Dat fiind că se deschide fereastra de atenționare cu denumirea "%1 Titlul" și textul "%2 Text"	Pasul verifică apariția acum pe ecran a ferestrei avertismentului.	
+Дано Табличный документ формы с именем "%1 РеквизитТабличныйДокумент" стал равен макету с именем "%2 ИмяМакета"	Шаг позволяет проверить, что макет на форме соответствует эталону.	Dat fiind că Documentul Tabelar al formei cu numele "%1 AtributDocumenTabelar" a devenit egal cu șablonul denumit "%2 NumeleȘablonului"	Pasul permite verificarea faptului că macheta pe formă corespunde etalonului.	
+Дано Я открываю основную форму обработки "%1 Обработка1"	Открывает форму обработки по её имени в метаданных	Dat fiind că eu deschid forma principală a procesării "%1 Procesare1"	Deschide forma procesării după numele ei în metadate	
+Дано Я открываю основную форму списка документа "%1 Документ1"	Открывает основную форму списка документа по его имени в метаданных	Dat fiind că eu deschid forma principală a listei documentului "%1 Document1"	Deschide forma principală a liste documentului după numele lui în metadate	
+Дано Я открываю основную форму списка справочника "%1 Справочник1"	Открывает основную форму списка справочника по его имени в метаданных	Dat fiind că eu deschid forma principală a listei catalogului "%1 Nomenclator1"	Deschide forma principală a liste clasificatorului după numele lui în metadate	
+Дано Я открыл сеанс TestClient от имени "%1 МойПользователь" с паролем "%2 МойПароль" или подключаю уже существующий	Позволяет подключить TestClient с нужным логином и паролем в тойже базе, в которой запущен TestManager	Dat fiind că eu am deschis sensul TestClient în numele "%1 UtilizatorulMeu" cu parola "%2 ParolaMea" sau conectez unul existent	Permite conectarea TestClient-ului cu loghinul și parola dorite în aceiași bază, în care este lansat TestManager	
+Если "%1 Истина" тогда	Условие. Проверяет выражение встроенного языка	Dacă "%1 Adevar" Atunci	Condiția. Verifică expresia limbajului incorporat	
+Если в окне предупреждения нет текста "%1 Нужный текст" тогда	Условие. Истинно, когда в окне предупреждения нет искомого текста.	Dacă în fereastra de atenționare nu există textul "%1 Text Necesar" Atunci	Condiția. Adevărat, dacă în fereastra avertismentului lipsește textul căutat.	
+Если в таблице "%1 ИмяТаблицы" есть строка Тогда| 'Имя колонки' || 'Значение'|	Условие. Истинно, если в таблице есть нужная строка. Допускается передвать только одну строку для поиска. Шаг пытается сделать переход к строке и возвращает Истина если это получилось сделать.	"Dacă în tabelul ""%1 NumeTabel"" există rândul Atunci
+| 'Nume Coloanei' |
+ | 'Valoare' |"	Condiția. Adevărat, dacă în tabel există rândul/rândurile dorit(e).	
+Если в таблице "%1 ИмяТаблицы" количество строк "%2 меньше или равно" "%3 2" Тогда	Условие. Проверяет количество строк в таблице	Dacă în tabelul "%1 Partea tabelară1" numărul de rânduri este "mai mic sau egal" 2 Atunci	Condiția. Verifică numărul de rânduri în tabel	
+Если в текущем окне есть сообщения пользователю Тогда	Условие. Проверяет, что в текущем окне есть сообщения пользователю.	Dacă în fereastra actuală există message către utilizator Atunci	Condiția. Verifică existența mesajelor către utilizator în fereastra curentă.	
+Если Версия платформы "%1 >=" "%2 8.3.6" Тогда	Условие. Проверяет версию платформы	Dacă versiunea Platformei "%1 >=" "%2 8.3.6" Atunci	Condiția. Verifică versiunea platformei	
+Если имя текущей формы "%1 ИмяФормы" Тогда	Условие. Проверяет имя текущей формы	Dacă numele formei actuale "%1 NumeForma" Atunci	Condiția. Verifică numele formei curente	
+Если поле "%1 Заголовок поля" имеет значение "%2 тест" тогда	Условие. Проверяет значение поля.	Dacă câmpul "%1 Titlul câmpului" are valoarea "%2 test" Atunci	Condiția. Verifică valoarea câmpului.	
+Если поле с именем "%1 ИмяПоля" имеет значение "%2 тест" тогда	Условие. Проверяет значение поля.	Dacă câmpul cu numele "%1 NumeCâmpului" are valoarea "%2 test" atunci	Condiția. Verifică valoarea câmpului.	
+Если появилось окно с заголовком "%1 Заголовок окна" Тогда	Условие. Проверяет, что среди всех окон есть окно с нужным заголовком	Dacă a aparut fereastra cu denumirea "%1 Catalog1 (creare)*" Atunci	Condiția. Verifică existența pe ecran a ferestrei active cu titlul dorit	
+Если появилось окно с заголовком из таблицы Тогда	Условие. Проверяет, что есть окно с заголовком из таблицы	Dacă a aparut fereastra cu denumirea din tabel Atunci	Condiția. Verifică existența ferestrei cu titlul din tabel	
+Если текущее окно "%1 не равно" ожидаемому окну "%2 НужноеОкно" Тогда	Условие. Проверяет что текущее окно равно/неравно нужному окну.	Dacă fereastra actuală "%1 nu este egal" cu fereastra așteptată "%1 FereastrăNevoită" Atunci	Condiția. Verifică ca fereastra curentă să fie egală/inegală cu fereastra dorită memorată mai devreme	
+Если элемент "%1 ИмяЭлементаФормы" не присутствует на форме Тогда	Условие. Проверяет видимость элемента на форме. Поиск поля производится по имени.	Dacă elementul "%1 NumeleElementuluiFormei" nu se află în forma Atunci	Condiția. Verifică vizibilitatea elementului pe formă	
+Если элемент "%1 ИмяЭлементаФормы" присутствует на форме Тогда	Условие. Проверяет видимость элемента на форме. Поиск поля производится по имени.	Dacă element "%1 NumeleElementuluiFormei" se află în forma Atunci	Condiția. Verifică vizibilitatea elementului pe formă	
+Если это не начальная страница Тогда	Условие. Проверяет, то текущее окно это не начальная страница	Dacă această nu este prima pagina Atunci	Condiția. Verifică faptul că fereastra curentă nu este pagina inițială	
+Затем Если появилось окно диалога я нажимаю на кнопку "%1 Заголовок кнопки"	Если на экране появилось диалоговое окно - нажимает на нужную кнопку.	Atunci Dacă a aparut fereastra dialogului eu butonez "%1 Titlulu câmpului"	Dacă pe ecran a apărut fereastra de dialog, atunci tastează butonul dorit.	
+Затем я останавливаю выполнение шагов	Останавливает выполнение шагов	Atunci eu opresc executarea pașilor	Stopează executarea pașilor	
+И В панели функций в группе "%1 Основное" я выбираю "%2 ИмяКоманды"	Нажатие кнопки на панели функций нужной группы	Și în Panoul de Funcții în grupa "%1 Principală" eu selectez "%2 NumeComanda"	Tastarea butonului pe panoul funcțiilor din grupul dorit	
+И в поле "%1 Заголовок поля" я ввожу текст "%2 Значение поля"	Вводит текст в поле. Также вводит текст в форматированный документ и поле HTML документа.	Și în câmpul "%1 Titlu Câmp" eu introduc text "%2 ValoareaCâmp"	Introduce textul în cîmp	
+И в поле "%1 Заголовок поля" ввожу значение глобального ключа "%2 Ключ"	Вставка значения ранее сохраненного ключа в реквизит	Și în câmpul "%1 Titlu Câmp" introduc valoarea cheiței globale "%2 Cheie"	Inserarea valorii cheii salvate mai devreme în atribut	
+И в поле "%1 Заголовок поля" ввожу значение глобальной переменной "%2 ИмяПеременной"	Вставка значения ранее сохраненной переменной в реквизит	Și în câmpul "%1 Titlu Câmp" introduc valoarea variabilei globale "%2 NumeVariabila"	Inserarea valorii variabilei salvate mai devreme în atribut	
+И в поле "%1 Заголовок поля" ввожу значение ключа "%2 Номер документа"	Вставка значения ранее сохраненного произвольного ключа в реквизит	Și în câmpul "%1 Titlu Câmp" introduc valoarea cheiței "%2 Numărul Documentului"	Inserarea valorii cheii arbitrare salvate mai devreme în atribut	
+И в поле "%1 Заголовок поля" ввожу значение переменной "%2 ИмяПеременной"	Вставка значения ранее сохраненной переменной в реквизит	Și în câmpul "%1 Titlu Câmp" introduc valoarea variabilei "%2 NumeVariabile"	Inserarea valorii variabilei salvate mai devreme în atribut	
+И в поле с именем "%1 ИмяПоля" ввожу значение глобального ключа "%2 Ключ"	Вставка значения ранее сохраненного произвольного ключа в реквизит	Și în câmpul cu numele "%1 Titlu Câmp" introduc valoarea cheiței globale "%2 Cheie"	Inserarea valorii cheii arbitrare salvate mai devreme în atribut	
+И в поле с именем "%1 ИмяПоля" ввожу значение глобальной переменной "%2 ИмяПеременной"	Вставка значения ранее сохраненной переменной в реквизит	Și în câmpul cu numele "%1 Titlu Câmp" introduc valoarea variabilei globale "%2 NumeVariabila"	Inserarea valorii variabilei salvate mai devreme în atribut	
+И в поле с именем "%1 ИмяПоля" ввожу значение ключа "%2 Номер документа"	Вставка значения ранее сохраненного произвольного ключа в реквизит	Și în câmpul cu numele "%1 Titlu Câmp" introduc valoarea cheiței "%2 Numărul Documentului"	Inserarea valorii cheii arbitrare salvate mai devreme în atribut	
+И в поле с именем "%1 ИмяПоля" ввожу значение переменной "%2 ИмяПеременной"	Вставка значения ранее сохраненной переменной в реквизит	Și în câmpul cu numele "%1 Titlu Câmp" introduc valoarea variabilei "%2 NumeVariabila"	Inserarea valorii variabilei salvate mai devreme în atribut	
+И в таблице "%1 ИмяТаблицы" я начинаю редактирование строки	Начало редактирования строки	Și în tabelul "%1 NumeTabel" eu încep redactarea rândului	Începutul editării rândului	
+И в таблице "%1 ИмяТаблицы" я перехожу на один уровень вверх	Переход на один уровень вверх в списке в режиме "Иерархический список"	Și în tabelul "%1 NumeTabel" eu trec la un nivel în sus	Salt cu un nivel în sus în listă în regimul "Lista ierarhică"	
+И в таблице "%1 ИмяТаблицы" я перехожу на один уровень вниз	Переход на один уровень вниз в списке в режиме "Иерархический список"	Și în tabelul "%1 NumeTabel" eu trec la un nivel în jos	Salt cu un nivel în jos în listă în regimul "Lista ierarhică"	
+И в таблице "%1 ИмяТаблицы" я перехожу на одну строку вверх	Переходим в таблице на предыдущую строку	Și în tabelul "%1 NumeTabel" eu trec cu un rând mai sus	Trecem în ST pe rîndul precedent	
+И В таблице "%1 ИмяТаблицы" я перехожу на одну строку вверх с выделением	Переходим в таблице на предыдущую строку с выделением	Și în tabelul "%1 NumeTabel" eu trec cu un rând mai sus cu selectare	Trecem în ST pe rândul precedent cu selecție	
+И в таблице "%1 ИмяТаблицы" я перехожу на одну строку вниз	Переходим в таблице на следующую строку	Și în tabelul "%1 NumeTabel" eu trec cu un rând mai jos	Trecem în ST pe rândul următor	
+И В таблице "%1 ИмяТаблицы" я перехожу на одну строку вниз с выделением	Переходим в таблице на следующую строку с выделением	Și în tabelul "%1 NumeTabel" eu trec cu un rând mai jos cu selectare	Trecem în ST pe rândul următor cu selecție	
+И в таблице "%1 ИмяТаблицы" я активизирую поле "%2 Заголовок поля"	Активизирует поле таблицы	Și în tabelul "%1 Selectări" eu activez câmpul "%2 TitluCâmpului"	Activează câmpul tabelului	
+И в таблице "%1 ИмяТаблицы" я активизирую поле с именем "%2 ИмяПоля"	Активизирует поле таблицы	Și în tabelul "%1 NumeTabel" eu activez câmpul cu numele "%2 TitluCâmpului"	Activează câmpul tabelului	
+И в таблице "%1 ИмяТаблицы" я выбираю текущую строку	Выбор текущей строки с указанием таблицы	Și în tabelul "%1 NumeTabel" eu selectez rândul curent	Selectarea rîndului curent cu indicarea ST	
+И в таблице "%1 ИмяТаблицы" я добавляю строку	Добавление строки	Și în tabelul "%1 NumeTabel" eu adaug un rând	Adăugarea rândului	
+И в таблице "%1 ИмяТаблицы" я перехожу к первой строке	Переход к первой строке данной таблицы	Și în tabelul "%1 NumeTabel" eu trec la primul rând	Salt la primul rînd al tabelului dat	
+И в таблице "%1 ИмяТаблицы" я перехожу к последней строке	Переход к последней строке данной таблицы	Și în tabelul "%1 NumeTabel" eu trec la ultimul rând	Salt la ultimul rînd al tabelului dat	
+И в таблице "%1 ИмяТаблицы" я перехожу к предыдущей строке	Переход к предыдущей строке данной таблицы	Și în tabelul "%1 NumeTabel" eu trec la rândul precedent	Salt la rîndul precedent al tabelului dat	
+И в таблице "%1 ИмяТаблицы" я перехожу к следующей строке	Переход к следующей строке данной таблицы	Și în tabelul "%1 NumeTabel" eu trec la rândul următor	Salt la rândul următor al tabelului dat	
+"И в таблице ""%1 ИмяТаблицы"" я перехожу к строке:
+| 'ИмяКолонки' || 'ЗначениеКолонки' |"	Переход к нужной строке данной таблицы. Если обернуть значение с помощью символа $, тогда значение будет взято из переменной Контекст. Если $$, тогда из КонтекстСохраняемый.	"Și în tabelul ""%1 NumeTabel"" eu trec la rândul:
+  | Denumire |
+  | Marfa1 |"	Salt la rîndul dorit al tabelului dat	
+И в таблице "%1 ИмяТаблицы" я удаляю строку	Удаление строки	Și în tabelul "%1 NumeTabel" eu șterg un rând	Ștergerea rândului	
+И в таблице "%1 ИмяТаблицы" в поле с именем "%2 ИмяПоля" я ввожу текст "%3 НужныйМнеТекст"	Ввод текста в поле таблицы	Și în tabelul "%1 NumeTabel" în câmpul cu numele "%2 NumeCâmp" eu introduc textul "%3 TextulNevoitMie"	Introducerea textului în cîmpul tabelului	
+И в таблице "%1 ИмяТаблицы" из выпадающего списка "%2 Заголовок поля" я выбираю "%3 ЗначениеПоля"	Выбор значения из выпадающего списка	Și în tabelul "%1 NumeTabel" din lista derulată "%2 Titlu câmp" eu selectez "%3 ValoareCâmp"	Selectarea valorii din lista drop-down	
+И в таблице "%1 ИмяТаблицы" из выпадающего списка с именем "%2 ИмяПоля" я выбираю "%3 ЗначениеПоля"	Выбор значения из выпадающего списка	Și în tabelul "%1 NumeTabel" din lista derulată cu numele "%2 Titlu câmp" eu selectez "%3 ValoareaCâmp"	Selectarea valorii din lista drop-down	
+И в таблице "%1 ИмяТаблицы" поле "%2 Заголовок поля" имеет значение "%3 ЗначениеПоля"	Проверка значения поля (ячейки) текущей строки таблицы	Și în tabelul "%1 NumeTabel" câmpul "%2 Titlu câmp" are valoarea "%3 ValoareCâmp"	Verificarea valorii cîmpului rîndului curent al tabelului	
+И в таблице "%1 ИмяТаблицы" я выбираю значение реквизита "%2 Заголовок поля" из формы списка	Выбор значения реквизита из выпадающего списка	Și în tabelul "%1 NumeTabel" eu selectez valoarea atributului "%2 Titlu câmp" din forma listei	Selectarea valorii atributului din lista drop-down	
+И в таблице "%1 ИмяТаблицы" я выбираю значение реквизита с именем "%2 ИмяРеквизита" из формы списка	Выбор значения реквизита из выпадающего списка	Și în tabelul "%1 NumeTabel" eu selectez valoarea atributului cu numele "%2 NumeAtribut" din forma listei	Selectarea valorii atributului din lista drop-down	
+И в таблице "%1 ИмяТаблицы" я изменяю флаг "%2 Заголовок флага"	Изменяет текущее состояние флага	Și în tabelul "%1 NumeTabel" eu schimb bifa "%2 NumeSteag"	Modifică valoarea curentă a bifei	
+И в таблице "%1 ИмяТаблицы" я изменяю флаг с именем "%2 ИмяФлага"	Изменяет текущее состояние флага	Și în tabelul "%1 NumeTabel" eu schimb bifa cu numele "%2 NumeSteag"	Modifică valoarea curentă a bifei	
+И в таблице "%1 ИмяТаблицы" я нажимаю на кнопку с именем "%2 Добавить"	Нажимает на кнопку таблицы. Кнопка ищется по имени.	Și în tabelul "%1 Partea tabelară1" eu butonez butonul cu numele "Adăugare"	Tastează butonul din tabel. Butonul este căutat după nume.	
+И в таблице "%1 ИмяТаблицы" я удаляю текущую строку	Удаляет текущую строку таблицы	Și în tabelul "%1 Partea tabelară1" eu șterg rândul curent	Șterge rândul curent al tabelului	
+И в Таблицу "%1 ИмяТаблицы" в поле "%2 Заголовок поля" ввожу значение переменной "%3 ИмяПеременной"	Вставка значения ранее сохраненной переменной в реквизит	Și în Tabelul "%1 Partea tabelară1" in câmpul "%2 Număr" introduc valoarea variabilei "%3 NumărDocumentului"	Inserarea valorii variabilei salvate mai devreme în atribut	
+И В таблице "%1 ИмяТаблицы" я перехожу на первую строку	Переходим в ТЧ на первую строку	Și în Tabelul "%1 NumeTabel" eu trec pe primul rând	Trecem în ST pe primul rînd	
+И В таблице "%1 ИмяТаблицы" я перехожу на последнюю строку	Переходим в ТЧ на последнюю строку	Și în Tabelul "%1 NumeTabel" eu trec pe ultimul rând	Trecem în ST pe ultimul rînd	
+И В таблице "%1 ИмяТаблицы" поле "%2 Заголовок реквизита" доступно	Проверка доступности элемента таблицы	Și în Tabelul "%1 NumeTabel" câmpul ""%2 TitluAtribut"" accesibil	Verificarea accesibilității elementului din ST	
+И В таблице "%1 ИмяТаблицы" поле "%2 Заголовок реквизита" доступно только для просмотра	Проверка установленного флага "Только просмотр" для реквизита в таблице	Și în Tabelul "%1 NumeTabel" câmpul "%2 TitluAtribut" accesibil doar pentru vizionare	Verificarea bifei setate "Doar vizualizare" pentru atribut în ST	
+И В таблице "%1 ИмяТаблицы" поле "%2 Заголовок реквизита" не доступно	Проверка не доступности элемента таблицы	Și în Tabelul "%1 NumeTabel" câmpul "%2 TitluAtribut" nu este accesibil	Verificarea inaccesibilității elementului din ST	
+И В таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяРеквизита" доступно	Проверка доступности элемента таблицы	Și în Tabelul "%1 NumeTabel" câmpul cu numele "%2 TitluAtribut" accesibil	Verificarea accesibilității elementului din ST	
+И В таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяРеквизита" доступно не только для просмотра	Проверка установленного флага "Только просмотр" для реквизита в таблице	Și în Tabelul "%1 NumeTabel" câmpul cu numele "%2 TitluAtribut" accesibil nu este doar pentru vizionare	Verificarea bifei setate "Doar vizualizare" pentru atribut în ST	
+И В таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяРеквизита" не доступно	Проверка не доступности элемента таблицы	Și în Tabelul "%1 NumeTabel" câmpul cu numele "%2 TitluAtribut" nu este accesibil	Verificarea inaccesibilității elementului din ST	
+И в таблице "%1 ИмяТаблицы" я снимаю флаг "%2 Заголовок флага"	Устанавливает флаг в Ложь	Și în Tabelul "%1 NumeTabel" eu debifez "%2 TitlulFlag"	Setează bifa în Fals	
+И в таблице "%1 ИмяТаблицы" я устанавливаю флаг "%2 Заголовок флага"	Устанавливает флаг в Истина	Și în Tabelul "%1 NumeTabel" eu bifez "%2 TitlulFlag"	Setează bifa în Adevărat	
+И В таблице "%1 ИмяТаблицы" поле с именем "%2 ИмяПоля" доступно только для просмотра	Проверка установленного флага "Только просмотр" для реквизита в таблице	Și în Tabelul "%1 NumeTabel" câmpul cu numele "NumeCâmp" accesibil doar pentru vizionare	Verificarea bifei setate "Doar vizualizare" pentru atribut în ST	
+И из выпадающего списка "%1 Заголовок поля" я выбираю "%2 ЗначениеПоля"	Выбор из выпадающего списка	Și din lista derulată "%1 TitlulCâmp" eu selectez"%2 VariabilaCâmp"	Selectare din lista drop-down	
+И Пауза "%1 1"	Позволяет сделать паузу нужной длительности.	Și Pauza ‘’%1 1’’	Vă permite să faceți pauza de durata dorită.	
+И поле "%1 Заголовок поля" не существует	Проверка не существования поля	Și câmpul "%1 Titlu Câmp" nu există	Verificarea inexistenței câmpului	
+И поле "%1 Заголовок поля" отсутствует на форме	Проверка невидимости поля	Și câmpul "%1 Titlu Câmp" lipsește pe formă	Verificarea invizibilității câmpului	
+И поле "%1 Заголовок поля" присутствует на форме	Проверка видимости поля	Și câmpul "%1 Titlu Câmp" există pe formă	Verificarea vizibilității câmpului	
+И поле "%1 Заголовок поля" существует	Проверка существования поля	Și câmpul "%1 Titlu Câmp" există	Verificarea existenței câmpului	
+И поле с именем "%1 ИмяПоля" имеет заголовок "%2 Заголовок"	Проверка, что у поля нужный заголовок. Поле ищется по внутреннему идентификатору.	Și câmpul cu numele "%1 NumeCâmp" are Denumire "%2 Titlu"	Verificarea faptului că câmpul are titlul dorit. Câmpul este căutat conform identificatorului intern.	
+И поле с именем "%1 ИмяПоля" не существует	Проверка не существования поля	Și câmpul cu numele "%1 NumeCâmp" nu există	Verificarea inexistenței câmpului	
+И поле с именем "%1 ИмяПоля" отсутствует на форме	Проверка невидимости поля	Și câmpul cu numele "%1 NumeCâmp" lipsește pe formă	Verificarea invizibilității câmpului	
+И поле с именем "%1 ИмяПоля" присутствует на форме	Проверка видимости поля	Și câmpul cu numele "%1 NumeCâmp" există pe formă	Verificarea vizibilității câmpului	
+И поле с именем "%1 ИмяПоля" существует	Проверка существования поля	Și câmpul cu numele "%1 NumeCâmp" există	Verificarea existenței câmpului	
+И таблица формы с именем "%1 ИмяТаблицы" содержит строки:	Проверяет, что таблица TestClient содержит строки таблицы Gherkin	Și tabelul formei cu numele "%1 NumeTabel" conține rânduri:	Verifică ca tabelul TestClient să conțină ndurile din tabelul Gherkin	
+И таблица формы с именем "%1 ИмяТаблицы" стала равной:	Проверяет, что таблица TestClient стала равна таблице Gherkin	Și tabelul formei cu numele "%1 NumeTabel" a devenit egală:	Verifică ca tabelul TestClient să devină egal cu tabelul Gherkin	
+И табличный документ формы с именем "%1 РеквизитТабличныйДокумент" стал пустым	Проверяет, что табличный документ пустой	Și Document Tabelar forma cu numele "%1 AtributDocumenTabelar" a devenit gol	Verifică ca documentul tabelar să fie gol	
+И табличный документ формы с именем "%1 РеквизитТабличныйДокумент" стал равен:	Проверяет равенство табличного документа переданной таблице Gherkin	Și Document Tabelar forma cu numele "%1 AtributDocumenTabelar" a devenit egal	Verifică egalitatea documentului tabelar cu tabelul Gherkin transmis	
+И у поля "%1 Заголовок поля" я перехожу к дате "%2 08.04.1981"	Делает переход к дате в поля календаря. Если переход делается через переменную контекста, то в ней должно лежать значение типа Дата.	Și în câmpul "%1 Titlu câmp" eu trec la data "%2 08.04.1981"	Face salt la dată în câmpul calendarului	
+И у поля "%1 Заголовок поля" я выбираю пункт контекстного меню "%2 ИмяПунктаМеню"	Выбирает нужный пункт контекстного меню у поля	Și în câmpul "%1 TitluCâmp" eu selectez punctul meniului de context "%2 NumePunctMeniu"	Alege punctul dorit al meniului de context la cîmp	
+И у поля с именем "%1 ИмяПоля" я выбираю пункт контекстного меню "%2 ИмяПунктаМеню"	Выбирает нужный пункт контекстного меню у поля	Și în câmpul cu numele "%1 NumeCâmpului" eu selectez punctul meniului de context "%2 PunctMeniu"	Alege punctul dorit al meniului de context la cîmp	
+И у поля с именем "%1 ИмяПоля" я перехожу к дате "%2 08.04.1981"	Делает переход к дате в поля календаря	Și în câmpul cu numele "%1 NumeCâmpului" eu trec la data "%2 08.04.1981"	Face salt la dată în câmpul calendarului	
+И у поля с именем "%1 ИмяПоля" текст подсказки равен "%2 ТекстПодсказки"	Проверка, что у поля нужный текст подсказки. Поле ищется по внутреннему идентификатору.	Și în câmpul cu numele "%1 Atribut2" textul indică egal "%2 Denumire"	Verificarea faptului că câmpul are textul de sugestie dorit. Câmpul este căutat conform identificatorului intern.	
+И у табличного документа с именем "%1 РеквизитТабличныйДокумент" я ввожу текст "%2 МойТекст"	Вводит текст в нужную ячейку табличного документа	Și în Documentul Tabelar cu numele "%1 TabDoc" eu introduc text "%2 222"	Introduce textul în celula dorită a documentului tabelar	
+И у табличного документа с именем "%1 РеквизитТабличныйДокумент" я перехожу к ячейке "%2 R4C2"	Делает нужную ячейку табличного документа активной	Și în Documentul Tabelar cu numele "%1 TabDoc" eu trec la celula "%2 R4C2"	Activează celula dorită a documentului tabelar	
+И флаг "%1 Заголовок флага" равен "%2 Истина"	Проверяет значение флага	Și bifa "%1 %2 TitleSteag" egal "%2 Adevar"	Verifică valoarea bifei	
+И элемент формы "%1 Заголовок элемента" доступен	Проверка доступности элемента формы	Și elementul formei "%1 NumeElementului" este accesibil	Verificarea accesibilității elementului formei	
+И элемент формы "%1 Заголовок элемента" не доступен	Проверка доступности элемента формы	Și elementul formei "%1 NumeElementului" nu este accesibil	Verificarea accesibilității elementului formei	
+И элемент формы с именем "%1 ИмяЭлемента" доступен	Проверка доступности элемента формы	Și elementul formei cu nume "%1 NumeElementului" este accesibil	Verificarea accesibilității elementului formei	
+И элемент формы с именем "%1 ИмяЭлемента" не доступен	Проверка доступности элемента формы	Și elementul formei cu nume "%1 NumeElementului" nu este accesibil	Verificarea accesibilității elementului formei	
+И я буду выбирать внешний файл "%1 ИмяФайла"	Устанавливает результат диалога выбора файла. Допустимо указать директиву $КаталогПроекта$, чтобы подставить в часть пути путь к каталогу проекта.	Și eu voi alege fișierul extern "%1 NumeFișier"	Stabilește rezultatul dialogului de alegere a fișierului.	
+И я выбираю значение реквизита "%1 Заголовок поля" из формы списка	Нажимает на кнопку "Выбрать из списка" у поля	Și eu selectez valoarea atributului"%1 TitluCâmp" din forma listei	Tastează butoonul "Selectare din listă" la câmp	
+И я выбираю значение реквизита с именем "%1 ИмяПоля" из формы списка	Нажимает на кнопку "Выбрать из списка" у поля	Și eu selectez valoarea atributuluicu numele "%1 NumeCâmp" din forma listei	Tastează butoonul "Selectare din listă" la câmp	
+И я жду когда в табличном документе "%1 РеквизитТабличныйДокумент" заполнится ячейка "%2 r4c2" в течение "%3 20" секунд	По таймеру проверяет, что указанная ячейка табличного документа не пустая.	Și eu menționez valoarea câmpului "%1 AtributDocumentTabelar" celula se umple "%2 r4c2" in timp de "%3 20" secunde	După timer verifică faptul că celula indicată a documentului tabelar nu este goală.	
+И я закрываю окно "%1 Заголовок окна"	Закрывает окно с нужным заголовком	Și eu închid fereastră "%1 Titlu fereastra"	închide fereastra cu titlul dorit	
+И я закрываю текущее окно	Закрывает активное окно	Și eu închid fereastra actuală	Închide fereastra activă	
+И я запоминаю значение поля "%1 Заголовок поля" как "%2 ИмяПеременной"	Сохранение значения поля в переменную Контекст	Și eu menționez valoarea câmpului "%1 Titlu Câmp" ca %2 "NumeVariabila"	Salvarea valorii câmpului în constanta Контекст	
+И я запоминаю значение поля "%1 Заголовок поля" как "%2 ИмяПеременной" глобально	Сохранение значения поля в переменную КонтекстСохраняемый	Și eu menționez valoarea câmpului "%1 Titlu Câmp" ca "%2 NumeVariabila" global	Salvarea valorii câmpului în constanta КонтекстСохраняемый	
+И я запоминаю значение поля "%1 Заголовок поля" с ключом "%2 Номер документа"	Сохранение значения поля в переменную Контекст с произвольным ключом	Și eu mentionez valoarea câmpului "%1 Titlu Câmp" cu cheia "%2 Număr documentului"	Salvarea valorii câmpului în constanta Контекст cu cheia arbitrară	
+И я запоминаю значение поля "%1 Заголовок поля" с ключом "%2 Номер документа" глобально	Сохранение значения поля в переменную КонтекстСохраняемый с произвольным ключом	Și eu menționez valoarea câmpului "%1 Titlu Câmp" cu cheia "%2 Număr documentului" global	Salvarea valorii câmpului în constanta КонтекстСохраняемый cu cheia arbitrară	
+И я запоминаю значение таблицы "%1 ИмяТаблицы" поля "%2 Заголовок поля" как "%3 ИмяПеременной"	Сохранение значения поля таблицы в переменную Контекст	Și eu menționez valoarea tabel "%1 NumeTabel" câmpului "%2 TitluCâmp" ca "%3 NumeVariabila"	Salvarea valorii câmpului tabelului în constanta Контекст	
+И я изменяю флаг "%1 Заголовок флага"	Изменяет текущее состояние флага	Și eu schimb bifa "%1 TitluFlag"	Modifică statutul curent al bifei	
+И я изменяю флаг с именем "%1 ИмяФлага"	Изменяет текущее состояние флага	Și eu schimb bifa cu numele "%1 NumeFlag"	Modifică statutul curent al bifei	
+И я меняю значение переключателя "%1 Заголовок элемента" на "%2 Значение переключателя"	Меняет значение переключателя (радиобаттона)	Și eu schimb valoarea radiobutonului "%1 Atribut radiobuton" la "%2 Prima valoare"	Modifică valoarea comutatorului (radio button)	
+И я меняю значение переключателя с именем "%1 РеквизитПереключатель" на "%2 Значение переключателя"	Меняет значение переключателя (радиобаттона)	Și eu schimb valoarea radiobutonului cu numele "%1 Atributradiobuton" la "%2 Prima valoare"	Modifică valoarea comutatorului (radio button)	
+И я нажимаю кнопку выбора у поля "%1 Заголовок поля"	Нажимает на кнопку выбора у поля	Și eu butonez selectarea câmpului "%1 Atribut2"	Tastează butonul de selectare la câmp	
+И я нажимаю кнопку очистить у поля "%1 Заголовок поля"	Очищает поле	Și eu butonez golirea câmpului "%1 Selectare"	Golește câmpul	
+И я нажимаю кнопку очистить у поля с именем "%1 ИмяПоля"	Очищает поле	Și eu butonez golirea câmpului cu numele "%1 Selectare"	Очищает поле	
+И я нажимаю на гиперссылку "%1 Гиперссылка"	Нажатие на гиперссылку.	Și eu butonez pe hyperlink "%1 Hyperlink"	Tastare pe hyperlink.	
+И я нажимаю на гиперссылку с именем "%1 Гиперссылка"	Нажатие на гиперссылку.	Și eu butonez pe hyperlink cu numele "%1 Hyperlink"	Tastare pe hyperlink.	
+И я открываю выпадающий список "%1 Заголовок списка"	Открывает выпадающий список	Și eu deschid lista derulată "%1 Titlul lista"	Deschide lista drop-down	
+И Я открываю форму документа "%1 АвтоВзаимозачет" заполненного на основании не проведенного "%2 ПоступлениеАвтомобилей"	Открытие формы на основании не проведенного документа	Și eu deschid forma documentului "%1 AutoCompensare" completat în baza documentului nevalidat "%2 IntrarareAutomobile"	Deschiderea formei în temeiul documentului ne validat	
+И Я открываю форму документа "%1 АвтоВзаимозачет" заполненного на основании проведенного "%2 ПоступлениеАвтомобилей"	Открытие формы на основании проведенного документа	Și eu deschid forma documentului "%1 AutoCompensare" completat în baza validării "%2 IntrarareAutomobile	Deschiderea formei în temeiul documentului validat	
+И я очищаю окно сообщений пользователю	Очищает окно сообщений пользователю.	Și eu șterg fereastra cu mesaje pentru utilizator	Golește fereastra mesajelor pentru utilizator.	
+И я разворачиваю группу "%1 Заголовок группы"	Разворачивает группу	Și eu derulez grupul "%1 Titlul grupei"	Extinde grupul	
+И я разворачиваю группу с именем "%1 ИмяГруппы"	Разворачивает группу	Și eu derulez grupul cu numele "%1 NumeGupa"	Extinde grupul	
+И я сворачиваю группу "%1 Заголовок группы"	Сворачивает группу	Și eu minimalizez grupa ”%2 Titlu Grupei”	Reduce grupul	
+И я сворачиваю группу с именем "%1 ИмяГруппы"	Сворачивает группу	Și eu închid grupul cu numele "%1 NumeGrup"	Reduce grupul	
+И я снимаю флаг "%1 Заголовок флага"	Устанавливает флаг в Ложь	Și eu debifez "%1 TitluFlag"	Setează bifa în Fals	
+И я снимаю флаг с именем "%1 ИмяФлага"	Устанавливает флаг в Ложь	Și eu debifez cu numele "%1 NumeFlag"	Setează bifa în Fals	
+И Я создаю fixtures по макету "%1 Макет"	Создает данные из макета MXL	Și eu creez fixtures pe sablonul "%1 Sablon"	Creează datele din macheta MXL	
+И я устанавливаю флаг "%1 Заголовок флага"	Устанавливает флаг в Истина	Și eu bifez "%1 %2 TitluFlag"	Setează bifa în Adevărat	
+И я устанавливаю флаг с именем "%1 ИмяФлага"	Устанавливает флаг в Истина	Și eu bifez cu numele "%1 NumeFlag"	Setează bifa în Adevărat	
+"И в таблице ""%1 ИмяТаблицы"" я разворачиваю строку:
+| 'ИмяКолонки' || 'ЗначениеКолонки' |"	Развернуть группу строк	"Și în tabelul ""%1 NumeTabel"" eu deschid rândul:
+  | Denumire |
+  | Marfa1 |"	Extinde grupul de rînduri	
+И в таблице "%1 ИмяТаблицы" я разворачиваю текущую строку	Развернуть текущую строку таблицы/дерева	Și în tabelul "%1 NumeTabel" eu desfășor rândul curent	Extinde rîndul curent al tabelului/arborelui	
+"И в таблице ""%1 ИмяТаблицы"" я сворачиваю строку:
+| 'ИмяКолонки' || 'ЗначениеКолонки' |"	Свернуть группу строк	"Și în tabelul ""%1 NumeTabel"" eu strâng rândul:
+  | Denumire |
+  | Marfa1 |"	Reduce grupul de rînduri	
+И в таблице "%1 ИмяТаблицы" я сворачиваю текущую строку	Свернуть текущую строку таблицы/дерева	Și în tabelul "%1 NumeTabel" eu închid rândul curent	Reduce rîndul curent al tabelului/arborelui	
+И я закрыл все окна клиентского приложения	Закрывает все окна текущего TestClient.	Și eu am închis toate ferestre aplicației Clientului	închide toate ferestrele TestClient-ului curent.	
+И я закрыл все окна клиентского приложения кроме "%1 Нужное окно"	Закрывает все окна текущего TestClient, кроме нужного окна.	Și eu am închis toate ferestre aplicației Clientului înafară de "%1 Fereastra necesară"	Închide toate ferestrele TestClient-ului curent, cu excepția ferestrei dorite.	
+И В таблице "%1 ИмяТаблицы" я нажимаю кнопку выбора у реквизита "%2 Заголовок колонки"	Нажатие кнопки выбора у реквизита в таблице	Și în tabelul "%1 DocumentePeTipuri" eu butonez butonul de alegere la atributul "%2 Scan"	Tastarea butonului de selectare la atribut în ST	
+И В таблице "%1 ИмяТаблицы" я нажимаю кнопку выбора у реквизита с именем "%2 ИмяКолонки"	Нажатие кнопки выбора у реквизита в таблице	Și în tabelul "%1 NumeTabel" eu butonez butonul de alegere la atributul cu numele "%2 NumeColoana"	Tastarea butonului de selectare la atribut în ST	
+И В таблице "%1 ИмяТаблицы" я нажимаю кнопку очистить у поля "%2 Заголовок колонки"	Нажатие кнопки очистить у поля в таблице	TitluColoanei	Tastarea butonului de golire la cîmp în ST	
+И В таблице "%1 ИмяТаблицы" я нажимаю кнопку очистить у поля с именем "%2 ИмяКолонки"	Нажатие кнопки очистить у поля в таблице	Și în tabelul "%1 DocumentePeTipuri" eu butonez butonul ștergeți în câmpul cu numele "%2 Scan"	Tastarea butonului de golire la cîmp în ST	
+И В таблице "%1 ИмяТаблицы" из выпадающего списка "%2 Заголовок поля" я выбираю "%3 ЗначениеПоля" с выбором	Выбор из выпадающего списка в ТЧ с дополнительным вызовом метода Выбрать(). Применялось на 8.3.6.	Și în tabelul "%1 Partea tabelară1" din lista derulată "%2 Atribut catalog" eu selectez "%3 ТestElement21" cu selectare	Selectarea din lista drop-down în ST cu solicitarea suplimentară a metodei Selectare(). A fost aplicată în 8.3.6.	
+И выражение внутреннего языка '%1 Выражение' Истинно	Позволяет проверить произвольное выражение встроенного языка.	Și expresie a limbii interioare "%1 Context.CantitateFinala - Context.CantitateInitiala = 1" Adevăr	Vă permite să verificați expresia arbitrară a limbajului incorporat	
+И для каждой строки таблицы "%1 ИмяТаблицы" я выполняю	Цикл. Выполняет шаги для каждой строки таблицы	Și pentru fiecare rând a tabelului "%1 Partea tabelară1" eu execut	Ciclul. Execută pașii pentru fiecare rând din tabel	
+И Пока в таблице "%1 ИмяТаблицы" количество строк "%2 >" "%3 0" Тогда	Цикл. Выполняет шаги до тех пор, пока в таблице есть строки	Și până când în tabelul "%1 Partea tabelară1" numărul de rânduri "%2 >" 0 Atunci	Ciclul. Execută pașii până când în tabel există rânduri	
+И Пока выражение встроенного языка "%1 Контекст.СлужебнаяПеременная < 2" истинно тогда	Цикл. Выполняет шаги пока истинно условие	Și până când limba interioara "%1 Context.VariabiladeServiciu < 2" adevar Atunci	Ciclul. Execută pașii până când este adevărată condiția	
+И поле "%1 Заголовок поля" заполнено	Проверяет заполненность поля формы	Și câmpul "%1 Nume Câmpului" completat	Verifică completarea câmpului formei	
+И табличный документ "%1 РеквизитТабличныйДокумент" соответствует макету "%2 ИмяМакета"	Сравнивает значения макета с эталоном. Макеьт ищется сначала в обработке фича файла, затем в каталоге проекта.	Și Documentul Tabelar "%1 AtributDocumentTabelar" corespunde șablonului "%2 NumeȘablon"	Compară valorile machetei cu etalonul. Macheta este căutată mai întâi în procesarea  feature a fișierului, apoi în catalogul proiectului.	
+И у элемента "%1 Заголовок элемента" я жду значения "%2 Значение"	Ожидание что элемент формы примет нужное значение (таймаут 10)	Și la elementul "%1 Numele elementului" eu aștept semnificația "%2 Semnificația"	Așteptarea că elementul formei va obține valoarea dorită (timeout 10)	
+И у элемента "%1 Заголовок элемента" я жду значения "%2 Значение" в течении "%3 20" секунд	Ожидание что элемент формы примет нужное значение в течении нужного времени. Иначе будет вызвано исключение.	Și la elementul "%1 Numele elementului" eu aștept semnificația "%2 Semnificația" în decurs de 20 secunde	Așteptarea că elementul formei va obține valoarea dorită pe parcursul timpului dorit. În alt caz va fi solicitată excepția.	
+И у элемента с именем "%1 ИмяЭлемента" я жду значения "%2 Значение"	Ожидание что элемент формы примет нужное значение (таймаут 10)	Și la elementul cu numele "%1 Numele elementului" eu aștept semnificația "%2 Semnificația"	Așteptarea că elementul formei va obține valoarea dorită (timeout 10)	
+И у элемента с именем "%1 ИмяЭлемента" я жду значения "%2 Значение" в течении "%3 20" секунд	Ожидание что элемент формы примет нужное значение в течении нужного времени. Иначе будет вызвано исключение.	Și la elementul cu numele "%1 Numele elementului" eu aștept semnificația "%2 Semnificația" în decurs de 20 secunde	Așteptarea că elementul formei va obține valoarea dorită pe parcursul timpului dorit. În alt caz va fi solicitată excepția.	
+И элемент "%1 Имя элемента" доступен для просмотра	Проверка отсутствия флага "Только просмотр"	Și element "%1 Numele elementului" este accesibil pentru vizionare	Verificarea lipsei bifei "Doar vizualizare"	
+И элемент "%1 Заголовок поля" доступен не только для просмотра	Проверка флага "Только просмотр"	Și elementul "%1 Titlu câmp" este accesibil nu doar pentru vizionare	Verificarea bifei setate "Doar vizualizare"	
+И элемент с именем "%1 Имя элемента" доступен для просмотра	Проверка отсутствия флага "Только просмотр"	Și elementul cu numele "%1 Numele elementului" este accesibil pentru vizionare	Verificarea lipsei bifei "Doar vizualizare"	
+И элемент с именем "%1 ИмяПоля" доступен не только для просмотра	Проверка флага "Только просмотр"	Și elementul cu numele "%1 NumeCâmp" este accesibil nu doar pentru vizionare	Verificarea bifei setate "Doar vizualizare"	
+И я активизирую TestClient "%1 ИмяПрофиляTestClient"	Позволяет переключить контекст на нужный TestClient. Поиск TestClient в таблице подключений просиходит по имени или синониму.	Și eu activez TestClient "%1 NumeProfilTestClient"	Vă permite să comutați contextul la TestClient-ul dorit	
+И я активизирую окно "%1 Заголовок окна"	Активизирует окно с нужным заголовком	Și eu activez fereastră "%1 Titlu fereastra"	Activează câmpul cu titlul dorit	
+И я активизирую поле "%1 Заголовок поля"	Сделать поле активным	Și eu activez câmpul "%1 Nume Câmp"	Activare cîmpul	
+И я активизирую поле с именем "%1 ИмяПоля"	Сделать поле активным	Și eu activez câmpul cu numele "%1 NumeCâmp"	Activare cîmpul	
+И я вижу элемент "%1 Заголовок элемента"	Проверяет видимость элемента на форме	Și eu văd elementul "%1 Titlu elementului"	Verifică vizibilitatea elementului pe formă	
+И я вижу элемент "%1 Заголовок элемента" на форме	Проверяет видимость элемента на форме	Și eu văd elementul "%1 Titlu elementului" pe formă	Verifică vizibilitatea elementului pe formă	
+И я вижу элемент с именем "%1 ИмяЭлемента"	Проверяет видимость элемента на форме	Și eu văd elementul cu numele "%1 NumeElement"	Verifică vizibilitatea elementului pe formă	
+И я вижу элемент с именем "%1 ИмяЭлемента" на форме	Проверяет видимость элемента на форме	Și Eu văd elementul cu numele "%1 NumeElement" pe formă	Verifică vizibilitatea elementului pe formă	
+И я жду закрытия окна "%1 Заголовок окна" в течении "%2 20" секунд	Ожидает, что окно исчезнет через нужное число секунд	Și Eu aștept pe închiderea ferestrei "%1 Titlu ferestrei" în decusr de ”%2 20” secunde	Așteaptă ca fereastra să dispară peste numărul de secunde dorit	
+И я жду появления элемента "%1 Заголовок элемента"	Ожидание появления элемента формы с нужным заголовком	Și Eu aștept apariția elementului "%1 Titlu elementului"	Așteptarea apariției elementului formei cu titlul dorit	
+И я жду появления элемента "%1 Заголовок элемента" в течении "%2 20" секунд	Ожидание появления элемента формы с нужным заголовком в течении указанного числа секунд	Și Eu aștept apariția elementului "%1 Titlu elementului" în decurs de "%2 20" secunde	Așteptarea apariției elementului formei cu titlul dorit pe parcursul numărului indicat de secunde	
+И я жду появления элемента с именем "%1 ИмяЭлемента"	Ожидание появления элемента формы с нужным именем	Și Eu aștept apariția elementului cu numele "%1 NumeElement"	Așteptarea apariției elementului formei cu numele dorit	
+И я жду появления элемента с именем "%1 ИмяЭлемента" в течении "%2 20" секунд	Ожидание появления элемента формы с нужным именем в течении указанного числа секунд	Și Eu aștept apariția elementului cu numele "%1 NumeElement" în decurs de "%2 20" secunde	Așteptarea apariției elementului formei cu numele dorit pe parcursul numărului indicat de secunde	
+И я завершаю редактирование строки	Завершение редактирования строки текущей таблицы.	Și Eu termin redactarea rândului	Finalizarea editării rândului	
+И я закрываю TestClient "%1 ИмяПрофиляTestClient"	Закрывает указанный TestClient Перед этим закрывает все окна в нём.	Și Eu închid TestClient "%1 NumeProfilTestClient"	închide TestClientul indicat Preventiv închide toate ferestrele în el.	
+И я закрываю окно предупреждения	Закрывает окно предупреждения если оно есть	Și Eu închid fereastră înștiințărilor	Închide fereastra avertismentului, dacă există	
+И я закрываю сеанс TESTCLIENT	Закрывает активный сеанс TestClient, если он есть. При этом происходит попытка закрыть моадльные диалоги, если они появляются.	Și Eu închid sensul TESTCLIENT	închide sesiunea TestClient	
+И Я запоминаю значение выражения '%1 ВыражениеВстроенногоЯзыка' в переменную "%2 ИмяПеременной"	Позволяет сохранить в переменную Контекст произвольное выражение встроенного языка	Și Eu menționez valoarea expresiei "%1 ExpresiaLimbiiImplicite" în variabilă "%2 NumeVariabila"	Vă permite să salvați în variabila Контекст expresia arbitrară a limbajului incorporat	
+И Я запоминаю значение выражения '%1 ВыражениеВстроенногоЯзыка' в переменную "%2 ИмяПеременной" глобально	Позволяет сохранить в переменную КонтекстСохраняемый произвольное выражение встроенного языка	Și Eu menționez valoarea expresiei "%1 ExpresiaLimbiiImplicite" în variabilă "%2 NumeVariabila" global	Vă permite să salvați în variabila КонтекстСохраняемый expresia arbitrară a limbajului incorporat	
+И я запоминаю текущее окно как "%1 НужныйМнеЗаголовокОкна"	Сохранение значения заголовка текущего окна в переменную Контекст	Și Eu menționez actuală fereastră ca "%1 NecesaraMieTitluFerestrei"	Salvarea valorii titlului ferestrei curente în  variabila Context	
+И я не вижу элемент "%1 Заголовок элемента"	Проверяет не видимость элемента на форме	Și Eu nu văd elementul "%1 Titlu element"	Verifică invizibilitatea elementului pe formă	
+И я не вижу элемент "%1 Заголовок элемента" на форме	Проверяет не видимость элемента на форме	Și Eu nu văd elementul "%1 Titlu element" pe formă	Verifică invizibilitatea elementului pe formă	
+И я не вижу элемент с именем "%1 ИмяЭлемента"	Проверяет не видимость элемента на форме	Și Eu nu văd elementul cu numele "%1 Titlu element"	Verifică invizibilitatea elementului pe formă	
+И я не вижу элемент с именем "%1 ИмяЭлемента" на форме	Проверяет не видимость элемента на форме	Și Eu nu văd elementul cu numele "%1 Titlu element" pe formă	Verifică invizibilitatea elementului pe formă	
+И Я очищаю фильтр на форме списка	Позволяет сбросить фильтр на список через меню "Ещё/Настроить список"	Și Eu curat filtrul pe forma listei	Vă permite să resetați filtrul pentru listă prin meniul "Mai multe/Setare lista"	
+И я подключаю TestClient "%1 ИмяКлиента" логин "%2 Логин" пароль "%3 Пароль"	Позволяет подключить TestClient с нужным логином и паролем в тойже базе, в которой запущен TestManager	Și Eu conectez TestClient "%1 NumeClient" login "%2 login" parola "%3 parola"	Vă permite să conectați TestClient cu loghinul și parola dorite în aceiași bază, în care este lansat TestManager	
+И Я подключаю клиент тестирования "%1 ИмяПрофиляTestClient" из таблицы клиентов тестирования		Și Eu conectez clientul testării "%1 NumeProfilClientTestare" din tabelul clienților testării		
+И я подключаю профиль TestClient "%1 ИмяПрофиляTestClient"	Позволяет подключить TestClient по имени уже существующего профиля	Și Eu conectez profilul TestClient "%1 NumeProfilClientTestare"	Vă permite să conectați TestClient după numele profilului deja existent	
+И я удаляю все строки таблицы "%1 ИмяТаблицы"	Очистить таблицу	Și Eu șterg toate rândurile tabelului "%1 NumeTabel"	Golire tabelul	
+И Я устанавливаю фильтр на список       | Наименование | Содержит | Товар1 |	Позволяет установить фильтр на список через меню "Ещё/Настроить список"	"Și Eu stabilesc filtru la listă
+   | Denumire | Contine | Marfa1 |"	Vă permite să instalați filtrul pentru listă prin meniul "Mai multe/Setare lista"	
+И Я устанавливаю фильтр на список если это возможно       | Наименование | Содержит | Товар1 |	Позволяет установить фильтр на список через меню "Ещё/Настроить список". Причём если такого поля нет, то исключение вызываться не будет.	"Și Eu stabilesc filtru la listă dacă este posibil
+   | Denumire | Contine | Marfa1 |"	Vă permite să instalați filtrul pentru listă prin meniul "Mai multe/Setare lista". Totodată, dacă acest câmp lipsește, excepția nu va fi solicitată.	
+Когда в логе сообщений TestClient есть строка "%1 Нужное сообщение пользователю"	Проверяет в логе сообщений наличие нужной строки.	Când în locurile de mesaje TestClient există rândul "%1 Mesajul potrivit utilizatorului"	Verifică în logul mesajelor prezența rândului dorit.	
+Когда В панели открытых я выбираю "%1 ИмяКоманды"	Нажатие кнопки на панели открытых окон	Când în panoul deschise eu selectez "%1 NumeComanda"	Tastarea butonului pe panoul ferestrelor deschise	
+Когда Проверяю шаги на Исключение:|'И     в поле с именем "Наименование2" я ввожу текст "Тестовый Элемент"'|	Проверка негативного поведения шага. Т.е. проверяемый шаг/шаги должны вызвать исключние.	"Când Verific etapele de excludere:
+  |'Și în câmpul cu numele ""%1 Denumire"" eu introduc text ""%2 Test Element""|"	Verificarea comportamentului negativ al pasului.	
+Когда Я открываю форму документа "%1 АвтоВзаимозачет" заполненного на основании не проведенного "%2 ПоступлениеАвтомобилей" номер "%3 АВ00000080" от "%4 04.09.2016"	Открытие формы на основании не проведенного документа	Când eu deschid forma documentului "%1 AutoCompensare" completat în baza documentului nevalidat "%2 IntrarareAutomobile" numărul "%3 АВ00000080" din "%4 04.09.2016"	Deschiderea formei în temeiul documentului validat	
+Когда Я открываю форму документа "%1 АвтоВзаимозачет" заполненного на основании проведенного "%2 ПоступлениеАвтомобилей" номер "%3 АИ00000002" от "%4 12.03.2017"	Открытие формы на основании проведенного документа	Când eu deschid forma documentului "%1 AutoCompensare" completat în baza validării "%2 IntrarareAutomobile" numărul "%3 AI00000002" din "%4 12.03.2017"	Deschiderea formei în temeiul documentului validat	
+Когда Я подключаю клиент тестирования "%1 ИмяКлиентаТестирования" из таблицы клиентов тестирования от имени "%2 Логин" с паролем "%3 Пароль"		Când eu conectez clientul testării "%1 NumeClientTestare" din tabelul clienților testării în numele "%2 Login" cu parola "%3 Parola"		
+"Когда Я подключаю клиент тестирования с параметрами:
+    | 'Имя подключения' | 'Синоним'        | 'Порт' | 'Строка соединения'                     | 'Логин' | 'Пароль' | 'Запускаемая обработка' |  'Дополнительные параметры строки запуска'  |
+    | 'ИмяПрофиля'      | 'СинонимПрофиля' | '1538' | 'Srvr=""localhost:1941"";Ref=""Test"";' | 'Админ' | 'Админ'  | 'c:\СуперОбработка.epf' |  '/UC'                                      |"	Подключает TestClient. Все параметры подключения указываются в таблице. Запускает новый сеанс, если не найден запущенный ранее.	"Când eu conectez clientul testării cu parametrii:
+ | 'Nume conectare | 'Port' | Rândul de Legatură' | 'Login' | 'Parola' | 'Procesarea pornită' | 'Parametri suplimentari ai rândului de pornire' 
+ | 'Test 1' | '1538' | 'Srvr=""localhost:1941"";Ref=""Test"";' | 'Admin' | 'Admin' | 'c:\superProcesare.epf' | '/UC' |"	Conectează TestClient. Toți parametrii de conectare se indică în tabel.	
+Тогда в таблице "%1 ИмяТаблицы" я выделяю все строки	Выделение всех строк в таблице	Atunci în tabelul "%1 NumeTabel" eu înserez toate rândurile	Selectarea tuturor rîndurilor în tabel	
+Тогда в таблице "%1 ИмяТаблицы" количество строк "%2 меньше или равно" "%3 2"	Проверка на количество строк в таблице	Atunci în tabelul "%1 NumeTabel" numărul de rânduri este "%2 mai mic sau egal" 2	Verificarea numărului de rânduri în tabel	
+Тогда не появилось окно предупреждения системы	Проверяет, что на экране нет предупреждения системы.	Atunci nu a apărut fereastră de atenționare a sistemului	Verifică ca pe ecran să nu existe avertismente ale sistemului.	
+Тогда появилось предупреждение, содержащее текст "%1 Текст"	Проверяет, что появилось окно предупреждения, содержащее нужный текст.	Atunci a apărut atenționarea ce conține text "%1 Text"	Verifică dacă a apărut fereastra avertismentului cu textul dorit.	
+Тогда текст текущей ячейки таблицы "%1 Таблица" стал равен "%2 Значение поля"	Проверка значения текущей ячейки таблицы.	Atunci textul celulei actuale din tabelul "%1 Tabel" a devenit egal cu "%2 Valoare câmp"	Verificarea valorii celulei curente a tabelului.	
+Тогда текст ячейки таблицы "%1 Таблица" "%2 ИмяПоля" стал равен "%3 Значение поля"	Проверка значения ячейки таблицы. Имя ячейки указывается как оно указано в конфигураторе.	Atunci textul celulei din Tabelul "%1 Tabel" "%2 NumeCâmp" a devenit egal cu "%3 Valoare câmp"	Verificarea valorii celulei tabelului. Numele celulei se indică așa cum este indicat în designer.	
+Тогда элемент формы "%1 Заголовок поля" стал равен "%2 Значение поля"	Проверка значения элемента формы	Atunci elementul formei "%1 Titlu câmp" a devenit egal cu "%2 Valoare Câmp"	Verificarea valorii elementului formei	
+Тогда элемент формы с именем "%1 ИмяПоля" стал равен "%2 Значение поля"	Проверка значения элемента формы	Atunci elementul formei cu numele "%1 NumeCâmp" a devenit egal cu "%2 Valoare câmp"	Verificarea valorii elementului formei	
+Тогда я вызываю исключение "%1 Текст исключения"	Вызывает исключение с нужным текстом	Atunci eu chem excluderea "%1 Textul excluderei"	Solicită excepția cu textul necesar	
+"Дано Я задаю таблицу строк ""%1 ТаблицаИсключений""
+| 'Товар1' |
+| 'Товар2' |"	Создает в памяти таблицу строк по переданной таблице	"Este dat Eu specific tabelul rândurilor ""%1 TextulExcluderei""
+| 'Marfă1' |
+| 'Marfă2' |"	Creează în memorie tabelul rândurilor conform tabelului transmis	
+Дано Я сохраняю макет из обработки "%1 ИмяМакетаВОбработке" в файл "%2 ИмяФайла"	Сохраняет макет из обработки, связанной с фичей, в нужный файл.	Este dat Eu salvez macheta din procesarea "%1 NumeleȘablonuluiÎnProcesare" în fișierul "%2 NumeFișier"	Salvează macheta din procesare legată de feature în fișierul dorit.	
+Если переменная "%1 ИмяПеременной" имеет значение "%2 ЗначениеПеременной" Тогда	Условие. Проверяет значение переменной контекста	Dacă variabila "%1 NumeVariabilei" are valoarea "%2 ValoareVariabila" Atunci	Condiția. Verifică valoarea variabilei contextului	
+И в поле "%1 Заголовок поля" я ввожу текст из макета "%2 ИмяМакета"	Вводит текст в поле. Текст будет взят из макета. Также вводит текст в форматированный документ и поле HTML документа.	Și în câmpul "%1 Titlul câmpului" eu introduc textul din macheta "%2 NumeȘablon"	Introduce textul în câmp. Textul va fi luat din machetă	
+И в таблице "%1 ИмяТаблицы" я перехожу к строке содержащей подстроки|'ИмяКолонки'||'ЗначениеКолонки'|	Переход к строке таблицы, когда значения колонок заданы не полностью, а подстрокой	"Și în tabelul ""%1 NumeTabel"" eu trec la rândul care conține subrândurile
+ |'NumeColoana'|
+ |'ValoareColoana'|"	Salt la rîndul de tabel, atunci Când valorile coloanelor nu sunt integrale, ci în subrînd	
+И в табличном документе "%1 РеквизитТабличныйДокумент" значения в колонке "%2 ИмяКолонки" неравно значению "%3 "	Проверяет, что в табличном документе значение в колонке равно переданному параметру	Și în documentul tabelar "%1 AtributDocumentTabelar" valorile în coloana "%2 NumeColoana" nu sunt egale cu valoarea "%3 "	Varifică faptul că în documentul tabelar valoarea în coloană este egală cu parametrul transmis	
+И в табличном документе "%1 РеквизитТабличныйДокумент" значения в колонке "%2 ИмяКолонки" равно значению "%3 "	Проверяет, что в табличном документе значение в колонке равно переданному параметру	Și în documentul tabelar "%1 AtributDocumentTabelar" valorile în coloana "%2 NumeColoana" sunt egale cu valoarea "%3 "	Verifică faptul că în documentul tabelar valoarea în coloană este egală cu parametrul transmis	
+И в табличном документе "%1 РеквизитТабличныйДокумент" значения в колонке "%2 ИмяКолонки" соответствуют условию "%3 равно" "%4 10"	Проверяет, что в табличном документе значение в колонке соответствует условию. Можно использовать числа.	Și în documentul tabelar "%1 AtributDocumentTabelar" valorile în coloana "%2 NumeColoana" corespund condiției "%3 egal" "%4 10"	Verifică faptul că în documentul tabelar valoarea în coloană corespunde condiției. Puteți utiliza cifre.	
+И В текущем окне я нажимаю кнопку командного интерфейса "%1 КомандаИнтерфейса"	Нажатие кнопки командного интерфейса в текущей форме	Si în fereastra curentă eu tastez butonul interfeței de comenzi "%1 ComandaInterfeței"	Tastarea butonului interfeței de comenzi în forma curentă	
+И для каждого значения "%1 ЗначениеИзМассива" из массива "%2 МассивЗначенийЧерезТочкуСЗапятой"	Перебирает массив значений. Первый параметр - это имя переменной, которое будет доступно в Контексте. Второй параметр, значения массива, разделенные символом ";"	Și pentru fiecare valoare "%1 ValoareaDinMulțime" din masivul "%2 MulțimeaValorilorPrinPunctȘiVirgulă"	Iterează masivul valorilor. Primul parametru este numele variabilei, care va fi accesibil în Context. Al doilea parametru sunt valorile masivului despărțite prin simbolul ";"	
+И для каждого значения "%1 ЗначениеИзМассива" из таблицы в памяти "%2 МассивЗначенийЧерезТочкуСЗапятой"	"Перебирает значение из указанной переменной. Первый параметр - это имя переменной, которое будет доступно в Контексте. Второй параметр, имя таблицы, которая сохранена в контексте.
+Если в переданной таблице одна колонка - тогда она интерпретируется как массив. Иначе - как таблица, где в первой строке указаны имена колонок. По мере перебора строк таблицы будут обновляться значения в переменной Контекст. Имена переменных равны именам колонок. Имя колонки должно соответствовать правилам образования ключей структуры."	Și pentru fiecare valoare "%1 ValoareaDinMulțime" din tabel în memorie "%2 MulțimeaValorilorPrinPunctȘiVirgulă"	Iterează masivul valorilor. Primul parametru este numele variabilei, care va fi accesibil în Context. Al doilea parametru este numele tabelului salvat în context	
+"И Табличный документ ""%1 ИмяТабДок"" содержит в себе значения областей
+| ИмяОбласти |
+| ЗначениеОбласти |"	Проверяет что в табличном документа содержатся значения, перечисленные в таблице. Таблица состоит из двух колонок: "ИмяОбласти" и "Значение"	"Și documentul tabelar ""%1 NumeDocTab"" conține în sine valorile domeniilor
+| NumeCâmp |
+| ValoareaCâmp |"	Verifică faptul că în documentul tabelar se conțin valorile enumerate în tabel. Tabelul are două coloane: "ИмяОбласти" și "Значение"	
+И табличный документ "%1 РеквизитТабличныйДокумент" не содержит значения:| Значение1 || Значение2 |	Проверяет, что в табличном документе нет значений из таблицы	Și documentul tabelar "%1 AtributDocumentTabelar" nu conține valorile:| Valoare1 || Valoare2 |	Verifică faptul că în documentul tabelar nu există valorile din tabel	
+И табличный документ "%1 РеквизитТабличныйДокумент" содержит значения:| Значение1 || Значение2 |	Проверяет, что в табличном документе есть значения из таблицы	Și documentul tabelar "%1 AtributDocumentTabelar" conține valorile:| Valoare1 || Valoare2 |	Verifică faptul că în documentul tabelar există valorile din tabel	
+И табличный документ формы с именем "%1 РеквизитТабличныйДокумент" содержит строки:| Значение1 | Значение2 || Значение3 | Значение4 |	Проверяет, что табличный документ TestClient содержит строки таблицы Gherkin	Și documentul tabelar al formei cu numele "%1 AtributDocumentTabelar" conține rândurile”:| Valoare1 || Valoare2 || Valoare3 || Valoare4 |	Verifică faptul că documentul tabelar TestClient conține rândurile din tabelul Gherkin	
+И я вывожу значение переменной "%1 ИмяПеременной"	Выводит значение переменной контекста в окно сообщений	Și eu afișez valoarea variabilei "%1 NumeVariabileir"	Afișază valoarea variabilei contextului în fereastra mesajelor	
+И я жду, что в окне "%1 ЗаголовокОкна" в таблице "%2 ИмяТаблицы" количество строк будет "%3 больше" "%4 0" в течении "%5 20" секунд	В течении нужного числа секунд проверяется количество строк в таблице в нужном окне	Și eu aștept când în fereastra "%1 TitlulFereastra" din tabelul "%2 NumeTabel" cantitatea rândurilor va fi "%3 mai mare" "%4 0" în timp de "%5 20" secunde	În decursul numărului de secunde dorit se verifică cantitatea rândurilor în tabel în fereastra dorită	
+И я жду, что в таблице "%1 ИмяТаблицы" количество строк будет "%2 больше" "%3 0" в течении "%4 20" секунд	В течении нужного числа секунд проверяется количество строк в таблице в текущем окне	Și eu aștept când în tabelul "%1 NumeTabel" cantitatea rândurilor va fi "%2 mai mare" "%3 0" în timp de "%4 20" secunde	În decursul numărului de secunde dorit se verifică cantitatea rândurilor în tabel în fereastra curentă	
+И я жду, что поле "%1 Заголовок поля" перестанет быть пустым в течении "%2 30" секунд	Проверяет, что в течении нужного числа секунд текстовое поле станет заполненным.	Și eu aștept când câmpul "%1 ScenariulGenerat" va înceta să fie gol în timp de "%2 30" secunde	Verifică ca în cantitatea dorită de secunde caseta de text să devină completată.	
+И я меняю значение переключателя "%1 Заголовок элемента" на значение переменной "%2 ИмяПеременной"	Изменение значение переключателя на значение ранее сохраненной переменной	Și eu înlocuiesc valoarea comutatorului "%1 TitluElement" cu valoarea variabilei "%2 NumeVariabila"	Modificarea valorii comutatorului cu valoarea variabilei salvate anterior	
+И я меняю значение переключателя с именем "%1 РеквизитПереключатель" на значение переменной "%2 ИмяПеременной"	Изменение значение переключателя на значение ранее сохраненной переменной	Și eu înlocuiesc valoarea comutatorului cu numele "%1 AtributComutator" cu valoarea variabilei "%2 ValoareVariabila"	Modificarea valorii comutatorului cu valoarea variabilei salvate anterior	
+И Я обновляю нумерацию объектов для "%1 ПолноеИмяОбъектаМетаданных"	Выполняет обновление номеров для объекта метаданных по полному имени	Și eu actualizez numerotarea obiectelor pentru "%1 CâmpNumeObiectMetodate"	Execută actualizarea numerelor pentru obiectul de metadate conform numelui deplin	
+И я перехожу к следующему реквизиту	Переходит к следующему реквизиту формы	Și eu trec la următorul atribut	Trece la următorul atribut al formei	

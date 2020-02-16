@@ -1,0 +1,810 @@
+﻿Строка поиска	Translation
+%1 не найден;	%1 ni mogoče najti
+%1 Не умею обрабатывать реквизит <%2> у объекта <%3>	%1 Ne vedo, kako ravnati z rekviziti <%2> <%3>
+%1.%2 в макете нет записей для регистра %3	%1.%2 v postavitev nobenih zapisov za registracijo %3
+%1.%2 не удалось создать новый набор записей.%3	%1.%2 ni uspelo ustvariti novo recordset.%3
+%1.%2 не удалось создать новый набор записей%3	%1.%2 ni uspelo ustvariti novo recordset%3
+%1.%2 не удалось создать новый элемент.%3	%1.%2 uspelo ustvariti nov element.%3
+№%1. Заголовок=<%2>. Имя=<%3>. ТекстПоля = <%4>	Število %1. Naslov=<%2>. Ime=<%3>. Textpos = <%4>
+TestClient НЕ подключен.	TestClient NI priključen.
+TestClient подключен на %1 порту.	TestClient povezan %1 vrata.
+Web клиент не поддерживает запись действий пользователя.	Spletni odjemalec ne podpira snemanje uporabniških dejanj.
+Активирую окно с координатами: %1;%2	Aktiviranje okna koordinate: %1
+Активная форма не найдена	Aktivni obliki ni bilo mogoče najti
+Активное окно не найдено.	Dejavno okno se ni bilo mogoče najti.
+больше	več
+больше или равно	večja ali enaka
+Были конфликты в именах снипетов.	Tam so bili konflikti v imenih delčke.
+Были ошибки в ПросканироватьИсходникиИНайтиВсеStepDefinition.	Tam so bile napake v ПросканироватьИсходникиИНайтиВсеstepdefinition.
+Было найдено окно предупреждения с текстом: <%1> А ожидалось, что таких окон не будет.	Bil najden v oknu z opozorilom z besedilom: <%1> bilo pričakovati, da se ti operacijski sistem Windows ne bo.
+Было найдено окно предупреждения. А ожидалось, что таких окон не будет.	Ugotovljeno je bilo, opozorilno okno. In pričakovati je bilo, da teh Windows ne bo.
+В значение элемента формы %1 не найдена строка <%2>. Текущее значение поля <%3>	Vrednost elementa obrazca %1 ne najdemo niz <%2>. Sedanja vrednost polja <%3>
+В ИБ загружены объекты: %1 шт.	V IB predmetov naložiti: %1 EA.
+В каталоге <%1> должен был быть один файл xml.	V imeniku <%1> naj bi bilo eno xml datoteko.
+В меню нет значения <%1>	Meni nima vrednosti <%1>
+В метаданных %1 не найден реквизит-ключ <%2>. Ошибка в макете данных	V metapodatke %1 ni bilo najdeno rekviziti tipko <%2>. Napaka v postavitvi podatkov
+В параметрах JSON не найден каталог Фич.	V možnosti JSON ne najdemo imenik Funkcije.
+В переменной Контекст не обнаружено ранее сохраненное значение с именем <%1>	V spremenljivih Okviru ni mogoče zaznati že shranjena vrednost z imenom <%1>
+В процедуру <УстановитьРезультатУсловия> передан неверный тип параметра <%1>. Ожидаемый тип: Булево.	V postopku <Ustroitelstva> neveljavna parameter tipa <%1>. Pričakovana vrsta: Boolean.
+В результирующей таблице существуют две колонки с одинаковым заголовком: %1	Posledično tabela obstajata dva stolpca z istim glave: %1.
+В списке нет значения <%1>	Na seznamu vrednosti <%1>
+В строке <%1> не найдена подстрока <%2>	V vrstici <%1> ni bilo mogoče najti podniz <%2>
+В сценарии <%1> найден тег исключение <%2>	V skript <%1> tag ugotovil, razen <%2>
+В сценарии <%1> найден тег отбор <%2>	V skript <%1> našel oznako izbor <%2>
+В таблице <%1>  НЕ найдено значение %2, а оно должно было быть.	V tabeli <%1> NI mogoče najti vrednosti, v %2, in to je bilo treba.
+В таблице <%1>  нет колонки <%2>	V tabeli <%1> ni stolpec <%2>
+В таблице <%1> в строке №%2 найдено значение %3, а его не должно было быть.	V tabeli <%1> vrstici število%2 ugotovljena vrednost %3, a to ni bilo mogoče.
+В таблице <%1> найдено <%2> значений. А ожидали <%3>. Имя колонки <%4>. Искомое значение <%5>	V tabeli <%1> je bila najdena <%2> vrednosti. Kot pričakovano <%3>. Ime stolpca <%4>. Vrednost <%5>
+В таблице <%1> не найдено ни одной строки	V tabeli <%1> ni našel nobene vrstice
+В таблице <%1> не найдено ячейки с заголовком <%2>	V tabeli <%1> ni bilo mogoče najti celico z glavo <%2>
+В таблице <%1> не найдены колонки: %2	V tabeli <%1> ni mogoče najti stolpec: %2
+В таблице <%1> не получилось активизировать поле <%2>.	V tabeli <%1> ne more aktivirati polje <%2>.
+В таблице <%1> нет строк для выбора.	V tabeli <%1> ni vrsticah in izberite.
+В таблице <%1> ожидали получить <%2> строк, а получили <%3> строк.	V tabeli <%1> je bilo pričakovati <%2> linij, ampak dobil <%3> vrstic.
+В таблице <%1> ожидали получить %2 %3 строк, а получили <%4> строк.	V tabeli <%1> je bilo pričakovati, da %2% 3 vrstic, vendar imam <%4> linije.
+В таблице <%1> ожидали получить больше <%2> строк, а получили <%3> строк.	V tabeli <%1> je bilo pričakovati, da bi dobili več <%2> linij, ampak dobil <%3> vrstic.
+В таблице <%1> ожидали получить больше или равно <%2> строк, а получили <%3> строк.	V tabeli <%1> je bilo pričakovati, da je večja ali enaka <%2> linij, ampak dobil <%3> vrstic.
+В таблице <%1> ожидали получить меньше <%2> строк, а получили <%3> строк.	V tabeli <%1> je bilo pričakovati, da bi dobili manj kot <%2> linij, ampak dobil <%3> vrstic.
+В таблице <%1> ожидали получить меньше или равно <%2> строк, а получили <%3> строк.	V tabeli <%1> je bilo pričakovati, da pridobi manj kot ali enako <%2> linij, ampak dobil <%3> vrstic.
+В таблице <%1> отсутствует колонка <%2>, указанная в параметрах.	V tabeli <%1> manjka stolpec <%2>, Yasna v parametre.
+В таблице <%1> поле с заголовком <%2> не найдено.	V tabeli <%1> polje naslov <%2> ni bilo mogoče najti.
+В таблице <%1> поле с именем <%2> не найдено.	V tabeli <%1> ime polja <%2> ni bilo mogoče najti.
+В таблице <%1> у поля <%2> ожидали открытия выпадающего списка, но не дождались.	V tabeli <%1> polje <%2> pričakujejo, da se odpre spustni seznam, vendar ne čakati.
+В таблице не найдена колонка <%1>	Ne najdete v tabeli stolpec <%1>
+В таблице параметров не было передано имя нового профиля. Колонка <Имя подключения>	Tabela nastavitve niso bili preneseni v novo ime profila. Stolpec <Ime povezave>
+В таблице подключений уже есть подключение с именем <%1>	V povezavi tabela že ima povezavo z imenom <%1>
+В табличном документе %1 колонок, а ожидалось %2 колонок.	V tabeli dokument '%1 ' stolpcev, pričakuje %2 stolpce.
+В табличном документе %1 строк, а ожидалось %2 строк.	V tabeli dokument %1 vrstic, vendar pričakuje %2 vrstic.
+В табличном документе %1 строк, а ожидалось, что он пустой.	V tabeli dokument %1 vrstic, in pričakovati je bilo, da je prazna.
+В табличном документе в колонке <%1> значение не соответствует условию 'Значение в колонке %2 %3'. Текущее значение колонки <%4>. Ряд <%5>, колонка <%6>	V tabeli dokument v stolpcu <%1> vrednost ne ustreza pogojem "Vrednost v stolpcu %2% 3'. Trenutno vrednost stolpec <%4>. Številne <%5>, stolpec <%6>
+В табличном документе в колонке <%1> ожидали значение <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	V tabeli dokument v stolpcu <%1> je bilo pričakovati <%2>, najdete <%3>. Številne <%4>, stolpec <%5>
+В табличном документе в колонке <%1> ожидали, что не будет значения <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	V tabeli dokument v stolpcu <%1> je bilo pričakovano, da bo vrednost <%2>, najdete <%3>. Številne <%4>, stolpec <%5>
+В табличном документе в колонке №%1 значение= <%2> , а ожидалось <%3>	V tabeli dokument v stolpcu število %1 vrednost= <%2> , pričakuje <%3>
+В табличном документе колонка <%1> не найдена.	Dokument v tabeli (stolpec <%1> ni bilo mogoče najti.
+В файле <%1> нашли строки, а ожидали, что их нет:%2	V datoteki <%1> najti vrstice, in pričakuje, da ne obstajajo:%2
+В файле <%1> не нашли строки, а ожидали, что они там есть:%2	V datoteki <%1> ni mogoče najti vrstice, in pričakuje, kaj so dobili:%2
+В фиче <%1> сценария <%2> найден тег исключение <%3>	V funkcijo <%1> skripta <%2> tag ugotovil, razen <%3>
+В фиче <%1> сценария <%2> найден тег отбор <%3>	V funkcijo <%1> skripta <%2> našel oznako izbor <%3>
+В шаг необходимо передавать таблицу Gherkin, в которой 2 или более строк.	Da bi mimo kumare za vlaganje tabela, v kateri 2 ali več vrstic.
+В эталонной таблице существуют две колонки с одинаковым заголовком: %1	V referenčni tabeli obstajata dva stolpca z istim glave: %1.
+ВерсияVA	ВерсияVA
+ВерсияПлатформы	Wereperformed
+Включите флаг <Включить отладочные сообщения> чтобы посмотреть выполняемые команды.	Obrnite zastavo <Enable debug sporočila> za prikaz ukazov, ki se izvajajo.
+Внутреняя ошибка. Неполное заполнение дерева метаданных. Отсутствует объект, образующий тип - %1	Notranje napake. Nepopolne polnjenje metapodatkov drevo. Ni predmet, ki tvorijo vrsto - %1
+Внутреняя ошибка. Неполное заполнение структуры ссылочных типов - %1	Notranje napake. Nepopolnih konstrukcij referenčne vrste - %1
+Во вложенный сценарий <%1> было передано <%2> таблиц, а он принимает только <%3> таблиц.	Je vgnezdeno skript <%1> bil premeščen v <%2> tabelah, in to traja le <%3> tabel.
+Возможно это обработка для обычных форм, а не для управляемых форм.	Morda je to zdravljenje običajno oblike, ne za upravljane oblike.
+Возможно это обработка для управляемых форм, а не для обычных форм.	Morda je zdravljenje uspelo oblike in ne konvencionalnih oblik.
+Все проверки пройдены.	Vse preglede opravili.
+Вызов метода <%1>: %2	Klic metode <%1>: %2
+Выпадающий список <%1> не был сформирован.	Spustnega seznama <%1> ni bila oblikovana.
+Выпадающий список <%1> не открылся для ввода текста.	Spustnega seznama <%1> ni bil odprt za vnos besedila.
+Выпадающий список <%1>. Ожидали, что в нём будет текст %2, а получили %3.	Spustnega seznama <%1>. Pričakujejo, da bo besedilo %2, dobili %3.
+Выпадающий список с заголовком <%1> не найден.	Spustni seznam z naslova <%1> ni bilo mogoče najti.
+Выпадающий список с именем <%1> не найден.	Spustni seznam z imenom <%1> ni bilo mogoče najti.
+Выполнение сценариев закончено. БЫЛИ ОШИБКИ.	Izvajanje skripta je končal. TAM SO BILE NAPAKE.
+Выполнение сценариев закончено. Ошибок не было.	Izvajanje skripta je končal. Nobenih napak.
+Выполняю	Izvedite
+Выражение <%1> оказалось равно <%2>, а ожидали <%3>.	Izraz <%1> je enaka <%2>, pričakuje <%3>.
+Генератор макета из реальных данных: Не умею обрабатывать такой тип <%1>	Generator postavitev prave podatke: Ne vedo, kako ravnati ta vrsta <%1>
+ГолосовойДвижок - OK	Groovadelia - OK
+Группа с заголовком <%1> не найдена.	Skupina z naslova <%1> ni bilo mogoče najti.
+Группа с именем <%1> не найдена.	Skupina z imenom <%1> ni bilo mogoče najti.
+Данные по основному подключению Клиента тестирования перезаполнены.	Podatki za glavne povezave Testclient peripapillary.
+Данный шаг не работает с таблицами.	Ta korak ne delo s tabelami.
+ДатаВремяОшибки	Datarelease
+Делаю общий скриншот.	Make je Splošno sliki.
+Делаю перезапуск TESTCLIENT. ОписаниеОшибки=%1	Delaš znova TESTCLIENT. Opisaniyami=%1
+Делаю распаковку %1	Razpakiranje %1
+Делаю скриншот.	Naredite posnetek zaslona.
+Делаю скриншоты всех окон 1С.	Da screenshots vseh Windows 1C.
+Длительность MP3 = 0. Файл=%1	Trajanje MP3 = 0. File=%1
+Для <%1> не найдено документа основания	Za <%1> ni bilo mogoče najti document Foundation
+Для генерации EPF должен быть установлен 1Script. В cmd должна выполняться команда: oscript	Za ustvarjanje EPF morajo biti nameščeni 1Script. V cmd ukaz morali teči: oscript
+Для подключения с именем <%1> изменен порт подключения, указанный порт уже есть в таблице подключений.	Če se želite povezati z imenom <%1> spremeni povezavo vrata, določena vrata, je že v povezavo preglednica.
+Для текущей ячейки таблицы <%1> текущее значение равно <%2>, а ожидали <%3>	Za trenutne celice v tabeli <%1> trenutna vrednost je <%2>, pričakuje <%3>
+Для шага <%1> не найден EPF файл.	Za korak <%1> ni mogoče najti EPF datoteko.
+Для элемента формы %1 текущее значение равно <%2>, а ожидали <%3>	Za elementa obrazca %1 trenutna vrednost je <%2>, pričakuje <%3>
+Для ячейки <%1> таблицы <%2> текущее значение равно <%3>, а ожидали <%4>	Celice <%1> v tabeli <%2> trenutna vrednost je <%3>, pričakuje <%4>
+Добавил шаг: %1	Dodano korak: %1
+ДобавитьСостояниеФормыTestclient:%1	ДобавитьСостояниеФормыTestclient:%1
+Должна быть передана минимум 1 строка	Mora biti opravljen vsaj 1 skladu
+Должна оставаться строка подключения текущего клиента	Treba povezavo niz trenutno odjemalec
+Должно быть передано 2 строки	Je treba prenesti do 2 linije
+Должны быть переданы минимум 2 строки. Первая строка с именами колонок, вторая и следующие - данные для проверки.	Mora biti vložena najmanj 2 linije. Prvi skladu z imena stolpcev, drugega in naslednje podatke za preverjanje.
+ЗавершитьЗаписьДействийПользователя:%1	ЗавершитьЗаписьДействийПользователя:%1
+Загружен объект.Имя %1, Тип %2	Naloženi predmet.Ime, %1, Vnesite %2
+Загрузил новую версию	Pravkar prenesli novo različico
+Загрузил снипеты из кеш	Dodal delčke iz predpomnilnika
+Закладка с заголовком <%1> не найдена.	Zavihek z naslovom <%1> ni bilo mogoče najti.
+Закладка с именем <%1> не найдена.	Zaznamek z imenom <%1> ni bilo mogoče najti.
+Закончились фичи. Не стал назначать раннеру фичу.	Končalo funkcije. Ni imenuje runner funkcijo.
+Закрытие TestClient <%1>	Zapiranje TestClient <%1>
+Записал файл статуса билда: %1	Zabeležili v stanje datoteka izgradnje: %1
+Записался корректный элемент.	Prijavili želeni predmet.
+Записываю %1	Snemanje %1
+Запись действий пользователя закончена.	Snemanje uporabniških dejanj nad.
+Запись действий пользователя начата.	Zapisnik dejavnosti uporabnika je začel.
+Запись действий пользователя приостановлена.	Zapisnik dejavnosti uporabnika je prekinjena.
+Запись действий пользователя продолжена.	Snemanje uporabniških dejanj še naprej.
+Запускаю генерацию epf.	Začetek generacije epf.
+Значение (%1) заполнено, а ожидалась незаполненность %2	Vrednost (v%1) je napolnjena, in predvidenih prostih mestih %2
+Значение (%1) не заполнено, а ожидалась заполненность%2	Vrednost (v%1) ni končana in pričakuje zaključek%2
+Значение [%1:%2]. Ожидали <%3>, а получили <%4>	Vrednost [%1:%2]. Pričakuje <%3>, dobil <%4>
+Значение <%1> больше или равно, чем <%2>, а ожидалось меньше. %3	Vrednost <%1> je večja ali enaka kot <%2> in pričakovano manj. %3
+Значение <%1> больше, чем <%2>, а ожидалось меньше или равно. %3	Vrednost <%1> več <%2> in pričakovano je manjša ali enaka. %3
+Значение параметра %1: ожидали <%2>, получили <%3>;	Vrednost parametra %1: pričakovani <%2>, dobil <%3>
+Значение параметра %1: ожидали подстроку <%2>, в <%3>;	Vrednost parametra %1: pričakovani podniz <%2> <%3>
+Значение параметра таймаута ожидания должно быть числом. Переданное значение: %1	Parameter timeout mora biti število. Minilo vrednost: %1
+ЗначениеНеНайдено: Реквизит <%1>: Искали значение <%2>, но не нашли.	Sachanandani: Rekviziti <%1>: iskanje <%2> ni bilo mogoče najti.
+Изменения формы обработаны.	Spremeniti obliko obravnava.
+Изменилось имя формы: было: %1, стало: %2	Spremenila ime v obliki: stare: %1 novo: %2
+имеет длину	je dolžina
+имеет тип	je tip
+Именованная область %1 не найдена;	Ime območje '%1 ' ni bilo mogoče najti
+ИмяКомпьютера <%1>; порт <%2>	Ime_računalnika <%1>
+ИмяПроцедуры	Imprecatory
+ИмяФайла	Ime datoteke
+Искали в %1 подстроку %2, но не нашли.%3	Iskali v %1 podniz %2, vendar ni bilo mogoče najti.%3
+Исключение для просмотра значения.	Izjema če si želite ogledati vrednost.
+Ищу снипеты в каталоге	Iščejo dela v imeniku
+Ищу сценарии в каталоге	Iščete skripte v imenik
+Каталог <%1> не найден.	Directory <%1> ni bilo mogoče najti.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не существует.	Imenik ЗаписьВидеоКаталогДляВременныхФайлов <%1> ne obstaja.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не указан.	Imenik ЗаписьВидеоКаталогДляВременныхФайлов <%1> ni določeno.
+КаталогOutputИнструкцияHTML не задан.	КаталогOutputИнструкцияHTML ni določeno.
+КаталогOutputИнструкцияMarkdown не задан.	КаталогOutputИнструкцияMarkdown ni določeno.
+КаталогOutputСкриншоты не задан.	КаталогOutputСкриншоты ni določeno.
+КаталогДляОбработки=%1	Catalogdisplaymode=%1
+Кнопка панели открытых окон <%1> не найдена.	Gumb plošči odprite Windows <%1> ni bilo mogoče najti.
+Кнопка панели разделов <%1> не найдена.	Gumb plošča oddelkov <%1> ni bilo mogoče najti.
+Кнопка с именем <%1> не найдена.	Gumb z imenom <%1> ni bilo mogoče najti.
+Кнопка с именем <%1> не найдена. ТекущееОкно=%2	Gumb z imenom <%1> ni bilo mogoče najti. Tecomeae=%2
+кнопка, которую требуется нажать	gumb, ki ga želite klik
+Кнопка/команда с заголовком <%1> не найдена.	Gumb/ukaz glava <%1> ni bilo mogoče najti.
+Кнопка/команда с заголовком <%1> не найдена. ТекущееОкно=%2	Gumb/ukaz glava <%1> ni bilo mogoče najti. Tecomeae=%2
+Количество секунд дял подключения TestClient: %1	Število sekund, dokler povezava TestClient: %1
+Команда меню <%1> не найдена в панели функций.	Meni ukaz <%1> ni bilo mogoče najti v funkcijski vrstici.
+Команда ОстановитьЗаписьВидео вернула код возврата = %1	Ekipa Ostanovitsya vrne povratno kodo = %1
+Команда по объединению mp3 не выполнена. Файл1=%1, Файл2=%2, Файл3=%3	Ekipa združiti mp3 ne izvaja. File1=%1, File2=%2, Файл3=%3
+Команда по получению списка файлов каталога не выполнена. Каталог = %1	Ukaz za pridobitev seznam datotek v imeniku ne uspe. Directory = %1
+Команда системы реализована только под Windows.	Ekipa sistem je samo se izvajajo v okviru sistema Windows.
+Константа %1 не заполнена.	Spremenljivka %1 ni izpolnjen.
+КопироватьФайлКомандаСистемы:%1 команда:%2	Copyrightedmaterial:%1 ukaz:%2
+между	med
+меньше	manj
+меньше или равно	manj kot ali enako
+Надо сделать перезапуск фреймворка тестирования.	To je potrebno, da se ponovni okviru testiranja.
+Найден активный элемент формы	Našel aktivno obliko element
+Найден упавший сценарий.	Ugotovljeno je padel skript.
+Найдена форма: ТекстЗаголовка=%1, ИмяФормы=%2. Окно <%3>	Našel obliki: Texttagtable=%1, Formname=%2. Okno <%3>
+Найдено %1 окон.	Našel %1 Windows.
+Найдено более одного поля формы с заголовком <%1>. Рекомендуется искать элемент по имени.	Odkrili več kot eno polje obrazca z naslovom <%1>. Priporočljivo je, da si za element po imenu.
+НачатьЗаписьДействийПользователя:%1	Nachtspeicherheizung:%1
+Нашли строки в таблице <%1>:%2	Najdete vrstice v tabeli <%1>:%2
+не	ne
+Не верный формат области <%1>. %2	Ni pravi format regiji <%1>. %2
+Не возможно открыть форму абстрактного объекта, укажите ссылку	Ni mogoče odpreti abstraktni obliki predmeta povezava
+Не все служебные колонки заданы. В запросе обязательно должны быть колонки %1	Ni vse storitve stolpec set. Zahtevi mora biti v stolpcu %1
+не выполнен	ne izvaja
+Не дождались отображения окна TestClient. Таймаут <%1>	Ni počakajte, da se okno display TestClient. Zakasnitev <%1>
+Не задан регистратор для записей регистра %1. Переменная %2	Ni določeno Registrar za evidence registra %1. Spremenljivka %2
+Не заполнен служебный параметр КаталогИнструментов.	Ne napolni storitev parameter Catalogentries.
+Не известный тип параметра в ПолучитьПредставлениеПараметраПриПереводе() <%1>	Ni znano, vrsta možnosti v ПолучитьПредставлениеПараметраПрипереводе() <%1>
+Не использовать	Ne uporabljajte
+Не могу выгрузить статус сценариев, т.к. был передан каталог, а не файл.	Ne more prenesti stanje skript, ker je bil premeščen v imenik, ne za datoteko.
+Не могу выгрузить статус сценариев, т.к. каталог %1 не существует.	Ne more prenesti stanje skript, ker directory %1 ne obstaja.
+Не могу сфомировать отчет Allure. Не существует каталог для вывода отчета.	Ne morem sformirovat poročilo Privlačnost. Ni imenik za izhodna poročila.
+Не найден Клиент тестирования для подключения..	Ne najdemo TestClient povezati.
+Не найден активный элемент формы.	Ne najdemo aktivno obliko elementa.
+НЕ найден инструмент по созданию скриншотов.	NE najdemo je orodje za ustvarjanje zaslonov.
+Не найден каталог библиотеки: %1	Ne najdemo knjižnica directory: %1
+Не найден каталог инструментов: %1	Ne najdemo orodja, imenik: %1
+Не найден лог перегенерации EPF.	Ne najdemo dnevnik EPF regeneracijo.
+Не найден макет %1 ошибка: %2	Ne najdemo postavitev %1 napaka: %2
+Не найден перевод для шага <%1>	Ni bilo mogoče najti posodobitve za korak <%1>
+Не найден пользователь ИБ по имени <%1>	Ne najdemo uporabnik varnosti ime <%1>
+Не найден профиль Клиента тестирования <%1>	Noben profil najti TestClient <%1>
+Не найден путь к файлу JSON. Параметр: VBParams.	Ni bilo mogoče najti pot do JSON datoteko. Parameter: VBParams.
+Не найден тип шага <%1>	Ni bilo mogoče najti korak vrsta <%1>
+Не найден файл <%1>	Datoteke ni mogoče najti <%1>
+Не найден файл макета <%1> в каталоге проекта <%2>	Ni bilo mogoče najti datotek postavitev <%1> v projektu directory <%2>
+Не найден файл после распаковки: %1	Datoteke ni mogoče najti, ko razpakirate: %1
+Не найден файл словаря замен. <%1>	Ni našel slovar datoteke tipa. <%1>
+Не найден файл служебной базы. <%1>	Datoteke ni mogoče najti storitev znanja. <%1>
+Не найден файл толстого клиента <%1>	Datoteke ni mogoče najti " fat client <%1>
+Не найден элемент дерева по данным поиска	Ni bilo mogoče najti element drevesa po iskanje
+Не найден элемент Статистика на форме VB.	Elementa ni mogoče najti podatkov o VB obliki.
+Не найден эталон макета <%1>. Пустой каталог проекта.	Ne najdete v standardnih postavitev <%1>. Prazni mapi projekta.
+Не найдена активная форма.	Ne najdemo aktivno obliko.
+Не найдена группа командного интерфейса <%1>	Skupino, ki je ni našel ukaz vmesnik <%1>
+Не найдена строка в таблице ДанныеКлиентовТестирования с <Имя=Этот клиент>	Ne vrstico, ki je bil najden v tabeli Danielandamari z <Ime=odjemalca>
+Не найдена строка примеров во вложенной структуре сценария. <%1>	Ne najdemo niz primerov v nested struktura skripta. <%1>
+Не найдена строка сценария.	Ne najdemo skript linije.
+Не найдена таблица для редактирования.	Ni bilo mogoče najti tabelo, ki jo želite urediti.
+Не найдена установка VLC.	Ne najdete namestitev VLC.
+Не найдено ключевое слово <%1>  для языка <%2>	Ni mogoče najti <%1> jezik <%2>
+Не найдено ни одного окна 1С. Делаю обычный скриншот.	Nikoli našli okno 1C. Bi normalno screenshot.
+Не найдено ни одного сообщения пользователю.	Ni našel sporočila za uporabnika.
+Не найдено ни одного сценария. Запись видео невозможна.	Ne en scenarij. Video snemanje nemogoče.
+Не найдено ни одной строки в таблице клиентов тестирования, которая бы содержала <runner>	Ne najdete vse vrstice iz tabele strank test, ki bi vsebovala <runner>
+Не найдено окно VanessaAutomation в раннере %1	Ne najdemo okna VanessaBehavior, da runner %1
+Не найдено окно VanessaAutomation.	Ne najdemo okna VanessaBehavior.
+Не найдено окно предупреждения.	Ne najdemo opozorilno okno.
+Не нашел значение реквизита у спр: ИмяСпр=%1, Наименование=%2, ИмяРек=%3, СтроковокПредставление=%4	Ni bilo mogoče najti zahtevanih vrednosti iz SPR: Kaspr=%1 Ime=%2, Ime=%3, Stratovista=%4
+Не нашел колонку: %1	Ni bilo mogoče najti stolpec: %1
+Не нашел профиля TestClient с именем <%1>	Ne najdemo TestClient profil z imenom <%1>
+Не нашел профиля TestClient с именем <%1> хотя он должен быть активным в данный момент.	Ne najdemo TestClient profil z imenom <%1> čeprav to mora biti aktivna v trenutku.
+Не нашел профиля TestClient с именем <%1> чтобы его закрыть.	Ne najdemo TestClient profil z imenom <%1>, da ga zaprete.
+Не нашел путь к 1cv8c.exe: %1	Ne najdemo pot do 1cv8c.exe: %1
+Не нашли меню функций раздела.	Našel menijske funkcije oddelek.
+Не нашли окно с заголовком <%1>	Ne najdemo okno z naslova <%1>
+Не нашли панель открытых окон.	Ni bilo mogoče najti bar odprta Okna.
+Не нашли панель разделов.	Ne najdemo na plošči odseke.
+Не нашли профиль <%1> в таблице TestClient.	Ni bilo mogoče najti profil <%1> v tabeli TestClient.
+Не нашли профиль <%1> в тестируемом экземпляре Vanessa-behavior.	Ni bilo mogoče najti profil <%1> v preizkušen primer Vanessa-vedenje.
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, "Управляемое приложение"	Ne najdemo zagon <%1>. Morda boste morali določiti prostor, na primer, "Uspelo aplikacija"
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, <Управляемое приложение>	Ne najdemo zagon <%1>. Morda boste morali določiti prostor, na primer, <Uspelo aplikacije>
+Не нашли таблицу с именем <%1>	Ni bilo mogoče najti tabelo z imenom <%1>
+Не нашли элемент <%1> в коллекции, а хотели, чтобы он был в коллекции.%2	Ni mogoče najti <%1> v zbirko in si je želela v zbirko.%2
+Не обнаружено активное окно.	Ne najdemo aktivno okno.
+Не ожиданное значение у переменной ТипСравнения: <%1>	Ne pričakovane vrednosti imajo spremenljivke Tipirovaniya: <%1>
+Не описано действие для кнопки <%1>	Ne, opisanih ukrepov za gumb <%1>
+Не определена фича для выполнения на раннере №0.	Ni določena značilnost je, da deluje na runner No. 0.
+Не передан каталог фич для обработки. Используется %1\features	Ne prenese, da je funkcija za predelavo. Z %1\funkcije
+Клиент тестирования не подключен.	Ni povezan Testclient.
+Не получилось закрыть активное окно. %1	Ni zaprite aktivno okno. %1
+Не получилось определить активное окно Клиента тестирования из Контекста.	Ne more ugotoviti, aktivno okno TestClient iz Konteksta.
+Не получилось определить активное окно Клиента тестирования.	Ne more ugotoviti, aktivno okno TestClient.
+Не получилось получить значение таблицы <%1>	Ni uspelo, da bi dobili vrednost iz tabele <%1>
+Не получилось прочитать параметр запуска.	Ni preberite zagonski parameter.
+Не получилось сделать выбор в поле <%1> значения <%2>. %3	Ne bi mogel izbirati na področju <%1> <%2>. %3
+Не получилось создать тестовый MP3	Ni mogoče ustvariti test MP3
+Не реализовано.	Se ne izvaja.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>	Ni mogel v tabeli <%1> da, da izberete iz seznama izbir <%2> <%3>
+Не смог выделить все строки в таблице <%1>. %2	Ne bi izberite vse vrstice v tabeli <%1>. %2
+Не смог выполнить команду по получению координат на экране всех окон 1С в панели задач.	Ne bi izvršitev ukaza za pridobitev koordinat na zaslonu vseh Windows 1 v opravilni vrstici.
+Не смог выполнить команду. <%1>	Ne bi izvršitev ukaza. <%1>
+Не смог вычислить выражение: %1	Uspeli rešiti izraz: %1
+Не смог загрузить %1. %2	Ne bi mogel naložiti %1. %2
+Не смог загрузить базу из dt: %1. ПутьКDT: %2. Статус возврата: %3	Ne bi lahko naloži zbirko iz dt: %1. ПутьКDT: %2. Vrnitev status: %3
+Не смог загрузить снипеты из %1	Uspeli naložiti odrezke od %1
+Не смог закрыть окно %1	Ni mogel zapreti okno %1
+Не смог закрыть окно повторно %1	Ni mogel zapreti okno, znova %1
+Не смог запустить конфигуратор. <%1>	Ne more teči Konfigurator. <%1>
+Не смог из переданных параметров JSON определить каталог отчета Allure.	Mogla od minilo JSON parametri za določitev imenik Vabiti poročilo.
+Не смог из переданных параметров JSON определить каталог отчета CucumberJson.	Mogla od minilo JSON parametri za določitev imenik poročilo CucumberJson.
+Не смог из переданных параметров JSON определить каталог отчета jUnit.	Mogla od minilo JSON parametri za določitev imenik jUnit poročilo.
+Не смог найти данные для подключения профиля клиента тестирования <%1>	Ne najdem podatkov za povezavo profil stranke test <%1>
+Не смог найти код модуля формы в файле ИмяФайлаФормаУФ.	Ne najdem modul oznaka obrazca v datoteko, Emailform.
+Не смог найти открытый конфигуратор.	Mogel najti odprtega Configurator.
+Не смог найти сохранненное значение по переменой <%1>	Ne najdem sohranenie vrednost za spremenljivko <%1>
+Не смог обработать XML в UILogToScript.	Ni proces XML v UILogToScript.
+Не смог обработать параметры в строке <%1>	Je mogoče obdelati parametrov vrstici <%1>
+Не смог определить длительность у файла: %1	Ni mogla ugotoviti, trajanje file: %1
+Не смог определить СледующееОжидаемоеКлючевое по: %1	Ni mogla ugotoviti, Sledujuschaja na: %1
+Не смог определить следующий шаг для выполнения.	Ni mogla ugotoviti, je naslednji korak, če želite izvesti.
+Не смог определить тип значения для строки: %1	Ni mogel ugotoviti vrednost tipa string: %1
+Не смог перейти к строке фильтра <%1>	Ne bi mogel iti v vrstici <%1>
+Не смог по переменной <%1> найти сохраненное значение.	Ni na spremenljivko <%1>, da bi našli shranjeno vrednost.
+Не смог подключить TestClient.	Ni mogel povezati TestClient.
+Не смог подключить TestClient. Прерывание по таймауту <%1>	Ni mogel povezati TestClient. Prekinitev timeout <%1>
+Не смог подключить обработку <%1>	Ni mogel povezati obdelave <%1>
+Не смог подключить профиль TestClient <%1>	Ni mogel povezati profil TestClient <%1>
+Не смог подставить в строку параметры: <%1>	Ni nastavljeni parametri niza: <%1>
+Не смог получить данные файла <%1>	Ni bilo mogoče dobiti podatkov o datoteki <%1>
+Не смог получить значение из строки запуска	Ne bi mogel dobiti vrednosti iz niza zagon
+Не смог получить значение поля <%1> у таблицы <%2>.%3	Ne bi dobili vrednost področju <%1> tabela <%2>.%3
+Не смог получить значение таблицы <%1>	Ni mogel priti vrednost iz tabele <%1>
+Не смог получить значение табличного документа <%1>	Ne bi dobili vrednost tabela dokumenta <%1>
+Не смог получить количество строк у таблицы <%1>	Ni uspelo, da bi dobili število vrstic iz tabele <%1>
+Не смог получить макет %1	Ni mogel priti postavitev %1
+Не смог получить состяние таблицы <%1>	Ni uspelo, da bi dobili članica um tabela <%1>
+Не смог получить строки таблицы <%1>	Ne bi mogel dobiti vrstico v tabeli <%1>
+Не смог получить строки таблицы.	Ne bi mogel dobiti vrstico v tabeli.
+Не смог получить строки ТЧ <%1>	Ne bi mogel dobiti skladu PM <%1>
+Не смог получить строку сценария.	Ne bi mogel dobiti v skladu skript.
+Не смог получить строку таблицы %1	Ne bi mogla priti v tabeli vrstica %1
+Не смог получить форму текущего окна.	Ni mogel priti obliko trenutno okno.
+Не смог ПолучитьГлавноеОкноТестируемогоПриложения.	Ni mogel ПолучитьГлавноеОкноТестируемогоПриложения.
+Не смог поменять параметры шага местами <%1>	Ne more spremeniti nastavitve korak mestih <%1>
+Не смог преобразовать к числу PID=%1	Ne bi pretvori v število PID=%1
+Не смог распаковать %1	Ne bi razpakiranju %1
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>	Mogel storiti, izberite iz seznama <%1> - line <%2>
+Не смог скопировать сценарий %1, т.к. произошло бы зацикливание.	Ni mogel kopiranje skript %1, ker ne bi bilo neskončno zanko.
+Не смог создать базу по строке: %1. Статус возврата: %2	Ni mogel ustvariti podatkovno bazo za vrstice: %1. Vrnitev status: %2
+Не смог создать каталог для отчета Allure: %1	Ne bi ustvarite imenik za Vabiti poročilo: %1
+Не смог создать каталог для отчета CucumberJson: %1	Ne bi ustvarite imenik za poročilo CucumberJson: %1
+Не смог создать каталог для отчета jUnit: %1	Ne bi ustvarite imenik za jUnit poročilo: %1
+Не смог создать объект сравнения файлов.	Ni mogel ustvariti predmet primerjavo datotek.
+Не смог создать сервисные базы. Статус=%1	Ni mogoče ustvariti storitev znanja. Status=%1
+Не смог удалить файл %1	Ni mogel izbrisati datoteko %1
+Не смогли найти таблицу <%1> в активном окне.	Ne najdete tabelo <%1> v aktivnem oknu.
+Не стал загружать фичу: %1, т.к. в ней не найдено тегов фильтров.	Niso naložili funkcija %1 ni na voljo, bo tag filtri.
+Не стал загружать фичу: %1, т.к. обнаружен тег исключение: %2	Niso naložili funkcija: %1, saj je odkril oznako izjema: %2
+Не удалось авторизоваться в базе.	Ni uspelo, da se prijavite v bazo podatkov.
+Не удалось дождаться события завершения цикла в течение <%1> секунд.	Ni počakajte dogodek zaključek cikla za <%1> sekund.
+Не удалось найти документ по номеру <%1>. Тип Документ.%2	Ni mogel najti dokument s številko <%1>. Tip Dokumenta.%2
+Не удалось перейти к нужной строке в таблице <%1>. %2	Ne more priti do želenih vrstic v tabeli <%1>. %2
+Не удалось подключить COM объект <Shell.Application>	Ni uspelo povezati z COM predmet <Shell.Uporaba>
+Не удалось подключить COM объект <WScript.Shell>	Ni uspelo povezati z COM predmet <WScript.Shell>
+Не удалось подключить клиент тестирования. %1	Ni uspelo povezati z stranka testiranje. %1
+Не удалось подключить форма %1 по причине:%2	Se ne more povezati v obliki %1 razlog:%2
+Не удалось получить таймаут для запуска TestClient из значения %1. Используется значение по умолчанию: 25	Ni uspelo, da bi dobili nekaj časa za zagon TestClient od vrednosti v %1. Uporabite vrednost privzeto: 25
+Не удалось получить таймаут для работы асинхронных шагов. Было передано значение: %1	Ni uspelo, da bi dobili zakasnitev za asinhrono korake. Opravili bila vrednost: %1
+Не указан каталог для формирования видео инструкции.	Ne določite mapo za nastanek video navodila.
+Не указан каталог с нужной версией платформы 8.3.10 или выше.	Ne določite mapo z želeno različico platforme 8.3.10 ali višje.
+Не указана команада для выполнения скриншотов. Например <%1>	Ni določena ekipa za opravljanje screenshots. Za primer <%1>
+Не указано имя файла лога в параметре <ИмяКаталогаЛогОшибок>	Ni določeno dnevniške datoteke, ime parametra <Imagecollection>
+Не указано имя файла лога в параметре <ИмяФайлаЛогВыполненияСценариев>	Ni določeno dnevniške datoteke, ime parametra <Kapileshwaraswami>
+Не указано количество кадров.	Ni določeno število posnetkov.
+Не установлен ffmpeg.	Niste namestili ffmpeg.
+Не установлен ImageMagic (convert.exe)	Ni nameščen ImageMagic (convert.exe)
+Не установлен ImageMagic (convert.exe).	Ni nameščen ImageMagic (convert.exe).
+Не установлен oscript.	Ni nastavljena oscript.
+Не установлен VLC 2.1.5.	Ni nameščen predvajalnik VLC 2.1.5.
+Не установлен ГолосовойДвижок.	Ni nastavljena Grooveutil.
+Неверно задан макет. Неверная колонка в первой строке. Не указана обязательная колонка с именем [%1]	Napačno določen model. Napačno stolpcev v prvi vrstici. Manjka potrebno v stolpcu z imenom [%1]
+Неверное число параметров в строке табилцы. Должно быть <	Neveljavno število parametrov na liniji tablicy. Mora biti <
+Неверное число параметров в строке таблицы. Должно быть <%1> параметров, а в строке найдено <%2>.	Napačno število parametrov v tabeli vrstice. Mora biti <%1> parametrov, in v vrstici <%2>.
+Неверный режим поиска: Не поддерживаемый режим поиска. Реквизит <%1>: Искали значение <%2>	Neveljaven način iskanja: Ne podpirajo način iskanja. Rekviziti <%1>: iskanje <%2>
+Неверный формат области <%1>	Neveljaven format regiji <%1>
+Невидима	Nevidno
+Недоступна	Ni na voljo
+Неивестный ТипПараметра в ПолучитьАсинхроноСостоянияОбъектовФайловойСистемы: %1	Neizvestny od Theparameter v ПолучитьАсинхроноСостоянияОбъектовфайловойсистемы: %1
+Неизвестная версия поставки Vanessa-Automation: %1	Neznana različica dostave Vanessa-Avtomatizacija: %1
+Неизвестная ошибка в ПолучитьРезультатПрохожденияТестовСценария.	Neznana napaka v ПолучитьРезультатПрохожденияТестовсценария.
+НеизвестнаяОшибка	Neizvestnaya
+Неизвестный идентификатор плагина: <%1>	Neznan plugin ID: <%1>
+Неизвестный КорневойТипКонфигурации <%1>	Neznan Corneoscleral <%1>
+Неизвестный КорневойТипКонфигурации <%1> КорневойТипКонфигурации()	Neznan Corneoscleral <%1> Corneoscleral()
+Неизвестный менеджер регистра %1.%2 . Переменная %3	Neznan Upravitelj registra %1.%2 . Spremenljivka %3
+Неизвестный тип вывода данных по изменению формы.	Neznano vrsto izhodnega spremeniti obliko.
+Неизвестный Тип: %1 в ПолучитьЗначениеДляПередачиВМетод	Neznana Vrsta: %1 ПолучитьЗначениеДляПередачиВМетод
+Нельзя изменять текущее поле у зарезервированного подключения <Этот клиент>.	Ne morete spremeniti trenutni področju, ki imajo zakupljene povezave <odjemalca>.
+Нельзя получить состав колонок для пустой таблицы.	Ne morete dobiti stolpce za prazno mizo.
+Необрабатываемый корневой тип <%1>	Neobdelanih root vnesite <%1>
+Необходимо установить программное обеспечение. Подробности тут: %1	Morate namestiti programsko opremo. Podrobnosti tukaj: %1
+НеСовпадаютЗначенияВЯчейкеТаблицы	НеСовпадаютЗначенияВЯчейкеТаблицы
+Нет подключенных TestClient.	Ni povezan TestClient.
+Обнаружено несколько полей с заголовком <%1>	Več v poljih glave z <%1>
+Обычная фича №%1 из %2. РаннерID=%3. %4	Običajno funkcija število %1 %2. РаннерID=%3. %4
+Одна или несколько строк эталонной таблицы не найдена в таблице формы%1	Ena ali več vrstic referenčne tabele je ne najdemo v tabeli obrazca%1
+Однопоточная фича №%1 из %2. РаннерID=%3. %4	Enotni-navojni funkcija število %1 %2. РаннерID=%3. %4
+Ожидали <%1> элементов справочника <%2>, а нашли <%3> элементов.	Pričakuje <%1> element referenčna <%2>, najdete <%3> elementi.
+Ожидали в течение <%1> секунд доступности поля <%2>. Но такой элемент на форме не найден.	Pričakujemo <%1> sekund razpoložljivost področju <%2>. Vendar ta element na obrazcu, ki je ni mogoče najti.
+Ожидали в течение <%1> секунд доступности поля <%2>. ТекущаяДоступность=%3	Pričakujemo <%1> sekund razpoložljivost področju <%2>. Ekusadasi.neto=%3
+Ожидали в течение <%1> секунд появления поля <%2>. Но такой элемент на форме не найден.	Pričakujemo <%1> sekund videz področju <%2>. Vendar ta element na obrazcu, ki je ni mogoče najti.
+Ожидали в течение <%1> секунд появления поля <%2>. ТекущаяВидимость=%3	Pričakujemo <%1> sekund videz področju <%2>. Takomabibelot=%3
+Ожидали в течение <%1> секунд у поля <%2> значения <%3>. Текущее значение <%4>	Pričakujemo <%1> sekund na področju <%2> <%3>. Trenutna vrednost je <%4>
+Ожидали в течение <%1> секунд у таблицы <%2> количество строк %3 %4. Текущее количество строк <%5>	Pričakujemo <%1> sekund iz tabele <%2> število vrstic %3% 4. Trenutno število vrstic <%5>
+Ожидали в течение <%1> секунд, что закроется окно с заголовком <%2>	Pričakujemo <%1> sekund, da zapre okno z naslova <%2>
+Ожидали в течение <%1> секунд, что откроется окно с заголовком <%2>	Pričakujemo <%1> sekund, ki se odpre okno z naslova <%2>
+Ожидали в течение <%1> секунд, что поле <%2> будет заполненным.	Pričakujemo <%1> sekund, da na področju <%2> bo treba zapolniti.
+Ожидали заполненность ссылки, а получили пустую ссылку.%1	Pričakovana zasedenost povezave in dobil prazno sklic.%1
+Ожидали идентичность файлов, а получили, что они различны.%1	Pričakuje identitete datoteko, in spoznal, da so različne.%1
+Ожидали получить только одну строку таблицы.	Pričakujejo, da bodo dobili samo eno vrstico tabele.
+Ожидали статус <%1>, а получили <%2>	Pričakovano stanje <%1>, vendar imam <%2>
+Ожидали существование объекта в ИБ, а получили объект не найден <%1> .%2	Pričakujemo obstoj predmeta v IB, in prejeti predmet, ni mogoče najti <%1> .%2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения <%4>. Текущее значение <%5>.	Pričakuje iz tabele <%1> v <%2> sekund na področju <%3> <%4>. Trenutno vrednost <%5>.
+Ожидали, что %1 %2 выбросит исключение %3 %4	Pričakuje %1% 2 vrgel izjemo %3% 4
+Ожидали, что активным окном будет <%1>, а нашли <%2>. Таймаут поиска окна: %3	Pričakuje aktivno okno <%1>, vendar pa je mogoče najti <%2>. Timeout iskalno okno: %3
+Ожидали, что в сообщениях пользователю будет подстрока <%1>	Pričakuje, da sporočila uporabnika bo podniz <%1>
+Ожидали, что вторым параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Pričakoval je drugi parameter sprejme niz parametrov na način, <%1>, vendar imam različne vrste predmeta <%2>
+Ожидали, что вторым параметром будет передана структура параметров для метода <СоздатьДанныеПоТабличномуДокументу>, а получили другой объект с типом <%1>	Pričakoval je drugi parameter sprejme parameter, strukturo, metodo <СоздатьДанныеПоТабличномуДокументу> in dobili različne vrste predmeta <%1>
+Ожидали, что количество строк таблицы <%1> будет равно переменной <%2>. Значение переменной <%3>. Количество строк <%4>	Pričakovano število vrstic v tabeli <%1> je enaka spremenljivka <%2>. Vrednost spremenljivke <%3>. Število vrstic <%4>
+Ожидали, что окно сообщений пользователю будет пустое. В нём %1 сообщений.	Pričakuje okence za sporočilo uporabnika je prazno in %1 sporočilo.
+Ожидали, что переменная <%1> будет равна <%2>. Текущее значение <%3>	Pričakovane spremenljivke <%1> je enaka <%2>. Trenutna vrednost je <%3>
+Ожидали, что поле <%1> будет равно переменной <%2>. Значение переменной <%3>. ЗначениеПоля <%4>	Pričakuje <%1> je enaka spremenljivka <%2>. Vrednost spremenljivke <%3>. Znacheniya <%4>
+Ожидали, что поле с заголовком <%1> будет заполнено, но оно пустое.	Pričakujejo polje glave z <%1> je napolnjena, vendar je prazna.
+Ожидали, что проверяемое значение (%1) %2 %3 %4	Pričakuje, preverite vrednost (%1) %2 %3 %4
+Ожидали, что третьим параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Pričakujejo, da bo tretji parameter sprejme niz parametrov na način, <%1>, vendar imam različne vrste predmeta <%2>
+Ожидали, что у группы <%1> текущей страницей будет <%2>, а оказалась <%3>	Kaj sem pričakoval od skupine <%1> trenutno stran je <%2>, vendar je bila <%3>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Tisto, kar sem pričakoval od tabelaričnih dokumenta <%1> v celico z naslova <%2> <%3>, dobil <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Tisto, kar sem pričakoval od tabelaričnih dokumenta <%1> v celico z naslova <%2> <%3>, dobil <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Tisto, kar sem pričakoval od tabelaričnih dokumenta <%1> v celico z naslova <%2> <%3>, dobil <%4>
+Ожидали, что ячейка <%1> будет заполнена.	Pričakuje celica <%1> bo treba zapolniti.
+Ожидали, чтов таблице <%1> поле <%2> будет равно переменной <%3>. Значение переменной <%4>. ЗначениеПоля <%5>	Pričakujejo thatin tabela <%1> polje <%2> je enaka spremenljivka <%3>. Vrednost spremenljivke <%4>. Znacheniya <%5>
+Окно с заголовком <%1> не найдено.	Okno z naslova <%1> ni bilo mogoče najti.
+Описание ошибки: %1	Opis napake: %1
+Остановка на брейкпоинте.	Ustavi na prekinitveno točko.
+Ошибка в %1. %2	Napaka v %1. %2
+Ошибка в ДобавитьStepDefinitionВТекстМодуля.	Napaka v ДобавитьStepDefinitionВТекстМодуля.
+Ошибка в ПолучитьУжеСуществующиеСнипетыИзОбработок(). Файл/каталог %1 не существует.	Napaka v ПолучитьУжеСуществующиеСнипетыИзобработок(). Datoteka/imenik %1 ne obstaja.
+Ошибка в файле %1, снипет %2 уже был в %3	Napaka v datoteko %1, delček %2 %3
+Ошибка перегенерации EPF. Файл %1 не найден.	Napaka regeneracijo EPF. Datoteke %1, ni mogoče najti.
+Ошибка при выгрузке набора записей регистра: %1	Napaka pri razkladanju nabor vpis: %1
+Ошибка при выгрузке объекта: %1. Тип: %2	Napake med odvzemom predmeta: %1. Vrsta: %2
+Ошибка при закрытии всех окон Testclient.	Napaka, ko zaprete vsa Okna Testclient.
+Ошибка при поиске значений в макете %1:	Napake pri iskanju vrednosti v postavitev %1:
+Ошибка при получении активной формы.	Napaka pridobivanje aktivno obliko.
+Ошибка при получении списка процессов 1С.	Napaka dobili seznam procesov 1C.
+Ошибка при получении текста фичи:	Napaka pridobivanje besedilo:
+Ошибка при построении дерева из файла <%1>%2%3	Napake pri gradnji drevesa iz datoteke <%1> %2% 3
+Ошибка при создании данных из макета. Неуникальное имя переменной: [%1]	Napaka pri pridobivanje podatkov od modela. Enolična ime spremenljivke: [%1]
+Ошибка проверки значения таблицы <%1>. %2	Napaka preverite vrednost v tabeli <%1>. %2
+Ошибка создания временного файла в подкаталоге %1.	Napaka ustvariti začasne datoteke v podimeniku %1.
+Ошибка создания скриншота:%1 команда:%2	Napaka ustvarjanje sliki:%1 ukaz:%2
+Ошибка создания файла %1.	Napaka pri ustvarjanju datoteke %1.
+Ошибка чтения JSON. Неизвестный символ %1	Napaka pri branju JSON. Neznan znak %1
+Ошибка чтения структуры JSON пропускаем чтение	Napaka pri branju JSON strukturo, da preskočite branje
+Ошибка чтения структуры JSON.	Napaka pri branju JSON strukturo.
+Ошибка. В фиче %1 было найдено несколько сценариев с именем %2	Napaka. Funkcija %1 našel več skriptov z imenom %2
+Ошибка. Найдено более 1 значения в кэше МетаданныеИмя [%1] по указанным параметрам поиска %2	Napaka. Odkrili več kot 1 vrednost v predpomnilnik Mataranyika [%1] na določenem možnosti iskanja %2
+ОшибкаПроверки	Olivepomace
+Параметр <Запускаемая обработка> указывает на несуществующий файл.	Parameter <start obdelave> točke na neobstoječo datoteko.
+Параметр <Имя подключения> является обязательным.	Možnost <Ime povezave> je obvezna.
+Параметр <Логин> не задан	Parameter <uporabniško Ime> ni določeno
+Параметр %1 не найден в таблице параметров.	Možnost %1 se ne nahajajo v tabeli.
+Первый параметр (%1) меньше второго (%2) а хотели, чтобы был больше или равен.%3	Prvi parameter (%1) je manj kot sekundo (%2) in želel si je večje ali enako.%3
+Первый параметр (%1) меньше или равен второму (%2) а хотели, чтобы был больше.%3	Prvi parameter (%1) je manjša ali enaka drugi (%2) in so si želeli še več.%3
+Передан пустой путь в процедуру <СоздатьКаталогЕслиЕгоНет>.	Prazno pot opravili redni <Astaticlullaby>.
+Переданная дата (%1) не равна дате (%2) с точностью до 2-х секунд, а хотели, чтобы они равнялись. %3	Prenese na dan (v%1) ni enak datum (%2) z natančnostjo 2 sekundi, in jih je želel, da bi bila enakopravna. %3
+Переданный параметр (%1) не входит в период %2, а хотели, чтобы являлся. %3	Opravili parameter (%1) ni vključena v podjetju %2, in želel si je. %3
+Переданный параметр (%1) не является Истиной, а хотели, чтобы являлся. %2	Opravili parameter (%1) ni Res, in želel si je. %2
+Переданный параметр (%1) не является Ложью, а хотели, чтобы являлся. %2	Opravili parameter (%1) ni Laž, in želel si je. %2
+Передвижение курсора мышки - OK	Gibanje kazalca miške. OK
+ПередВыполнениемШага: %1	Perevypolneniem: %1
+Переключатель с заголовком <%1> не найден.	Stikalo naslov <%1> ni bilo mogoče najti.
+Переключатель с именем <%1> не найден.	Stikalo z imenom <%1> ni bilo mogoče najti.
+Переменная <%1> не найдена.	Spremenljivka <%1> ni bilo mogoče najti.
+Переменная <%1> ранее не была сохранена	Spremenljivka <%1> ni bilo shranjeno prej
+Пересоздан %1	Ustvarjeni %1
+Пересоздаю %1	Ponovno %1
+ПланВидовРасчета.%1 не удалось найти предопределенный элемент/группу [%2].%3	Plannedorbit.%1 ni uspelo najti vnaprej določen element/skupino [%2].%3
+ПланВидовРасчета.%1 не удалось создать новую группу.%2	Plannedorbit.%1 ni uspelo ustvariti novo skupino.%2
+ПланВидовРасчета.%1 не удалось создать новый элемент.%2	Plannedorbit.%1 ni uspelo ustvariti nov element.%2
+ПланВидовХарактеристик.%1 не удалось найти предопределенный элемент/группу [%2].%3	Provideguarantees.%1 ni uspelo najti vnaprej določen element/skupino [%2].%3
+ПланВидовХарактеристик.%1 не удалось создать новую группу.%2	Provideguarantees.%1 ni uspelo ustvariti novo skupino.%2
+ПланВидовХарактеристик.%1 не удалось создать новый элемент.%2	Provideguarantees.%1 ni uspelo ustvariti nov element.%2
+ПланОбмена.%1 не удалось получить узел этой ИБ.%2	Planaltina.%1 ni uspelo, da bi dobili vozlišče v tem IB.%2
+ПланОбмена.%1 не удалось создать новый узел.%2	Planaltina.%1 ni uspelo ustvariti novo vozlišče.%2
+ПланСчетов.%1 не удалось найти предопределенный элемент/группу [%2].%3	Planscheap.%1 ni uspelo najti vnaprej določen element/skupino [%2].%3
+ПланСчетов.%1 не удалось создать новую группу.%2	Planscheap.%1 ni uspelo ustvariti novo skupino.%2
+ПланСчетов.%1 не удалось создать новый элемент.%2	Planscheap.%1 ni uspelo ustvariti nov element.%2
+Подключение с именем <%1> перезаполнено в таблице подключений	Povezovanje z imenom <%1> petesaporito v povezavi tabela
+Подключили для отладки форма %1	Povezani za razhroščevanje obrazec %1
+Подключились к сеансу TESTCLIENT.	Pridružil seji TESTCLIENT.
+Подсвет рамки - OK	Illumin okvir - OK
+Поле <%1> в данный момент невидимо пользователю.	Polje <%1> v trenutku, nevidna za uporabnika.
+Поле <%1> существует, а ожидали, что его нет.	Polje <%1> obstaja, kot je bilo pričakovano, da ni.
+Поле с заголовком <%1> не найдено.	Polje z naslova <%1> ni bilo mogoče najti.
+Поле с именем <%1> не найдено.	Polje z imenom <%1> ni bilo mogoče najti.
+Получить изменения формы	Če želite spremeniti obliko
+Получить состояние всей формы	Da bi dobili celoten obrazec
+ПолучитьИдентификаторПредставленияПоСсылке() : Неизвестный КорневойТипКонфигурации <%1>	ПолучитьИдентификаторПредставленияпоссылке() : Neznana Corneoscleral <%1>
+ПолучитьСостояниеФормыTestClient:%1	ПолучитьСостояниеФормыTestClient:%1
+ПолучитьТаблицуЗначенийИзТабличногоДокумента: Требуется тип ТабличныйДокумент или ПолеТабличногоДокумента	ПолучитьТаблицуЗначенийИзТабличногодокумента: Zahtevana vrsta Tablecellelement ali Payableondeath
+ПолучитьУжеСуществующиеСнипетыИзОбработок:%1	ПолучитьУжеСуществующиеСнипетыИзобработок:%1
+Пометка для шаг установлена.	Oznaka za korak nameščen.
+Пометка снята.	Oznaka odstrani.
+порт <%1>	port <%1>
+Порт %1 занят или находится вне указанного диапазона, порт подключения изменен на %2	Vrata %1 zaposlen ali je zunaj določenega obsega, priključna vrata, se je spremenila %2
+Построение дерева.	Gradnja drevesa.
+Превышение таймаутуа ожидания завершения фонового задания.	Presežek timucua čakajo na zaključek ozadju delovnih mest.
+Предупреждение с текстом %1 не найдено.	Opozorilo besedilo, %1, ni mogoče najti.
+Предыдущая ошибка: %1. ТаймаутОжидания=%2	Prejšnji napaka: %1. Timeoutidle=%2
+При подключении TestClient возникло сообщение:	Pri povezovanju TestClient je bilo sporočilo:
+ПроверитьРавенствоТаблиц: Второй параметр-таблица таблицей не является	Proerythroleukemic: Drugi parameter razpredelnica ni
+ПроверитьРавенствоТаблиц: Первый параметр-таблица таблицей не является	Proerythroleukemic: Prvi parameter je tabela s tabelo, ki je ne
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Второй параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: Drugi parameter tabela je tabular dokument
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Первый параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: Prvi parameter tabela je tabular dokument
+ПроверитьТип: Тип значения параметра ТипИлиИмяТипа должен быть <Тип> или <Строка>, а получили <%1>%2	Proveriti: Tip vrednost parametra Tielieketi mora biti <Vrsta> ali <String> in dobili <%1>%2
+Проверка загрузки объектов в ИБ из макета данных выполнена успешно.	Preverite prenesete novice iz podatkov postavitve uspešno zaključen.
+Проверьте работу команды <%1>	Test ukaz <%1>
+Профиль с именем <%1> не найден.	Profil z imenom <%1> ni bilo mogoče najti.
+ПрочитатьПеременныеСреды:%1	Proceratiinae:%1
+Пустой адрес снипета у шага: %1	Prazno naslov delček na korak: %1
+ПутьКФиче=Неопределено	Potection=Undefined
+Работа с ключами для %1 пока не поддерживается	Delo s ključnimi %1, ki še niso podprte
+Работаю по сценарию	Delo na scenarij
+Работаю по фиче: %1	Delo na funkcijo: %1
+равно	isto
+РазличаютсяКолонки	Razlichayutsya
+Различия в таблицах:	Razlike v tabelah:
+РазноеКоличествоСтрок	Ethnoecologists
+Раннер <%1> не подключен.	Tekač <%1> ni povezan.
+РежимСовместимостиTestManager	РежимСовместимостиTestManager
+Реквизит <%1> не найден.	Rekviziti <%1> ni bilo mogoče najti.
+с длиной	dolžina
+Сеанс должен быть запущен с ключом TESTMANAGER.	Seja mora biti začeli s tipko TESTMANAGER.
+Снипет <%1> встречается %2 раз.	Delček <%1> našel %2 krat.
+содержащее текст <%1>, а был текст <%2>	vsebuje besedilo <%1> in je bilo besedilo <%2>
+содержит	vsebuje
+Создан %1	Ustvarjen na %1
+Создан файл: %1	Ustvaril datoteke: %1
+Создание epf по фичам закончено.	Oblikovanje epf glede na lastnosti končal.
+Создать тестовый mp3 - OK	Ustvarite preskusno mp3 - OK
+Создаю %1	Ustvarite %1
+Справочник.%1 не удалось найти предопределенный элемент/группу [%2].%3	Sklic.%1 ni uspelo najti vnaprej določen element/skupino [%2].%3
+Справочник.%1 не удалось создать новую группу.%2	Sklic.%1 ni uspelo ustvariti novo skupino.%2
+Справочник.%1 не удалось создать новый элемент.%2	Sklic.%1 ni uspelo ustvariti nov element.%2
+Справочник.%1.%2 - получен пустой элемент.	Sklic.%1.%2 - prazen element.
+Сравниваемые значения (%1; %2) не равны, а хотели, чтобы были равны.%3	Primerjajte vrednosti (v%1
+Сравниваемые значения (%1; %2) равны, а хотели, чтобы были не равны.%3	Primerjajte vrednosti (v%1
+Странный параметр в логе инструкции HTML: %1	Čudno možnost v dnevniku uporabnika HTML: %1
+Странный параметр в логе инструкции Markdown: %1	Čudno možnost v dnevniku uporabnika Markdown: %1
+Строка <%1> из файла <%2> не найдена в файле <%3>	Vrstica <%1> datoteke <%2> ni mogoče najti v <%3>
+Строка <%1> найдена в окне сообщений пользователю.	Vrstica <%1> našel v okence za sporočilo uporabniku.
+Строка <%1> найдена в последнем сообщении пользователю. Найдено: %2	Vrstica <%1> je bilo ugotovljeno v zadnjih sporočila za uporabnika. Našel: %2
+Строка <%1> не найдена в окне сообщений пользователю.	Vrstica <%1> ni bilo mogoče najti v oknu sporočila za uporabnika.
+Строка <%1> не найдена в последнем сообщении пользователю. Найдено: %2	Vrstica <%1> ni bilo mogoče najti na zadnja sporočila za uporabnika. Našel: %2
+Строка %1 не найдена в реквизите %2	Linija %1 ne najdemo v rekviziti %2
+Строка №%1 не найдена в табличном документе на форме	Linija število %1 ni bilo mogoče najti v tabeli dokument, ki na obrazcu
+Строка №%1, обнаружен символ <|>, хотя не было ключевого слова <Примеры>.	Linija število %1 odkrije <|>, čeprav je bilo ključne besede <Primeri>.
+Строка №%1, ожидалось (%2), а найдено (%3) ПредыдущееКлючевоеСлово=%4	Linija število %1, pričakovano (%2), najdemo (v%3) Predyduschaya=%4
+Строка должна быть описана таблицей с двумя строками.	Niz, ki mora biti opisano s tabelo z dvema vrstic.
+Строка с фича-файлом не найдена.	Niz funkcija-datoteke ni bilo mogoče najti.
+СтрокаЗапуска=%1	Strikesapose=%1
+существует	obstaja
+Сценарий <%1> не загружен.	Scenarij <%1> ni naložen.
+Сценарий: %1	Scenarij: %1
+Таблица <%1> не соответствует эталону. Ожидали <%2> строк, а в ней <%3> строк.	Tabela <%1> ne ustrezajo standardom. Pričakuje <%2> vrstic, in to <%3> vrstic.
+Таблица <%1> не стала равной за <%2> секунд. %3	Tabela <%1> ni enako <%2> sekund. %3
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Ожидали <%4>, а получили <%5>	Tabela <%1>. Linija Št.<%2>. Stolpec <%3>. Pričakuje <%4>, dobil <%5>
+Таблица формы с именем <%1> не найдена.	Obliko tabele z imenom <%1> ni bilo mogoče najti.
+ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.Количество()=%2	Tabletseasy.Kolichestvennom()=%1, Tableresults.Količina ()=%2
+Таблицы должны совпадать, а они различны.%1	Tabela mora sovpadati, in so različnih%1
+ТаблицыСовпадают	Tabletirovaniju
+Табличный документ <%1> оказался неравен <%2>.%3	Tabela dokumenta <%1> neenako <%2>.%3
+Табличный документ не содержит нужные строки <%1>	Tabela dokument ne vsebuje zahtevani niz <%1>
+Табличный документ содержит ненужные строки <%1>	Tabela dokument vsebuje nepotrebne vrstice <%1>
+ТестируемаяФорма <%1> не открылась, а должна была открыться	Masterweaver <%1> ni odprlo in je odprta
+ТестПропущен	Testproposed
+Технические данные	Tehnični podatki
+тип	vrsta
+Типом значения <%1> является <%2>, а ожидался тип <%3>.%4	Vrednost tipa <%1> je <%2>, vendar pričakuje, tip je <%3>.%4
+Требуется документ, бизнес-процесс или задача. Неизвестный менеджер %1.%2 . Переменная %3	Potrebne listine, poslovni proces ali naloga. Neznan Manager %1.%2 . Spremenljivka %3
+ТЧ %1 не соответствует эталону. Ожидали %2 строк, а в ней %3 строк.	PM %1 ne ustrezajo standardom. Pričakuje %2 vrstic, in ga %3 vrstic.
+ТЧ с именем <%1> не найдена.	PM z imenom <%1> ni bilo mogoče najti.
+У окна <%1> не найдено ни одного элемента с типом <ТестируемоеПолеФормы>.	Okno <%1> ni bilo mogoče najti nobenih elementov tipa <Testirovanie>.
+У поля <%1> ожидали заголовок <%2>, а получили <%3>	Na področju <%1> pričakuje naslov <%2>, dobil <%3>
+У поля <%1> ожидали отображаемый текст <%2>, а получили <%3>	Na področju <%1> je bilo pričakovati, besedilo, da se prikaže <%2>, dobil <%3>
+У поля <%1> ожидали текст подсказки <%2>, а получили <%3>	Na področju <%1> je bilo pričakovati namig besedilo <%2>, dobil <%3>
+У текущего окна найдено %1 форм.	Trenutno okno najti % - 1 obrazcev.
+У элемента формы <%1> текущий текст редактирования <%2>, а ожидали <%3>	Element v obliki <%1> tekoče besedilo za urejanje <%2>, pričakuje <%3>
+Удаляю элемент %1	Odstranite element %1
+Удаляю элемент справочника <%1> : <%2>	Odstrani slovar element <%1> : <%2>
+Уже открытый TestClient подключен на %1 порту.	Zunanji TestClient že povezan z %1 vrata.
+Указан неверный диапазон портов: <%1>	Neveljavna port range: <%1>
+Указанное Имя колонки замещения [%1] не существует в макете.	Določeno Ime stolpca nadomestnega [%1] ne obstaja v postavitev.
+Установлен флаг "Остановка при возникновении ошибки". Выполнение следующих сценариев отменено.	Nastavite zastavico "Ustavi, ko pride do napake". V teh primerih onemogočena.
+Установлен флаг <Остановка при возникновении ошибки>. Выполнение следующих сценариев отменено.	Nastavite zastavo <Ustavi, če pride do napake>. V teh primerih onemogočena.
+Утверждение "ИмеетДлину" не умеет работать с типом <%1>.%2	Izjava "Meatline" ne more delovati na tip <%1>.%2
+Утверждение "ПроверитьВхождениеВКоллекцию" не умеет работать с типом коллекции <%1>.%2	Izjava "Prioritypaydayloans" niso sposobni za delo z zbirko vrsta <%1>.%2
+Утверждение "Содержит" не умеет работать с типом <%1>.%2	Izjava "Vsebuje" ne dela z vrsto <%1>.%2
+Утверждение <ИмеетДлину> не умеет работать с типом <%1>.%2	Odobritev <Emaldona> ne more delovati na tip <%1>.%2
+Утверждение <ПроверитьВхождениеВКоллекцию> не умеет работать с типом коллекции <%1>.%2	Odobritev <Prioritypaydayloans> niso sposobni za delo z zbirko vrsta <%1>.%2
+Утверждение <Содержит> не умеет работать с типом <%1>.%2	Odobritev <Vsebuje> > ne more delovati na tip <%1>.%2
+Утверждение ПроверитьРавенствоФайлов можно использовать только в толстом клиенте.	Odobritev določitev prednostnih nalog se lahko uporabljajo le v debele stranko.
+Файл <%1> не найден.	Datoteke <%1> ni bilo mogoče najti.
+Файл <%1> не существует.	Datoteke <%1> ne obstaja.
+Файл <vbFeatureReader.epf> не найден в каталоге инструментов <%1>	Datoteke <vbFeatureReader.epf> ni bilo mogoče najti v orodja, imenik <%1>
+Файл %1: <%2>	Datoteke %1 <%2>
+Файл EPF не создан.	Na EPF datoteke ni mogoče ustvariti.
+Файл EPF не создан. Не смог создать каталог временной базы.	Na EPF datoteke ni mogoče ustvariti. Ne bi mogel ustvariti imenik začasno bazo.
+Файл отчета Allure-report (%1) записан.	Poročilo datoteke Allure-poročilo (v%1) se ne posname.
+Файл отчета CucumberJson-report (%1) записан.	Poročilo datoteke CucumberJson-poročilo (v%1) se ne posname.
+Файл отчета jUnit-report (%1) записан.	Poročilo datoteke jUnit-poročilo (v%1) se ne posname.
+Фича <%1> содержит тег @Tree. Найдены строки, которые содержат символы пробелов и символы табуляции в начале строки. Дерево не может быть корректно построено.	Funkcija <%1> vsebuje oznako @Drevo. Našel nizi, ki vsebujejo belo presledek in tabulator znakov na začetku vrstice. Drevo ni mogoče pravilno zgrajena.
+Фича <%1> содержит тег @Tree. Часть строк содержит в начале строки символы пробелов <%2>, часть строк содержит символы табуляции <%3>. Дерево не может быть корректно построено.	Funkcija <%1> vsebuje oznako @Drevo. Vrstic, ki vsebuje v začetku vrstico znakov, presledkov <%2>, nekaj vrstic vsebuje zavihku znakov <%3>. Drevo ni mogoče pravilno zgrajena.
+Фича: %1	Ficha: %1
+Фичи загружены	Značilnosti naložen
+Флаг <Сохранять контексты перед выполнением шагов> установлен в <Истина>.	Zastavo <Shrani kontekstih pred izvedbo korakov> nastavi za <True>.
+Флаг с заголовком <%1> не найден.	Zastave z glave <%1> ni bilo mogoče najti.
+Флаг с именем <%1> не найден.	Zastave z imenom <%1> ni bilo mogoče najti.
+Форма <%1> не найдена.	Oblika <%1> ni bilo mogoče najti.
+Форма окна с заголовком %1 не найдена.	Oblika okna z naslovom '%1 ' ni bilo mogoče najti.
+Форма с заголовком <%1> не найдена.	Obrazec z naslovom <%1> ni bilo mogoče najti.
+Форма с заголовком %1 не найдена.	Obrazec z glavo %1, ni mogoče najti.
+Хост сеанс надо запустить с ключом /TESTMANAGER.	Gostiteljica seje morajo biti začeli s tipko /TESTMANAGER.
+Хотели, чтобы алгоритм <%1> выполнился, а он упал с ошибкой <%2>. %3	Želel algoritem <%1> je bila izvedena, in je padel z napako <%2>. %3
+Хотели, чтобы алгоритм <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	Želel algoritem <%1> padla s sporočilom o napaki <%2> in je padel z sporočilo <%3>.%4
+Хотели, чтобы алгоритм <%1> упал, а он выполнился%2	Želel algoritem <%1> znižal, in je izvedeno%2
+Хотели, чтобы код <%1> выполнился, а он упал с ошибкой <%2>. %3	Želel kodo <%1> je bila izvedena, in je padel z napako <%2>. %3
+Хотели, чтобы код <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	Želel kodo <%1> padla s sporočilom o napaki <%2> in je padel z sporočilo <%3>.%4
+Хотели, чтобы код <%1> упал, а он выполнился%2	Želel kodo <%1> znižal, in je izvedeno%2
+Шаг	Korak
+Шаг (%1) не выполнен.	Korak (v %1) se ne izvaja.
+Шаг (%1) не выполнен. Строка дерева №%2	Korak (v %1) se ne izvaja. Niz drevo število%2
+Шаг (%1) не реализован.	Korak (v %1) se ne izvaja.
+Шаг <%1> должен был вызвать исключение, а он выполнился корректно.	Korak <%1> je bilo pričakovati, da povzroči izjema, vendar pa je bilo izvedeno pravilno.
+Шаг выполнен с ошибкой: %1	Korak ni uspel: %1
+Шаг принимает на вход только таблицу Gherkin, в которой две строки. А было передано %1 строк.	Korak vzame kot vhod samo kumare za vlaganje tabela, v kateri dveh vrsticah. In je bil sprejet v %1 vrstic.
+Шаг сценария не реализован.	Korak skript je ne izvajajo.
+Элемент с заголовком <%1> виден на текущей форме	Element naslov <%1> je vidna na sedanji obliki
+Элемент с заголовком <%1> доступен на форме	Element naslov <%1> na voljo v obliki
+Элемент с заголовком <%1> доступен не только для просмотра	Element naslov <%1> ni na voljo za ogled le
+Элемент с заголовком <%1> доступен только для просмотра	Element naslov <%1> je na voljo za ogled le
+Элемент с заголовком <%1> не виден на текущей форме	Element naslov <%1> ni vidna na sedanji obliki
+Элемент с заголовком <%1> не доступен на форме	Element naslov <%1> ni na voljo v obliki
+Элемент с именем <%1> виден на текущей форме	Element z imenom <%1> je vidna na sedanji obliki
+Элемент с именем <%1> доступен на форме	Element z imenom <%1> na voljo v obliki
+Элемент с именем <%1> доступен не только для просмотра	Element z imenom <%1> ni na voljo za ogled le
+Элемент с именем <%1> доступен только для просмотра	Element z imenom <%1> je na voljo le, če si želite ogledati
+Элемент с именем <%1> не виден на текущей форме	Element z imenom <%1> ni vidna na sedanji obliki
+Элемент с именем <%1> не доступен на форме	Element z imenom <%1> ni na voljo v obliki
+Элемент формы <%1> не найден.	Element v obliki <%1> ni bilo mogoče najti.
+Элемент формы с именем <%1> не найден.	Obrazec element z imenom <%1> ni bilo mogoče najti.
+Элемента формы с заголовком <%1> не найдено.	Obrazec element z naslova <%1> ni bilo mogoče najti.
+Элемента формы с именем <%1> не найдено.	Obrazec element z imenom <%1> ni bilo mogoče najti.
+Это возможно только для шага.	To je mogoče le za korak.
+является NULL	je NIČNA
+является заполненным	se napolni
+является истиной	je resnica
+является ложью	je laž
+является неопределено	ni definiran
+Не найден SikuliX скрипт <%1>.	Ne najdemo SikuliX skript <%1>.
+Не удалось выполнить SukuliX скрипт <%1>.	Uspelo SukuliX skript <%1>.
+Ожидали, что в таблице <%1> текуще поле будет заполнено.	Pričakuje v tabeli <%1> trenutno polje se napolni.
+Ожидали, что в таблице <%1> текуще поле будет не заполнено.	Pričakuje v tabeli <%1> trenutno polje prazno.
+Ожидали у таблицы <%1> в течение <%2> секунд, что текущее поле будет заполнено.	Pričakuje iz tabele <%1> v <%2> sekund, da trenutno polje se napolni.
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Не смог получить значение из эталона.	Tabela <%1>. Linija Št.<%2>. Stolpec <%3>. Ne bi dobili vrednost iz vzorca.
+Не получилось получить представление открытого списка выбора <%1>.	Ni uspelo, da odprete pogled seznama <%1>.
+У списка выбора <%1> ожидалось %2 значений, а было получено %3 значений.	Seznam <%1> pričakuje %2, vendar prejeli %3 vrednosti.
+Ожидалось получить %1, а было получено %2.	Pričakuje %1, prejetih %2.
+Открытый список выбора <%1> не равен эталону. Различия: %2	Odpre izbirni seznam <%1> ni enak standard. Razlika: %2
+Ожидалось, что открытый список содержит значение %1.	Pričakovati je bilo, da odprete seznam vsebuje %1 vrednost.
+Открытый список выбора <%1> не содержит ожидаемые значения: %2	Odpre izbirni seznam <%1> ne vsebuje pričakovano vrednost: %2
+Открытый список выбора <%1> содержит значения, которых не должно быть: %2	Odpre izbirni seznam <%1> vsebuje vrednosti, ki ne sme biti: %2
+Не смог получить данные локализации сообщений.	Ni bilo mogoče dobiti podatkov lokalizaciji sporočila.
+У поля <%1> не получилось нажать на гиперссылку <%2>.	Na področju <%1> ni uspelo, da kliknete na povezavo <%2>.
+Вы уверены?	Ste prepričani?
+Закрыть форму	Zaprete obrazec
+Не получилось нажать на кнопку <%1>.	Uspelo kliknite na gumb <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд ячейка <%3> станет равна <%4>.	Tisto, kar sem pričakoval od tabelaričnih dokumenta <%1> v <%2> sekund celice <%3> je enaka <%4>.
+Некоторые сообщения не были найдены в окне сообщений пользователю: %1	Nekatera sporočila ni bilo mogoče najti v okence za sporočilo uporabniku: %1
+В окне сообщений пользователю были найдены лишние сообщения: %1	V okence za sporočilo uporabnika, je bilo ugotovljeno, nepotrebna sporočila: %1
+Не получилось определить длительность у файла <%1>.	Ni mogla ugotoviti, trajanje datoteko <%1>.
+Не получилось добавить субтитры к файлу <%1>.	Ni uspelo dodati podnapise za datoteko <%1>.
+Команда ffmpeg по слиянию всех видео не выполнена.	Ffmpeg ukaz, da se združijo vsi videi ne dajo.
+Команда ffmpeg по перекодированю звука не выполнена.	Ukaz za profesionalce, perekopirovannye zvok je narejen.
+Команда ffmpeg по добавлению водяной отметки и перекодированию звука не выполнена.	Ffmpeg ukaz za dodajanje vode znamke, in prekodiranje zvoka ne izvaja.
+Команда ffmpeg по кодированию в mp4 не выполнена.	S ffmpeg ukaz za kodiranje mp4 ne izvaja.
+Команда ffmpeg по добавлению mp3 в ролик не выполнена.	Ffmpeg ukaz, če želite dodati datoteke mp3 v video ne izvaja.
+Не получилось создать файл TTS <%1>.	Uspelo ustvariti TTS datoteko <%1>.
+Не указано имя голоса Text To Speech.	Ni določeno ime glas Besedilo V Govor.
+Не указана команда ffmpeg.	Ni določeno, ukaz grep.
+Не указана команда Convert.	Ni določeno Pretvarjanje ukazne.
+Не найдено значение из колонки <%1>.	Ne najdemo vrednost iz stolpca <%1>.
+Не найдено значение <%1> из колонки <%2>.	Ni mogoče najti <%1> stolpec <%2>.
+Не получилось сохранить в переменную <%1> таблицу с именем <%2>.	Ne bi shrani v spremenljivko <%1> tabela ime <%2>.
+Таблица <%1> пустая.	Tabela <%1> je prazna.
+В таблицах <%1> и <%2> разное количество колонок <%3> и <%4>.	V tabeli <%1> <%2> različno število stolpcev <%3> <%4>.
+Не все строки таблицы <%1> найдены в таблице <%2>:	Ni vse vrstice v tabeli <%1> najdete v tabeli <%2>:
+Для элемента с именем <%1> не найдена форма.	Za element z imenom <%1> ni mogoče najti obliki.
+Не указано значение настройки Vanessa-automation: <КаталогПроекта>.	Ni določeno nastavljeno vrednostjo Vanessa-avtomatizacija: <Catalogproduct>.
+Не указано значение настройки Vanessa-automation: <КаталогиСкриптовSikuliX>.	Ni določeno nastavljeno vrednostjo Vanessa-avtomatizacija: <КаталогиСкриптовSikuliX>.
+В каталоге <%1> не найден файл <%2>.	V imeniku <%1> datoteke ni mogoče najti <%2>.
+В каталоге <%1> найдено больше одного файла <%2>: %3.	V imeniku <%1> je našel več kot eno datoteko <%2>: %3.
+Не получилось сделать клик мышкой по картинке <%1>.	Ni, kliknite z miško na sliko <%1>.
+Не получилось запустить Sikulix сервер.	Uspelo teči Sikulix strežnik.
+Не получилось дождаться выполнения SikuliX скрипта <%1>.	Ni mogel čakati, da delujejo SikuliX skript <%1>.
+Не получилось выполнить SikuliX скрипт <%1>.	Uspelo teči SikuliX skript <%1>.
+Ожидалось, что группа элементов <%1> содержит данные элементы формы: %2	Pričakovati je bilo, da je skupina elementov <%1> vsebujejo podatke v obliki: %2
+Ожидалось, что группа элементов <%1> не содержит данные элементы формы: %2	Pričakovati je bilo, da je skupina elementov <%1> ne vsebuje podatke v obliki: %2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения отличного от <%4>. Текущее значение <%5>.	Pričakuje iz tabele <%1> v <%2> sekund na področju <%3> vrednosti, ki so ločene od <%4>. Trenutno vrednost <%5>.
+Ожидалось, что в панели разделов будет <%1> элементов, а найдено <%2> элементов.	Pričakovati je bilo, da je plošča oddelkov bo <%1> element, našel <%2> elementi.
+Ожидалось, что в панели разделов будут содержаться следующие элементы: %1	Pričakovati je bilo, da je plošča sekcije, ki bo vsebovala naslednje elemente: %1
+Ожидалось, что в панели разделов не будут содержаться следующие элементы: %	Pričakovati je bilo, da je plošča sekcije, ki bo vsebovala naslednje elemente: %
+Ожидалось, что в панели функций будет <%1> элементов, а найдено <%2> элементов.	Pričakovati je bilo, da plošča funkcije bo <%1> element, našel <%2> elementi.
+Ожидалось, что в панели функций будет элемент <%1> , а был найден элемент <%2>.	Pričakovati je bilo, da je funkcija bo element <%1> je bila najdena <%2>.
+Ожидалось, что в панели функций будут содержаться следующие элементы: %1	Pričakovati je bilo, da je funkcija bar, ki bo vsebovala naslednje elemente: %1
+Ожидалось, что в панели функций не будут содержаться следующие элементы: %1	Pričakovati je bilo, da plošča funkcij bo vključevala naslednje elemente: %1
+Группа <%1> не найдена в панели функций.	Skupina <%1> ni bilo mogoče najti v funkcijski vrstici.
+Ожидалось, что в группе <%1> панели функций будут содержаться следующие элементы: %2	Pričakovati je bilo, da v <%1> funkcija bar, ki bo vsebovala naslednje elemente: %2
+Ожидалось, что в группе <%1> панели функций не будут содержаться следующие элементы: %2	Pričakovati je bilo, da v <%1> funkcija bar, ki bo vsebovala naslednje elemente: %2
+Ошибка. Не найдены настройки пользователя <%1> в файле <%2>.	Napaka. No konfiguracijo na voljo za uporabnika <%1> v datoteki <%2>.
+Функция <%1> реализована только для Windows.	Funkcijo <%1> je izvajale le za Windows.
+У поля <%1> ожидали текст заголовка <%2>, а получили <%3>.	Na področju <%1> je bilo pričakovati, sta na vrhu zaslona besedilo <%2>, dobil <%3>.
+В таблице <%1> у поля <%2> ожидали заголовок <%3>, а получили <%4>.	V tabeli <%1> polje <%2> pričakuje naslov <%3>, dobil <%4>.
+В таблице <%1> у поля <%2> ожидали текст подсказки <%3>, а получили <%4>.	V tabeli <%1> polje <%2> pričakoval je namig besedilo <%3>, dobil <%4>.
+Не получилось выгрузить базу в dt: <%1>. Путь к DT: <%2>. Статус возврата: <%3>.	Neuspelo nalaganje baze podatkov v dt: <%1>. Pot v DT je: <%2>. Vrnitev statusa, je <%3>.
+Группа колонок <%1> в таблице <%2> не найдена.	Skupina stolpcev <%1> tabela <%2> ni bilo mogoče najti.
+В таблице <%1> в группе колонок <%2> колонка <%3> не найдена.	V tabeli <%1> skupina stolpcev <%2> stolpec <%3> ni bilo mogoče najti.
+Не получилось найти на экране картинку <%1>.	Ni mogel najti sliko na zaslonu <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд значение ячейки <%3> станет равно <%4>. Текущее значение <%5>.	Tisto, kar sem pričakoval od tabelaričnih dokumenta <%1> v <%2> sekund vrednosti celice <%3> je enaka <%4>. Trenutno vrednost <%5>.
+Метод Шаг() не выполнен. Не удалось прочитать шаги из временного фича файла <%1>. Исходная строка:%2	Metoda Korak() se ne izvaja. Ni preberite korakom od začasne funkcija datoteke <%1>. Prvotni niz:%2
+Этот клиент	To stranko,
+Не получилось найти данные макета <%1>.	Ni mogel najti podatke postavitev <%1>.
+Не получилось выполнить эмуляцию хоткея <%1> <%2>.	Ni uspelo izvesti tekmovanja hotkey <%1> <%2>.
+Не получилось выполнить эмуляцию ENTER.	Ni posnemati ENTER.
+Не получилось дождаться картинки <%1> в течение <%2> секунд.	Ni mogel čakati za slike <%1> v <%2> sekund.
+Окно с заголовком <%1> не найдено. Текущее окно: <%2>.	Okno z naslova <%1> ni bilo mogoče najti. Trenutno okno: <%2>.
+Строка <%1> не найдена в окне сообщений пользователю. Состояние окна сообщений:%2	Vrstica <%1> ni bilo mogoče najti v oknu sporočila za uporabnika. Stanje okno sporočilo:%2
+Не получилось определить родителя у шага <%1>.	Ne more ugotoviti, matična korak <%1>.
+Не получилось определить позицию шага <%1> в группе шагов <%2>.	Ne more določiti položaja korak <%1> v skupini koraki <%2>.
+Не получилось открыть форму регистра сведений <%1>.	Ni mogel odpreti obrazec za registracijo informacije <%1>.
+Не получилось найти подсистему <%1> в регистре версии подсистем.	Ni mogel najti podsistem <%1> v register različico podsistemov.
+Ожидалось получить <%1> строк в таблице <%2>, а было получено <%3> строк.	Pričakuje, da <%1> vrstic v tabeli <%2> in prejete <%3> vrstic.
+Не получилось сохранить значение <%1> в переменную <%2>.	Ni uspelo rešiti <%1> spremenljivih <%2>.
+Не получилось подключиться к ранее запущенному клиенту тестирования <%1>, порт <%2>.	Ni uspelo povezati z že teče test odjemalec <%1>, port <%2>.
+Не получилось прочитать параметр запуска <%1>.	Ni preberite zagonski parameter <%1>.
+ИмяРаннера	Marinera
+ТипКлиентаТестирования	Tibclientdataset
+СтрокаСоединения	Strokeopacity
+Не получилось сохранить строку <%1> в переменную <%2>.	Ni uspelo rešiti <%1> spremenljivih <%2>.
+Неверно указано значение параметра направления вращения колеса мышки. Возможные значения: Вверх или Вниз.	Neveljavna vrednost parametra smer vrtenja koleščka miške. Možne vrednosti: Navzgor ali Navzdol.
+Не получилось выполнить эмуляцию вращения колеса мышки в направлении <%1>, количество итераций <%2>.	Uspelo posnemati kolo miško v smeri <%1>, število ponovitev <%2>.
+Обнаружено несколько файлов, экспортирующих подсценарий <%1>. Файлы: %2	Več datotek izvozne podszewki <%1>. File: %2
+Не получилось сделать клик праой кнопкой мышки по картинке <%1>.	Ni uspelo, da kliknete proi kliknite na sliko <%1>.
+Не получилось переместить курсор мышки к картинке <%1>.	Mogla premakniti miško na sliko <%1>.
+Не существует клиента тестирования <%1>.	Ni test odjemalec <%1>.
+Ожидали, что процесс с ИД <%1> будет завершен в течение <%2> секунд.	Pričakujem, da se postopek s ID <%1> bo končana v <%2> sekund.
+Значение переменной <%1> изменено на <%2>.	Vrednost spremenljivke <%1> spremenila <%2>.
+Значение глобальной переменной <%1> изменено на <%2>.	Vrednost globalna spremenljivka <%1> spremenila <%2>.
+Переменная <%1> удалена.	Spremenljivka <%1> odstrani.
+Глобальная переменная <%1> удалена.	Globalna spremenljivka <%1> odstrani.
+Контекст	Okviru
+Контекст глобальный	V okviru svetovnega
+Окно с заголовком <%1> не найдено. Таймаут поиска окна: <%2>.	Okno z naslova <%1> ni bilo mogoče najti. Timeout okno za iskanje: <%2>.
+Не удалось получить токен.	Ni uspelo, da bi dobili žeton.
+Не удалось получить токен. Код результата: <%1>. Ответ: <%2>.	Ni uspelo, da bi dobili žeton. Rezultat kodo: <%1>. Odgovor: <%2>.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Ni uspelo, da bi dobili podatke. Rezultat kodo: <%1>. Odgovor: <%2>.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>. Количество попыток <%4>.	Ni mogel v tabeli <%1> da, da izberete iz seznama izbir <%2> v vrstici <%3>. Število poskusov <%4>.
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>. Количество попыток <%3>.	Mogel storiti, izberite iz seznama <%1> vrstici <%2>. Število poskusov <%3>.
+Не выполнены дополнительные процедуры обработки данных.	Ne izvaja dodatnih postopkov obdelave podatkov.
+Обнаружено окно обновления конфигурации.	Odkrili okno konfiguracije.
+Обнаружено окно c сообщением о неудачном обновлением конфигурации.	Odkrili okno s sporočilom o ni uspelo posodobiti konfiguracijo.
+Видео создано автоматически.	Video ustvari samodejno.
+Количество сценариев	Število scenarijev,
+Количество шагов	Število korakov
+Версия Vanessa-Automation	Različica Vanessa-Avtomatizacija
+Версия скрипта сборки видео	Različico build script video
+ЗаголовокАктивногоОкна	Segelbooten
+ИмяАктивнойФормы	Vztrajnost
+В таблице должно быть боле 1 строки, а получили <%1> строк.	Tabele naj bi služil 1 vrstico, in dobil <%1> linije.
+Выполнить сценарии	Dovolite zaganjanje skriptov
+Загружены глобальные переменные.	Naložen globalne spremenljivke.
+Не найден каталог: %1	Ne najdemo mapo: %1
+Выполнить	Za opravljanje
+Выполняется...	Teče...
+Останавливается...	Ustavi...
+Обнаружено окно перехода на новую версию платформы 1С:Предприятие.	Odkril je prenos okno, da nova različica 1C:Podjetništvo platformo.
+В таблице <%1> не получилось активизировать поле <%2> для редактирования.	V tabeli <%1> ne more aktivirati polje <%2> za urejanje.
+Ожидалось в течение <%1> секунд, что откроется окно с заголовком отличным от <%2>.	Pričakujemo <%1> sekund, ki se odpre okno z naslovom, razen <%2>.
+Выберите файл настроек Vanessa Automation.	Izberite nastavitve datoteke Vanessa Avtomatizacije.
+Версия загружаемых настроек не соответсвует версии обработки.	Različico prenesete nastavitve ne ustrezajo različica obdelave.
+Информация: Параметр %1 не загружен.	Parameter: %1 se ne naloži.
+Не получилось прочитать значение из строки запуска: %1.	Ni prebral vrednost linijo start: %1.
+При чтении переменных окружения операционной системы возникло исключение: %1	Pri branju spremenljivke okolja operacijskega sistema, izjema prišlo je do napake: %1
+Не найден путь к файлу JSON. Параметр: VAParams.	Ni bilo mogoče najti pot do JSON datoteko. Parameter: VAParams.
+Ошибка чтения структуры JSON. Пропускаем чтение.	Napaka pri branju JSON strukturo. Preskočite branje.
+Ошибка чтения структуры JSON.	Napaka pri branju JSON strukturo.
+В параметрах JSON не найден каталог Фич.	V možnosti JSON ne najdemo imenik Funkcije.
+Использование устаревшего параметра "КаталогOutputСкриншоты". Новый параметр - "КаталогВыгрузкиСкриншотов".	Uporabljate zastareli parameter "КаталогOutputСкриншоты". Nov parameter, ki so "Cataloglistview".
+Использование устаревшего параметра "КаталогOutputИнструкцияHTML". Новый параметр - "КаталогВыгрузкиИнструкцийHTML".	Uporabljate zastareli parameter "КаталогOutputИнструкцияHTML". Nova možnost - "КаталогВыгрузкиИнструкцийHTML".
+Использование устаревшего параметра "КаталогOutputИнструкцияMarkdown". Новый параметр - "КаталогВыгрузкиИнструкцийMarkdown".	Uporabljate zastareli parameter "КаталогOutputИнструкцияMarkdown". Nova možnost - "КаталогВыгрузкиИнструкцийMarkdown".
+Использование устаревшего параметра "КаталогOutputИнструкцияВидео". Новый параметр - "КаталогВыгрузкиИнструкцийВидео".	Uporabljate zastareli parameter "КаталогOutputИнструкцияВидео". Nova možnost - "Cataloguecontroller".
+Использование устаревшего параметра "КаталогOutputjUnit". Новый параметр - "КаталогВыгрузкиjUnit".	Uporabljate zastareli parameter "КаталогOutputjUnit". Nova možnost - "КаталогВыгрузкиjUnit".
+В параметрах запуска JSON не определен каталог отчета jUnit.	V begu nastavitve JSON ni določen imenik poročilo jUnit.
+Использование устаревшего параметра "КаталогOutputCucumberJson". Новый параметр - "КаталогВыгрузкиCucumberJson"	Uporabljate zastareli parameter "КаталогOutputCucumberJson". Nova možnost - "КаталогВыгрузкиCucumberJson"
+В параметрах запуска JSON не определен отчета CucumberJson.	V begu nastavitve JSON ni določena poročilo CucumberJson.
+Использование устаревшего параметра "КаталогOutputAllure". Новый параметр - "КаталогВыгрузкиAllure".	Uporabljate zastareli parameter "КаталогOutputAllure". Nova možnost - "КаталогВыгрузкиAllure".
+Использование устаревшего параметра "КаталогOutputAllureБазовый". Новый параметр - "КаталогВыгрузкиAllureБазовый".	Uporabljate zastareli parameter "КаталогOutputAllureБазовый". Nova možnost - "КаталогВыгрузкиAllureБазовый".
+Форма из переданного списка не найдена.	Oblika opravili seznamu ni najti.
+ИмяФичи	Kafici
+ИмяСценария	Kasanaru
+НомерСтрокиДерева	Nemestrinidae
+НомерСтрокиФичи	Namestrategy
+ПолнйПутьКФиче	Polypacific
+Сценарий не определён.	Skripta ni določeno.
+Шаг не определён.	Korak ni določeno.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Ni uspelo, da bi dobili podatke. Rezultat kodo: <%1>. Odgovor: <%2>.
+ДеталиОшибки	Dealiasing
+Команда по созданию картинки из текста не выполнена: %1	Ukaz za ustvarjanje odtisov iz besedila ni uspelo: %1
+Не получилось получить командный интерфейс клиента тестирования.	Uspelo pridobiti ukaz vmesniku odjemalca testiranje.
+Окно предупреждения не найдено.	V oknu z opozorilom ni bilo mogoče najti.
+Не получилось выполнить помещение файла <%1>.	Ne bi mogel izvesti datoteko <%1>.
+Не найдено подключение SikuliX сервера.	Ne najdete povezavo SikuliX strežnik.
+Подключение SikuliX сервера сброшено.	Povezava SikuliX strežnik reset.
+Не указано значение настройки Vanessa-automation: <КаталогДляГенерацииКартинок>.	Ni določeno nastavljeno vrednostjo Vanessa-avtomatizacija <Catalogchangelistener>.
+Не получилось создать картинку по тексту <%1>.	Ni mogoče ustvariti sliko v besedilo <%1>.
+Не найден профиль поиска картинки с текстом <%1>.	Ni našel iskalni profil, slike z besedilom <%1>.
+Команда не выполнена: %1	Ukaz ni uspel: %1
+Не получилось вычислить выражение: %1. Описание ошибки: %2	Uspeli rešiti izraz: %1. Opis napake: %2
+Не указано имя файла.	Ni določeno ime datoteke.
+Каталог <%1> не существует.	Directory <%1> ne obstaja.
+Не указано расширение файла.	Ne določite končnico.
+Не получилось закрыть активное окно <%1>. %2	Ni zaprite aktivno okno <%1>. %2
+Закрытие окна <%1>.	Zapiranje okna <%1>.

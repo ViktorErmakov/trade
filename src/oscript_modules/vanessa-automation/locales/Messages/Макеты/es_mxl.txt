@@ -1,0 +1,810 @@
+﻿Строка поиска	Translation
+%1 не найден;	%1 no se ha encontrado
+%1 Не умею обрабатывать реквизит <%2> у объекта <%3>	%1 No sé manejar prop <%2> el elemento <%3>
+%1.%2 в макете нет записей для регистра %3	%1.%2 en el diseño no hay registros para el registro %3
+%1.%2 не удалось создать новый набор записей.%3	%1.%2 no se puede crear un nuevo conjunto de registros.%3
+%1.%2 не удалось создать новый набор записей%3	%1.%2 no se puede crear un nuevo conjunto de registros%3
+%1.%2 не удалось создать новый элемент.%3	%1.%2 no se puede crear un nuevo elemento.%3
+№%1. Заголовок=<%2>. Имя=<%3>. ТекстПоля = <%4>	Nº%1. Título=<%2>. Nombre=<%3>. Tipo = <%4>
+TestClient НЕ подключен.	TestClient NO está conectado.
+TestClient подключен на %1 порту.	TestClient está conectado a %1 puerto.
+Web клиент не поддерживает запись действий пользователя.	Web el cliente no admite la grabación de acciones de usuario.
+Активирую окно с координатами: %1;%2	La activación de diálogo con las coordenadas: %1
+Активная форма не найдена	Activa el formulario no se encuentra
+Активное окно не найдено.	La ventana activa no se encuentra.
+больше	más
+больше или равно	mayor o igual a
+Были конфликты в именах снипетов.	Conflictos en los nombres de снипетов.
+Были ошибки в ПросканироватьИсходникиИНайтиВсеStepDefinition.	Ha sido un error en ПросканироватьИсходникиИНайтиВсеstepdefinition.
+Было найдено окно предупреждения с текстом: <%1> А ожидалось, что таких окон не будет.	Se ha encontrado una ventana de advertencia con el siguiente texto: <%1> Y se esperaba que estas ventanas no se.
+Было найдено окно предупреждения. А ожидалось, что таких окон не будет.	Se ha encontrado una ventana de advertencia. Y se esperaba que estas ventanas no se.
+В значение элемента формы %1 не найдена строка <%2>. Текущее значение поля <%3>	En el valor de un elemento de formulario %1 no se encuentra la cadena de <%2>. El valor actual del campo <%3>
+В ИБ загружены объекты: %1 шт.	En ib cargar objetos: %1 unidad
+В каталоге <%1> должен был быть один файл xml.	En el directorio <%1> tenía que ser un archivo xml.
+В меню нет значения <%1>	En el menú no tiene un valor de <%1>
+В метаданных %1 не найден реквизит-ключ <%2>. Ошибка в макете данных	En los metadatos %1 no se ha encontrado apoyos clave <%2>. Error en la maquetación de datos
+В параметрах JSON не найден каталог Фич.	En la configuración de JSON no se ha encontrado el catálogo de Prestaciones.
+В переменной Контекст не обнаружено ранее сохраненное значение с именем <%1>	En la variable de Contexto no detectado anteriormente, el valor almacenado con el nombre de <%1>
+В процедуру <УстановитьРезультатУсловия> передан неверный тип параметра <%1>. Ожидаемый тип: Булево.	En el procedimiento de <УстановитьРезультатУсловия> entregado el tipo incorrecto de la opción <%1>. Es del tipo esperado: el Booleano.
+В результирующей таблице существуют две колонки с одинаковым заголовком: %1	En la resultante de la tabla hay dos columnas con el mismo título: %1
+В списке нет значения <%1>	En la lista no tiene un valor de <%1>
+В строке <%1> не найдена подстрока <%2>	En la barra de <%1> no se encuentra la subcadena <%2>
+В сценарии <%1> найден тег исключение <%2>	En el escenario de la <%1> se ha encontrado una etiqueta de excepción <%2>
+В сценарии <%1> найден тег отбор <%2>	En el escenario de la <%1> se ha encontrado una etiqueta de selección <%2>
+В таблице <%1>  НЕ найдено значение %2, а оно должно было быть.	En la tabla <%1> el valor NO se encuentra %2, y que deberían ser.
+В таблице <%1>  нет колонки <%2>	En la tabla <%1> no tiene una columna <%2>
+В таблице <%1> в строке №%2 найдено значение %3, а его не должно было быть.	En la tabla <%1> en la línea nº%2 encuentra el valor %3, y no debe ser.
+В таблице <%1> найдено <%2> значений. А ожидали <%3>. Имя колонки <%4>. Искомое значение <%5>	En la tabla <%1> encontrados <%2> de valores. Y espera <%3>. El nombre de la columna <%4>. El valor de búsqueda <%5>
+В таблице <%1> не найдено ни одной строки	En la tabla <%1> no se encuentra ni una sola línea de
+В таблице <%1> не найдено ячейки с заголовком <%2>	En la tabla <%1> no se encuentra la celda con el título de <%2>
+В таблице <%1> не найдены колонки: %2	En la tabla <%1> no se han encontrado columnas: %2
+В таблице <%1> не получилось активизировать поле <%2>.	En la tabla <%1> no pude activar el campo <%2>.
+В таблице <%1> нет строк для выбора.	En la tabla <%1> no hay filas para la selección.
+В таблице <%1> ожидали получить <%2> строк, а получили <%3> строк.	En la tabla <%1> se espera obtener <%2> filas, y han recibido <%3> filas.
+В таблице <%1> ожидали получить %2 %3 строк, а получили <%4> строк.	En la tabla <%1> se espera obtener un %2 %3 filas, y han recibido <%4> filas.
+В таблице <%1> ожидали получить больше <%2> строк, а получили <%3> строк.	En la tabla <%1> se espera obtener más <%2> filas, y han recibido <%3> filas.
+В таблице <%1> ожидали получить больше или равно <%2> строк, а получили <%3> строк.	En la tabla <%1> se espera obtener mayor o igual a <%2> filas, y han recibido <%3> filas.
+В таблице <%1> ожидали получить меньше <%2> строк, а получили <%3> строк.	En la tabla <%1> se espera obtener un menor <%2> filas, y han recibido <%3> filas.
+В таблице <%1> ожидали получить меньше или равно <%2> строк, а получили <%3> строк.	En la tabla <%1> se espera obtener es menor o igual a <%2> filas, y han recibido <%3> filas.
+В таблице <%1> отсутствует колонка <%2>, указанная в параметрах.	En la tabla <%1> falta la columna <%2>, указанная en los parámetros.
+В таблице <%1> поле с заголовком <%2> не найдено.	En la tabla <%1> campo con el título de <%2> no se encuentra.
+В таблице <%1> поле с именем <%2> не найдено.	En la tabla <%1> campo con el nombre de <%2> no se encuentra.
+В таблице <%1> у поля <%2> ожидали открытия выпадающего списка, но не дождались.	En la tabla <%1> el campo <%2> se espera la apertura de la lista desplegable, pero no se esperaban.
+В таблице не найдена колонка <%1>	En la tabla no se encuentra la columna de la <%1>
+В таблице параметров не было передано имя нового профиля. Колонка <Имя подключения>	En la tabla de parámetros no se ha transferido el nombre del nuevo perfil. La columna <Nombre de la conexión>
+В таблице подключений уже есть подключение с именем <%1>	En la tabla de conexiones ya no hay conexión con el nombre <%1>
+В табличном документе %1 колонок, а ожидалось %2 колонок.	En la cuadrícula de documento %1 de las columnas, y se esperaba %2 columnas.
+В табличном документе %1 строк, а ожидалось %2 строк.	En la cuadrícula de documento %1 filas, y se esperaba %2 filas.
+В табличном документе %1 строк, а ожидалось, что он пустой.	En la cuadrícula de documento %1 filas, y se esperaba que está vacío.
+В табличном документе в колонке <%1> значение не соответствует условию 'Значение в колонке %2 %3'. Текущее значение колонки <%4>. Ряд <%5>, колонка <%6>	En la cuadrícula de documento en la columna <%1> el valor no cumple la condición de 'el Valor en la columna de %2 %3'. El valor actual de la columna <%4>. Una serie de <%5> columna <%6>
+В табличном документе в колонке <%1> ожидали значение <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	En la cuadrícula de documento en la columna <%1> se espera un valor de <%2>, y han encontrado <%3>. Una serie de <%4> columna <%5>
+В табличном документе в колонке <%1> ожидали, что не будет значения <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	En la cuadrícula de documento en la columna <%1> se espera que no será el valor de <%2>, y han encontrado <%3>. Una serie de <%4> columna <%5>
+В табличном документе в колонке №%1 значение= <%2> , а ожидалось <%3>	En la cuadrícula de documento en la columna nº%1 valor= <%2> , y se esperaba <%3>
+В табличном документе колонка <%1> не найдена.	En la cuadrícula de documento columna <%1> no se ha encontrado.
+В файле <%1> нашли строки, а ожидали, что их нет:%2	En el archivo <%1> encontrado la línea, y esperaban que no:%2
+В файле <%1> не нашли строки, а ожидали, что они там есть:%2	En el archivo <%1> no encuentra la cadena, y esperaban que están allí:%2
+В фиче <%1> сценария <%2> найден тег исключение <%3>	En fiche <%1> script <%2> se ha encontrado una etiqueta de excepción <%3>
+В фиче <%1> сценария <%2> найден тег отбор <%3>	En fiche <%1> script <%2> se ha encontrado una etiqueta de selección <%3>
+В шаг необходимо передавать таблицу Gherkin, в которой 2 или более строк.	En el paso, se debe comunicar la tabla Gherkin, en el que 2 o más filas.
+В эталонной таблице существуют две колонки с одинаковым заголовком: %1	En la referencia de la tabla hay dos columnas con el mismo título: %1
+ВерсияVA	ВерсияVA
+ВерсияПлатформы	ВерсияПлатформы
+Включите флаг <Включить отладочные сообщения> чтобы посмотреть выполняемые команды.	Encienda el indicador <Habilitar la depuración de mensajes> para ver los comandos que se ejecutan.
+Внутреняя ошибка. Неполное заполнение дерева метаданных. Отсутствует объект, образующий тип - %1	Teléfonos error. Incompleta llenar el árbol de metadatos. No hay ningún objeto, formando un tipo de - %de 1
+Внутреняя ошибка. Неполное заполнение структуры ссылочных типов - %1	Teléfonos error. Incompleta rellenar la estructura de los tipos de referencia - %de 1
+Во вложенный сценарий <%1> было передано <%2> таблиц, а он принимает только <%3> таблиц.	En adjunto el script <%1> fue transmitido <%2> tablas, y sólo se toma <%3> tablas.
+Возможно это обработка для обычных форм, а не для управляемых форм.	Tal vez es un tratamiento para las formas convencionales y no de formas.
+Возможно это обработка для управляемых форм, а не для обычных форм.	Tal vez es un tratamiento para las formas, y no para las formas convencionales.
+Все проверки пройдены.	Todas las pruebas se ejecutan.
+Вызов метода <%1>: %2	La llamada al método <%1>: %2
+Выпадающий список <%1> не был сформирован.	La lista desplegable <%1> no se ha formado.
+Выпадающий список <%1> не открылся для ввода текста.	La lista desplegable <%1> no se ha abierto para la entrada de texto.
+Выпадающий список <%1>. Ожидали, что в нём будет текст %2, а получили %3.	La lista desplegable <%1>. Esperaban que él será el texto %2, y recibieron %3.
+Выпадающий список с заголовком <%1> не найден.	Una lista desplegable con el título <%1> no se ha encontrado.
+Выпадающий список с именем <%1> не найден.	Una lista desplegable con el nombre de <%1> no se ha encontrado.
+Выполнение сценариев закончено. БЫЛИ ОШИБКИ.	Ejecución de secuencias de comandos terminado. HA SIDO UN ERROR.
+Выполнение сценариев закончено. Ошибок не было.	Ejecución de secuencias de comandos terminado. No se producen errores.
+Выполняю	Hago
+Выражение <%1> оказалось равно <%2>, а ожидали <%3>.	La expresión <%1> resultó igual a <%2>, y se espera <%3>.
+Генератор макета из реальных данных: Не умею обрабатывать такой тип <%1>	Generador de diseño a partir de datos reales: No sé manejar este tipo de <%1>
+ГолосовойДвижок - OK	ГолосовойДвижок - OK
+Группа с заголовком <%1> не найдена.	El grupo con el título de <%1> no se ha encontrado.
+Группа с именем <%1> не найдена.	El grupo con el nombre de <%1> no se ha encontrado.
+Данные по основному подключению Клиента тестирования перезаполнены.	Los datos de la conexión Testclient перезаполнены.
+Данный шаг не работает с таблицами.	Este paso no funciona con tablas.
+ДатаВремяОшибки	ДатаВремяОшибки
+Делаю общий скриншот.	Hago el total de la captura de pantalla.
+Делаю перезапуск TESTCLIENT. ОписаниеОшибки=%1	Hago un reinicio de TESTCLIENT. ОписаниеОшибки=%1
+Делаю распаковку %1	Hago la descompresión %1
+Делаю скриншот.	Hago una captura de pantalla.
+Делаю скриншоты всех окон 1С.	Hago capturas de pantalla de todas las ventanas de 1S.
+Длительность MP3 = 0. Файл=%1	La duración del MP3 = 0. Archivo=%1
+Для <%1> не найдено документа основания	Para <%1> no se encuentra el documento de la fundación
+Для генерации EPF должен быть установлен 1Script. В cmd должна выполняться команда: oscript	Para la generación de la EPF debe ser instalado 1Script. En el cmd se debe ejecutar el comando: oscript
+Для подключения с именем <%1> изменен порт подключения, указанный порт уже есть в таблице подключений.	Para conectar con el nombre de <%1> cambiar el puerto de conexión, el puerto especificado ya existe en la tabla de conexiones.
+Для текущей ячейки таблицы <%1> текущее значение равно <%2>, а ожидали <%3>	Para cada celda de la tabla <%1> el valor actual es <%2>, y se espera <%3>
+Для шага <%1> не найден EPF файл.	Para el paso de la <%1> no se ha encontrado el archivo EPF.
+Для элемента формы %1 текущее значение равно <%2>, а ожидали <%3>	Para el elemento de formulario %1 el valor actual es <%2>, y se espera <%3>
+Для ячейки <%1> таблицы <%2> текущее значение равно <%3>, а ожидали <%4>	Para la celda <%1> tabla <%2> el valor actual es <%3>, y se espera <%4>
+Добавил шаг: %1	Agregó paso: %1
+ДобавитьСостояниеФормыTestclient:%1	ДобавитьСостояниеФормыTestclient:%1
+Должна быть передана минимум 1 строка	Debe ser transferida a un mínimo de 1 línea
+Должна оставаться строка подключения текущего клиента	Debe mantenerse la cadena de conexión del cliente actual
+Должно быть передано 2 строки	Debe ser transferida a la línea 2
+Должны быть переданы минимум 2 строки. Первая строка с именами колонок, вторая и следующие - данные для проверки.	Deben ser transferidos a un mínimo de 2 líneas. La primera fila con los nombres de las columnas, el segundo y los siguientes datos para el análisis.
+ЗавершитьЗаписьДействийПользователя:%1	ЗавершитьЗаписьДействийПользователя:%1
+Загружен объект.Имя %1, Тип %2	Objeto cargado.Nombre %1, Tipo %2
+Загрузил новую версию	Subido una nueva versión de
+Загрузил снипеты из кеш	Subido снипеты de la memoria caché
+Закладка с заголовком <%1> не найдена.	La pestaña con el título de <%1> no se ha encontrado.
+Закладка с именем <%1> не найдена.	La pestaña con el nombre de <%1> no se ha encontrado.
+Закончились фичи. Не стал назначать раннеру фичу.	Terminaron el slave. No se volvió a nombrar раннеру фичу.
+Закрытие TestClient <%1>	El Cierre De TestClient <%1>
+Записал файл статуса билда: %1	Grabado el archivo de estado de compilación: %1
+Записался корректный элемент.	Se ha inscrito correctamente el elemento.
+Записываю %1	Grabo %1
+Запись действий пользователя закончена.	Grabación de acciones de usuario ha terminado.
+Запись действий пользователя начата.	Grabación de acciones de usuario se ha iniciado.
+Запись действий пользователя приостановлена.	Grabación de acciones de usuario suspendido.
+Запись действий пользователя продолжена.	Grabación de acciones de usuario continuar.
+Запускаю генерацию epf.	Ejecuto la generación de epf.
+Значение (%1) заполнено, а ожидалась незаполненность %2	Valor (%1) está en blanco y se esperaba незаполненность %2
+Значение (%1) не заполнено, а ожидалась заполненность%2	Valor (%1) no está completo, y se esperaba tasa de ocupación%2
+Значение [%1:%2]. Ожидали <%3>, а получили <%4>	El valor [%1:%2]. Se espera <%3>, y han recibido <%4>
+Значение <%1> больше или равно, чем <%2>, а ожидалось меньше. %3	El valor de la <%1> mayor o igual que <%2>, y se esperaba menos. %3
+Значение <%1> больше, чем <%2>, а ожидалось меньше или равно. %3	El valor de la <%1> mayor que <%2>, y se esperaba menos o igual. %3
+Значение параметра %1: ожидали <%2>, получили <%3>;	El valor del parámetro %1: se espera <%2>, recibieron <%3>
+Значение параметра %1: ожидали подстроку <%2>, в <%3>;	El valor del parámetro %1: esperaban la subcadena de la <%2>, en el <%3>
+Значение параметра таймаута ожидания должно быть числом. Переданное значение: %1	El valor de tiempo de espera de espera debe ser un número. El valor pasado: %1
+ЗначениеНеНайдено: Реквизит <%1>: Искали значение <%2>, но не нашли.	ЗначениеНеНайдено: Accesorios <%1>: Buscando el valor de la <%2>, pero no se encontró.
+Изменения формы обработаны.	Cambio de la forma de procesar.
+Изменилось имя формы: было: %1, стало: %2	Ha cambiado el nombre de la forma: es: %1, es: %2
+имеет длину	tiene una longitud de
+имеет тип	es de tipo
+Именованная область %1 не найдена;	Ámbito %1 no se ha encontrado
+ИмяКомпьютера <%1>; порт <%2>	Nombredeequipo <%1>
+ИмяПроцедуры	ИмяПроцедуры
+ИмяФайла	Nombredearchivo
+Искали в %1 подстроку %2, но не нашли.%3	Buscando en %1 subcadena %2, pero no se encontró.%3
+Исключение для просмотра значения.	La excepción para ver los valores.
+Ищу снипеты в каталоге	Busco снипеты en el directorio
+Ищу сценарии в каталоге	Busco secuencias de comandos en el directorio
+Каталог <%1> не найден.	El directorio <%1> no se ha encontrado.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не существует.	Directorio de ЗаписьВидеоКаталогДляВременныхФайлов <%1> no existe.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не указан.	Directorio de ЗаписьВидеоКаталогДляВременныхФайлов <%1> no se especifica.
+КаталогOutputИнструкцияHTML не задан.	КаталогOutputИнструкцияHTML no se especifica.
+КаталогOutputИнструкцияMarkdown не задан.	КаталогOutputИнструкцияMarkdown no se especifica.
+КаталогOutputСкриншоты не задан.	КаталогOutputСкриншоты no se especifica.
+КаталогДляОбработки=%1	КаталогДляОбработки=%1
+Кнопка панели открытых окон <%1> не найдена.	El botón de la barra de ventanas abiertas <%1> no se ha encontrado.
+Кнопка панели разделов <%1> не найдена.	El botón de la barra de las secciones <%1> no se ha encontrado.
+Кнопка с именем <%1> не найдена.	El botón con el nombre de <%1> no se ha encontrado.
+Кнопка с именем <%1> не найдена. ТекущееОкно=%2	El botón con el nombre de <%1> no se ha encontrado. ТекущееОкно=%2
+кнопка, которую требуется нажать	el botón que desea hacer clic
+Кнопка/команда с заголовком <%1> не найдена.	Botón/comando con el título de <%1> no se ha encontrado.
+Кнопка/команда с заголовком <%1> не найдена. ТекущееОкно=%2	Botón/comando con el título de <%1> no se ha encontrado. ТекущееОкно=%2
+Количество секунд дял подключения TestClient: %1	El número de segundos para la conexión TestClient: %1
+Команда меню <%1> не найдена в панели функций.	El comando de menú <%1> no se encuentra en la barra de funciones.
+Команда ОстановитьЗаписьВидео вернула код возврата = %1	El equipo de ОстановитьЗаписьВидео devolvió el código de retorno = %1
+Команда по объединению mp3 не выполнена. Файл1=%1, Файл2=%2, Файл3=%3	El equipo de la unificación de mp3 no se realizó. Fichero1=%1, Archivo2=%2, Файл3=%3
+Команда по получению списка файлов каталога не выполнена. Каталог = %1	El equipo de obtención de la lista de archivos, el directorio no realizó. Directorio = %1
+Команда системы реализована только под Windows.	El comando del sistema sólo está disponible en Windows.
+Константа %1 не заполнена.	La constante %1 no está llena.
+КопироватьФайлКомандаСистемы:%1 команда:%2	КопироватьФайлКомандаСистемы:%1 comando:%2
+между	entre
+меньше	menos
+меньше или равно	menor o igual a
+Надо сделать перезапуск фреймворка тестирования.	Es necesario hacer un restart del framework de pruebas.
+Найден активный элемент формы	Se ha encontrado el elemento activo de la forma
+Найден упавший сценарий.	Se ha encontrado que ha caído la secuencia de comandos.
+Найдена форма: ТекстЗаголовка=%1, ИмяФормы=%2. Окно <%3>	Se puede encontrar el formulario: ТекстЗаголовка=%1, Nombreform=%2. La ventana de <%3>
+Найдено %1 окон.	Encontrados %1 de las ventanas.
+Найдено более одного поля формы с заголовком <%1>. Рекомендуется искать элемент по имени.	Encuentra más de un campo de formulario con el título <%1>. Se recomienda buscar un elemento por su nombre.
+НачатьЗаписьДействийПользователя:%1	НачатьЗаписьДействийПользователя:%1
+Нашли строки в таблице <%1>:%2	Han encontrado una fila en una tabla <%1>:%2
+не	no
+Не верный формат области <%1>. %2	No válido <%1>. %2
+Не возможно открыть форму абстрактного объекта, укажите ссылку	No es posible abrir la forma del objeto abstracto, escriba el enlace
+Не все служебные колонки заданы. В запросе обязательно должны быть колонки %1	No todas las utilidades de la columna se especifican. En la consulta deben ser la columna %1
+не выполнен	no se ha iniciado
+Не дождались отображения окна TestClient. Таймаут <%1>	No han esperado a la visualización de la ventana TestClient. El tiempo de espera <%1>
+Не задан регистратор для записей регистра %1. Переменная %2	No se especifica el registrador para los registros de mayúsculas y minúsculas %1. La variable %2
+Не заполнен служебный параметр КаталогИнструментов.	No se llena el parámetro de servicio КаталогИнструментов.
+Не известный тип параметра в ПолучитьПредставлениеПараметраПриПереводе() <%1>	No se conoce el tipo de parámetro en ПолучитьПредставлениеПараметраПрипереводе() <%1>
+Не использовать	No utilizar
+Не могу выгрузить статус сценариев, т.к. был передан каталог, а не файл.	No puedo descargar el estado de los escenarios, ya que fue remitido al directorio, y no el archivo.
+Не могу выгрузить статус сценариев, т.к. каталог %1 не существует.	No puedo descargar el estado de los escenarios, ya que el directorio %1 no existe.
+Не могу сфомировать отчет Allure. Не существует каталог для вывода отчета.	No puedo сфомировать informe Allure. No existe un directorio para emitir un informe.
+Не найден Клиент тестирования для подключения..	No se ha encontrado TestClient para la conexión.
+Не найден активный элемент формы.	No se ha encontrado el elemento activo de la forma.
+НЕ найден инструмент по созданию скриншотов.	NO se ha encontrado la herramienta de creación de capturas de pantalla.
+Не найден каталог библиотеки: %1	No se ha encontrado el catálogo de la biblioteca: %1
+Не найден каталог инструментов: %1	No se ha encontrado el directorio de herramientas: %1
+Не найден лог перегенерации EPF.	No se ha encontrado el log de перегенерации EPF.
+Не найден макет %1 ошибка: %2	No se ha encontrado el diseño de %1 error: %2
+Не найден перевод для шага <%1>	No se encontró la traducción para el paso de la <%1>
+Не найден пользователь ИБ по имени <%1>	No se ha encontrado el usuario ib por el nombre de <%1>
+Не найден профиль Клиента тестирования <%1>	No se ha encontrado el perfil de TestClient <%1>
+Не найден путь к файлу JSON. Параметр: VBParams.	No se ha encontrado la ruta de acceso al archivo JSON. Opción: VBParams.
+Не найден тип шага <%1>	No se ha encontrado el tipo de paso de <%1>
+Не найден файл <%1>	No se ha encontrado el archivo <%1>
+Не найден файл макета <%1> в каталоге проекта <%2>	No se ha encontrado el archivo de diseño de la <%1> en el directorio del proyecto <%2>
+Не найден файл после распаковки: %1	No se ha encontrado el archivo tras descomprimir: %1
+Не найден файл словаря замен. <%1>	No se ha encontrado el archivo de diccionario de las sustituciones. <%1>
+Не найден файл служебной базы. <%1>	No se ha encontrado el archivo de la utilidad de la base. <%1>
+Не найден файл толстого клиента <%1>	No se ha encontrado el archivo de cliente grueso <%1>
+Не найден элемент дерева по данным поиска	No se ha encontrado el elemento de la madera de los datos de la búsqueda
+Не найден элемент Статистика на форме VB.	No se ha encontrado el elemento de Estadísticas en el formulario de VB.
+Не найден эталон макета <%1>. Пустой каталог проекта.	No se ha encontrado un patrón de diseño <%1>. Vacía el directorio del proyecto.
+Не найдена активная форма.	No se ha encontrado la forma activa.
+Не найдена группа командного интерфейса <%1>	No se ha encontrado el grupo de interfaz de línea de comandos <%1>
+Не найдена строка в таблице ДанныеКлиентовТестирования с <Имя=Этот клиент>	No se encontró fila en la tabla ДанныеКлиентовТестирования con <Nombre=Este cliente>
+Не найдена строка примеров во вложенной структуре сценария. <%1>	No se ha encontrado la cadena de ejemplos en una subcarpeta de la estructura de la secuencia de comandos. <%1>
+Не найдена строка сценария.	No se ha encontrado la línea de comandos.
+Не найдена таблица для редактирования.	No se encuentra el cuadro de edición.
+Не найдена установка VLC.	No se encontró instalación de VLC.
+Не найдено ключевое слово <%1>  для языка <%2>	No se encuentra la palabra clave <%1> idioma <%2>
+Не найдено ни одного окна 1С. Делаю обычный скриншот.	No se encontró ninguna ventana de 1S. Hago normal captura de pantalla.
+Не найдено ни одного сообщения пользователю.	No se ha encontrado ningún mensaje al usuario.
+Не найдено ни одного сценария. Запись видео невозможна.	No se encuentra ninguna secuencia de comandos. La grabación de vídeo no es posible.
+Не найдено ни одной строки в таблице клиентов тестирования, которая бы содержала <runner>	No se encuentra ninguna fila en la tabla clientes de la prueba, que contenía <runner>
+Не найдено окно VanessaAutomation в раннере %1	No se encuentra la ventana de VanessaBehavior en runner %1
+Не найдено окно VanessaAutomation.	No se encuentra la ventana de VanessaBehavior.
+Не найдено окно предупреждения.	No se encuentra una ventana de advertencia.
+Не нашел значение реквизита у спр: ИмяСпр=%1, Наименование=%2, ИмяРек=%3, СтроковокПредставление=%4	No se ha encontrado el valor de los accesorios de el sbp: ИмяСпр=%1, Nombre=%2, Fulano=%3, СтроковокПредставление=%4
+Не нашел колонку: %1	No se ha encontrado columna: %1
+Не нашел профиля TestClient с именем <%1>	No se ha encontrado el perfil de TestClient con el nombre de <%1>
+Не нашел профиля TestClient с именем <%1> хотя он должен быть активным в данный момент.	No se ha encontrado el perfil de TestClient con el nombre de <%1> a pesar de que debe de ser activo en este momento.
+Не нашел профиля TestClient с именем <%1> чтобы его закрыть.	No se ha encontrado el perfil de TestClient con el nombre de <%1> para cerrar.
+Не нашел путь к 1cv8c.exe: %1	No se ha encontrado la ruta de acceso a 1cv8c.exe: %1
+Не нашли меню функций раздела.	No se han encontrado menú de funciones de la sección.
+Не нашли окно с заголовком <%1>	No se han encontrado ventana con el título <%1>
+Не нашли панель открытых окон.	No se han encontrado panel de ventanas abiertas.
+Не нашли панель разделов.	No se han encontrado barra de secciones.
+Не нашли профиль <%1> в таблице TestClient.	No se han encontrado perfil <%1> en la tabla TestClient.
+Не нашли профиль <%1> в тестируемом экземпляре Vanessa-behavior.	No se han encontrado perfil <%1> en el listado de la instancia de Vanessa-behavior.
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, "Управляемое приложение"	No han encontrado el modo de inicio <%1>. Es posible que tenga que especificar con un espacio, por ejemplo, "la aplicación no Administrada"
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, <Управляемое приложение>	No han encontrado el modo de inicio <%1>. Es posible que tenga que especificar con un espacio, por ejemplo, <una aplicación Administrada>
+Не нашли таблицу с именем <%1>	No han encontrado una tabla con el nombre de <%1>
+Не нашли элемент <%1> в коллекции, а хотели, чтобы он был в коллекции.%2	No ha encontrado el elemento <%1> en la colección, y querían que él estaba en la colección.%2
+Не обнаружено активное окно.	No se ha detectado la ventana activa.
+Не ожиданное значение у переменной ТипСравнения: <%1>	No ожиданное el valor de la variable ТипСравнения: <%1>
+Не описано действие для кнопки <%1>	No se explica de acción para el botón <%1>
+Не определена фича для выполнения на раннере №0.	No se define una ficha para la ejecución de la runner nº 0.
+Не передан каталог фич для обработки. Используется %1\features	No se pasa el catálogo de funciones para el procesamiento. Se utiliza %1\features
+Клиент тестирования не подключен.	No está conectado Testclient.
+Не получилось закрыть активное окно. %1	No pude cerrar la ventana activa. %1
+Не получилось определить активное окно Клиента тестирования из Контекста.	No pude determinar la ventana activa TestClient de Contexto.
+Не получилось определить активное окно Клиента тестирования.	No pude determinar la ventana activa TestClient.
+Не получилось получить значение таблицы <%1>	No pude obtener el valor de la tabla <%1>
+Не получилось прочитать параметр запуска.	No pude leer el parámetro de inicio.
+Не получилось сделать выбор в поле <%1> значения <%2>. %3	No pude hacer la selección en el campo <%1> valores <%2>. %3
+Не получилось создать тестовый MP3	No pude crear un MP3
+Не реализовано.	No se ha implementado.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>	No pudo en la tabla <%1> hacer seleccionar de la lista de selección <%2> en la línea <%3>
+Не смог выделить все строки в таблице <%1>. %2	No fue capaz de seleccionar todas las filas de la tabla <%1>. %2
+Не смог выполнить команду по получению координат на экране всех окон 1С в панели задач.	No se pudo ejecutar el comando de obtención de coordenadas en la pantalla todas las ventanas de 1S en la barra de tareas.
+Не смог выполнить команду. <%1>	No se pudo ejecutar el comando. <%1>
+Не смог вычислить выражение: %1	No se pudo calcular por la expresión: %1
+Не смог загрузить %1. %2	No se pudo cargar el 1 por ciento. %2
+Не смог загрузить базу из dt: %1. ПутьКDT: %2. Статус возврата: %3	No se pudo cargar la base de dt: %1. ПутьКDT: %2. El estado de retorno: %3
+Не смог загрузить снипеты из %1	No se pudo cargar el снипеты de %1
+Не смог закрыть окно %1	No pudo cerrar la ventana %1
+Не смог закрыть окно повторно %1	No pudo cerrar la ventana vuelva a %1
+Не смог запустить конфигуратор. <%1>	No fue capaz de ejecutar el configurador. <%1>
+Не смог из переданных параметров JSON определить каталог отчета Allure.	No pudo de los parámetros pasados, JSON determinar la carpeta de informe Allure.
+Не смог из переданных параметров JSON определить каталог отчета CucumberJson.	No pudo de los parámetros pasados, JSON determinar la carpeta de informe CucumberJson.
+Не смог из переданных параметров JSON определить каталог отчета jUnit.	No pudo de los parámetros pasados, JSON determinar la carpeta de informe de jUnit.
+Не смог найти данные для подключения профиля клиента тестирования <%1>	No es capaz de encontrar los datos para la conexión de un perfil de cliente de prueba <%1>
+Не смог найти код модуля формы в файле ИмяФайлаФормаУФ.	No se pudo encontrar el módulo de código de formulario en un archivo ИмяФайлаФормаУФ.
+Не смог найти открытый конфигуратор.	No pude encontrar una piscina al aire configurador.
+Не смог найти сохранненное значение по переменой <%1>	No se pudo encontrar сохранненное el valor de la variable <%1>
+Не смог обработать XML в UILogToScript.	No se pudo procesar el XML en UILogToScript.
+Не смог обработать параметры в строке <%1>	No pudo procesar la configuración en la barra de <%1>
+Не смог определить длительность у файла: %1	No se puede determinar la duración de el archivo: %1
+Не смог определить СледующееОжидаемоеКлючевое по: %1	No se puede determinar el СледующееОжидаемоеКлючевое de: %1
+Не смог определить следующий шаг для выполнения.	No se pudo determinar el siguiente paso de ejecución.
+Не смог определить тип значения для строки: %1	No se pudo determinar el tipo de valor de la cadena: %1
+Не смог перейти к строке фильтра <%1>	No pudo ir a la línea de filtro <%1>
+Не смог по переменной <%1> найти сохраненное значение.	No pudo variable <%1> encontrar el valor almacenado.
+Не смог подключить TestClient.	No fue capaz de conectar TestClient.
+Не смог подключить TestClient. Прерывание по таймауту <%1>	No fue capaz de conectar TestClient. Interrupción programada <%1>
+Не смог подключить обработку <%1>	No fue capaz de conectar el procesamiento de la <%1>
+Не смог подключить профиль TestClient <%1>	No fue capaz de conectar el perfil de TestClient <%1>
+Не смог подставить в строку параметры: <%1>	No pudo ponerla en la cadena de parámetros: <%1>
+Не смог получить данные файла <%1>	No fue capaz de obtener los datos del archivo <%1>
+Не смог получить значение из строки запуска	No se pudo obtener el valor de la fila de inicio
+Не смог получить значение поля <%1> у таблицы <%2>.%3	No se pudo obtener el valor del campo <%1> tabla <%2>.%3
+Не смог получить значение таблицы <%1>	No se pudo obtener el valor de la tabla <%1>
+Не смог получить значение табличного документа <%1>	No se pudo obtener el valor de la tabla de un documento <%1>
+Не смог получить количество строк у таблицы <%1>	No se pudo obtener el número de filas de la tabla <%1>
+Не смог получить макет %1	No fue capaz de obtener el diseño de %1
+Не смог получить состяние таблицы <%1>	No fue capaz de conseguir el estado de la tabla <%1>
+Не смог получить строки таблицы <%1>	No fue capaz de obtener las filas de la tabla <%1>
+Не смог получить строки таблицы.	No fue capaz de obtener las filas de la tabla.
+Не смог получить строки ТЧ <%1>	No fue capaz de obtener de la cadena de pm <%1>
+Не смог получить строку сценария.	No fue capaz de obtener la línea de comandos.
+Не смог получить строку таблицы %1	No fue capaz de obtener la fila de la tabla %1
+Не смог получить форму текущего окна.	No pudo conseguir la forma de la ventana actual.
+Не смог ПолучитьГлавноеОкноТестируемогоПриложения.	No pudo ПолучитьГлавноеОкноТестируемогоПриложения.
+Не смог поменять параметры шага местами <%1>	No fue capaz de cambiar la configuración de paso de asientos <%1>
+Не смог преобразовать к числу PID=%1	No podía convertir a un número de PID=%1
+Не смог распаковать %1	No pudo descomprimir %1
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>	No pudo hacer seleccionar de la lista de selección <%1> en la línea <%2>
+Не смог скопировать сценарий %1, т.к. произошло бы зацикливание.	No pude copiar la secuencia de comandos %1, ya que habría ocurrido el bucle.
+Не смог создать базу по строке: %1. Статус возврата: %2	No se pudo crear la base de la cadena: %1. El estado de retorno: %2
+Не смог создать каталог для отчета Allure: %1	No se pudo crear el directorio para el informe de Allure: %1
+Не смог создать каталог для отчета CucumberJson: %1	No se pudo crear el directorio para el informe CucumberJson: %1
+Не смог создать каталог для отчета jUnit: %1	No se pudo crear el directorio para el informe de jUnit: %1
+Не смог создать объект сравнения файлов.	No se pudo crear el objeto de comparación de archivos.
+Не смог создать сервисные базы. Статус=%1	No pudo crear un servicio de base. Estado=%1
+Не смог удалить файл %1	No se pudo eliminar el archivo %1
+Не смогли найти таблицу <%1> в активном окне.	No pudimos encontrar una tabla <%1> en la ventana activa.
+Не стал загружать фичу: %1, т.к. в ней не найдено тегов фильтров.	No se volvió a subir фичу: %1, ya que en ella no se encuentra la etiqueta de los filtros.
+Не стал загружать фичу: %1, т.к. обнаружен тег исключение: %2	No se volvió a subir фичу: %1, ya que se encontró una etiqueta excepción: %2
+Не удалось авторизоваться в базе.	No se pudo iniciar sesión en la base.
+Не удалось дождаться события завершения цикла в течение <%1> секунд.	No se puede esperar para el evento de finalización de un ciclo, en el plazo de <%1> segundos.
+Не удалось найти документ по номеру <%1>. Тип Документ.%2	No se pudo encontrar el documento al <%1>. Tipo De Documento.%2
+Не удалось перейти к нужной строке в таблице <%1>. %2	No pudo ir a la fila de la tabla <%1>. %2
+Не удалось подключить COM объект <Shell.Application>	No se pudo montar el objeto COM <Shell.Application>
+Не удалось подключить COM объект <WScript.Shell>	No se pudo montar el objeto COM <WScript.Shell>
+Не удалось подключить клиент тестирования. %1	No se pudo montar el cliente de prueba. %1
+Не удалось подключить форма %1 по причине:%2	No se pudo montar la forma %1 debido a:%2
+Не удалось получить таймаут для запуска TestClient из значения %1. Используется значение по умолчанию: 25	No se pudo obtener el tiempo de espera para iniciar el TestClient de los valores de %1. El valor predeterminado es: 25
+Не удалось получить таймаут для работы асинхронных шагов. Было передано значение: %1	No se pudo obtener el tiempo de espera para la operación asincrónica pasos. Se pasó un valor: %1
+Не указан каталог для формирования видео инструкции.	No se especifica el directorio para la formación de videos de instrucción.
+Не указан каталог с нужной версией платформы 8.3.10 или выше.	No se especifica el directorio con la versión de la plataforma de 8.3.10 o superior.
+Не указана команада для выполнения скриншотов. Например <%1>	No se especifica команада para realizar capturas de pantalla. Por ejemplo: <%1>
+Не указано имя файла лога в параметре <ИмяКаталогаЛогОшибок>	No se especifica el nombre del archivo de log en el parámetro <ИмяКаталогаЛогОшибок>
+Не указано имя файла лога в параметре <ИмяФайлаЛогВыполненияСценариев>	No se especifica el nombre del archivo de log en el parámetro <ИмяФайлаЛогВыполненияСценариев>
+Не указано количество кадров.	No se especifica el número de fotogramas.
+Не установлен ffmpeg.	No está instalado ffmpeg.
+Не установлен ImageMagic (convert.exe)	No tiene ImageMagic (convert.exe)
+Не установлен ImageMagic (convert.exe).	No tiene ImageMagic (convert.exe).
+Не установлен oscript.	No tiene oscript.
+Не установлен VLC 2.1.5.	No está instalado el VLC 2.1.5.
+Не установлен ГолосовойДвижок.	No tiene ГолосовойДвижок.
+Неверно задан макет. Неверная колонка в первой строке. Не указана обязательная колонка с именем [%1]	Está mal definido el diseño. Es incorrecto columna en la primera fila. No se especifica obligatoria de la columna con el nombre de [%1]
+Неверное число параметров в строке табилцы. Должно быть <	Un número incorrecto de parámetros en la línea de табилцы. Debe ser <
+Неверное число параметров в строке таблицы. Должно быть <%1> параметров, а в строке найдено <%2>.	Un número incorrecto de parámetros en la línea de la tabla. Debe ser <%1> opciones y en la barra encontrado <%2>.
+Неверный режим поиска: Не поддерживаемый режим поиска. Реквизит <%1>: Искали значение <%2>	Modo incorrecto de la búsqueda: No es compatible con el modo de búsqueda. Prop <%1>: Buscando el valor de la <%2>
+Неверный формат области <%1>	Formato incorrecto de la esfera de la <%1>
+Невидима	Invisible
+Недоступна	No está disponible
+Неивестный ТипПараметра в ПолучитьАсинхроноСостоянияОбъектовФайловойСистемы: %1	Неивестный ТипПараметра en ПолучитьАсинхроноСостоянияОбъектовфайловойсистемы: %1
+Неизвестная версия поставки Vanessa-Automation: %1	Versión desconocida de la entrega de Vanessa-Automation: %1
+Неизвестная ошибка в ПолучитьРезультатПрохожденияТестовСценария.	Error desconocido en ПолучитьРезультатПрохожденияТестовсценария.
+НеизвестнаяОшибка	НеизвестнаяОшибка
+Неизвестный идентификатор плагина: <%1>	Desconocido el identificador de plug-in: <%1>
+Неизвестный КорневойТипКонфигурации <%1>	Desconocido КорневойТипКонфигурации <%1>
+Неизвестный КорневойТипКонфигурации <%1> КорневойТипКонфигурации()	Desconocido КорневойТипКонфигурации <%1> КорневойТипКонфигурации()
+Неизвестный менеджер регистра %1.%2 . Переменная %3	Desconocido gerente de mayúsculas y minúsculas %1.%2 . La variable %3
+Неизвестный тип вывода данных по изменению формы.	Desconocido el tipo de salida de datos de cambio de forma.
+Неизвестный Тип: %1 в ПолучитьЗначениеДляПередачиВМетод	Tipo desconocido: %1 en ПолучитьЗначениеДляПередачиВМетод
+Нельзя изменять текущее поле у зарезервированного подключения <Этот клиент>.	No se puede modificar el actual campo de el reservado de conexión <El cliente>.
+Нельзя получить состав колонок для пустой таблицы.	No se puede obtener la composición de las columnas para una tabla vacía.
+Необрабатываемый корневой тип <%1>	No interpretado por raíz el tipo de <%1>
+Необходимо установить программное обеспечение. Подробности тут: %1	Debe instalar el software. Los detalles aquí: %1
+НеСовпадаютЗначенияВЯчейкеТаблицы	НеСовпадаютЗначенияВЯчейкеТаблицы
+Нет подключенных TestClient.	No hay conectados TestClient.
+Обнаружено несколько полей с заголовком <%1>	Se han detectado varios campos con el título de <%1>
+Обычная фича №%1 из %2. РаннерID=%3. %4	Normal ficha nº%1 %2. РаннерID=%3. El 4 %
+Одна или несколько строк эталонной таблицы не найдена в таблице формы%1	Una o varias líneas de referencia de la tabla no se encuentra en la tabla de la forma%1
+Однопоточная фича №%1 из %2. РаннерID=%3. %4	Único subproceso ficha nº%1 %2. РаннерID=%3. El 4 %
+Ожидали <%1> элементов справочника <%2>, а нашли <%3> элементов.	Se espera <%1> elementos del manual de <%2>, y han encontrado <%3> elementos.
+Ожидали в течение <%1> секунд доступности поля <%2>. Но такой элемент на форме не найден.	Se espera en un plazo de <%1> segundos de la disponibilidad de los campos <%2>. Pero este elemento en el formulario no se ha encontrado.
+Ожидали в течение <%1> секунд доступности поля <%2>. ТекущаяДоступность=%3	Se espera en un plazo de <%1> segundos de la disponibilidad de los campos <%2>. ТекущаяДоступность=%3
+Ожидали в течение <%1> секунд появления поля <%2>. Но такой элемент на форме не найден.	Se espera en un plazo de <%1> segundos de aparición de los campos <%2>. Pero este elemento en el formulario no se ha encontrado.
+Ожидали в течение <%1> секунд появления поля <%2>. ТекущаяВидимость=%3	Se espera en un plazo de <%1> segundos de aparición de los campos <%2>. ТекущаяВидимость=%3
+Ожидали в течение <%1> секунд у поля <%2> значения <%3>. Текущее значение <%4>	Se espera en un plazo de <%1> segundos en el campo <%2> valores <%3>. El valor actual de la <%4>
+Ожидали в течение <%1> секунд у таблицы <%2> количество строк %3 %4. Текущее количество строк <%5>	Se espera en un plazo de <%1> segundos de la tabla <%2> número de filas %3 % 4. El número actual de líneas <%5>
+Ожидали в течение <%1> секунд, что закроется окно с заголовком <%2>	Se espera en un plazo de <%1> segundos, para que se cierre la ventana con el título <%2>
+Ожидали в течение <%1> секунд, что откроется окно с заголовком <%2>	Se espera en un plazo de <%1> segundos, que se abrirá una ventana con el título <%2>
+Ожидали в течение <%1> секунд, что поле <%2> будет заполненным.	Se espera en un plazo de <%1> segundos, que el campo de la <%2> se llena.
+Ожидали заполненность ссылки, а получили пустую ссылку.%1	Esperaban el llenado de referencias, y han recibido una referencia.%1
+Ожидали идентичность файлов, а получили, что они различны.%1	Esperaban la identidad de los archivos, y han recibido, que son diferentes.%1
+Ожидали получить только одну строку таблицы.	Esperaba recibir sólo una fila de la tabla.
+Ожидали статус <%1>, а получили <%2>	Esperaban el estado de <%1>, y han recibido <%2>
+Ожидали существование объекта в ИБ, а получили объект не найден <%1> .%2	Esperaban la existencia de un objeto en el ib, y han recibido el objeto no se ha encontrado <%1> .%2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения <%4>. Текущее значение <%5>.	Esperaban la tabla <%1> <%2> segundos en el campo <%3> valores <%4>. El valor actual de la <%5>.
+Ожидали, что %1 %2 выбросит исключение %3 %4	Esperaban que el %1 %2 genera una excepción de %3 % 4
+Ожидали, что активным окном будет <%1>, а нашли <%2>. Таймаут поиска окна: %3	Esperaban que la ventana activa se <%1>, y han encontrado <%2>. El tiempo de espera de búsqueda de la ventana: %3
+Ожидали, что в сообщениях пользователю будет подстрока <%1>	Esperaban que en los mensajes que el usuario se subcadena <%1>
+Ожидали, что вторым параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Esperaban que el segundo parámetro es transmitido a una matriz de parámetros para el método de <%1>, y tiene otro objeto con el tipo de <%2>
+Ожидали, что вторым параметром будет передана структура параметров для метода <СоздатьДанныеПоТабличномуДокументу>, а получили другой объект с типом <%1>	Esperaban que el segundo parámetro será remitida a la estructura de parámetros para el método de <СоздатьДанныеПоТабличномуДокументу>, y tiene otro objeto con el tipo de <%1>
+Ожидали, что количество строк таблицы <%1> будет равно переменной <%2>. Значение переменной <%3>. Количество строк <%4>	Esperaban que el número de filas de la tabla <%1> será igual a la variable <%2>. El valor de la variable <%3>. El número de filas <%4>
+Ожидали, что окно сообщений пользователю будет пустое. В нём %1 сообщений.	Esperaban que la ventana de mensajes, el usuario se encuentra en blanco, y en él %1 mensajes.
+Ожидали, что переменная <%1> будет равна <%2>. Текущее значение <%3>	Esperaban que la variable <%1> será <%2>. El valor actual de la <%3>
+Ожидали, что поле <%1> будет равно переменной <%2>. Значение переменной <%3>. ЗначениеПоля <%4>	Esperaban que el campo <%1> será igual a la variable <%2>. El valor de la variable <%3>. Datosdel <%4>
+Ожидали, что поле с заголовком <%1> будет заполнено, но оно пустое.	Esperaban que el cuadro con el título de <%1> se llena, pero está vacío.
+Ожидали, что проверяемое значение (%1) %2 %3 %4	Esperaban que el valor comprobado (%1) %2 %3 %4
+Ожидали, что третьим параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Esperaban que el tercer parámetro se le pasará una matriz de parámetros para el método <%1>, y tiene otro objeto con el tipo de <%2>
+Ожидали, что у группы <%1> текущей страницей будет <%2>, а оказалась <%3>	Esperaban que el grupo de <%1> de la página actual se <%2>, y se encontraba <%3>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Esperaban que el documento tabular <%1> en la celda con la dirección <%2> es el valor de la <%3>, y han recibido <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Esperaban que el documento tabular <%1> en la celda con la dirección <%2> es el valor de la <%3>, y han recibido <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Esperaban que el documento tabular <%1> en la celda con la dirección <%2> es el valor de la <%3>, y han recibido <%4>
+Ожидали, что ячейка <%1> будет заполнена.	Esperaban que la celda <%1> se llena.
+Ожидали, чтов таблице <%1> поле <%2> будет равно переменной <%3>. Значение переменной <%4>. ЗначениеПоля <%5>	Esperaban чтов tabla <%1> el campo <%2> será igual a la variable <%3>. El valor de la variable <%4>. Datosdel <%5>
+Окно с заголовком <%1> не найдено.	De diálogo con el título de <%1> no se encuentra.
+Описание ошибки: %1	Descripción del error: %1
+Остановка на брейкпоинте.	Parada en брейкпоинте.
+Ошибка в %1. %2	Error en %1. %2
+Ошибка в ДобавитьStepDefinitionВТекстМодуля.	Error en ДобавитьStepDefinitionВТекстМодуля.
+Ошибка в ПолучитьУжеСуществующиеСнипетыИзОбработок(). Файл/каталог %1 не существует.	Error en ПолучитьУжеСуществующиеСнипетыИзобработок(). El archivo/directorio %1 no existe.
+Ошибка в файле %1, снипет %2 уже был в %3	El error en el archivo %1, снипет %2 ya estaba en %3
+Ошибка перегенерации EPF. Файл %1 не найден.	Error перегенерации EPF. El archivo "%1 " no se ha encontrado.
+Ошибка при выгрузке набора записей регистра: %1	Error en la descarga del conjunto de registros registro: %1
+Ошибка при выгрузке объекта: %1. Тип: %2	Error en la descarga del objeto: %1. Tipo: %2
+Ошибка при закрытии всех окон Testclient.	Error al cerrar todas las ventanas de Testclient.
+Ошибка при поиске значений в макете %1:	Error en la búsqueda de valores en el diseño de %1:
+Ошибка при получении активной формы.	Error al obtener el formulario activo.
+Ошибка при получении списка процессов 1С.	Error al obtener la lista de procesos 1S.
+Ошибка при получении текста фичи:	Error al obtener el texto slave:
+Ошибка при построении дерева из файла <%1>%2%3	Error al generar el árbol de archivo <%1> %2 %3
+Ошибка при создании данных из макета. Неуникальное имя переменной: [%1]	Error al crear los datos de diseño. Неуникальное el nombre de la variable: [%1]
+Ошибка проверки значения таблицы <%1>. %2	Error en la comprobación de los valores de la tabla <%1>. %2
+Ошибка создания временного файла в подкаталоге %1.	Error al crear el archivo temporal en el subdirectorio %1.
+Ошибка создания скриншота:%1 команда:%2	Error en la creación de capturas de pantalla:%1 comando:%2
+Ошибка создания файла %1.	Error al crear el archivo %1.
+Ошибка чтения JSON. Неизвестный символ %1	Error de lectura de JSON. Desconocido el carácter %1
+Ошибка чтения структуры JSON пропускаем чтение	Error de lectura de la estructura JSON saltamos la lectura
+Ошибка чтения структуры JSON.	Error de lectura de la estructura JSON.
+Ошибка. В фиче %1 было найдено несколько сценариев с именем %2	Error. En fiche %1, se han encontrado algunas secuencias de comandos con el nombre %2
+Ошибка. Найдено более 1 значения в кэше МетаданныеИмя [%1] по указанным параметрам поиска %2	Error. Encuentra más de 1 valores almacenados en caché МетаданныеИмя [%1] de los parámetros de búsqueda %2
+ОшибкаПроверки	ОшибкаПроверки
+Параметр <Запускаемая обработка> указывает на несуществующий файл.	La opción <se Ejecuta el procesamiento de> especifica un archivo que no existe.
+Параметр <Имя подключения> является обязательным.	La opción de <Nombre de la conexión> es obligatorio.
+Параметр <Логин> не задан	La opción de <nombre de Usuario> no se especifica
+Параметр %1 не найден в таблице параметров.	El parámetro %1 no se ha encontrado en la tabla de parámetros.
+Первый параметр (%1) меньше второго (%2) а хотели, чтобы был больше или равен.%3	El primer parámetro (%1) es menor que el segundo (%2) y querían que fue mayor que o igual a.%3
+Первый параметр (%1) меньше или равен второму (%2) а хотели, чтобы был больше.%3	El primer parámetro (%1) menor o igual que el segundo (%2) y querían que fue más.%3
+Передан пустой путь в процедуру <СоздатьКаталогЕслиЕгоНет>.	Entregado en blanco la ruta en el procedimiento de <СоздатьКаталогЕслиЕгоНет>.
+Переданная дата (%1) не равна дате (%2) с точностью до 2-х секунд, а хотели, чтобы они равнялись. %3	Dada la fecha (%1) no es igual a la fecha (%2) con una precisión de hasta 2 segundos, y querían que se consignó. %3
+Переданный параметр (%1) не входит в период %2, а хотели, чтобы являлся. %3	Se pasa el parámetro (%1) no se incluye en el período %2, mientras que querían era. %3
+Переданный параметр (%1) не является Истиной, а хотели, чтобы являлся. %2	Se pasa el parámetro (%1) no es la Verdad, pero quería era. %2
+Переданный параметр (%1) не является Ложью, а хотели, чтобы являлся. %2	Se pasa el parámetro (%1) no es una Mentira, y querían que era. %2
+Передвижение курсора мышки - OK	El movimiento del cursor del ratón clic en aceptar
+ПередВыполнениемШага: %1	ПередВыполнениемШага: %1
+Переключатель с заголовком <%1> не найден.	El interruptor con el título de <%1> no se ha encontrado.
+Переключатель с именем <%1> не найден.	El interruptor con el nombre de <%1> no se ha encontrado.
+Переменная <%1> не найдена.	La variable <%1> no se ha encontrado.
+Переменная <%1> ранее не была сохранена	La variable <%1> no se ha guardado anteriormente
+Пересоздан %1	Пересоздан %1
+Пересоздаю %1	Пересоздаю %1
+ПланВидовРасчета.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланВидовРасчета.%1 no se puede encontrar un elemento/grupo [%2].%3
+ПланВидовРасчета.%1 не удалось создать новую группу.%2	ПланВидовРасчета.%1 no se puede crear un nuevo grupo.%2
+ПланВидовРасчета.%1 не удалось создать новый элемент.%2	ПланВидовРасчета.%1 no se puede crear un nuevo elemento.%2
+ПланВидовХарактеристик.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланВидовХарактеристик.%1 no se puede encontrar un elemento/grupo [%2].%3
+ПланВидовХарактеристик.%1 не удалось создать новую группу.%2	ПланВидовХарактеристик.%1 no se puede crear un nuevo grupo.%2
+ПланВидовХарактеристик.%1 не удалось создать новый элемент.%2	ПланВидовХарактеристик.%1 no se puede crear un nuevo elemento.%2
+ПланОбмена.%1 не удалось получить узел этой ИБ.%2	ПланОбмена.%1 no se pudo obtener el nodo esta ib.%2
+ПланОбмена.%1 не удалось создать новый узел.%2	ПланОбмена.%1 no se puede crear un nuevo nodo.%2
+ПланСчетов.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланСчетов.%1 no se puede encontrar un elemento/grupo [%2].%3
+ПланСчетов.%1 не удалось создать новую группу.%2	ПланСчетов.%1 no se puede crear un nuevo grupo.%2
+ПланСчетов.%1 не удалось создать новый элемент.%2	ПланСчетов.%1 no se puede crear un nuevo elemento.%2
+Подключение с именем <%1> перезаполнено в таблице подключений	Conexión con el nombre <%1> перезаполнено en la tabla de conexiones
+Подключили для отладки форма %1	Conectó para la depuración de la forma %1
+Подключились к сеансу TESTCLIENT.	Conectado a la sesión de TESTCLIENT.
+Подсвет рамки - OK	Подсвет marcos: OK
+Поле <%1> в данный момент невидимо пользователю.	El campo <%1> en este momento es invisible para el usuario.
+Поле <%1> существует, а ожидали, что его нет.	El campo <%1> existe y que esperaban, que no existe.
+Поле с заголовком <%1> не найдено.	El cuadro con el título de <%1> no se encuentra.
+Поле с именем <%1> не найдено.	El campo con el nombre de <%1> no se encuentra.
+Получить изменения формы	Obtener el cambio de la forma de
+Получить состояние всей формы	Obtener el estado de todo el formulario
+ПолучитьИдентификаторПредставленияПоСсылке() : Неизвестный КорневойТипКонфигурации <%1>	ПолучитьИдентификаторПредставленияпоссылке() : Desconocido КорневойТипКонфигурации <%1>
+ПолучитьСостояниеФормыTestClient:%1	ПолучитьСостояниеФормыTestClient:%1
+ПолучитьТаблицуЗначенийИзТабличногоДокумента: Требуется тип ТабличныйДокумент или ПолеТабличногоДокумента	ПолучитьТаблицуЗначенийИзТабличногодокумента: Requiere que el tipo de ТабличныйДокумент o ПолеТабличногоДокумента
+ПолучитьУжеСуществующиеСнипетыИзОбработок:%1	ПолучитьУжеСуществующиеСнипетыИзобработок:%1
+Пометка для шаг установлена.	Marca de paso instalada.
+Пометка снята.	La marca cargada.
+порт <%1>	el puerto de <%1>
+Порт %1 занят или находится вне указанного диапазона, порт подключения изменен на %2	El puerto %1 está ocupado o fuera de un rango especificado, el puerto de conexión cambiado en %2
+Построение дерева.	Construcción del árbol.
+Превышение таймаутуа ожидания завершения фонового задания.	El exceso de таймаутуа espera completar el trabajo de fondo.
+Предупреждение с текстом %1 не найдено.	Advertencia con el texto "%1 " no encontrados.
+Предыдущая ошибка: %1. ТаймаутОжидания=%2	Anterior error: %1. ТаймаутОжидания=%2
+При подключении TestClient возникло сообщение:	Cuando se conecta TestClient se produjo el mensaje:
+ПроверитьРавенствоТаблиц: Второй параметр-таблица таблицей не является	ПроверитьРавенствоТаблиц: Segundo parámetro de la tabla a la tabla no es
+ПроверитьРавенствоТаблиц: Первый параметр-таблица таблицей не является	ПроверитьРавенствоТаблиц: el Primer parámetro de la tabla de la tabla no es
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Второй параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: Segundo parámetro de la tabla no es una tabla de un documento
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Первый параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: la Primera opción, la tabla no es una tabla de un documento
+ПроверитьТип: Тип значения параметра ТипИлиИмяТипа должен быть <Тип> или <Строка>, а получили <%1>%2	ПроверитьТип: Tipo de valor de la opción de ТипИлиИмяТипа debe ser <Tipo> o <Cadena>, y han recibido <%1>%2
+Проверка загрузки объектов в ИБ из макета данных выполнена успешно.	Comprobación de la carga de objetos en el ib de diseño de datos se ha realizado correctamente.
+Проверьте работу команды <%1>	Compruebe el funcionamiento de los comandos <%1>
+Профиль с именем <%1> не найден.	El perfil con el nombre de <%1> no se ha encontrado.
+ПрочитатьПеременныеСреды:%1	ПрочитатьПеременныеСреды:%1
+Пустой адрес снипета у шага: %1	Vacía la dirección de снипета de el paso: %1
+ПутьКФиче=Неопределено	ПутьКФиче=Indefinido
+Работа с ключами для %1 пока не поддерживается	El trabajo con las llaves para %1 no es compatible con
+Работаю по сценарию	Trabajo en el escenario
+Работаю по фиче: %1	Trabajo de fiche: %1
+равно	igual
+РазличаютсяКолонки	РазличаютсяКолонки
+Различия в таблицах:	Las diferencias en las tablas:
+РазноеКоличествоСтрок	РазноеКоличествоСтрок
+Раннер <%1> не подключен.	Corredor <%1> no está conectado.
+РежимСовместимостиTestManager	РежимСовместимостиTestManager
+Реквизит <%1> не найден.	Prop <%1> no se ha encontrado.
+с длиной	con una longitud de
+Сеанс должен быть запущен с ключом TESTMANAGER.	La sesión debe ser iniciado con la clave TESTMANAGER.
+Снипет <%1> встречается %2 раз.	Снипет <%1> se reúne %2 veces.
+содержащее текст <%1>, а был текст <%2>	el texto de la <%1>, y fue el texto <%2>
+содержит	contiene
+Создан %1	Fue creado por %1
+Создан файл: %1	Creado el archivo: %1
+Создание epf по фичам закончено.	La creación de la epf de фичам terminado.
+Создать тестовый mp3 - OK	Crear un mp3 - OK
+Создаю %1	Creo %1
+Справочник.%1 не удалось найти предопределенный элемент/группу [%2].%3	Guía de referencia rápida.%1 no se puede encontrar un elemento/grupo [%2].%3
+Справочник.%1 не удалось создать новую группу.%2	Guía de referencia rápida.%1 no se puede crear un nuevo grupo.%2
+Справочник.%1 не удалось создать новый элемент.%2	Guía de referencia rápida.%1 no se puede crear un nuevo elemento.%2
+Справочник.%1.%2 - получен пустой элемент.	Guía de referencia rápida.%1.%2 - recibe el elemento vacío.
+Сравниваемые значения (%1; %2) не равны, а хотели, чтобы были равны.%3	Se comparan los valores de (%1
+Сравниваемые значения (%1; %2) равны, а хотели, чтобы были не равны.%3	Se comparan los valores de (%1
+Странный параметр в логе инструкции HTML: %1	Extraño opción en el loge de instrucciones HTML: %1
+Странный параметр в логе инструкции Markdown: %1	Extraño opción en el loge de instrucciones de descuento: %1
+Строка <%1> из файла <%2> не найдена в файле <%3>	La cadena de <%1> del archivo <%2> no se encuentra en el archivo <%3>
+Строка <%1> найдена в окне сообщений пользователю.	La cadena de <%1> se encuentra en la ventana de mensajes al usuario.
+Строка <%1> найдена в последнем сообщении пользователю. Найдено: %2	La cadena de <%1> se ha encontrado en el último mensaje al usuario. Encontrados: %2
+Строка <%1> не найдена в окне сообщений пользователю.	La cadena de <%1> no se encuentra en la ventana de mensajes al usuario.
+Строка <%1> не найдена в последнем сообщении пользователю. Найдено: %2	La cadena de <%1> no se encuentra en el último mensaje al usuario. Encontrados: %2
+Строка %1 не найдена в реквизите %2	Línea %1 no se encuentra en monedero electrónico %2
+Строка №%1 не найдена в табличном документе на форме	Línea nº%1 no se encuentra en la cuadrícula de documento en forma de
+Строка №%1, обнаружен символ <|>, хотя не было ключевого слова <Примеры>.	Línea nº%1, se detecta un carácter de < | a>, aunque no era la palabra clave <Ejemplos>.
+Строка №%1, ожидалось (%2), а найдено (%3) ПредыдущееКлючевоеСлово=%4	Línea nº%1, se esperaba (%2), y se ha encontrado (%3) ПредыдущееКлючевоеСлово=%4
+Строка должна быть описана таблицей с двумя строками.	La cadena debe ser descrito de la tabla con dos filas.
+Строка с фича-файлом не найдена.	La línea con la ficha-archivo no encontrado.
+СтрокаЗапуска=%1	СтрокаЗапуска=%1
+существует	existe
+Сценарий <%1> не загружен.	La secuencia de comandos <%1> no se ha cargado.
+Сценарий: %1	La secuencia de comandos: %1
+Таблица <%1> не соответствует эталону. Ожидали <%2> строк, а в ней <%3> строк.	La tabla <%1> no coincide con el patrón. Se espera <%2> filas, y en ella <%3> filas.
+Таблица <%1> не стала равной за <%2> секунд. %3	La tabla <%1> no fue por igual de la <%2> segundos. %3
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Ожидали <%4>, а получили <%5>	La tabla <%1>. Número de línea<%2>. La columna de la <%3>. Se espera <%4>, y han recibido <%5>
+Таблица формы с именем <%1> не найдена.	Tabla de formulario con el nombre de <%1> no se ha encontrado.
+ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.Количество()=%2	ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.La cantidad de()=%2
+Таблицы должны совпадать, а они различны.%1	Las tablas deben coincidir, y son%1
+ТаблицыСовпадают	ТаблицыСовпадают
+Табличный документ <%1> оказался неравен <%2>.%3	Tabular el documento <%1> resultó ser es distinto de <%2>.%3
+Табличный документ не содержит нужные строки <%1>	Tabular el documento no contiene las cadenas de <%1>
+Табличный документ содержит ненужные строки <%1>	Tabular el documento contiene las líneas innecesarias <%1>
+ТестируемаяФорма <%1> не открылась, а должна была открыться	ТестируемаяФорма <%1> no se ha abierto, y tuvo que abrirse
+ТестПропущен	ТестПропущен
+Технические данные	Datos técnicos
+тип	el tipo de
+Типом значения <%1> является <%2>, а ожидался тип <%3>.%4	Tipo de valor de la <%1> es <%2>, y se esperaba un tipo de <%3>.%4
+Требуется документ, бизнес-процесс или задача. Неизвестный менеджер %1.%2 . Переменная %3	Se requiere un documento, un proceso de negocio o tarea. Desconocido gerente de %1.%2 . La variable %3
+ТЧ %1 не соответствует эталону. Ожидали %2 строк, а в ней %3 строк.	Pm %1 no coincide con el patrón. Esperaban %2 filas, y en ella %3 filas.
+ТЧ с именем <%1> не найдена.	Pm con el nombre de <%1> no se ha encontrado.
+У окна <%1> не найдено ни одного элемента с типом <ТестируемоеПолеФормы>.	Junto a la ventana <%1> no se ha encontrado ningún elemento de tipo <ТестируемоеПолеФормы>.
+У поля <%1> ожидали заголовок <%2>, а получили <%3>	El campo <%1> se espera encabezado <%2>, y han recibido <%3>
+У поля <%1> ожидали отображаемый текст <%2>, а получили <%3>	El campo <%1> se espera el texto <%2>, y han recibido <%3>
+У поля <%1> ожидали текст подсказки <%2>, а получили <%3>	El campo <%1> se espera el texto de la petición <%2>, y han recibido <%3>
+У текущего окна найдено %1 форм.	El de la ventana actual encontrados %1 de las formas.
+У элемента формы <%1> текущий текст редактирования <%2>, а ожидали <%3>	El elemento de formulario <%1> el texto actual edición de la <%2>, y se espera <%3>
+Удаляю элемент %1	Eliminar el elemento %1
+Удаляю элемент справочника <%1> : <%2>	Eliminar un elemento de un manual <%1> : <%2>
+Уже открытый TestClient подключен на %1 порту.	Ya está abierto TestClient está conectado a %1 puerto.
+Указан неверный диапазон портов: <%1>	Es incorrecto rango de puertos: <%1>
+Указанное Имя колонки замещения [%1] не существует в макете.	El Nombre de la columna de sustitución [%1] no existe en el diseño.
+Установлен флаг "Остановка при возникновении ошибки". Выполнение следующих сценариев отменено.	Se establece el indicador de Parada cuando se produce un error". La ejecución de las siguientes secuencias de comandos de deshacer.
+Установлен флаг <Остановка при возникновении ошибки>. Выполнение следующих сценариев отменено.	El indicador <Parada cuando se produce un error>. La ejecución de las siguientes secuencias de comandos de deshacer.
+Утверждение "ИмеетДлину" не умеет работать с типом <%1>.%2	La afirmación del "ИмеетДлину" no es capaz de trabajar con el tipo de <%1>.%2
+Утверждение "ПроверитьВхождениеВКоллекцию" не умеет работать с типом коллекции <%1>.%2	La afirmación del "ПроверитьВхождениеВКоллекцию" no es capaz de trabajar con el tipo de colección <%1>.%2
+Утверждение "Содержит" не умеет работать с типом <%1>.%2	La afirmación del "Contiene" no es capaz de trabajar con el tipo de <%1>.%2
+Утверждение <ИмеетДлину> не умеет работать с типом <%1>.%2	La aprobación de <ИмеетДлину> no es capaz de trabajar con el tipo de <%1>.%2
+Утверждение <ПроверитьВхождениеВКоллекцию> не умеет работать с типом коллекции <%1>.%2	La aprobación de <ПроверитьВхождениеВКоллекцию> no es capaz de trabajar con el tipo de colección <%1>.%2
+Утверждение <Содержит> не умеет работать с типом <%1>.%2	La aprobación de <Incluye> no es capaz de trabajar con el tipo de <%1>.%2
+Утверждение ПроверитьРавенствоФайлов можно использовать только в толстом клиенте.	La aprobación de ПроверитьРавенствоФайлов sólo se puede utilizar en la gruesa y el cliente.
+Файл <%1> не найден.	El archivo <%1> no se ha encontrado.
+Файл <%1> не существует.	El archivo <%1> no existe.
+Файл <vbFeatureReader.epf> не найден в каталоге инструментов <%1>	El archivo <vbFeatureReader.epf> no se ha encontrado en el directorio de herramientas <%1>
+Файл %1: <%2>	Archivo %1: <%2>
+Файл EPF не создан.	El archivo EPF no se ha creado.
+Файл EPF не создан. Не смог создать каталог временной базы.	El archivo EPF no se ha creado. No se pudo crear el directorio temporal de la base.
+Файл отчета Allure-report (%1) записан.	El archivo de informe Allure-report (%1) registrado.
+Файл отчета CucumberJson-report (%1) записан.	El archivo de informe CucumberJson-report (%1) registrado.
+Файл отчета jUnit-report (%1) записан.	El archivo de informe de jUnit-report (%1) registrado.
+Фича <%1> содержит тег @Tree. Найдены строки, которые содержат символы пробелов и символы табуляции в начале строки. Дерево не может быть корректно построено.	Ficha <%1> contiene una etiqueta @Tree. Se encuentran las líneas que contienen los caracteres de espacios y tabuladores al principio de la línea. El árbol no puede ser correctamente construido.
+Фича <%1> содержит тег @Tree. Часть строк содержит в начале строки символы пробелов <%2>, часть строк содержит символы табуляции <%3>. Дерево не может быть корректно построено.	Ficha <%1> contiene una etiqueta @Tree. Parte de las filas contiene en el comienzo de una cadena de caracteres de espacio <%2>, parte de las filas contiene caracteres de tabulación <%3>. El árbol no puede ser correctamente construido.
+Фича: %1	Ficha: %1
+Фичи загружены	Slave subidas
+Флаг <Сохранять контексты перед выполнением шагов> установлен в <Истина>.	La bandera <Guardar los contextos antes de realizar los pasos> en <Verdad>.
+Флаг с заголовком <%1> не найден.	La bandera con el título de <%1> no se ha encontrado.
+Флаг с именем <%1> не найден.	La bandera con el nombre de <%1> no se ha encontrado.
+Форма <%1> не найдена.	La forma de la <%1> no se ha encontrado.
+Форма окна с заголовком %1 не найдена.	La forma de la ventana con el título "%1 " no se ha encontrado.
+Форма с заголовком <%1> не найдена.	Formulario con el título de <%1> no se ha encontrado.
+Форма с заголовком %1 не найдена.	Formulario con el título "%1 " no se ha encontrado.
+Хост сеанс надо запустить с ключом /TESTMANAGER.	El host de sesión es necesario iniciar con el modificador /TESTMANAGER.
+Хотели, чтобы алгоритм <%1> выполнился, а он упал с ошибкой <%2>. %3	Querían que el algoritmo <%1> se pueda, y cayó con un error <%2>. %3
+Хотели, чтобы алгоритм <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	Querían que el algoritmo <%1> cayó con el mensaje de error <%2>, y él cayó con el mensaje <%3>.%4
+Хотели, чтобы алгоритм <%1> упал, а он выполнился%2	Querían que el algoritmo <%1> cayó, y él se haya ejecutado%2
+Хотели, чтобы код <%1> выполнился, а он упал с ошибкой <%2>. %3	Querían que el código <%1> se pueda, y cayó con un error <%2>. %3
+Хотели, чтобы код <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	Querían que el código <%1> cayó con el mensaje de error <%2>, y él cayó con el mensaje <%3>.%4
+Хотели, чтобы код <%1> упал, а он выполнился%2	Querían que el código <%1> cayó, y él se haya ejecutado%2
+Шаг	Paso
+Шаг (%1) не выполнен.	Paso (%1) no se ha iniciado.
+Шаг (%1) не выполнен. Строка дерева №%2	Paso (%1) no se ha iniciado. La cadena de la madera nº%2
+Шаг (%1) не реализован.	Paso (%1) no se ha implementado.
+Шаг <%1> должен был вызвать исключение, а он выполнился корректно.	Paso <%1> debe haber una excepción, y él se haya ejecutado correctamente.
+Шаг выполнен с ошибкой: %1	El paso se realiza con el error: %1
+Шаг принимает на вход только таблицу Gherkin, в которой две строки. А было передано %1 строк.	Paso toma sólo la tabla Gherkin, en el que dos líneas. Y fue transmitido %1 filas.
+Шаг сценария не реализован.	Paso de la secuencia de comandos no se ha implementado.
+Элемент с заголовком <%1> виден на текущей форме	Un elemento con el título de <%1> es visible en la forma actual
+Элемент с заголовком <%1> доступен на форме	Un elemento con el título de <%1> está disponible en forma de
+Элемент с заголовком <%1> доступен не только для просмотра	Un elemento con el título de <%1> disponible no sólo para ver
+Элемент с заголовком <%1> доступен только для просмотра	Un elemento con el título de <%1> sólo está disponible para ver
+Элемент с заголовком <%1> не виден на текущей форме	Un elemento con el título de <%1> no es visible en la forma actual
+Элемент с заголовком <%1> не доступен на форме	Un elemento con el título de <%1> no está disponible en forma de
+Элемент с именем <%1> виден на текущей форме	Un elemento llamado <%1> es visible en la forma actual
+Элемент с именем <%1> доступен на форме	Un elemento llamado <%1> está disponible en forma de
+Элемент с именем <%1> доступен не только для просмотра	Un elemento llamado <%1> disponible no sólo para ver
+Элемент с именем <%1> доступен только для просмотра	Un elemento llamado <%1> sólo está disponible para ver
+Элемент с именем <%1> не виден на текущей форме	Un elemento llamado <%1> no es visible en la forma actual
+Элемент с именем <%1> не доступен на форме	Un elemento llamado <%1> no está disponible en forma de
+Элемент формы <%1> не найден.	El elemento de formulario <%1> no se ha encontrado.
+Элемент формы с именем <%1> не найден.	El elemento de formulario con el nombre de <%1> no se ha encontrado.
+Элемента формы с заголовком <%1> не найдено.	El elemento de formulario con el título de <%1> no se encuentra.
+Элемента формы с именем <%1> не найдено.	El elemento de formulario con el nombre de <%1> no se encuentra.
+Это возможно только для шага.	Esto sólo es posible para el paso.
+является NULL	es NULL
+является заполненным	es lleno de
+является истиной	es la verdad
+является ложью	es una mentira
+является неопределено	es indefinido
+Не найден SikuliX скрипт <%1>.	No se ha encontrado SikuliX script <%1>.
+Не удалось выполнить SukuliX скрипт <%1>.	No se pudo realizar la SukuliX script <%1>.
+Ожидали, что в таблице <%1> текуще поле будет заполнено.	Esperaban que en la tabla <%1> текуще el campo se llena.
+Ожидали, что в таблице <%1> текуще поле будет не заполнено.	Esperaban que en la tabla <%1> текуще campo está en blanco.
+Ожидали у таблицы <%1> в течение <%2> секунд, что текущее поле будет заполнено.	Esperaban la tabla <%1> <%2> segundos, que el campo se llena.
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Не смог получить значение из эталона.	La tabla <%1>. Número de línea<%2>. La columna de la <%3>. No se pudo obtener el valor de la referencia.
+Не получилось получить представление открытого списка выбора <%1>.	No pude obtener una visión abierta de la lista de selección <%1>.
+У списка выбора <%1> ожидалось %2 значений, а было получено %3 значений.	El de la lista de selección <%1> se esperaba %2 valores, y se recibieron %3 valores.
+Ожидалось получить %1, а было получено %2.	Se esperaba obtener un %1, y se recibieron %2.
+Открытый список выбора <%1> не равен эталону. Различия: %2	Piscina al aire lista de selección <%1> no es el patrón. Diferencias: %2
+Ожидалось, что открытый список содержит значение %1.	Se esperaba que el público la lista contiene el valor %1.
+Открытый список выбора <%1> не содержит ожидаемые значения: %2	Piscina al aire lista de selección <%1> no contiene valores esperados: %2
+Открытый список выбора <%1> содержит значения, которых не должно быть: %2	Piscina al aire lista de selección <%1> contiene los valores, que no debe ser: %2
+Не смог получить данные локализации сообщений.	No fue capaz de obtener los datos de localización de los mensajes.
+У поля <%1> не получилось нажать на гиперссылку <%2>.	El campo <%1> no funciona hacer clic en el hipervínculo <%2>.
+Вы уверены?	¿Está usted seguro?
+Закрыть форму	Cerrar el formulario
+Не получилось нажать на кнопку <%1>.	No funciona hacer clic en el botón <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд ячейка <%3> станет равна <%4>.	Esperaban que el documento tabular <%1> <%2> segundos celda <%3> será igual a <%4>.
+Некоторые сообщения не были найдены в окне сообщений пользователю: %1	Algunos de los mensajes no se han encontrado en la ventana de mensaje para el usuario: %1
+В окне сообщений пользователю были найдены лишние сообщения: %1	En la ventana de mensajes que el usuario se encontraron exceso de mensajes: %1
+Не получилось определить длительность у файла <%1>.	No pude determinar la duración de el archivo <%1>.
+Не получилось добавить субтитры к файлу <%1>.	No pude añadir subtítulos a un archivo <%1>.
+Команда ffmpeg по слиянию всех видео не выполнена.	El comando ffmpeg de la fusión de todos los vídeos que no se ejecuta.
+Команда ffmpeg по перекодированю звука не выполнена.	El comando ffmpeg de перекодированю sonido no se realizó.
+Команда ffmpeg по добавлению водяной отметки и перекодированию звука не выполнена.	El comando ffmpeg por la adición de agua de la marca y la recodificación de sonido no se realizó.
+Команда ffmpeg по кодированию в mp4 не выполнена.	El comando ffmpeg de codificación en mp4 no se realizó.
+Команда ffmpeg по добавлению mp3 в ролик не выполнена.	El comando ffmpeg para agregar el mp3 en el rodillo no se realizó.
+Не получилось создать файл TTS <%1>.	No se pudo generar un archivo TTS <%1>.
+Не указано имя голоса Text To Speech.	No se indica el nombre de la voz Text To Speech.
+Не указана команда ffmpeg.	No especifica el comando ffmpeg.
+Не указана команда Convert.	No especifica el comando Convert.
+Не найдено значение из колонки <%1>.	No se encuentra el valor de la columna <%1>.
+Не найдено значение <%1> из колонки <%2>.	No se encuentra el valor de la <%1> de la columna <%2>.
+Не получилось сохранить в переменную <%1> таблицу с именем <%2>.	No pude guardar en la variable <%1> de la tabla con el nombre de <%2>.
+Таблица <%1> пустая.	La tabla <%1> vacío.
+В таблицах <%1> и <%2> разное количество колонок <%3> и <%4>.	En las tablas <%1> y <%2> número diferente de columnas <%3> y <%4>.
+Не все строки таблицы <%1> найдены в таблице <%2>:	No todas las filas de la tabla <%1> se encuentran en la tabla <%2>:
+Для элемента с именем <%1> не найдена форма.	Para el elemento con el nombre de <%1> no se puede encontrar el formulario.
+Не указано значение настройки Vanessa-automation: <КаталогПроекта>.	No se especifica la configuración de Vanessa-automation: <КаталогПроекта>.
+Не указано значение настройки Vanessa-automation: <КаталогиСкриптовSikuliX>.	No se especifica la configuración de Vanessa-automation: <КаталогиСкриптовSikuliX>.
+В каталоге <%1> не найден файл <%2>.	En el directorio <%1> no se ha encontrado el archivo <%2>.
+В каталоге <%1> найдено больше одного файла <%2>: %3.	En el directorio <%1> se ha encontrado más de un archivo <%2>: %3.
+Не получилось сделать клик мышкой по картинке <%1>.	No funciona hacer clic con el ratón sobre la imagen <%1>.
+Не получилось запустить Sikulix сервер.	No pude ejecutar Sikulix servidor.
+Не получилось дождаться выполнения SikuliX скрипта <%1>.	No pude esperar a la ejecución de SikuliX script <%1>.
+Не получилось выполнить SikuliX скрипт <%1>.	No pude realizar SikuliX script <%1>.
+Ожидалось, что группа элементов <%1> содержит данные элементы формы: %2	Se esperaba que el grupo de elementos <%1> contiene los datos de los elementos de la forma: %2
+Ожидалось, что группа элементов <%1> не содержит данные элементы формы: %2	Se esperaba que el grupo de elementos <%1> no contiene los datos de los elementos de la forma: %2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения отличного от <%4>. Текущее значение <%5>.	Esperaban la tabla <%1> <%2> segundos en el campo <%3> valor distinto de <%4>. El valor actual de la <%5>.
+Ожидалось, что в панели разделов будет <%1> элементов, а найдено <%2> элементов.	Se esperaba que en el panel de la partición se <%1> elementos encontrados <%2> elementos.
+Ожидалось, что в панели разделов будут содержаться следующие элементы: %1	Se esperaba que en la barra de secciones contendrá los siguientes elementos: %1
+Ожидалось, что в панели разделов не будут содержаться следующие элементы: %	Se esperaba que en la barra de secciones no contendrá los siguientes elementos: %
+Ожидалось, что в панели функций будет <%1> элементов, а найдено <%2> элементов.	Se esperaba que en la barra de funciones se <%1> elementos encontrados <%2> elementos.
+Ожидалось, что в панели функций будет элемент <%1> , а был найден элемент <%2>.	Se esperaba que en la barra de funciones será el elemento <%1> , y se ha encontrado el elemento <%2>.
+Ожидалось, что в панели функций будут содержаться следующие элементы: %1	Se esperaba que en la barra de funciones contendrá los siguientes elementos: %1
+Ожидалось, что в панели функций не будут содержаться следующие элементы: %1	Se esperaba que en la barra de funciones no contendrá los siguientes elementos: %1
+Группа <%1> не найдена в панели функций.	El grupo de <%1> no se encuentra en la barra de funciones.
+Ожидалось, что в группе <%1> панели функций будут содержаться следующие элементы: %2	Se esperaba que en el grupo de <%1> panel de funciones contendrá los siguientes elementos: %2
+Ожидалось, что в группе <%1> панели функций не будут содержаться следующие элементы: %2	Se esperaba que en el grupo de <%1> panel de funciones no contendrá los siguientes elementos: %2
+Ошибка. Не найдены настройки пользователя <%1> в файле <%2>.	Error. No se han encontrado configuración de usuario <%1> en el archivo <%2>.
+Функция <%1> реализована только для Windows.	Función <%1> sólo está disponible para Windows.
+У поля <%1> ожидали текст заголовка <%2>, а получили <%3>.	El campo <%1> se espera texto de encabezado <%2>, y han recibido <%3>.
+В таблице <%1> у поля <%2> ожидали заголовок <%3>, а получили <%4>.	En la tabla <%1> el campo <%2> se espera encabezado <%3>, y han recibido <%4>.
+В таблице <%1> у поля <%2> ожидали текст подсказки <%3>, а получили <%4>.	En la tabla <%1> el campo <%2> se espera el texto de la petición <%3>, y han recibido <%4>.
+Не получилось выгрузить базу в dt: <%1>. Путь к DT: <%2>. Статус возврата: <%3>.	No pude descargar la base de dt: <%1>. La ruta de acceso al DT: <%2>. El estado de retorno: <%3>.
+Группа колонок <%1> в таблице <%2> не найдена.	El grupo de las columnas <%1> en la tabla <%2> no se ha encontrado.
+В таблице <%1> в группе колонок <%2> колонка <%3> не найдена.	En la tabla <%1> en el grupo de las columnas <%2> columna <%3> no se ha encontrado.
+Не получилось найти на экране картинку <%1>.	No pude encontrar en la pantalla de la imagen <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд значение ячейки <%3> станет равно <%4>. Текущее значение <%5>.	Esperaban que el documento tabular <%1> <%2> segundos el valor de la celda <%3> se convierte en <%4>. El valor actual de la <%5>.
+Метод Шаг() не выполнен. Не удалось прочитать шаги из временного фича файла <%1>. Исходная строка:%2	El método de Paso (a) no se ha iniciado. No se pudo leer los pasos de temporal ficha archivo <%1>. La cadena original es:%2
+Этот клиент	Este cliente
+Не получилось найти данные макета <%1>.	No se puede encontrar la información de diseño <%1>.
+Не получилось выполнить эмуляцию хоткея <%1> <%2>.	No pude realizar la emulación de хоткея <%1> <%2>.
+Не получилось выполнить эмуляцию ENTER.	No pude realizar la emulación ENTER.
+Не получилось дождаться картинки <%1> в течение <%2> секунд.	No pude esperar a la imagen <%1> <%2> segundos.
+Окно с заголовком <%1> не найдено. Текущее окно: <%2>.	De diálogo con el título de <%1> no se encuentra. La ventana actual: <%2>.
+Строка <%1> не найдена в окне сообщений пользователю. Состояние окна сообщений:%2	La cadena de <%1> no se encuentra en la ventana de mensajes al usuario. El estado de la ventana de mensajes:%2
+Не получилось определить родителя у шага <%1>.	No pude ubicar al padre de familia de el paso <%1>.
+Не получилось определить позицию шага <%1> в группе шагов <%2>.	No pude determinar la posición de paso <%1> en el grupo de los pasos de la <%2>.
+Не получилось открыть форму регистра сведений <%1>.	No pude abrir el formulario de mayúsculas y minúsculas de la información <%1>.
+Не получилось найти подсистему <%1> в регистре версии подсистем.	No pude encontrar el subsistema <%1> en el registro de la versión de los subsistemas.
+Ожидалось получить <%1> строк в таблице <%2>, а было получено <%3> строк.	Se esperaba obtener <%1> filas de la tabla <%2>, y se obtuvo <%3> filas.
+Не получилось сохранить значение <%1> в переменную <%2>.	No pude guardar el valor de la <%1> en la variable <%2>.
+Не получилось подключиться к ранее запущенному клиенту тестирования <%1>, порт <%2>.	No pudo conectarse al anteriormente se ejecuta el cliente de prueba <%1> puerto <%2>.
+Не получилось прочитать параметр запуска <%1>.	No pude leer el parámetro de inicio <%1>.
+ИмяРаннера	ИмяРаннера
+ТипКлиентаТестирования	ТипКлиентаТестирования
+СтрокаСоединения	СтрокаСоединения
+Не получилось сохранить строку <%1> в переменную <%2>.	No pude guardar la cadena de <%1> en la variable <%2>.
+Неверно указано значение параметра направления вращения колеса мышки. Возможные значения: Вверх или Вниз.	Es incorrecto el valor de la dirección de rotación de la rueda del ratón. Valores posibles: hacia Arriba o hacia Abajo.
+Не получилось выполнить эмуляцию вращения колеса мышки в направлении <%1>, количество итераций <%2>.	No pude realizar la emulación de rotación de la rueda del ratón en la dirección de la <%1>, el número de iteraciones <%2>.
+Обнаружено несколько файлов, экспортирующих подсценарий <%1>. Файлы: %2	Se han detectado varios archivos de exportadores de подсценарий <%1>. Archivos: %2
+Не получилось сделать клик праой кнопкой мышки по картинке <%1>.	No funciona hacer clic праой botón derecho del ratón sobre la imagen <%1>.
+Не получилось переместить курсор мышки к картинке <%1>.	No pude mover el cursor del ratón en la imagen de la <%1>.
+Не существует клиента тестирования <%1>.	No existe un cliente de prueba <%1>.
+Ожидали, что процесс с ИД <%1> будет завершен в течение <%2> секунд.	Esperaban que el proceso con id <%1> se completará dentro de <%2> segundos.
+Значение переменной <%1> изменено на <%2>.	El valor de la variable <%1> modificado en el <%2>.
+Значение глобальной переменной <%1> изменено на <%2>.	El valor de la variable global <%1> modificado en el <%2>.
+Переменная <%1> удалена.	La variable <%1> eliminado.
+Глобальная переменная <%1> удалена.	La variable global <%1> eliminado.
+Контекст	El contexto de la
+Контекст глобальный	El contexto global
+Окно с заголовком <%1> не найдено. Таймаут поиска окна: <%2>.	La ventana con el título <%1> no se encuentra. El tiempo de espera de búsqueda de la ventana: <%2>.
+Не удалось получить токен.	No se pudo obtener el token.
+Не удалось получить токен. Код результата: <%1>. Ответ: <%2>.	No se pudo obtener el token. Código de resultado: <%1>. Respuesta: <%2>.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	No se pudo obtener los datos. Código de resultado: <%1>. Respuesta: <%2>.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>. Количество попыток <%4>.	No pudo en la tabla <%1> hacer seleccionar de la lista de selección <%2> en la línea <%3>. El número de intentos de <%4>.
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>. Количество попыток <%3>.	No pudo hacer seleccionar de la lista de selección <%1> en la línea <%2>. El número de intentos de <%3>.
+Не выполнены дополнительные процедуры обработки данных.	No se han realizado procedimientos adicionales de procesamiento de datos.
+Обнаружено окно обновления конфигурации.	Se detecta la ventana de actualización de la configuración.
+Обнаружено окно c сообщением о неудачном обновлением конфигурации.	Se detecta la ventana c el mensaje acerca de los errores de la actualización de la configuración.
+Видео создано автоматически.	Video creado de forma automática.
+Количество сценариев	Número de secuencias de comandos
+Количество шагов	El número de pasos
+Версия Vanessa-Automation	La Versión De Vanessa-Automation
+Версия скрипта сборки видео	La versión del script de montaje de vídeo
+ЗаголовокАктивногоОкна	ЗаголовокАктивногоОкна
+ИмяАктивнойФормы	ИмяАктивнойФормы
+В таблице должно быть боле 1 строки, а получили <%1> строк.	En la tabla debe ser de más de 1 fila, y han recibido <%1> filas.
+Выполнить сценарии	Ejecutar secuencias de comandos
+Загружены глобальные переменные.	Subidas las variables globales.
+Не найден каталог: %1	No se ha encontrado el directorio: %1
+Выполнить	Realizar
+Выполняется...	Se...
+Останавливается...	Se detiene...
+Обнаружено окно перехода на новую версию платформы 1С:Предприятие.	Se detecta la ventana de la transición a la nueva versión de la plataforma de 1S:Predpriyatie.
+В таблице <%1> не получилось активизировать поле <%2> для редактирования.	En la tabla <%1> no pude activar el campo <%2> para editar.
+Ожидалось в течение <%1> секунд, что откроется окно с заголовком отличным от <%2>.	Se esperaba en un plazo de <%1> segundos, que se abrirá una ventana con el título distinto de <%2>.
+Выберите файл настроек Vanessa Automation.	Seleccione el archivo de configuración de Vanessa Automation.
+Версия загружаемых настроек не соответсвует версии обработки.	La versión descargable de configuración no coincide con la versión de procesamiento.
+Информация: Параметр %1 не загружен.	Parámetro: %1 no se ha cargado.
+Не получилось прочитать значение из строки запуска: %1.	No pude leer el valor de la fila de inicio: %1.
+При чтении переменных окружения операционной системы возникло исключение: %1	Durante la lectura de las variables de entorno del sistema operativo se ha producido una excepción: %1
+Не найден путь к файлу JSON. Параметр: VAParams.	No se ha encontrado la ruta de acceso al archivo JSON. Opción: VAParams.
+Ошибка чтения структуры JSON. Пропускаем чтение.	Error de lectura de la estructura JSON. Saltamos la lectura.
+Ошибка чтения структуры JSON.	Error de lectura de la estructura JSON.
+В параметрах JSON не найден каталог Фич.	En la configuración de JSON no se ha encontrado el catálogo de Prestaciones.
+Использование устаревшего параметра "КаталогOutputСкриншоты". Новый параметр - "КаталогВыгрузкиСкриншотов".	El uso de un parámetro obsoleto "КаталогOutputСкриншоты". Un nuevo parámetro "КаталогВыгрузкиСкриншотов".
+Использование устаревшего параметра "КаталогOutputИнструкцияHTML". Новый параметр - "КаталогВыгрузкиИнструкцийHTML".	El uso de un parámetro obsoleto "КаталогOutputИнструкцияHTML". Un nuevo parámetro "КаталогВыгрузкиИнструкцийHTML".
+Использование устаревшего параметра "КаталогOutputИнструкцияMarkdown". Новый параметр - "КаталогВыгрузкиИнструкцийMarkdown".	El uso de un parámetro obsoleto "КаталогOutputИнструкцияMarkdown". Un nuevo parámetro "КаталогВыгрузкиИнструкцийMarkdown".
+Использование устаревшего параметра "КаталогOutputИнструкцияВидео". Новый параметр - "КаталогВыгрузкиИнструкцийВидео".	El uso de un parámetro obsoleto "КаталогOutputИнструкцияВидео". Un nuevo parámetro "КаталогВыгрузкиИнструкцийВидео".
+Использование устаревшего параметра "КаталогOutputjUnit". Новый параметр - "КаталогВыгрузкиjUnit".	El uso de un parámetro obsoleto "КаталогOutputjUnit". Un nuevo parámetro "КаталогВыгрузкиjUnit".
+В параметрах запуска JSON не определен каталог отчета jUnit.	En las opciones de inicio JSON no se ha definido un directorio un informe de jUnit.
+Использование устаревшего параметра "КаталогOutputCucumberJson". Новый параметр - "КаталогВыгрузкиCucumberJson"	El uso de un parámetro obsoleto "КаталогOutputCucumberJson". Un nuevo parámetro "КаталогВыгрузкиCucumberJson"
+В параметрах запуска JSON не определен отчета CucumberJson.	En las opciones de inicio JSON no se ha definido el informe CucumberJson.
+Использование устаревшего параметра "КаталогOutputAllure". Новый параметр - "КаталогВыгрузкиAllure".	El uso de un parámetro obsoleto "КаталогOutputAllure". Un nuevo parámetro "КаталогВыгрузкиAllure".
+Использование устаревшего параметра "КаталогOutputAllureБазовый". Новый параметр - "КаталогВыгрузкиAllureБазовый".	El uso de un parámetro obsoleto "КаталогOutputAllureБазовый". Un nuevo parámetro "КаталогВыгрузкиAllureБазовый".
+Форма из переданного списка не найдена.	La forma de pasado de la lista no se encuentra.
+ИмяФичи	ИмяФичи
+ИмяСценария	Nombresecuenciacomandos
+НомерСтрокиДерева	НомерСтрокиДерева
+НомерСтрокиФичи	НомерСтрокиФичи
+ПолнйПутьКФиче	ПолнйПутьКФиче
+Сценарий не определён.	La secuencia de comandos no está definido.
+Шаг не определён.	Paso no está definido.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	No se pudo obtener los datos. Código de resultado: <%1>. Respuesta: <%2>.
+ДеталиОшибки	ДеталиОшибки
+Команда по созданию картинки из текста не выполнена: %1	El comando de creación de imágenes de texto no se: %1
+Не получилось получить командный интерфейс клиента тестирования.	No pude conseguir una interfaz de comandos de cliente de prueba.
+Окно предупреждения не найдено.	Diálogo de advertencia no se encuentra.
+Не получилось выполнить помещение файла <%1>.	No pude realizar el local del archivo <%1>.
+Не найдено подключение SikuliX сервера.	No se encuentra la conexión SikuliX servidor.
+Подключение SikuliX сервера сброшено.	La conexión SikuliX servidor aliviado.
+Не указано значение настройки Vanessa-automation: <КаталогДляГенерацииКартинок>.	No se especifica la configuración de Vanessa-automation: <КаталогДляГенерацииКартинок>.
+Не получилось создать картинку по тексту <%1>.	No pude crear la imagen sobre el texto de <%1>.
+Не найден профиль поиска картинки с текстом <%1>.	No se ha encontrado el perfil de la búsqueda de la imagen con el texto <%1>.
+Команда не выполнена: %1	El comando no se ejecuta: %1
+Не получилось вычислить выражение: %1. Описание ошибки: %2	No pude calcular por la expresión: %1. Descripción del error: %2
+Не указано имя файла.	No se especifica un nombre de archivo.
+Каталог <%1> не существует.	El directorio <%1> no existe.
+Не указано расширение файла.	No se especifica la extensión de archivo.
+Не получилось закрыть активное окно <%1>. %2	No pude cerrar la ventana activa <%1>. %2
+Закрытие окна <%1>.	Cierre de la ventana de <%1>.

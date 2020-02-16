@@ -1,0 +1,810 @@
+﻿Строка поиска	Translation
+%1 не найден;	%1 tapılmadı
+%1 Не умею обрабатывать реквизит <%2> у объекта <%3>	%1 bacarmıram idarə rekvizit <%2> var obyekt <%3>
+%1.%2 в макете нет записей для регистра %3	%1.%2 maketin yoxdur qeydlər üçün reyestrinin %3
+%1.%2 не удалось создать новый набор записей.%3	%1.%2 bilmədi yaratmaq, yeni dəsti qeydlər.%3
+%1.%2 не удалось создать новый набор записей%3	%1.%2 bilmədi yaratmaq, yeni dəsti qeydlər%3
+%1.%2 не удалось создать новый элемент.%3	%1.%2 bilmədi yeni maddə yaratmaq.%3
+№%1. Заголовок=<%2>. Имя=<%3>. ТекстПоля = <%4>	№%1. Adı=<%2>. Adı=<%3>. ТекстПоля = <%4>
+TestClient НЕ подключен.	TestClient bağlı DEYİL.
+TestClient подключен на %1 порту.	TestClient bağlı azn %1 limanında.
+Web клиент не поддерживает запись действий пользователя.	Web müştəri dəstəkləyir və hesab hərəkətlərinin istifadəçi.
+Активирую окно с координатами: %1;%2	Активирую pəncərə koordinatları: %1
+Активная форма не найдена	Aktiv forması tapılmadı
+Активное окно не найдено.	Fəal pəncərə tapılmadı.
+больше	daha çox
+больше или равно	böyük və ya bərabərdir
+Были конфликты в именах снипетов.	İdi münaqişələr adları снипетов.
+Были ошибки в ПросканироватьИсходникиИНайтиВсеStepDefinition.	Var idi səhvlər ПросканироватьИсходникиИНайтиВсеstepdefinition.
+Было найдено окно предупреждения с текстом: <%1> А ожидалось, что таких окон не будет.	Tapılmışdır pəncərə xəbərdarlıq mətn ilə: <%1> İsə gözlənilir ki, bu cür pəncərələr olmayacaq.
+Было найдено окно предупреждения. А ожидалось, что таких окон не будет.	Tapılmışdır pəncərə xəbərdarlıq. Amma gözlənilir, belə ki, windows heç də olacaq.
+В значение элемента формы %1 не найдена строка <%2>. Текущее значение поля <%3>	Dəyəri vurun formaları %1 tapılmadı string <%2>. Cari dəyəri sahələri <%3>
+В ИБ загружены объекты: %1 шт.	Bu İT nazil obyektləri: %1 əd.
+В каталоге <%1> должен был быть один файл xml.	Kataloqda <%1> olmalı idi bir xml fayl.
+В меню нет значения <%1>	Menyu yoxdur dəyərlər <%1>
+В метаданных %1 не найден реквизит-ключ <%2>. Ошибка в макете данных	Bu metadata %1 tapılmadı rekvizit-əsas <%2>. Səhv maketin məlumat
+В параметрах JSON не найден каталог Фич.	Bu göstəriciləri JSON tapılmadı kataloq Фич.
+В переменной Контекст не обнаружено ранее сохраненное значение с именем <%1>	Dəyişən Konteksti aşkar əvvəllər saxlanılır əhəmiyyət adı ilə <%1>
+В процедуру <УстановитьРезультатУсловия> передан неверный тип параметра <%1>. Ожидаемый тип: Булево.	Bu proseduru <УстановитьРезультатУсловия> təhvil səhv növü təyin <%1>. Gözlənilən növü: Булево.
+В результирующей таблице существуют две колонки с одинаковым заголовком: %1	Bu результирующей masa mövcuddur iki sütun eyni başlığı: %1
+В списке нет значения <%1>	Siyahıda yoxdur dəyərlər <%1>
+В строке <%1> не найдена подстрока <%2>	Bar <%1> tapılmadı подстрока <%2>
+В сценарии <%1> найден тег исключение <%2>	Bu ssenarilər <%1> aşkar tag istisna <%2>
+В сценарии <%1> найден тег отбор <%2>	Bu ssenarilər <%1> aşkar tag seçimi <%2>
+В таблице <%1>  НЕ найдено значение %2, а оно должно было быть.	Cədvəldə <%1> aşkar əhəmiyyət %2, və bu olmalı idi.
+В таблице <%1>  нет колонки <%2>	Cədvəldə <%1> heç bir sütun <%2>
+В таблице <%1> в строке №%2 найдено значение %3, а его не должно было быть.	Cədvəldə <%1> bar saylı%2 aşkar əhəmiyyət %3 isə onun olmalı idi.
+В таблице <%1> найдено <%2> значений. А ожидали <%3>. Имя колонки <%4>. Искомое значение <%5>	Cədvəldə <%1> aşkar <%2> dəyərlər. Bəs gözlənilir <%3>. Adı sütun <%4>. Axtarış əhəmiyyət <%5>
+В таблице <%1> не найдено ни одной строки	Cədvəldə <%1> aşkar heç bir satır
+В таблице <%1> не найдено ячейки с заголовком <%2>	Cədvəldə <%1> aşkar hüceyrələri ilə başlığı <%2>
+В таблице <%1> не найдены колонки: %2	Cədvəldə <%1> aşkar sütun: %2
+В таблице <%1> не получилось активизировать поле <%2>.	Cədvəldə <%1> alınmadı gücləndirmək sahəsində <%2>.
+В таблице <%1> нет строк для выбора.	Cədvəldə <%1> no strings seçmək üçün.
+В таблице <%1> ожидали получить <%2> строк, а получили <%3> строк.	Cədvəldə <%1> gözlənilir əldə <%2> satır, əldə <%3> satır.
+В таблице <%1> ожидали получить %2 %3 строк, а получили <%4> строк.	Cədvəldə <%1> gözlənilir almaq %2 %3 satır, əldə <%4> satır.
+В таблице <%1> ожидали получить больше <%2> строк, а получили <%3> строк.	Cədvəldə <%1> gözləyirdik daha çox almaq <%2> satır, əldə <%3> satır.
+В таблице <%1> ожидали получить больше или равно <%2> строк, а получили <%3> строк.	Cədvəldə <%1> gözləyirdik daha çox almaq və ya bərabərdir <%2> satır, əldə <%3> satır.
+В таблице <%1> ожидали получить меньше <%2> строк, а получили <%3> строк.	Cədvəldə <%1> gözlənilir almaq az <%2> satır, əldə <%3> satır.
+В таблице <%1> ожидали получить меньше или равно <%2> строк, а получили <%3> строк.	Cədvəldə <%1> gözlənilir almaq az və ya bərabərdir <%2> satır, əldə <%3> satır.
+В таблице <%1> отсутствует колонка <%2>, указанная в параметрах.	Cədvəldə <%1> itkin sütun <%2>, указанная parametrlərinə.
+В таблице <%1> поле с заголовком <%2> не найдено.	Cədvəldə <%1> sahəsində başlığı <%2> tapılmadı.
+В таблице <%1> поле с именем <%2> не найдено.	Cədvəldə <%1> sahəsində adı ilə <%2> tapılmadı.
+В таблице <%1> у поля <%2> ожидали открытия выпадающего списка, но не дождались.	Cədvəldə <%1> biz sahələri <%2> gözlənilir açılış açılan siyahı, amma görmədik.
+В таблице не найдена колонка <%1>	Cədvəldə tapılmadı sütun <%1>
+В таблице параметров не было передано имя нового профиля. Колонка <Имя подключения>	Cədvəldə parametrləri deyil verilib adı yeni profil. Sütun <Adı qoşulmaq>
+В таблице подключений уже есть подключение с именем <%1>	Cədvəldə əlaqələri artıq bir bağlantısı adı ilə <%1>
+В табличном документе %1 колонок, а ожидалось %2 колонок.	Bu табличном sənəddə %1 sütun isə gözlənilən %2 sütun.
+В табличном документе %1 строк, а ожидалось %2 строк.	Bu табличном sənəddə %1 xətləri isə gözlənilən %2 satır.
+В табличном документе %1 строк, а ожидалось, что он пустой.	Bu табличном sənəddə %1 satır, gözlənilir ki, o, boş.
+В табличном документе в колонке <%1> значение не соответствует условию 'Значение в колонке %2 %3'. Текущее значение колонки <%4>. Ряд <%5>, колонка <%6>	Bu табличном sənəddə sütununda <%1> əhəmiyyət şərtinə uyğun 'Əhəmiyyəti sütununda %2 %3'. Cari dəyəri sütun <%4>. Bir sıra <%5>, sütun <%6>
+В табличном документе в колонке <%1> ожидали значение <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	Bu табличном sənəddə sütununda <%1> gözlənilir əhəmiyyət <%2>, tapıb <%3>. Bir sıra <%4>, sütun <%5>
+В табличном документе в колонке <%1> ожидали, что не будет значения <%2>, а нашли <%3>. Ряд <%4>, колонка <%5>	Bu табличном sənəddə sütununda <%1> gözləyirdik ki, olmayacaq dəyərlər <%2>, tapıb <%3>. Bir sıra <%4>, sütun <%5>
+В табличном документе в колонке №%1 значение= <%2> , а ожидалось <%3>	Bu табличном sənəddə sütununda saylı%1 dəyəri= <%2> , gözlənilən <%3>
+В табличном документе колонка <%1> не найдена.	Bu табличном sənəddə sütun <%1> tapılmadı.
+В файле <%1> нашли строки, а ожидали, что их нет:%2	Fayl <%1> tapıb satır isə gözləyirdik ki, yoxdur:%2
+В файле <%1> не нашли строки, а ожидали, что они там есть:%2	Fayl <%1> aşkar xətt isə gözləyirdik ki, onlar orada var:%2
+В фиче <%1> сценария <%2> найден тег исключение <%3>	Bu фиче <%1> ssenari <%2> aşkar tag istisna <%3>
+В фиче <%1> сценария <%2> найден тег отбор <%3>	Bu фиче <%1> ssenari <%2> aşkar tag seçimi <%3>
+В шаг необходимо передавать таблицу Gherkin, в которой 2 или более строк.	Bu addım lazımdır ötürmək masa Gherkin olan, 2 və ya daha çox satır.
+В эталонной таблице существуют две колонки с одинаковым заголовком: %1	Bu etalon masa mövcuddur iki sütun eyni başlığı: %1
+ВерсияVA	ВерсияVA
+ВерсияПлатформы	ВерсияПлатформы
+Включите флаг <Включить отладочные сообщения> чтобы посмотреть выполняемые команды.	Yandırın bayrağı <Daxil debug mesajları> görmək üçün yerinə yetirilən komanda.
+Внутреняя ошибка. Неполное заполнение дерева метаданных. Отсутствует объект, образующий тип - %1	Внутреняя səhv. Natamam doldurulması ağac metadata. İtkin obyekt əmələ növü - %1
+Внутреняя ошибка. Неполное заполнение структуры ссылочных типов - %1	Внутреняя səhv. Natamam doldurulması qurumlar ссылочных növləri - %1
+Во вложенный сценарий <%1> было передано <%2> таблиц, а он принимает только <%3> таблиц.	Zamanı qoyulan ssenari <%1> verilib <%2> masalar, o isə qəbul etmir, yalnız <%3> masalar.
+Возможно это обработка для обычных форм, а не для управляемых форм.	Bəlkə də bu, emal üçün adi formaları üçün deyil, idarə formaları.
+Возможно это обработка для управляемых форм, а не для обычных форм.	Bəlkə də bu emal etmək üçün, idarə formaları üçün deyil, adi formaları.
+Все проверки пройдены.	Bütün yoxlamadan keçməli olduğu sınaqlar idi.
+Вызов метода <%1>: %2	Etiraz üsulu <%1>: %2
+Выпадающий список <%1> не был сформирован.	Açılan siyahısı <%1> yaradılıb.
+Выпадающий список <%1> не открылся для ввода текста.	Açılan siyahısı <%1> açılıb üçün mətn daxil etmək.
+Выпадающий список <%1>. Ожидали, что в нём будет текст %2, а получили %3.	Açılan siyahısı <%1>. Gözləyirdik ki, orada olacaq mətn %2, almışlar %3.
+Выпадающий список с заголовком <%1> не найден.	Açılan siyahısı ilə başlığı <%1> tapılmadı.
+Выпадающий список с именем <%1> не найден.	Açılan siyahısı adı ilə <%1> tapılmadı.
+Выполнение сценариев закончено. БЫЛИ ОШИБКИ.	Yerinə ssenari başa çatıb. SƏHVLƏR.
+Выполнение сценариев закончено. Ошибок не было.	Yerinə ssenari başa çatıb. Səhvlər yox idi.
+Выполняю	Yerinə yetirirəm
+Выражение <%1> оказалось равно <%2>, а ожидали <%3>.	İfadə <%1> çıxdı bərabərdir <%2>, gözləyirdik <%3>.
+Генератор макета из реальных данных: Не умею обрабатывать такой тип <%1>	Generator layout real məlumat: bacarmıram idarə bu tip <%1>
+ГолосовойДвижок - OK	ГолосовойДвижок - OK
+Группа с заголовком <%1> не найдена.	Qrupu ilə başlığı <%1> tapılmadı.
+Группа с именем <%1> не найдена.	Qrupu adı ilə <%1> tapılmadı.
+Данные по основному подключению Клиента тестирования перезаполнены.	Məlumat əsas birləşdirən Testclient перезаполнены.
+Данный шаг не работает с таблицами.	Bu addımı ilə işləmir masalar.
+ДатаВремяОшибки	ДатаВремяОшибки
+Делаю общий скриншот.	Bunu ümumi bir ekran.
+Делаю перезапуск TESTCLIENT. ОписаниеОшибки=%1	Bunu restart TESTCLİENT. ОписаниеОшибки=%1
+Делаю распаковку %1	Bunu распаковку %1
+Делаю скриншот.	Bunu ekran.
+Делаю скриншоты всех окон 1С.	Bunu bütün ekran windows, 1C.
+Длительность MP3 = 0. Файл=%1	Müddəti MP3 = 0. Fayl=%1
+Для <%1> не найдено документа основания	Üçün <%1> aşkar sənədin əsas
+Для генерации EPF должен быть установлен 1Script. В cmd должна выполняться команда: oscript	Yaratmaq üçün EPF yüklü olmalıdır 1Script. Bu cmd aparılmalıdır komanda: oscript
+Для подключения с именем <%1> изменен порт подключения, указанный порт уже есть в таблице подключений.	Qoşulmaq üçün adı ilə <%1> redaktə port əlaqə göstərilən limanı artıq bir cədvəldə əlaqələri.
+Для текущей ячейки таблицы <%1> текущее значение равно <%2>, а ожидали <%3>	Üçün cari mobil masa <%1> cari dəyəri bərabərdir <%2>, gözləyirdik <%3>
+Для шага <%1> не найден EPF файл.	Üçün addım <%1> tapılmadı EPF fayl.
+Для элемента формы %1 текущее значение равно <%2>, а ожидали <%3>	Maddə üçün forma %1 cari dəyəri bərabərdir <%2>, gözləyirdik <%3>
+Для ячейки <%1> таблицы <%2> текущее значение равно <%3>, а ожидали <%4>	Üçün mobil <%1> masa <%2> cari dəyəri bərabərdir <%3> isə gözləyirdik <%4>
+Добавил шаг: %1	Əlavə edib addım: %1
+ДобавитьСостояниеФормыTestclient:%1	ДобавитьСостояниеФормыTestclient:%1
+Должна быть передана минимум 1 строка	Verilməlidir ən azı 1 sətir
+Должна оставаться строка подключения текущего клиента	Qalmaq və simli əlaqə cari müştəri
+Должно быть передано 2 строки	Gərək verilə 2 satır
+Должны быть переданы минимум 2 строки. Первая строка с именами колонок, вторая и следующие - данные для проверки.	Kənar olmalıdır, ən azı 2 satır. İlk sırada adları ilə sütun, ikinci və aşağıdakı məlumatları yoxlamaq üçün.
+ЗавершитьЗаписьДействийПользователя:%1	ЗавершитьЗаписьДействийПользователя:%1
+Загружен объект.Имя %1, Тип %2	Dolu obyekt.Adını %1 Növü %2
+Загрузил новую версию	Yükledim yeni versiyası
+Загрузил снипеты из кеш	Yükledim снипеты biri кеш
+Закладка с заголовком <%1> не найдена.	Bookmark ilə başlığı <%1> tapılmadı.
+Закладка с именем <%1> не найдена.	Əlfəcin adı ilə <%1> tapılmadı.
+Закончились фичи. Не стал назначать раннеру фичу.	Bitdi фичи. Oldu təyin раннеру фичу.
+Закрытие TestClient <%1>	Bağlama TestClient <%1>
+Записал файл статуса билда: %1	Qeyd fayl statusu билда: %1
+Записался корректный элемент.	İsə elə düzgün tərcüməsinə element.
+Записываю %1	Yazmaq %1
+Запись действий пользователя закончена.	Giriş istifadəçi tədbirlər başa çatıb.
+Запись действий пользователя начата.	Qeyd fəaliyyət istifadəçi başlanmışdır.
+Запись действий пользователя приостановлена.	Qeyd fəaliyyət istifadəçi dayandırılıb.
+Запись действий пользователя продолжена.	Giriş istifadəçi tədbirlər davam edir.
+Запускаю генерацию epf.	Başlamaq nəsil epf.
+Значение (%1) заполнено, а ожидалась незаполненность %2	Dəyəri (%1) dolu və gözlənilirdi незаполненность %2
+Значение (%1) не заполнено, а ожидалась заполненность%2	Dəyəri (%1) dolu və gözlənilirdi заполненность%2
+Значение [%1:%2]. Ожидали <%3>, а получили <%4>	Əhəmiyyəti [%1:%2]. Gözləyirdik <%3> isə var <%4>
+Значение <%1> больше или равно, чем <%2>, а ожидалось меньше. %3	Dəyəri <%1> və ya daha çox bərabərdir, daha <%2>, gözlənilən azdır. %3
+Значение <%1> больше, чем <%2>, а ожидалось меньше или равно. %3	Dəyəri <%1> çoxdur <%2>, gözlənilən daha az və ya bərabərdir. %3
+Значение параметра %1: ожидали <%2>, получили <%3>;	Əhəmiyyət aktiv %1: gözləyirdik <%2>, var <%3>
+Значение параметра %1: ожидали подстроку <%2>, в <%3>;	Əhəmiyyət aktiv %1: gözləyirdik подстроку <%2>, <%3>
+Значение параметра таймаута ожидания должно быть числом. Переданное значение: %1	Seçim dəyər таймаута gözləmə olmalıdır sayı. Verilmiş dəyəri: %1
+ЗначениеНеНайдено: Реквизит <%1>: Искали значение <%2>, но не нашли.	ЗначениеНеНайдено: Rekvizit <%1>: Axtarırdılar əhəmiyyət <%2>, amma tapmadı.
+Изменения формы обработаны.	Dəyişiklik formalarını emal.
+Изменилось имя формы: было: %1, стало: %2	Dəyişib adı formaları: idi: %1 oldu: %2
+имеет длину	var uzunluğu
+имеет тип	növü var
+Именованная область %1 не найдена;	Именованная sahəsi %1 tapılmadı
+ИмяКомпьютера <%1>; порт <%2>	ИмяКомпьютера <%1>
+ИмяПроцедуры	ИмяПроцедуры
+ИмяФайла	ИмяФайла
+Искали в %1 подстроку %2, но не нашли.%3	Axtarış %1 подстроку %2, amma tapmadı.%3
+Исключение для просмотра значения.	İstisna keçirmək üçün əhəmiyyətli.
+Ищу снипеты в каталоге	Axtarıram снипеты kataloq
+Ищу сценарии в каталоге	Axtarıram ssenarilər kataloq
+Каталог <%1> не найден.	Kataloq <%1> tapılmadı.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не существует.	Kataloq ЗаписьВидеоКаталогДляВременныхФайлов <%1> yoxdur.
+Каталог ЗаписьВидеоКаталогДляВременныхФайлов <%1> не указан.	Kataloq ЗаписьВидеоКаталогДляВременныхФайлов <%1> göstərilməsin.
+КаталогOutputИнструкцияHTML не задан.	КаталогOutputИнструкцияHTML deyil verilib.
+КаталогOutputИнструкцияMarkdown не задан.	КаталогOutputИнструкцияMarkdown deyil verilib.
+КаталогOutputСкриншоты не задан.	КаталогOutputСкриншоты deyil verilib.
+КаталогДляОбработки=%1	КаталогДляОбработки=%1
+Кнопка панели открытых окон <%1> не найдена.	Button bar açıq pəncərə <%1> tapılmadı.
+Кнопка панели разделов <%1> не найдена.	Button bar bölmələr <%1> tapılmadı.
+Кнопка с именем <%1> не найдена.	Düymə adı ilə <%1> tapılmadı.
+Кнопка с именем <%1> не найдена. ТекущееОкно=%2	Düymə adı ilə <%1> tapılmadı. ТекущееОкно=%2
+кнопка, которую требуется нажать	düymə ki, tələb basın
+Кнопка/команда с заголовком <%1> не найдена.	Düymə/komandası ilə başlığı <%1> tapılmadı.
+Кнопка/команда с заголовком <%1> не найдена. ТекущееОкно=%2	Düymə/komandası ilə başlığı <%1> tapılmadı. ТекущееОкно=%2
+Количество секунд дял подключения TestClient: %1	Sayı saniyə дял qoşulmaq TestClient: %1
+Команда меню <%1> не найдена в панели функций.	Komanda menyu <%1> tapılmadı bar funksiyaları.
+Команда ОстановитьЗаписьВидео вернула код возврата = %1	Komanda ОстановитьЗаписьВидео qaytarıb kodu qaytarılması = %1
+Команда по объединению mp3 не выполнена. Файл1=%1, Файл2=%2, Файл3=%3	Komanda birləşdirilməsi üzrə mp3 ki, icra edilmir. Файл1=%1, Файл2=%2, Файл3=%3
+Команда по получению списка файлов каталога не выполнена. Каталог = %1	Komanda alınması üzrə faylların siyahısını kataloq ki, icra edilmir. Kataloq = %1
+Команда системы реализована только под Windows.	Komanda sisteminin icra yalnız Windows altında.
+Константа %1 не заполнена.	Daimi %1 doldurulur deyil.
+КопироватьФайлКомандаСистемы:%1 команда:%2	КопироватьФайлКомандаСистемы:%1 komanda:%2
+между	arasında
+меньше	az
+меньше или равно	az və ya bərabərdir
+Надо сделать перезапуск фреймворка тестирования.	Etmək lazımdır restart çərçivə üzrə test.
+Найден активный элемент формы	Aşkar aktiv element formaları
+Найден упавший сценарий.	Aşkar упавший ssenari.
+Найдена форма: ТекстЗаголовка=%1, ИмяФормы=%2. Окно <%3>	Aşkar forması: ТекстЗаголовка=%1, ИмяФормы=%2. Pəncərə <%3>
+Найдено %1 окон.	Aşkar %1 pəncərə.
+Найдено более одного поля формы с заголовком <%1>. Рекомендуется искать элемент по имени.	Aşkar bir çox sahələri formaları ilə başlığı <%1>. Tövsiyə axtarmaq element adı ilə.
+НачатьЗаписьДействийПользователя:%1	НачатьЗаписьДействийПользователя:%1
+Нашли строки в таблице <%1>:%2	Aşkar satır cədvəldə <%1>:%2
+не	yoxdur
+Не верный формат области <%1>. %2	Heç düzgün format sahəsində <%1>. %2
+Не возможно открыть форму абстрактного объекта, укажите ссылку	Mümkün deyil açmaq forma mücərrəd bir obyekt əlavə link
+Не все служебные колонки заданы. В запросе обязательно должны быть колонки %1	Bütün xidmət sütun edilmişdir. Sorğu mütləq olmalıdır sütun %1
+не выполнен	yerinə yetirilməmişdir
+Не дождались отображения окна TestClient. Таймаут <%1>	Görmədik ekran windows TestClient. Fasilə <%1>
+Не задан регистратор для записей регистра %1. Переменная %2	Heç verilib xidmətçi üçün qeydlər reyestrinin %1. Dəyişən %2
+Не заполнен служебный параметр КаталогИнструментов.	Heç bir dolu xidməti seçimi КаталогИнструментов.
+Не известный тип параметра в ПолучитьПредставлениеПараметраПриПереводе() <%1>	Heç məşhur növü parametri ПолучитьПредставлениеПараметраПрипереводе() <%1>
+Не использовать	İstifadə
+Не могу выгрузить статус сценариев, т.к. был передан каталог, а не файл.	Bilmirəm boşaltmaq status ssenarilər, t. k. verilmişdir kataloq və fayl.
+Не могу выгрузить статус сценариев, т.к. каталог %1 не существует.	Bilmirəm boşaltmaq status ssenarilər, t. k. kataloq %1 mövcud deyil.
+Не могу сфомировать отчет Allure. Не существует каталог для вывода отчета.	Bilmirəm сфомировать hesabat Edilmişdir. Yoxdur kataloq çıxarılması üçün hesabat.
+Не найден Клиент тестирования для подключения..	Tapılmadı TestClient qoşulmaq üçün.
+Не найден активный элемент формы.	Tapılmadı aktiv element formaları.
+НЕ найден инструмент по созданию скриншотов.	Tapılmadı alət yaradılması ekran.
+Не найден каталог библиотеки: %1	Tapılmadı kataloq kitabxananın: %1
+Не найден каталог инструментов: %1	Tapılmadı kataloq alətləri: %1
+Не найден лог перегенерации EPF.	Tapılmadı günlük перегенерации EPF.
+Не найден макет %1 ошибка: %2	Tapılmadı layout %1 səhv: %2
+Не найден перевод для шага <%1>	Tapılmadı tərcümə üçün addım <%1>
+Не найден пользователь ИБ по имени <%1>	Tapılmadı istifadəçi İT adı ilə <%1>
+Не найден профиль Клиента тестирования <%1>	Tapılmadı profil TestClient <%1>
+Не найден путь к файлу JSON. Параметр: VBParams.	Tapılmadı fayl yolu JSON. Seçimi: VBParams.
+Не найден тип шага <%1>	Tapılmadı növü addım <%1>
+Не найден файл <%1>	Faylı tapılmadı <%1>
+Не найден файл макета <%1> в каталоге проекта <%2>	Faylı tapılmadı layout <%1> kataloqda layihənin <%2>
+Не найден файл после распаковки: %1	Faylı tapılmadı sonra açıldığı: %1
+Не найден файл словаря замен. <%1>	Tapılmadı lüğət fayl dəyişdirmə. <%1>
+Не найден файл служебной базы. <%1>	Faylı tapılmadı xidməti bazası. <%1>
+Не найден файл толстого клиента <%1>	Faylı tapılmadı tolstoyun müştəri <%1>
+Не найден элемент дерева по данным поиска	Tapılmadı ağac maddə məlumatına görə axtarış
+Не найден элемент Статистика на форме VB.	Tapılmadı element Statistika şəkildə VB.
+Не найден эталон макета <%1>. Пустой каталог проекта.	Tapılmadı plitələrin layout <%1>. Boş kataloq layihəsinin.
+Не найдена активная форма.	Tapılmadı aktiv forması.
+Не найдена группа командного интерфейса <%1>	Tapılmadı qrupu komandan interfeysi <%1>
+Не найдена строка в таблице ДанныеКлиентовТестирования с <Имя=Этот клиент>	Tapılmadı simli cədvəldə ДанныеКлиентовТестирования ilə <Name=müştəri, Bu>
+Не найдена строка примеров во вложенной структуре сценария. <%1>	Tapılmadı sıra misallar zamanı investisiya strukturunda ssenari. <%1>
+Не найдена строка сценария.	Tapılmadı simli ssenari.
+Не найдена таблица для редактирования.	Tapılmadı masa və redaktə etmək üçün.
+Не найдена установка VLC.	Tapılmadı quraşdırılması VLC.
+Не найдено ключевое слово <%1>  для языка <%2>	Tapılmadı söz <%1> üçün dil <%2>
+Не найдено ни одного окна 1С. Делаю обычный скриншот.	Heç bir aşkar nə də bir windows, 1C. Bunu normal ekran.
+Не найдено ни одного сообщения пользователю.	Heç bir aşkar nə də bir mesaj istifadəçi.
+Не найдено ни одного сценария. Запись видео невозможна.	Tapılmadı, heç bir ssenari. Video çəkmək mümkün deyil.
+Не найдено ни одной строки в таблице клиентов тестирования, которая бы содержала <runner>	Heç bir aşkar nə də bir sıra cədvəldə müştəri test edən содержала <runner>
+Не найдено окно VanessaAutomation в раннере %1	Tapılmadı pəncərə VanessaBehavior bu раннере %1
+Не найдено окно VanessaAutomation.	Tapılmadı pəncərə VanessaBehavior.
+Не найдено окно предупреждения.	Tapılmadı pəncərə xəbərdarlıq.
+Не нашел значение реквизита у спр: ИмяСпр=%1, Наименование=%2, ИмяРек=%3, СтроковокПредставление=%4	Tapılmadı əhəmiyyət rekvizit var спр: ИмяСпр=%1 Adı=%2, Adı=%3, СтроковокПредставление=%4
+Не нашел колонку: %1	Tapılmadı sütun: %1
+Не нашел профиля TestClient с именем <%1>	Tapılmadı profil TestClient adı ilə <%1>
+Не нашел профиля TestClient с именем <%1> хотя он должен быть активным в данный момент.	Tapılmadı profil TestClient adı ilə <%1>, baxmayaraq ki, o olmalıdır fəal an.
+Не нашел профиля TestClient с именем <%1> чтобы его закрыть.	Tapılmadı profil TestClient adı ilə <%1> etmək üçün onu bağlamaq.
+Не нашел путь к 1cv8c.exe: %1	Tapılmadı yol 1cv8c.exe: %1
+Не нашли меню функций раздела.	Tapılmadı menyu funksiyaları bölmə.
+Не нашли окно с заголовком <%1>	Tapılmadı pəncərə başlığı <%1>
+Не нашли панель открытых окон.	Tapılmadı panel açıq pəncərə.
+Не нашли панель разделов.	Tapılmadı panel və bölmələr.
+Не нашли профиль <%1> в таблице TestClient.	Tapılmadı profil <%1> cədvəldə TestClient.
+Не нашли профиль <%1> в тестируемом экземпляре Vanessa-behavior.	Tapılmadı profil <%1> тестируемом nüsxədə Vanessa-behavior.
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, "Управляемое приложение"	Tapılmadı rejimi başlamaq <%1>. Ola bilsin ki, müəyyən etmək lazımdır ilə uçurum, məsələn, "Управляемое app"
+Не нашли режим запуска <%1>. Возможно, нужно указать с пробелом, например, <Управляемое приложение>	Tapılmadı rejimi başlamaq <%1>. Ola bilsin ki, müəyyən etmək lazımdır ilə uçurum, məsələn, <Управляемое app>
+Не нашли таблицу с именем <%1>	Tapılmadı adlı bir masa <%1>
+Не нашли элемент <%1> в коллекции, а хотели, чтобы он был в коллекции.%2	Tapılmadı element <%1> toplanması isə istəyirdik ki, o kolleksiya.%2
+Не обнаружено активное окно.	Aşkar fəal pəncərə.
+Не ожиданное значение у переменной ТипСравнения: <%1>	Heç ожиданное əhəmiyyəti var dəyişən ТипСравнения: <%1>
+Не описано действие для кнопки <%1>	Təsvir fəaliyyət üçün düymələri <%1>
+Не определена фича для выполнения на раннере №0.	Müəyyənləşdirilməyib фича icra раннере №0.
+Не передан каталог фич для обработки. Используется %1\features	Heç verilib kataloq фич idarə etmək üçün. İstifadə %1\features
+Клиент тестирования не подключен.	Bağlı deyil Testclient.
+Не получилось закрыть активное окно. %1	Alınmadı yaxın fəal pəncərə. %1
+Не получилось определить активное окно Клиента тестирования из Контекста.	Alınmadı müəyyən fəal pəncərə TestClient Kontekstində.
+Не получилось определить активное окно Клиента тестирования.	Alınmadı müəyyən fəal pəncərə TestClient.
+Не получилось получить значение таблицы <%1>	Alınmadı dəyəri almaq masa <%1>
+Не получилось прочитать параметр запуска.	Alınmadı oxumaq seçimi başlayır.
+Не получилось сделать выбор в поле <%1> значения <%2>. %3	Alınmadı seçim etmək sahəsində <%1> dəyərlər <%2>. %3
+Не получилось создать тестовый MP3	Alınmadı yaratmaq test MP3
+Не реализовано.	Heç keçirilib.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>	Bilmədi cədvəldə <%1> etmək siyahıdan seçin seçim <%2> simli <%3>
+Не смог выделить все строки в таблице <%1>. %2	Bilmədi ayırmağa bütün simli cədvəldə <%1>. %2
+Не смог выполнить команду по получению координат на экране всех окон 1С в панели задач.	Yerinə yetirə bilmədi komanda alınması üzrə koordinat ekranda bütün windows, 1C task bar.
+Не смог выполнить команду. <%1>	Yerinə yetirə bilmədi komanda. <%1>
+Не смог вычислить выражение: %1	Bilmədi hesablamaq ifadə edir: %1
+Не смог загрузить %1. %2	Bilmədi download %1. %2
+Не смог загрузить базу из dt: %1. ПутьКDT: %2. Статус возврата: %3	Bilmədi download baza biri dt: %1. ПутьКDT: %2. Statusu geri: %3
+Не смог загрузить снипеты из %1	Bilmədi download снипеты həyata %1
+Не смог закрыть окно %1	Bilmədi pəncərəni bağlamaq %1
+Не смог закрыть окно повторно %1	Bilmədi pəncərəni bağlamaq yenidən %1
+Не смог запустить конфигуратор. <%1>	Bilmədi run configurator. <%1>
+Не смог из переданных параметров JSON определить каталог отчета Allure.	Bilmədi dən verilən parametrləri JSON müəyyən kataloq hesabat Edilmişdir.
+Не смог из переданных параметров JSON определить каталог отчета CucumberJson.	Bilmədi dən verilən parametrləri JSON müəyyən kataloq hesabat CucumberJson.
+Не смог из переданных параметров JSON определить каталог отчета jUnit.	Bilmədi dən verilən parametrləri JSON müəyyən kataloq hesabat jUnit.
+Не смог найти данные для подключения профиля клиента тестирования <%1>	Tapa bilmədi məlumat üçün əlaqə profili müştərinin test <%1>
+Не смог найти код модуля формы в файле ИмяФайлаФормаУФ.	Tapa bilmədi kodu modul forması fayl ИмяФайлаФормаУФ.
+Не смог найти открытый конфигуратор.	Tapa bilmədi açıq configurator.
+Не смог найти сохранненное значение по переменой <%1>	Tapa bilmədi сохранненное əhəmiyyət üzrə переменой <%1>
+Не смог обработать XML в UILogToScript.	Bilmədi emal XML bu UİLogToScript.
+Не смог обработать параметры в строке <%1>	Bilmədi emal variantları bar <%1>
+Не смог определить длительность у файла: %1	Bilmədi müəyyən müddəti var fayl: %1
+Не смог определить СледующееОжидаемоеКлючевое по: %1	Bilmədi müəyyən СледующееОжидаемоеКлючевое: %1
+Не смог определить следующий шаг для выполнения.	Bilmədi müəyyən növbəti addımı yerinə yetirmək üçün.
+Не смог определить тип значения для строки: %1	Bilmədi növü müəyyən dəyərlər üçün satır: %1
+Не смог перейти к строке фильтра <%1>	Bilmədi getmək bar filter <%1>
+Не смог по переменной <%1> найти сохраненное значение.	Bilmədi üzrə dəyişən <%1> tapa saxlanılır əhəmiyyət kəsb edir.
+Не смог подключить TestClient.	Bilmədi qoşa TestClient.
+Не смог подключить TestClient. Прерывание по таймауту <%1>	Bilmədi qoşa TestClient. Fasilə ilə таймауту <%1>
+Не смог подключить обработку <%1>	Bilmədi qoşa emal <%1>
+Не смог подключить профиль TestClient <%1>	Bilmədi əlaqə profili TestClient <%1>
+Не смог подставить в строку параметры: <%1>	Bilmədi əvəz xətt seçimləri: <%1>
+Не смог получить данные файла <%1>	Bilmədi məlumat almaq fayl <%1>
+Не смог получить значение из строки запуска	Ala bilmədim əhəmiyyət sıra çalıştırmak
+Не смог получить значение поля <%1> у таблицы <%2>.%3	Ala bilmədim əhəmiyyət sahələri <%1> biz masa <%2>.%3
+Не смог получить значение таблицы <%1>	Ala bilmədim əhəmiyyəti cədvəl <%1>
+Не смог получить значение табличного документа <%1>	Ala bilmədim əhəmiyyət табличного sənədin <%1>
+Не смог получить количество строк у таблицы <%1>	Ala bilmədim sayı xətləri var cədvəl <%1>
+Не смог получить макет %1	Ala bilmədim layout %1
+Не смог получить состяние таблицы <%1>	Ala bilmədim состяние masa <%1>
+Не смог получить строки таблицы <%1>	Ala bilmədim masa sıra <%1>
+Не смог получить строки таблицы.	Ala bilmədim masa sıra.
+Не смог получить строки ТЧ <%1>	Ala bilmədim satır ТЧ <%1>
+Не смог получить строку сценария.	Ala bilmədim simli ssenari.
+Не смог получить строку таблицы %1	Ala bilmədim simli masa %1
+Не смог получить форму текущего окна.	Ala bilmədim forması cari pəncərə.
+Не смог ПолучитьГлавноеОкноТестируемогоПриложения.	Bilmədi ПолучитьГлавноеОкноТестируемогоПриложения.
+Не смог поменять параметры шага местами <%1>	Bilmədi parametrləri dəyişdirmək addım yerlərdə <%1>
+Не смог преобразовать к числу PID=%1	Bilmədi çevirmək sırasına PID=%1
+Не смог распаковать %1	Bilmədi açın %1
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>	Bilmədim nə seçmək siyahıdan seçim <%1> simli <%2>
+Не смог скопировать сценарий %1, т.к. произошло бы зацикливание.	Bilmədi surəti script %1, t. k. baş verərdi зацикливание.
+Не смог создать базу по строке: %1. Статус возврата: %2	Bilmədi bazası yaratmaq üzrə xətt: %1. Statusu geri: %2
+Не смог создать каталог для отчета Allure: %1	Bilmədi kataloq yaratmaq üçün hesabatının Məlumat: %1
+Не смог создать каталог для отчета CucumberJson: %1	Bilmədi kataloq yaratmaq üçün hesabat CucumberJson: %1
+Не смог создать каталог для отчета jUnit: %1	Bilmədi kataloq yaratmaq üçün hesabat jUnit: %1
+Не смог создать объект сравнения файлов.	Bilmədi yaratmaq obyekt müqayisə faylları.
+Не смог создать сервисные базы. Статус=%1	Bilmədi yaratmaq xidmət bazası. Statusu=%1
+Не смог удалить файл %1	Bilmədi aradan qaldırılması fayl %1
+Не смогли найти таблицу <%1> в активном окне.	Tapa bilmədilər masa <%1> fəal pəncərə.
+Не стал загружать фичу: %1, т.к. в ней не найдено тегов фильтров.	Oldu, download фичу: %1, t. k. orada aşkar tags filtreler.
+Не стал загружать фичу: %1, т.к. обнаружен тег исключение: %2	Oldu, download фичу: %1, t. k. aşkar tag istisna edilir: %2
+Не удалось авторизоваться в базе.	Uğursuz giriş verilənlər bazası.
+Не удалось дождаться события завершения цикла в течение <%1> секунд.	Uğursuz gözləmək hadisələr başa dövrü ərzində <%1> saniyə.
+Не удалось найти документ по номеру <%1>. Тип Документ.%2	Tapa bilmədi üzrə sənəd nömrəsinə <%1>. Növü Sənəd.%2
+Не удалось перейти к нужной строке в таблице <%1>. %2	Uğursuz getmək istədiyiniz bar cədvəldə <%1>. %2
+Не удалось подключить COM объект <Shell.Application>	Uğursuz qoşa COM obyekt <Shell.Application>
+Не удалось подключить COM объект <WScript.Shell>	Uğursuz qoşa COM obyekt <WScript."Shell">
+Не удалось подключить клиент тестирования. %1	Uğursuz qoşulmaq üçün müştəri test. %1
+Не удалось подключить форма %1 по причине:%2	Uğursuz əlaqə forması %1 səbəbdən:%2
+Не удалось получить таймаут для запуска TestClient из значения %1. Используется значение по умолчанию: 25	Ala bilmədi fasilə salmaq üçün TestClient biri dəyərlər %1. İstifadə default dəyəri: 25
+Не удалось получить таймаут для работы асинхронных шагов. Было передано значение: %1	Ala bilmədi fasilə iş üçün asinxron addımlar. Verilib dəyəri: %1
+Не указан каталог для формирования видео инструкции.	Unknown kataloq yaratmaq üçün video təlimat.
+Не указан каталог с нужной версией платформы 8.3.10 или выше.	Unknown kataloq ilə istədiyiniz versiyası platforma 8.3.10 və ya daha yüksək.
+Не указана команада для выполнения скриншотов. Например <%1>	Heç göstərilib команада yerinə yetirmək üçün ekran. Məsələn, <%1>
+Не указано имя файла лога в параметре <ИмяКаталогаЛогОшибок>	Müəyyən deyil fayl adı лога bu параметре <ИмяКаталогаЛогОшибок>
+Не указано имя файла лога в параметре <ИмяФайлаЛогВыполненияСценариев>	Müəyyən deyil fayl adı лога bu параметре <ИмяФайлаЛогВыполненияСценариев>
+Не указано количество кадров.	Müəyyən deyil çərçivəsində sayı.
+Не установлен ffmpeg.	Müəyyən deyil ffmpeg.
+Не установлен ImageMagic (convert.exe)	Müəyyən deyil İmageMagic (convert.exe)
+Не установлен ImageMagic (convert.exe).	Müəyyən deyil İmageMagic (convert.exe).
+Не установлен oscript.	Müəyyən deyil oscript.
+Не установлен VLC 2.1.5.	Müəyyən deyil VLC 2.1.5.
+Не установлен ГолосовойДвижок.	Müəyyən deyil ГолосовойДвижок.
+Неверно задан макет. Неверная колонка в первой строке. Не указана обязательная колонка с именем [%1]	Yalan verilib layout. Yanlış sütun birinci bar. Heç göstərilib məcburi sütun adı ilə [%1]
+Неверное число параметров в строке табилцы. Должно быть <	Səhv sayı parametrləri bar табилцы. Olmalıdır <
+Неверное число параметров в строке таблицы. Должно быть <%1> параметров, а в строке найдено <%2>.	Səhv sayı parametrləri bar masa. Olmalıdır <%1> parametrlər isə bar aşkar <%2>.
+Неверный режим поиска: Не поддерживаемый режим поиска. Реквизит <%1>: Искали значение <%2>	Səhv axtarış rejimi: Heç bir dəstək axtarış rejimi. Rekvizit <%1>: Axtarırdılar əhəmiyyət <%2>
+Неверный формат области <%1>	Səhv format sahəsində <%1>
+Невидима	Görünməz
+Недоступна	Mövcud
+Неивестный ТипПараметра в ПолучитьАсинхроноСостоянияОбъектовФайловойСистемы: %1	Неивестный ТипПараметра bu ПолучитьАсинхроноСостоянияОбъектовфайловойсистемы: %1
+Неизвестная версия поставки Vanessa-Automation: %1	Naməlum version təchizatı Vanessa-Automation: %1
+Неизвестная ошибка в ПолучитьРезультатПрохожденияТестовСценария.	Naməlum bir səhv ПолучитьРезультатПрохожденияТестовсценария.
+НеизвестнаяОшибка	НеизвестнаяОшибка
+Неизвестный идентификатор плагина: <%1>	Naməlum ıd plugin: <%1>
+Неизвестный КорневойТипКонфигурации <%1>	Naməlum КорневойТипКонфигурации <%1>
+Неизвестный КорневойТипКонфигурации <%1> КорневойТипКонфигурации()	Naməlum КорневойТипКонфигурации <%1> КорневойТипКонфигурации()
+Неизвестный менеджер регистра %1.%2 . Переменная %3	Naməlum meneceri reyestrinin %1.%2 . Dəyişən %3
+Неизвестный тип вывода данных по изменению формы.	Naməlum növü çıxarılması üzrə məlumatları dəyişməsinə formaları.
+Неизвестный Тип: %1 в ПолучитьЗначениеДляПередачиВМетод	Naməlum Növü: %1 ПолучитьЗначениеДляПередачиВМетод
+Нельзя изменять текущее поле у зарезервированного подключения <Этот клиент>.	Olmaz dəyişdirmək cari sahəsində var зарезервированного qoşulmaq <Bu müştəri>.
+Нельзя получить состав колонок для пустой таблицы.	Almaq olmaz tərkibi sütun üçün boş masa.
+Необрабатываемый корневой тип <%1>	Необрабатываемый kök növü <%1>
+Необходимо установить программное обеспечение. Подробности тут: %1	Proqram yüklemek üçün lazımdır. Ətraflı burada: %1
+НеСовпадаютЗначенияВЯчейкеТаблицы	НеСовпадаютЗначенияВЯчейкеТаблицы
+Нет подключенных TestClient.	Yox bağlı TestClient.
+Обнаружено несколько полей с заголовком <%1>	Aşkar bir neçə sahələri ilə başlığı <%1>
+Обычная фича №%1 из %2. РаннерID=%3. %4	Adi фича saylı%1 %2. РаннерİD=%3. %4
+Одна или несколько строк эталонной таблицы не найдена в таблице формы%1	Bir və ya bir neçə sətir etalon masa tapılmadı cədvəldə formaları%1
+Однопоточная фича №%1 из %2. РаннерID=%3. %4	Однопоточная фича saylı%1 %2. РаннерİD=%3. %4
+Ожидали <%1> элементов справочника <%2>, а нашли <%3> элементов.	Gözləyirdik <%1> elementləri kitabı <%2>, tapıb <%3> elementləri.
+Ожидали в течение <%1> секунд доступности поля <%2>. Но такой элемент на форме не найден.	Gözləyirdik ərzində <%1> saniyə mövcudluğu sahələri <%2>. Amma belə bir element bir formada tapılmadı.
+Ожидали в течение <%1> секунд доступности поля <%2>. ТекущаяДоступность=%3	Gözləyirdik ərzində <%1> saniyə mövcudluğu sahələri <%2>. ТекущаяДоступность=%3
+Ожидали в течение <%1> секунд появления поля <%2>. Но такой элемент на форме не найден.	Gözləyirdik ərzində <%1> saniyə meydana sahələri <%2>. Amma belə bir element bir formada tapılmadı.
+Ожидали в течение <%1> секунд появления поля <%2>. ТекущаяВидимость=%3	Gözləyirdik ərzində <%1> saniyə meydana sahələri <%2>. ТекущаяВидимость=%3
+Ожидали в течение <%1> секунд у поля <%2> значения <%3>. Текущее значение <%4>	Gözləyirdik ərzində <%1> saniyə var sahələri <%2> dəyərlər <%3>. Cari dəyəri <%4>
+Ожидали в течение <%1> секунд у таблицы <%2> количество строк %3 %4. Текущее количество строк <%5>	Gözləyirdik ərzində <%1> saniyə var cədvəl <%2> xətləri sayı %3 %4. Cari satır <%5>
+Ожидали в течение <%1> секунд, что закроется окно с заголовком <%2>	Gözləyirdik ərzində <%1> saniyə ki, закроется pəncərə başlığı <%2>
+Ожидали в течение <%1> секунд, что откроется окно с заголовком <%2>	Gözləyirdik ərzində <%1> saniyə ki, açılacaq pəncərə başlığı <%2>
+Ожидали в течение <%1> секунд, что поле <%2> будет заполненным.	Gözləyirdik ərzində <%1> saniyə sahəsində <%2> dolu olacaq.
+Ожидали заполненность ссылки, а получили пустую ссылку.%1	Gözləyirdik заполненность links isə əldə boş link.%1
+Ожидали идентичность файлов, а получили, что они различны.%1	Gözləyirdik şəxsiyyət faylları isə var ki, onlar müxtəlifdir.%1
+Ожидали получить только одну строку таблицы.	Gözləyirdik əldə yalnız bir sıra masa.
+Ожидали статус <%1>, а получили <%2>	Gözləyirdik statusu <%1>, var <%2>
+Ожидали существование объекта в ИБ, а получили объект не найден <%1> .%2	Gözləyirdik mövcudluğu obyektin İT isə əldə obyekt tapılmayıb <%1> .%2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения <%4>. Текущее значение <%5>.	Gözləyirdik var cədvəl <%1> ərzində <%2> saniyə var sahələri <%3> dəyərlər <%4>. Cari dəyəri <%5>.
+Ожидали, что %1 %2 выбросит исключение %3 %4	Gözləyirdik ki, %1 %2 выбросит istisna %3 %4
+Ожидали, что активным окном будет <%1>, а нашли <%2>. Таймаут поиска окна: %3	Gözləyirdik ki, aktiv pəncərə olacaq <%1>, tapıb <%2>. Fasilə axtarış pəncərə: %3
+Ожидали, что в сообщениях пользователю будет подстрока <%1>	Gözləyirdik ki, bu mesajlar istifadəçi edəcək подстрока <%1>
+Ожидали, что вторым параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Gözləyirdik ki, ikinci parametr veriləcək bir sıra parametrləri üçün üsul <%1> isə var, digər obyekt növü <%2>
+Ожидали, что вторым параметром будет передана структура параметров для метода <СоздатьДанныеПоТабличномуДокументу>, а получили другой объект с типом <%1>	Gözləyirdik ki, ikinci parametr təqdim ediləcək struktur parametrləri üçün üsul <СоздатьДанныеПоТабличномуДокументу> isə var, digər obyekt növü <%1>
+Ожидали, что количество строк таблицы <%1> будет равно переменной <%2>. Значение переменной <%3>. Количество строк <%4>	Gözlənilir ki, məbləğ satır masa <%1> bərabər olacaq dəyişən <%2>. Dəyişən dəyəri <%3>. Satır <%4>
+Ожидали, что окно сообщений пользователю будет пустое. В нём %1 сообщений.	Gözləyirdik ki, pəncərə mesaj istifadəçi edəcək boş və orada %1 mesaj.
+Ожидали, что переменная <%1> будет равна <%2>. Текущее значение <%3>	Gözləyirdik ki, dəyişən <%1> edəcək bərabərdir <%2>. Cari dəyəri <%3>
+Ожидали, что поле <%1> будет равно переменной <%2>. Значение переменной <%3>. ЗначениеПоля <%4>	Gözləyirdik ki, sahə <%1> bərabər olacaq dəyişən <%2>. Dəyişən dəyəri <%3>. ЗначениеПоля <%4>
+Ожидали, что поле с заголовком <%1> будет заполнено, но оно пустое.	Gözləyirdik ki, bir sahə ilə başlığı <%1> dolu olacaq, amma bu, boş.
+Ожидали, что проверяемое значение (%1) %2 %3 %4	Gözləyirdik ki, проверяемое əhəmiyyəti (%1) %2 %3 %4
+Ожидали, что третьим параметром будет передан массив параметров для метода <%1>, а получили другой объект с типом <%2>	Gözləyirdik ki, üçüncü parametr veriləcək bir sıra parametrləri üçün üsul <%1> isə var, digər obyekt növü <%2>
+Ожидали, что у группы <%1> текущей страницей будет <%2>, а оказалась <%3>	Gözləyirdik ki, biz qrupunun <%1>, cari səhifəni olacaq <%2>, oldu <%3>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Gözləyirdik ki, табличного sənədin <%1> hüceyrə ilə ünvanı <%2> edəcək əhəmiyyət <%3> isə var <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Gözləyirdik ki, табличного sənədin <%1> hüceyrə ilə ünvanı <%2> edəcək əhəmiyyət <%3> isə var <%4>
+Ожидали, что у табличного документа <%1> в ячейке с адресом <%2> будет значение <%3>, а получили <%4>	Gözləyirdik ki, табличного sənədin <%1> hüceyrə ilə ünvanı <%2> edəcək əhəmiyyət <%3> isə var <%4>
+Ожидали, что ячейка <%1> будет заполнена.	Gözləyirdik ki, özəyi <%1> dolu olacaqdır.
+Ожидали, чтов таблице <%1> поле <%2> будет равно переменной <%3>. Значение переменной <%4>. ЗначениеПоля <%5>	Gözləyirdik чтов cədvəldə <%1> sahəsində <%2> bərabər olacaq dəyişən <%3>. Dəyişən dəyəri <%4>. ЗначениеПоля <%5>
+Окно с заголовком <%1> не найдено.	Pəncərə başlığı <%1> tapılmadı.
+Описание ошибки: %1	Təsviri səhvlər: %1
+Остановка на брейкпоинте.	Stop брейкпоинте.
+Ошибка в %1. %2	Səhv % - 1. %2
+Ошибка в ДобавитьStepDefinitionВТекстМодуля.	Səhv ДобавитьStepDefinitionВТекстМодуля.
+Ошибка в ПолучитьУжеСуществующиеСнипетыИзОбработок(). Файл/каталог %1 не существует.	Səhv ПолучитьУжеСуществующиеСнипетыИзобработок(). Fayl/kataloqu %1 mövcud deyil.
+Ошибка в файле %1, снипет %2 уже был в %3	Səhv fayl %1, снипет %artıq 2 idi %3
+Ошибка перегенерации EPF. Файл %1 не найден.	Səhv перегенерации EPF. Fayl %1 tapılmadı.
+Ошибка при выгрузке набора записей регистра: %1	Zaman səhv boşaldılması sıra qeydlər reyestrinin: %1
+Ошибка при выгрузке объекта: %1. Тип: %2	Səhv zamanı obyektin boşaldılması: %1. Növü: %2
+Ошибка при закрытии всех окон Testclient.	Səhv bağlanması bütün windows Testclient.
+Ошибка при поиске значений в макете %1:	Səhv axtarış zamanı dəyərlər maketin %1:
+Ошибка при получении активной формы.	Səhv alarkən fəal formaları.
+Ошибка при получении списка процессов 1С.	Səhv alarkən siyahısı proseslərin 1C.
+Ошибка при получении текста фичи:	Səhv alarkən mətn фичи:
+Ошибка при построении дерева из файла <%1>%2%3	Səhv qurulmasında ağac faylı <%1> %2 %3
+Ошибка при создании данных из макета. Неуникальное имя переменной: [%1]	Səhv yaradılması zamanı məlumatların layout. Неуникальное dəyişən adı: [%1]
+Ошибка проверки значения таблицы <%1>. %2	Səhv yoxlama dəyərlər masa <%1>. %2
+Ошибка создания временного файла в подкаталоге %1.	Səhv yaradılması müvəqqəti fayl подкаталоге %1.
+Ошибка создания скриншота:%1 команда:%2	Səhv yaradılması скриншота:%1 komanda:%2
+Ошибка создания файла %1.	Səhv faylın yaradılması %1.
+Ошибка чтения JSON. Неизвестный символ %1	Səhv oxumaq JSON. Naməlum simvolu %1
+Ошибка чтения структуры JSON пропускаем чтение	Səhv oxumaq qurumlar JSON пропускаем oxu
+Ошибка чтения структуры JSON.	Səhv oxumaq qurumlar JSON.
+Ошибка. В фиче %1 было найдено несколько сценариев с именем %2	Bir səhv. Bu фиче %1 tapılmışdır, bir neçə ssenari adı ilə %2
+Ошибка. Найдено более 1 значения в кэше МетаданныеИмя [%1] по указанным параметрам поиска %2	Bir səhv. Tapılmadı daha 1 dəyərlər cache МетаданныеИмя [%1] tərəfindən göstərilən parametrlərə axtarış %2
+ОшибкаПроверки	ОшибкаПроверки
+Параметр <Запускаемая обработка> указывает на несуществующий файл.	Seçimi <Запускаемая emal> göstərir несуществующий fayl.
+Параметр <Имя подключения> является обязательным.	Seçimi <Adı qoşulmaq> məcburidir.
+Параметр <Логин> не задан	Seçimi <Adı> verilib
+Параметр %1 не найден в таблице параметров.	Parametr %1 tapılmadı cədvəldə parametrləri.
+Первый параметр (%1) меньше второго (%2) а хотели, чтобы был больше или равен.%3	Birinci parametri (%1) az ikinci (%2) isə istəyirdik ki, daha çox idi ya bərabərdir.%3
+Первый параметр (%1) меньше или равен второму (%2) а хотели, чтобы был больше.%3	Birinci parametri (%1) kiçik və ya bərabərdir ikinci (%2) isə istəyirdik ki, daha çox idi.%3
+Передан пустой путь в процедуру <СоздатьКаталогЕслиЕгоНет>.	Təhvil boş yol proseduru <СоздатьКаталогЕслиЕгоНет>.
+Переданная дата (%1) не равна дате (%2) с точностью до 2-х секунд, а хотели, чтобы они равнялись. %3	Etdiyi tarixi (%1) bərabərdir tarix (%2) dəqiqliyi ilə qədər 2-ci saniyə isə istəyirdik ki, onlar равнялись. %3
+Переданный параметр (%1) не входит в период %2, а хотели, чтобы являлся. %3	Переданный parametr (%1) daxil deyil dövründə %2 isə istəyirdik ki, olmuşdur. %3
+Переданный параметр (%1) не является Истиной, а хотели, чтобы являлся. %2	Переданный parametr (%1) deyil, Haqq isə istəyirdik ki, olmuşdur. %2
+Переданный параметр (%1) не является Ложью, а хотели, чтобы являлся. %2	Переданный parametr (%1) heç bir Yalan isə istəyirdik ki, olmuşdur. %2
+Передвижение курсора мышки - OK	Hərəkət kursor siçan - OK
+ПередВыполнениемШага: %1	ПередВыполнениемШага: %1
+Переключатель с заголовком <%1> не найден.	Keçid ilə başlığı <%1> tapılmadı.
+Переключатель с именем <%1> не найден.	Keçid adı ilə <%1> tapılmadı.
+Переменная <%1> не найдена.	Dəyişən <%1> tapılmadı.
+Переменная <%1> ранее не была сохранена	Dəyişən <%1> əvvəllər saxlandı
+Пересоздан %1	Пересоздан %1
+Пересоздаю %1	Пересоздаю %1
+ПланВидовРасчета.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланВидовРасчета.%1 tapa bilmədi təyin element/qrup [%2].%3
+ПланВидовРасчета.%1 не удалось создать новую группу.%2	ПланВидовРасчета.%1 uğursuz yaratmaq, yeni bir qrup.%2
+ПланВидовРасчета.%1 не удалось создать новый элемент.%2	ПланВидовРасчета.%1 bilmədi yeni maddə yaratmaq.%2
+ПланВидовХарактеристик.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланВидовХарактеристик.%1 tapa bilmədi təyin element/qrup [%2].%3
+ПланВидовХарактеристик.%1 не удалось создать новую группу.%2	ПланВидовХарактеристик.%1 uğursuz yaratmaq, yeni bir qrup.%2
+ПланВидовХарактеристик.%1 не удалось создать новый элемент.%2	ПланВидовХарактеристик.%1 bilmədi yeni maddə yaratmaq.%2
+ПланОбмена.%1 не удалось получить узел этой ИБ.%2	ПланОбмена.%1 ala bilmədi node bu İT.%2
+ПланОбмена.%1 не удалось создать новый узел.%2	ПланОбмена.%1 bilmədi yeni node yaratmaq.%2
+ПланСчетов.%1 не удалось найти предопределенный элемент/группу [%2].%3	ПланСчетов.%1 tapa bilmədi təyin element/qrup [%2].%3
+ПланСчетов.%1 не удалось создать новую группу.%2	ПланСчетов.%1 uğursuz yaratmaq, yeni bir qrup.%2
+ПланСчетов.%1 не удалось создать новый элемент.%2	ПланСчетов.%1 bilmədi yeni maddə yaratmaq.%2
+Подключение с именем <%1> перезаполнено в таблице подключений	Qoşulma adı ilə <%1> перезаполнено cədvəldə əlaqələri
+Подключили для отладки форма %1	Əyri ayıklama üçün forma %1
+Подключились к сеансу TESTCLIENT.	Qoşulublar seansa TESTCLİENT.
+Подсвет рамки - OK	Подсвет çərçivə - OK
+Поле <%1> в данный момент невидимо пользователю.	Sahə <%1> anda görünməz istifadəçi.
+Поле <%1> существует, а ожидали, что его нет.	Sahə <%1> var isə gözləyirdik ki, onun yoxdur.
+Поле с заголовком <%1> не найдено.	Sahəsində başlığı <%1> tapılmadı.
+Поле с именем <%1> не найдено.	Sahə adı ilə <%1> tapılmadı.
+Получить изменения формы	Əldə formasının dəyişdirilməsi
+Получить состояние всей формы	Almaq üçün dövlət bütün formaları
+ПолучитьИдентификаторПредставленияПоСсылке() : Неизвестный КорневойТипКонфигурации <%1>	ПолучитьИдентификаторПредставленияпоссылке() : Unknown КорневойТипКонфигурации <%1>
+ПолучитьСостояниеФормыTestClient:%1	ПолучитьСостояниеФормыTestClient:%1
+ПолучитьТаблицуЗначенийИзТабличногоДокумента: Требуется тип ТабличныйДокумент или ПолеТабличногоДокумента	ПолучитьТаблицуЗначенийИзТабличногодокумента: Tələb növü ТабличныйДокумент və ya ПолеТабличногоДокумента
+ПолучитьУжеСуществующиеСнипетыИзОбработок:%1	ПолучитьУжеСуществующиеСнипетыИзобработок:%1
+Пометка для шаг установлена.	Пометка üçün addım quraşdırılıb.
+Пометка снята.	Пометка həvalə.
+порт <%1>	port <%1>
+Порт %1 занят или находится вне указанного диапазона, порт подключения изменен на %2	Port %1 məşğuldur və ya kənarda göstərilən üçündür, port əlaqə dəyişdirilə %2
+Построение дерева.	Qurulması ağac.
+Превышение таймаутуа ожидания завершения фонового задания.	Artıq таймаутуа gözləmə başa fon vəzifələri.
+Предупреждение с текстом %1 не найдено.	Xəbərdarlıq mətn %1 tapılmadı.
+Предыдущая ошибка: %1. ТаймаутОжидания=%2	Əvvəlki səhv: %1. ТаймаутОжидания=%2
+При подключении TestClient возникло сообщение:	Qoşulma zamanı TestClient yarandı mesaj:
+ПроверитьРавенствоТаблиц: Второй параметр-таблица таблицей не является	ПроверитьРавенствоТаблиц: İkinci parametr-masa üstündeki deyil
+ПроверитьРавенствоТаблиц: Первый параметр-таблица таблицей не является	ПроверитьРавенствоТаблиц: Birinci parametr-masa üstündeki deyil
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Второй параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: İkinci parametr-cədvəl deyil табличным sənəd
+ПроверитьРавенствоТабличныхДокументовТолькоПоЗначениям: Первый параметр-таблица не является табличным документом	ПроверитьРавенствоТабличныхДокументовтолькопозначениям: Birinci parametr-cədvəl deyil табличным sənəd
+ПроверитьТип: Тип значения параметра ТипИлиИмяТипа должен быть <Тип> или <Строка>, а получили <%1>%2	ПроверитьТип: Növü dəyərlər aktiv ТипИлиИмяТипа olmalıdır <Tip> və ya <Line> isə var <%1>%2
+Проверка загрузки объектов в ИБ из макета данных выполнена успешно.	Yoxlama upload obyektlərin İT biri layout məlumatların uğurla icra edir.
+Проверьте работу команды <%1>	Yoxlayın komanda <%1>
+Профиль с именем <%1> не найден.	Profil adı ilə <%1> tapılmadı.
+ПрочитатьПеременныеСреды:%1	ПрочитатьПеременныеСреды:%1
+Пустой адрес снипета у шага: %1	Boş ünvan снипета var addım: %1
+ПутьКФиче=Неопределено	ПутьКФиче=Неопределено
+Работа с ключами для %1 пока не поддерживается	İş düymələri üçün %1 qədər dəstəklənmir
+Работаю по сценарию	Çalışıram ssenari üzrə
+Работаю по фиче: %1	İş üzrə фиче: %1
+равно	onsuz da
+РазличаютсяКолонки	РазличаютсяКолонки
+Различия в таблицах:	Fərqlər masalar:
+РазноеКоличествоСтрок	РазноеКоличествоСтрок
+Раннер <%1> не подключен.	Раннер <%1> bağlı deyil.
+РежимСовместимостиTestManager	РежимСовместимостиTestManager
+Реквизит <%1> не найден.	Rekvizit <%1> tapılmadı.
+с длиной	uzunluğu ilə
+Сеанс должен быть запущен с ключом TESTMANAGER.	Sessiya çalışan olmalıdır açarı ilə TESTMANAGER.
+Снипет <%1> встречается %2 раз.	Снипет <%1> rast gəlinir %2 dəfə.
+содержащее текст <%1>, а был текст <%2>	olan mətn <%1>, bəs idi mətn <%2>
+содержит	edir
+Создан %1	Yaradılıb %1
+Создан файл: %1	Yaradılıb fayl: %1
+Создание epf по фичам закончено.	Yaradılması epf üzrə фичам başa çatıb.
+Создать тестовый mp3 - OK	Yaratmaq test mp3 - OK
+Создаю %1	Yaratmaq %1
+Справочник.%1 не удалось найти предопределенный элемент/группу [%2].%3	Directory.%1 tapa bilmədi təyin element/qrup [%2].%3
+Справочник.%1 не удалось создать новую группу.%2	Directory.%1 uğursuz yaratmaq, yeni bir qrup.%2
+Справочник.%1 не удалось создать новый элемент.%2	Directory.%1 bilmədi yeni maddə yaratmaq.%2
+Справочник.%1.%2 - получен пустой элемент.	Directory.%1.%2 - əldə boş element.
+Сравниваемые значения (%1; %2) не равны, а хотели, чтобы были равны.%3	Сравниваемые dəyərlər (%1
+Сравниваемые значения (%1; %2) равны, а хотели, чтобы были не равны.%3	Сравниваемые dəyərlər (%1
+Странный параметр в логе инструкции HTML: %1	Qəribə bir seçimi логе təlimat HTML: %1
+Странный параметр в логе инструкции Markdown: %1	Qəribə bir seçimi логе təlimat Markdown: %1
+Строка <%1> из файла <%2> не найдена в файле <%3>	String <%1> fayl <%2> tapılmadı fayl <%3>
+Строка <%1> найдена в окне сообщений пользователю.	String <%1> aşkar qutusuna mesaj istifadəçi.
+Строка <%1> найдена в последнем сообщении пользователю. Найдено: %2	String <%1> aşkar olaraq, son məlumatda istifadəçi. Tapıldı: %2
+Строка <%1> не найдена в окне сообщений пользователю.	String <%1> tapılmadı qutusuna mesaj istifadəçi.
+Строка <%1> не найдена в последнем сообщении пользователю. Найдено: %2	String <%1> tapılmadı son məlumatında istifadəçi. Tapıldı: %2
+Строка %1 не найдена в реквизите %2	String %1 tapılmadı də реквизите %2
+Строка №%1 не найдена в табличном документе на форме	Sıra № - li%1 tapılmadı də табличном sənəddə formada azn
+Строка №%1, обнаружен символ <|>, хотя не было ключевого слова <Примеры>.	Sıra № - li%1, aşkar xarakter <|>, baxmayaraq ki, yox idi, bir söz <Nümunələri>.
+Строка №%1, ожидалось (%2), а найдено (%3) ПредыдущееКлючевоеСлово=%4	Sıra № - li%1, gözlənilən (%2), aşkar (%3) ПредыдущееКлючевоеСлово=%4
+Строка должна быть описана таблицей с двумя строками.	Sətir olmalıdır təsvir üstündeki iki strings.
+Строка с фича-файлом не найдена.	Sıra ilə фича-fayl tapılmadı.
+СтрокаЗапуска=%1	СтрокаЗапуска=%1
+существует	var
+Сценарий <%1> не загружен.	Ssenari <%1> dolu.
+Сценарий: %1	Ssenari: %1
+Таблица <%1> не соответствует эталону. Ожидали <%2> строк, а в ней <%3> строк.	Cədvəl <%1> uyğun deyil эталону. Gözləyirdik <%2> satır, orada <%3> satır.
+Таблица <%1> не стала равной за <%2> секунд. %3	Cədvəl <%1> oldu bərabər uğrunda <%2> saniyə. %3
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Ожидали <%4>, а получили <%5>	Cədvəl <%1>. Sıra № - li<%2>. Sütun <%3>. Gözləyirdik <%4>, var <%5>
+Таблица формы с именем <%1> не найдена.	Cədvəl formasının adı ilə <%1> tapılmadı.
+ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.Количество()=%2	ТаблицаОжиданий.КоличествоСтрок()=%1, ТаблицаРезультатов.Sayı()=%2
+Таблицы должны совпадать, а они различны.%1	Bir masa üst-üstə düşməli, onlar isə fərqlidir%1
+ТаблицыСовпадают	ТаблицыСовпадают
+Табличный документ <%1> оказался неравен <%2>.%3	Табличный sənəd <%1> düşdü неравен <%2>.%3
+Табличный документ не содержит нужные строки <%1>	Табличный sənəd edir lazımi string <%1>
+Табличный документ содержит ненужные строки <%1>	Табличный sənəd tərkibindəki lazımsız xətləri <%1>
+ТестируемаяФорма <%1> не открылась, а должна была открыться	ТестируемаяФорма <%1> açılıb isə gərək idi açıla
+ТестПропущен	ТестПропущен
+Технические данные	Texniki məlumatlar
+тип	növü
+Типом значения <%1> является <%2>, а ожидался тип <%3>.%4	Növü dəyərlər <%1> ən <%2>, ожидался növü <%3>.%4
+Требуется документ, бизнес-процесс или задача. Неизвестный менеджер %1.%2 . Переменная %3	Tələb olunan sənəd, biznes-proses və ya vəzifədir. Naməlum meneceri %1.%2 . Dəyişən %3
+ТЧ %1 не соответствует эталону. Ожидали %2 строк, а в ней %3 строк.	ТЧ %1 uyğun deyil эталону. Gözləyirdik %2 sətir isə orada %3 satır.
+ТЧ с именем <%1> не найдена.	ТЧ adı ilə <%1> tapılmadı.
+У окна <%1> не найдено ни одного элемента с типом <ТестируемоеПолеФормы>.	Pəncərə <%1> aşkar heç bir element növü ilə <ТестируемоеПолеФормы>.
+У поля <%1> ожидали заголовок <%2>, а получили <%3>	Biz sahələri <%1> gözlənilir header <%2>, var <%3>
+У поля <%1> ожидали отображаемый текст <%2>, а получили <%3>	Biz sahələri <%1> gözlənilir göstərilən mətn <%2>, var <%3>
+У поля <%1> ожидали текст подсказки <%2>, а получили <%3>	Biz sahələri <%1> gözlənilir mətn göstərişlər <%2>, var <%3>
+У текущего окна найдено %1 форм.	Biz cari pəncərə aşkar %1 formaları.
+У элемента формы <%1> текущий текст редактирования <%2>, а ожидали <%3>	Biz vurun formaları <%1> cari mətn redaktə <%2>, gözləyirdik <%3>
+Удаляю элемент %1	Удаляю element %1
+Удаляю элемент справочника <%1> : <%2>	Удаляю element kitabı <%1> : <%2>
+Уже открытый TestClient подключен на %1 порту.	Artıq açıq TestClient bağlı azn %1 limanında.
+Указан неверный диапазон портов: <%1>	Müəyyən yanlış sıra limanları: <%1>
+Указанное Имя колонки замещения [%1] не существует в макете.	Göstərilən Adı sütun tutmaq [%1] mövcud deyil maketin.
+Установлен флаг "Остановка при возникновении ошибки". Выполнение следующих сценариев отменено.	Müəyyən bayrağı "Stop yarandıqda səhvlər". Yerinə yetirilməsi aşağıdakı ssenari ləğv.
+Установлен флаг <Остановка при возникновении ошибки>. Выполнение следующих сценариев отменено.	Müəyyən bayrağı <Stop yarandıqda səhv>. Yerinə yetirilməsi aşağıdakı ssenari ləğv.
+Утверждение "ИмеетДлину" не умеет работать с типом <%1>.%2	"Nın təsdiq edilməsi ИмеетДлину" işləməyi bacarmır növü ilə <%1>.%2
+Утверждение "ПроверитьВхождениеВКоллекцию" не умеет работать с типом коллекции <%1>.%2	"Nın təsdiq edilməsi ПроверитьВхождениеВКоллекцию" işləməyi bacarmır növü ilə toplanması <%1>.%2
+Утверждение "Содержит" не умеет работать с типом <%1>.%2	"Nın təsdiq edilməsi Edir" işləməyi bacarmır növü ilə <%1>.%2
+Утверждение <ИмеетДлину> не умеет работать с типом <%1>.%2	Təsdiq <ИмеетДлину> işləməyi bacarmır növü ilə <%1>.%2
+Утверждение <ПроверитьВхождениеВКоллекцию> не умеет работать с типом коллекции <%1>.%2	Təsdiq <ПроверитьВхождениеВКоллекцию> işləməyi bacarmır növü ilə toplanması <%1>.%2
+Утверждение <Содержит> не умеет работать с типом <%1>.%2	Təsdiq <Edir> işləməyi bacarmır növü ilə <%1>.%2
+Утверждение ПроверитьРавенствоФайлов можно использовать только в толстом клиенте.	Təsdiq ПроверитьРавенствоФайлов istifadə edə bilərsiniz yalnız толстом müştəri.
+Файл <%1> не найден.	Fayl <%1> tapılmadı.
+Файл <%1> не существует.	Fayl <%1> yoxdur.
+Файл <vbFeatureReader.epf> не найден в каталоге инструментов <%1>	Fayl <vbFeatureReader.epf> tapılmadı kataloq alətləri <%1>
+Файл %1: <%2>	Fayl %1: <%2>
+Файл EPF не создан.	Fayl EPF deyil yaradılmışdır.
+Файл EPF не создан. Не смог создать каталог временной базы.	Fayl EPF deyil yaradılmışdır. Bilmədi kataloq yaratmaq müvəqqəti bazası.
+Файл отчета Allure-report (%1) записан.	Hesabat faylını Məlumat-report (%1) qeyd.
+Файл отчета CucumberJson-report (%1) записан.	Hesabat faylını CucumberJson-report (%1) qeyd.
+Файл отчета jUnit-report (%1) записан.	Hesabat faylını jUnit-report (%1) qeyd.
+Фича <%1> содержит тег @Tree. Найдены строки, которые содержат символы пробелов и символы табуляции в начале строки. Дерево не может быть корректно построено.	Фича <%1> ehtiva tag @Tree. Aşkar satır ehtiva edən simvol boşluqlar və simvollar nişanı əvvəlində satır. Ağac ola bilməz düzgün qurulub.
+Фича <%1> содержит тег @Tree. Часть строк содержит в начале строки символы пробелов <%2>, часть строк содержит символы табуляции <%3>. Дерево не может быть корректно построено.	Фича <%1> ehtiva tag @Tree. Bir hissəsini satır edir əvvəlində satır simvol boşluqlar <%2>, bir hissəsini satır simvol ehtiva nişanı <%3>. Ağac ola bilməz düzgün qurulub.
+Фича: %1	Фича: %1
+Фичи загружены	Фичи daşıyanlar
+Флаг <Сохранять контексты перед выполнением шагов> установлен в <Истина>.	Bayraq <Saxlamaq kontekstlərdə etmədən əvvəl addımlar> yüklü <Həqiqət>.
+Флаг с заголовком <%1> не найден.	Bayraq başlığı <%1> tapılmadı.
+Флаг с именем <%1> не найден.	Bayraq adı ilə <%1> tapılmadı.
+Форма <%1> не найдена.	Forma <%1> tapılmadı.
+Форма окна с заголовком %1 не найдена.	Forma pəncərə başlığı %1 tapılmadı.
+Форма с заголовком <%1> не найдена.	Forması ilə başlığı <%1> tapılmadı.
+Форма с заголовком %1 не найдена.	Forması ilə başlığı %1 tapılmadı.
+Хост сеанс надо запустить с ключом /TESTMANAGER.	Host seansı başlamaq lazımdır, əsas /TESTMANAGER.
+Хотели, чтобы алгоритм <%1> выполнился, а он упал с ошибкой <%2>. %3	İstəyirdik ki, alqoritm <%1> выполнился, o da düşdü bir səhv <%2>. %3
+Хотели, чтобы алгоритм <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	İstəyirdik ki, alqoritm <%1> düşdü mesajı ilə səhv <%2>, o da düşdü mesajı ilə <%3>.%4
+Хотели, чтобы алгоритм <%1> упал, а он выполнился%2	İstəyirdik ki, alqoritm <%1> düşdü, o isə выполнился%2
+Хотели, чтобы код <%1> выполнился, а он упал с ошибкой <%2>. %3	İstəyirdi üçün kodu <%1> выполнился, o da düşdü bir səhv <%2>. %3
+Хотели, чтобы код <%1> упал с сообщением об ошибке <%2>, а он упал с сообщением <%3>.%4	İstəyirdi üçün kodu <%1> düşdü mesajı ilə səhv <%2>, o da düşdü mesajı ilə <%3>.%4
+Хотели, чтобы код <%1> упал, а он выполнился%2	İstəyirdi üçün kodu <%1> düşdü, o isə выполнился%2
+Шаг	Addım
+Шаг (%1) не выполнен.	Addım (%1) yerinə yetirilmişdir.
+Шаг (%1) не выполнен. Строка дерева №%2	Addım (%1) yerinə yetirilmişdir. Simli ağac saylı%2
+Шаг (%1) не реализован.	Addım (%1) icra edilib.
+Шаг <%1> должен был вызвать исключение, а он выполнился корректно.	Addım <%1> idim səbəb ola istisna, o isə выполнился olunur.
+Шаг выполнен с ошибкой: %1	Addım yerinə yetirilmişdir bir səhv: %1
+Шаг принимает на вход только таблицу Gherkin, в которой две строки. А было передано %1 строк.	Addım edir giriş yalnız masa Gherkin olan iki satır. Amma verilib %1 satır.
+Шаг сценария не реализован.	Addım ssenari həyata deyil.
+Элемент с заголовком <%1> виден на текущей форме	Maddə ilə başlığı <%1> görünən cari formada
+Элемент с заголовком <%1> доступен на форме	Maddə ilə başlığı <%1> mövcuddur formada
+Элемент с заголовком <%1> доступен не только для просмотра	Maddə ilə başlığı <%1> mövcuddur yalnız keçirmək üçün
+Элемент с заголовком <%1> доступен только для просмотра	Maddə ilə başlığı <%1> mövcuddur yalnız keçirmək üçün
+Элемент с заголовком <%1> не виден на текущей форме	Maddə ilə başlığı <%1> görünən cari formada
+Элемент с заголовком <%1> не доступен на форме	Maddə ilə başlığı <%1> formada mövcud deyil
+Элемент с именем <%1> виден на текущей форме	Element adı ilə <%1> görünən cari formada
+Элемент с именем <%1> доступен на форме	Element adı ilə <%1> mövcuddur formada
+Элемент с именем <%1> доступен не только для просмотра	Element adı ilə <%1> mövcuddur yalnız keçirmək üçün
+Элемент с именем <%1> доступен только для просмотра	Element adı ilə <%1> mövcuddur yalnız keçirmək üçün
+Элемент с именем <%1> не виден на текущей форме	Element adı ilə <%1> görünən cari formada
+Элемент с именем <%1> не доступен на форме	Element adı ilə <%1> formada mövcud deyil
+Элемент формы <%1> не найден.	Maddə formaları <%1> tapılmadı.
+Элемент формы с именем <%1> не найден.	Maddə formaları adı ilə <%1> tapılmadı.
+Элемента формы с заголовком <%1> не найдено.	Maddə formaları ilə başlığı <%1> tapılmadı.
+Элемента формы с именем <%1> не найдено.	Maddə formaları adı ilə <%1> tapılmadı.
+Это возможно только для шага.	Bu mümkündür üçün addım.
+является NULL	bir NULL
+является заполненным	bir dolu
+является истиной	bir həqiqət
+является ложью	bir yalan
+является неопределено	bir неопределено
+Не найден SikuliX скрипт <%1>.	Tapılmadı SikuliX script <%1>.
+Не удалось выполнить SukuliX скрипт <%1>.	Uğursuz yerinə SukuliX script <%1>.
+Ожидали, что в таблице <%1> текуще поле будет заполнено.	Gözləyirdik ki, cədvəldə <%1> текуще sahəsində dolu olacaq.
+Ожидали, что в таблице <%1> текуще поле будет не заполнено.	Gözləyirdik ki, cədvəldə <%1> текуще sahəsində olacaq dolu.
+Ожидали у таблицы <%1> в течение <%2> секунд, что текущее поле будет заполнено.	Gözləyirdik var cədvəl <%1> ərzində <%2> saniyə ki, cari sahəsində dolu olacaq.
+Таблица <%1>. Строка №<%2>. Колонка <%3>. Не смог получить значение из эталона.	Cədvəl <%1>. Sıra № - li<%2>. Sütun <%3>. Ala bilmədim əhəmiyyəti olan bir sened.
+Не получилось получить представление открытого списка выбора <%1>.	Alınmadı almaq üçün təqdim açıq siyahısı seçim <%1>.
+У списка выбора <%1> ожидалось %2 значений, а было получено %3 значений.	Biz siyahıdan seçim <%1> gözlənilir %2 dəyərlər isə qəbul edilib %3 mənaları.
+Ожидалось получить %1, а было получено %2.	Gözlənilən almaq %1 və qəbul edilib %2.
+Открытый список выбора <%1> не равен эталону. Различия: %2	Açıq siyahısı seçim <%1> bərabər deyil эталону. Fərqlər: %2
+Ожидалось, что открытый список содержит значение %1.	Gözlənilirdi ki, açıq siyahısını ehtiva edir əhəmiyyət %1.
+Открытый список выбора <%1> не содержит ожидаемые значения: %2	Açıq siyahısı seçim <%1> təmin edir gözlənilən dəyəri: %2
+Открытый список выбора <%1> содержит значения, которых не должно быть: %2	Açıq siyahısı seçim <%1> ehtiva əhəmiyyətli olan olmamalıdır: %2
+Не смог получить данные локализации сообщений.	Bilmədi məlumat almaq lokallaşdırılması mesaj.
+У поля <%1> не получилось нажать на гиперссылку <%2>.	Biz sahələri <%1> alınmadı basın гиперссылку <%2>.
+Вы уверены?	Əminsinizmi?
+Закрыть форму	Yaxın forması
+Не получилось нажать на кнопку <%1>.	Alınmadı düyməsinə basın <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд ячейка <%3> станет равна <%4>.	Gözləyirdik ki, табличного sənədin <%1> ərzində <%2> saniyə özəyi <%3> olacaqdır bərabərdir <%4>.
+Некоторые сообщения не были найдены в окне сообщений пользователю: %1	Bəzi mesajları aşkar edilmişdir qutusuna mesaj istifadəçi: %1
+В окне сообщений пользователю были найдены лишние сообщения: %1	Pəncərə mesaj istifadəçi tapılmışdır artıq mesajlar: %1
+Не получилось определить длительность у файла <%1>.	Alınmadı müəyyən müddəti var faylı <%1>.
+Не получилось добавить субтитры к файлу <%1>.	Alınmadı əlavə altyazı fayl <%1>.
+Команда ffmpeg по слиянию всех видео не выполнена.	Komanda ffmpeg üzrə dünyada birləşmələr bütün video də yerinə yetirilməyib.
+Команда ffmpeg по перекодированю звука не выполнена.	Komanda ffmpeg üzrə перекодированю səs də yerinə yetirilməyib.
+Команда ffmpeg по добавлению водяной отметки и перекодированию звука не выполнена.	Komanda ffmpeg üzrə əlavə su nişanı və перекодированию səs də yerinə yetirilməyib.
+Команда ffmpeg по кодированию в mp4 не выполнена.	Komanda ffmpeg üzrə кодированию mp4, icra edilmir.
+Команда ffmpeg по добавлению mp3 в ролик не выполнена.	Komanda ffmpeg üzrə əlavə mp3 rolik də yerinə yetirilməyib.
+Не получилось создать файл TTS <%1>.	Alınmadı fayl yaratmaq TTS <%1>.
+Не указано имя голоса Text To Speech.	Müəyyən deyil adı səs Text To Speech.
+Не указана команда ffmpeg.	Heç göstərilib komanda ffmpeg.
+Не указана команда Convert.	Heç göstərilib komanda Convert.
+Не найдено значение из колонки <%1>.	Tapılmadı əhəmiyyəti olan sütun <%1>.
+Не найдено значение <%1> из колонки <%2>.	Tapılmadı əhəmiyyət <%1> bir sütun <%2>.
+Не получилось сохранить в переменную <%1> таблицу с именем <%2>.	Alınmadı saxlamaq dəyişən <%1> adlı bir masa <%2>.
+Таблица <%1> пустая.	Cədvəl <%1> boş.
+В таблицах <%1> и <%2> разное количество колонок <%3> и <%4>.	Masalar <%1> və <%2> müxtəlif sayı sütun <%3> və <%4>.
+Не все строки таблицы <%1> найдены в таблице <%2>:	Bütün simli masa <%1> aşkar cədvəldə <%2>:
+Для элемента с именем <%1> не найдена форма.	Üçün vurun adı ilə <%1> tapılmadı forması.
+Не указано значение настройки Vanessa-automation: <КаталогПроекта>.	Müəyyən deyil əhəmiyyəti parametrlər Vanessa-automation: <КаталогПроекта>.
+Не указано значение настройки Vanessa-automation: <КаталогиСкриптовSikuliX>.	Müəyyən deyil əhəmiyyəti parametrlər Vanessa-automation: <КаталогиСкриптовSikuliX>.
+В каталоге <%1> не найден файл <%2>.	Kataloqda <%1> faylı tapılmadı <%2>.
+В каталоге <%1> найдено больше одного файла <%2>: %3.	Kataloqda <%1> aşkar birdən çox fayl <%2>: %3.
+Не получилось сделать клик мышкой по картинке <%1>.	Alınmadı etmək klik siçan ilə şəkil <%1>.
+Не получилось запустить Sikulix сервер.	Alınmadı run Sikulix server.
+Не получилось дождаться выполнения SikuliX скрипта <%1>.	Alınmadı gözləmək yerinə SikuliX script <%1>.
+Не получилось выполнить SikuliX скрипт <%1>.	Alınmadı yerinə SikuliX script <%1>.
+Ожидалось, что группа элементов <%1> содержит данные элементы формы: %2	Gözlənilirdi ki, bir qrup elementləri <%1> data ehtiva edir forma elementləri: %2
+Ожидалось, что группа элементов <%1> не содержит данные элементы формы: %2	Gözlənilirdi ki, bir qrup elementləri <%1> data ehtiva edir forma elementləri: %2
+Ожидали у таблицы <%1> в течение <%2> секунд у поля <%3> значения отличного от <%4>. Текущее значение <%5>.	Gözləyirdik var cədvəl <%1> ərzində <%2> saniyə var sahələri <%3> dəyərlər əla təcrübəsi <%4>. Cari dəyəri <%5>.
+Ожидалось, что в панели разделов будет <%1> элементов, а найдено <%2> элементов.	Gözlənilir ki, panel bölmələr olacaq <%1> elementləri və aşkar <%2> elementləri.
+Ожидалось, что в панели разделов будут содержаться следующие элементы: %1	Gözlənilir ki, panel bölmələr olacaq saxlanıla aşağıdakı elementləri: %1
+Ожидалось, что в панели разделов не будут содержаться следующие элементы: %	Gözlənilir ki, panel bölmələr olacaq saxlanıla aşağıdakı elementləri: %
+Ожидалось, что в панели функций будет <%1> элементов, а найдено <%2> элементов.	Gözlənilir ki, panel xüsusiyyətləri olacaq <%1> elementləri və aşkar <%2> elementləri.
+Ожидалось, что в панели функций будет элемент <%1> , а был найден элемент <%2>.	Gözlənilir ki, panel xüsusiyyətləri olacaq element <%1> isə aşkar edilmişdir element <%2>.
+Ожидалось, что в панели функций будут содержаться следующие элементы: %1	Gözlənilir ki, panel xüsusiyyətləri olacaq saxlanıla aşağıdakı elementləri: %1
+Ожидалось, что в панели функций не будут содержаться следующие элементы: %1	Gözlənilir ki, panel xüsusiyyətləri olacaq saxlanıla aşağıdakı elementləri: %1
+Группа <%1> не найдена в панели функций.	Qrupu <%1> tapılmadı bar funksiyaları.
+Ожидалось, что в группе <%1> панели функций будут содержаться следующие элементы: %2	Gözlənilirdi ki, bir qrup <%1> panel xüsusiyyətləri olacaq saxlanıla aşağıdakı elementləri: %2
+Ожидалось, что в группе <%1> панели функций не будут содержаться следующие элементы: %2	Gözlənilirdi ki, bir qrup <%1> panel xüsusiyyətləri olacaq saxlanıla aşağıdakı elementləri: %2
+Ошибка. Не найдены настройки пользователя <%1> в файле <%2>.	Bir səhv. Heç bir aşkar parametrlər istifadəçi <%1> fayl <%2>.
+Функция <%1> реализована только для Windows.	Funksiyası <%1> icra yalnız Windows üçün.
+У поля <%1> ожидали текст заголовка <%2>, а получили <%3>.	Biz sahələri <%1> gözlənilir mətn header <%2>, var <%3>.
+В таблице <%1> у поля <%2> ожидали заголовок <%3>, а получили <%4>.	Cədvəldə <%1> biz sahələri <%2> gözlənilir header <%3> isə var <%4>.
+В таблице <%1> у поля <%2> ожидали текст подсказки <%3>, а получили <%4>.	Cədvəldə <%1> biz sahələri <%2> gözlənilir mətn göstərişlər <%3> isə var <%4>.
+Не получилось выгрузить базу в dt: <%1>. Путь к DT: <%2>. Статус возврата: <%3>.	Alınmadı boşaltmaq bazasını dt: <%1>. Yol DT: <%2>. Statusu geri: <%3>.
+Группа колонок <%1> в таблице <%2> не найдена.	Qrupu sütun <%1> cədvəldə <%2> tapılmadı.
+В таблице <%1> в группе колонок <%2> колонка <%3> не найдена.	Cədvəldə <%1> qrupunda sütun <%2> sütun <%3> tapılmadı.
+Не получилось найти на экране картинку <%1>.	Alınmadı tapmaq ekranda şəkil <%1>.
+Ожидали, что у табличного документа <%1> в течение <%2> секунд значение ячейки <%3> станет равно <%4>. Текущее значение <%5>.	Gözləyirdik ki, табличного sənədin <%1> ərzində <%2> saniyə mobil dəyər <%3> olacaqdır bərabərdir <%4>. Cari dəyəri <%5>.
+Метод Шаг() не выполнен. Не удалось прочитать шаги из временного фича файла <%1>. Исходная строка:%2	Üsul Addım() yerinə yetirilmişdir. Uğursuz oxumaq addımlar biri müvəqqəti фича fayl <%1>. Ilkin sətir:%2
+Этот клиент	Bu müştəri
+Не получилось найти данные макета <%1>.	Alınmadı məlumat tapmaq layout <%1>.
+Не получилось выполнить эмуляцию хоткея <%1> <%2>.	Alınmadı yerinə эмуляцию хоткея <%1> <%2>.
+Не получилось выполнить эмуляцию ENTER.	Alınmadı yerinə эмуляцию daxil edin.
+Не получилось дождаться картинки <%1> в течение <%2> секунд.	Alınmadı gözləmək şəkillər <%1> ərzində <%2> saniyə.
+Окно с заголовком <%1> не найдено. Текущее окно: <%2>.	Pəncərə başlığı <%1> tapılmadı. Cari pəncərə: <%2>.
+Строка <%1> не найдена в окне сообщений пользователю. Состояние окна сообщений:%2	String <%1> tapılmadı qutusuna mesaj istifadəçi. Dövlət pəncərə mesajlar:%2
+Не получилось определить родителя у шага <%1>.	Alınmadı müəyyən valideyn var addım <%1>.
+Не получилось определить позицию шага <%1> в группе шагов <%2>.	Alınmadı müəyyən mövqe addım <%1> qrupunda addımlar <%2>.
+Не получилось открыть форму регистра сведений <%1>.	Alınmadı açıq formasını həssas məlumatların <%1>.
+Не получилось найти подсистему <%1> в регистре версии подсистем.	Alınmadı tapmaq подсистему <%1> imkanının versiyası alt.
+Ожидалось получить <%1> строк в таблице <%2>, а было получено <%3> строк.	Gözlənilən əldə <%1> satır cədvəldə <%2>, qəbul edilib <%3> satır.
+Не получилось сохранить значение <%1> в переменную <%2>.	Alınmadı saxlamaq əhəmiyyət <%1> dəyişən <%2>.
+Не получилось подключиться к ранее запущенному клиенту тестирования <%1>, порт <%2>.	Alınmadı qoşulmaq əvvəllər запущенному müştəriyə test <%1>, port <%2>.
+Не получилось прочитать параметр запуска <%1>.	Alınmadı oxumaq seçimi başlamaq <%1>.
+ИмяРаннера	ИмяРаннера
+ТипКлиентаТестирования	ТипКлиентаТестирования
+СтрокаСоединения	СтрокаСоединения
+Не получилось сохранить строку <%1> в переменную <%2>.	Alınmadı saxlamaq string <%1> dəyişən <%2>.
+Неверно указано значение параметра направления вращения колеса мышки. Возможные значения: Вверх или Вниз.	Düzgün müəyyən əhəmiyyət aktiv istiqamətləri fırlanma təkərlər siçan. Mümkün dəyərlər: Yuxarı və ya Aşağı basın.
+Не получилось выполнить эмуляцию вращения колеса мышки в направлении <%1>, количество итераций <%2>.	Alınmadı yerinə эмуляцию fırlanma təkərlər siçan istiqamətində <%1>, sayı tekrarlamalar <%2>.
+Обнаружено несколько файлов, экспортирующих подсценарий <%1>. Файлы: %2	Aşkar bir neçə fayl ixrac edən подсценарий <%1>. Faylları: %2
+Не получилось сделать клик праой кнопкой мышки по картинке <%1>.	Alınmadı etmək klik праой düyməsini siçan ilə şəkil <%1>.
+Не получилось переместить курсор мышки к картинке <%1>.	Alınmadı kursor hərəkət və siçan üçün şəkil <%1>.
+Не существует клиента тестирования <%1>.	Yoxdur müştərinin test <%1>.
+Ожидали, что процесс с ИД <%1> будет завершен в течение <%2> секунд.	Gözlənilir ki, proses İD <%1> başa çatacaq ərzində <%2> saniyə.
+Значение переменной <%1> изменено на <%2>.	Dəyişən dəyəri <%1> dəyişib <%2>.
+Значение глобальной переменной <%1> изменено на <%2>.	Qlobal əhəmiyyət dəyişən <%1> dəyişib <%2>.
+Переменная <%1> удалена.	Dəyişən <%1> silindi.
+Глобальная переменная <%1> удалена.	Qlobal dəyişən <%1> silindi.
+Контекст	Kontekst
+Контекст глобальный	Kontekstində qlobal
+Окно с заголовком <%1> не найдено. Таймаут поиска окна: <%2>.	Pəncərə başlığı <%1> tapılmadı. Fasilə axtarış pəncərə: <%2>.
+Не удалось получить токен.	Ala bilmədi token.
+Не удалось получить токен. Код результата: <%1>. Ответ: <%2>.	Ala bilmədi token. Kodu nəticə: <%1>. Cavab: <%2>.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Uğursuz məlumat almaq. Kodu nəticə: <%1>. Cavab: <%2>.
+Не смог в таблице <%1> сделать выбрать из списка выбора <%2> по строке <%3>. Количество попыток <%4>.	Bilmədi cədvəldə <%1> etmək siyahıdan seçin seçim <%2> simli <%3>. Cəhdləri sayı <%4>.
+Не смог сделать выбрать из списка выбора <%1> по строке <%2>. Количество попыток <%3>.	Bilmədim nə seçmək siyahıdan seçim <%1> simli <%2>. Cəhdləri sayı <%3>.
+Не выполнены дополнительные процедуры обработки данных.	İcra əlavə prosedurlar data.
+Обнаружено окно обновления конфигурации.	Aşkar pəncərə yenilikləri konfiqurasiya.
+Обнаружено окно c сообщением о неудачном обновлением конфигурации.	Aşkar pəncərə c mesajı haqqında неудачном yenilənməsi konfiqurasiya.
+Видео создано автоматически.	Video avtomatik olaraq yaradılmışdır.
+Количество сценариев	Sayı ssenarilərin
+Количество шагов	Addımların sayı
+Версия Vanessa-Automation	Version Vanessa-Automation
+Версия скрипта сборки видео	Version script toplaşmaq video
+ЗаголовокАктивногоОкна	ЗаголовокАктивногоОкна
+ИмяАктивнойФормы	ИмяАктивнойФормы
+В таблице должно быть боле 1 строки, а получили <%1> строк.	Cədvəldə olmalıdır gövdə 1 satır və əldə <%1> satır.
+Выполнить сценарии	İcra ssenarilər
+Загружены глобальные переменные.	Yüklənib qlobal dəyişənlər.
+Не найден каталог: %1	Tapılmadı kataloq: %1
+Выполнить	Yerinə yetirmək
+Выполняется...	Həyata...
+Останавливается...	Dayanır...
+Обнаружено окно перехода на новую версию платформы 1С:Предприятие.	Aşkar pəncərə keçid yeni versiyası platforma 1C:Müəssisə.
+В таблице <%1> не получилось активизировать поле <%2> для редактирования.	Cədvəldə <%1> alınmadı gücləndirmək sahəsində <%2> redaktə etmək üçün.
+Ожидалось в течение <%1> секунд, что откроется окно с заголовком отличным от <%2>.	Gözlənilən ərzində <%1> saniyə ki, açılacaq pəncərə başlığı böyük təcrübəsi <%2>.
+Выберите файл настроек Vanessa Automation.	Fayl seçin və parametrləri Vanessa Automation.
+Версия загружаемых настроек не соответсвует версии обработки.	Version yüklənən parametrləri deyil соответсвует versiyası emalı.
+Информация: Параметр %1 не загружен.	Seçimi: %1 deyil yüklü.
+Не получилось прочитать значение из строки запуска: %1.	Alınmadı oxumaq üçün əhəmiyyəti olan xətləri çalıştırmak: %1.
+При чтении переменных окружения операционной системы возникло исключение: %1	Oxuyarkən dəyişənlərin ətrafında əməliyyat sistemi yarandı istisna edilir: %1
+Не найден путь к файлу JSON. Параметр: VAParams.	Tapılmadı fayl yolu JSON. Seçimi: VAParams.
+Ошибка чтения структуры JSON. Пропускаем чтение.	Səhv oxumaq qurumlar JSON. Пропускаем oxu.
+Ошибка чтения структуры JSON.	Səhv oxumaq qurumlar JSON.
+В параметрах JSON не найден каталог Фич.	Bu göstəriciləri JSON tapılmadı kataloq Фич.
+Использование устаревшего параметра "КаталогOutputСкриншоты". Новый параметр - "КаталогВыгрузкиСкриншотов".	İstifadə köhnəlmiş parametri "КаталогOutputСкриншоты". Yeni seçim - "КаталогВыгрузкиСкриншотов".
+Использование устаревшего параметра "КаталогOutputИнструкцияHTML". Новый параметр - "КаталогВыгрузкиИнструкцийHTML".	İstifadə köhnəlmiş parametri "КаталогOutputИнструкцияHTML". Yeni seçim - "КаталогВыгрузкиИнструкцийHTML".
+Использование устаревшего параметра "КаталогOutputИнструкцияMarkdown". Новый параметр - "КаталогВыгрузкиИнструкцийMarkdown".	İstifadə köhnəlmiş parametri "КаталогOutputИнструкцияMarkdown". Yeni seçim - "КаталогВыгрузкиИнструкцийMarkdown".
+Использование устаревшего параметра "КаталогOutputИнструкцияВидео". Новый параметр - "КаталогВыгрузкиИнструкцийВидео".	İstifadə köhnəlmiş parametri "КаталогOutputИнструкцияВидео". Yeni seçim - "КаталогВыгрузкиИнструкцийВидео".
+Использование устаревшего параметра "КаталогOutputjUnit". Новый параметр - "КаталогВыгрузкиjUnit".	İstifadə köhnəlmiş parametri "КаталогOutputjUnit". Yeni seçim - "КаталогВыгрузкиjUnit".
+В параметрах запуска JSON не определен каталог отчета jUnit.	Bu göstəriciləri başlamaq JSON müəyyən deyil kataloq hesabat jUnit.
+Использование устаревшего параметра "КаталогOutputCucumberJson". Новый параметр - "КаталогВыгрузкиCucumberJson"	İstifadə köhnəlmiş parametri "КаталогOutputCucumberJson". Yeni seçim - "КаталогВыгрузкиCucumberJson"
+В параметрах запуска JSON не определен отчета CucumberJson.	Bu göstəriciləri başlamaq JSON müəyyən deyil hesabatın CucumberJson.
+Использование устаревшего параметра "КаталогOutputAllure". Новый параметр - "КаталогВыгрузкиAllure".	İstifadə köhnəlmiş parametri "КаталогOutputAllure". Yeni seçim - "КаталогВыгрузкиAllure".
+Использование устаревшего параметра "КаталогOutputAllureБазовый". Новый параметр - "КаталогВыгрузкиAllureБазовый".	İstifadə köhnəlmiş parametri "КаталогOutputAllureБазовый". Yeni seçim - "КаталогВыгрузкиAllureБазовый".
+Форма из переданного списка не найдена.	Forması olan verilmiş siyahı tapılmadı.
+ИмяФичи	ИмяФичи
+ИмяСценария	ИмяСценария
+НомерСтрокиДерева	НомерСтрокиДерева
+НомерСтрокиФичи	НомерСтрокиФичи
+ПолнйПутьКФиче	ПолнйПутьКФиче
+Сценарий не определён.	Ssenari müəyyən deyil.
+Шаг не определён.	Addım müəyyən deyil.
+Не удалось получить данные. Код результата: <%1>. Ответ: <%2>.	Uğursuz məlumat almaq. Kodu nəticə: <%1>. Cavab: <%2>.
+ДеталиОшибки	ДеталиОшибки
+Команда по созданию картинки из текста не выполнена: %1	Komanda yaradılmasına dair şəkillər, mətn yerinə yetirilməyib: %1
+Не получилось получить командный интерфейс клиента тестирования.	Alınmadı almaq komanda interfeysi müştərinin test.
+Окно предупреждения не найдено.	Pəncərə xəbərdarlıq edib.
+Не получилось выполнить помещение файла <%1>.	Alınmadı yerinə sahəsinə fayl <%1>.
+Не найдено подключение SikuliX сервера.	Tapılmadı bağlantısı SikuliX server.
+Подключение SikuliX сервера сброшено.	Əlaqə SikuliX server сброшено.
+Не указано значение настройки Vanessa-automation: <КаталогДляГенерацииКартинок>.	Müəyyən deyil əhəmiyyəti parametrlər Vanessa-automation: <КаталогДляГенерацииКартинок>.
+Не получилось создать картинку по тексту <%1>.	Alınmadı yaratmaq, şəkil üzrə mətn <%1>.
+Не найден профиль поиска картинки с текстом <%1>.	Tapılmadı profil axtarış şəkil ilə mətn <%1>.
+Команда не выполнена: %1	Komanda yerinə yetirilməyib: %1
+Не получилось вычислить выражение: %1. Описание ошибки: %2	Alınmadı hesablamaq ifadə edir: %1. Təsviri səhvlər: %2
+Не указано имя файла.	Müəyyən deyil fayl adı.
+Каталог <%1> не существует.	Kataloq <%1> yoxdur.
+Не указано расширение файла.	Müəyyən deyil genişləndirilməsi fayl.
+Не получилось закрыть активное окно <%1>. %2	Alınmadı yaxın fəal pəncərə <%1>. %2
+Закрытие окна <%1>.	Bağlama pəncərə <%1>.

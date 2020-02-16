@@ -1,0 +1,1002 @@
+﻿Шаг оригинал	Описание	Шаг оригинал	Описание
+Как <Роль>	Специальный текст	Jak <Rola>	Specjalny tekst
+Контекст:	Специальный текст	Kontekst:	Specjalny tekst
+Сценарий: <описание сценария>	Специальный текст	Scenariusz: <opis scenariusza>	Specjalny tekst
+Функционал: <описание фичи>	Специальный текст	Funkcja: <opis фичи>	Specjalny tekst
+Чтобы <бизнес-эффект>	Специальный текст	Żeby <biznes-efekt>	Specjalny tekst
+Я хочу <описание функционала>	Специальный текст	Chcę <opis funkcji>	Specjalny tekst
+Fixtures	Категория шагов	Fixtures	Kategoria kroków
+UI	Категория шагов	UI	Kategoria kroków
+Активность	Категория шагов	Aktywność	Kategoria kroków
+Ввод на основании	Категория шагов	Utwórz na podstawie	Kategoria kroków
+Видимость	Категория шагов	Widoczność	Kategoria kroków
+Всплывающие окна	Категория шагов	Spływające okna	Kategoria kroków
+Встроенный язык	Категория шагов	Wbudowany język	Kategoria kroków
+Выбор строки	Категория шагов	Wybierz wiersz	Kategoria kroków
+Выделение строк	Категория шагов	Zaznać wiersz	Kategoria kroków
+Выпадающий список	Категория шагов	Lista rozwijana	Kategoria kroków
+Гиперссылки	Категория шагов	Hiperłącza	Kategoria kroków
+Группы	Категория шагов	Grupy	Kategoria kroków
+Добавить строку	Категория шагов	Dodaj wiersz	Kategoria kroków
+Доступность	Категория шагов	Dostępność	Kategoria kroków
+Заголовок	Категория шагов	Nagłówek	Kategoria kroków
+Заполненность	Категория шагов	Wypełnienie	Kategoria kroków
+Значение поля	Категория шагов	Znaczenie pola	Kategoria kroków
+Иерархический список	Категория шагов	Lista hierarchiczna	Kategoria kroków
+Имя формы	Категория шагов	Imię formy	Kategoria kroków
+Календарь	Категория шагов	Kalendarz	Kategoria kroków
+Кнопки	Категория шагов	Przyciski	Kategoria kroków
+Количество строк	Категория шагов	Ilość wierszów	Kategoria kroków
+Командный интерфейс	Категория шагов	Polecenia interfejsu	Kategoria kroków
+Контекст сохраняемый	Категория шагов	Kontekst zachowuje się	Kategoria kroków
+Контекстное меню	Категория шагов	Menu kontekstowe	Kategoria kroków
+Новое подключение к той же базе, где запущен TestManager	Категория шагов	Nowe podłaczanie do tejże bazy, gdzie jest uruchomiony TestManager	Kategoria kroków
+Ожидание значения элемента	Категория шагов	Oczekiwanie znaczenia elementu	Kategoria kroków
+Ожидание появления элемента	Категория шагов	Oczekiwanie pojawienia elementu	Kategoria kroków
+Окна	Категория шагов	Okna	Kategoria kroków
+Открыть форму объекта	Категория шагов	Otwórz formę obiektu	Kategoria kroków
+Отчеты	Категория шагов	Raporty	Kategoria kroków
+Перебор строк	Категория шагов	Wyszukiwanie wierszy	Kategoria kroków
+Переключатели	Категория шагов	Przełączniki	Kategoria kroków
+Переход к строке	Категория шагов	Przejdź do wierszy	Kategoria kroków
+Подключение TestClient	Категория шагов	Podłaczanie TestClient	Kategoria kroków
+Подсказка	Категория шагов	Podpowiedź	Kategoria kroków
+Поля	Категория шагов	Pola	Kategoria kroków
+Проверка видимости	Категория шагов	Sprawdzenie widzialności	Kategoria kroków
+Проверка значения	Категория шагов	Sprawdzenie znaczenia	Kategoria kroków
+Проверка значения поля	Категория шагов	Sprawdzenie znaczenia pola	Kategoria kroków
+Проверка существования	Категория шагов	Sprawdzenie istnienia	Kategoria kroków
+Просмотр	Категория шагов	Przegląd	Kategoria kroków
+Прочее	Категория шагов	Inne	Kategoria kroków
+Прочитать значение	Категория шагов	Przeczytaj znaczenie	Kategoria kroków
+Работа с подключенными TestClient	Категория шагов	Praca z podłaczonymi TestClient	Kategoria kroków
+Развернуть/Свернуть	Категория шагов	Rozwinąć/Zwinąć	Kategoria kroków
+Редактирование строки	Категория шагов	Zmień wiersz	Kategoria kroków
+Реквизиты	Категория шагов	Atrybuty	Kategoria kroków
+Сообщения пользователю	Категория шагов	Wiadomości do użytkownika	Kategoria kroków
+Сохранить значение	Категория шагов	Zapisz znaczenie	Kategoria kroków
+Строки	Категория шагов	Wiersze	Kategoria kroków
+Таблицы	Категория шагов	Tablice	Kategoria kroków
+Табличный документ	Категория шагов	Dokument tabelaryczny	Kategoria kroków
+Удаление строк	Категория шагов	Usuń wiersze	Kategoria kroków
+Удалить строку	Категория шагов	Usuń wiersz	Kategoria kroków
+Файлы	Категория шагов	Pliki	Kategoria kroków
+Фильтр	Категория шагов	Filtr	Kategoria kroków
+Флаги	Категория шагов	Flagi	Kategoria kroków
+Формы	Категория шагов	Formy	Kategoria kroków
+Дано Я открыл новый сеанс TestClient или подключил уже существующий	Открывает новый TesClient в той же базе, что и TestManager или подключает уже существующий	Dano otwórz nowy seans TestClient albo podłącz istniejący	Otwiera nowy TesClient w tej samej bazie danych, co TestManager lub podłacza istniejący
+Дано Я запускаю сценарий открытия TestClient или подключаю уже существующий	Подключает новый TestClient если необходимо и закрывает в нём все окна	Uruchom otwarty scenariusz TestClient lub podłącz istniejący	Otwiera nowy TesClient w tej samej bazie danych, co TestManager lub łączy istniejący
+И Я нажимаю кнопку командного интерфейса "Склады"	Нажимает на кнопку командного интерфейса	I naciskam na przycisk polecenia interfejsu "Magazyny"	Naciska na przycisk polecenia interfejsu
+Когда В панели разделов я выбираю "Основная"	Нажатие кнопки на панели разделов	Kiedy W paneli rozdziałów wybieram "Główna"	Naciśnięcie przycisku na paneli rozdziałów
+И В панели функций я выбираю "Справочник1"	Нажатие кнопки на панели функций	I W paneli funkcji wybieram "Katalog1"	Naciśnięcie przycisku na paneli funkcji
+Тогда открылось окно "Справочник1 (создание)"	Проверяет, что на экране есть активное окно с нужым заголовком	Wtedy otworzyło się okno "Katalog1 (stworzenie)"	Sprawdza, czy na ekranie jest aktywne okno z żądanym nagłówkiem
+И в поле с именем "Наименование" я ввожу текст "111"	Вводит текст в поле	I w polu o nazwie "Nazwa" wprowadzam tekst "111"	Wprowadza tekst do pola
+И я открываю выпадающий список с именем "Реквизит1"	Открывает выпадающий список	I Otwórz listę rozwijaną z nazwą "Atrybut1"	Otwiera listę rozwijaną
+И я нажимаю кнопку выбора у поля с именем "Реквизит1"	Нажимает на кнопку выбора у поля	I naciskam przycisk wyboru u pola z nazwą "Atrybut1"	Naciska na przycisk wyboru u pola
+И из выпадающего списка с именем "Реквизит1" я выбираю "ЗначениеПеречисления2"	Выбор из выпадающего списка	I z rozwijanej listy o nazwie "Atrybut1" wybieram "WartośćPrzeliczenia2"	Wybierz z listy rozwijanej
+И в таблице "ТабличнаяЧасть1" я нажимаю на кнопку "Добавить"	Нажимает на кнопку таблицы. Кнопка ищется по заголовку.	I w tablicy "CzęśćTabelaryczna1" naciskam na przycisk "Dodać"	Naciska na przycisk tablicy. Przycisk jest wyszukiwany według tytułu.
+И в таблице "ТабличнаяЧасть1" в поле "Реквизит число" я ввожу текст "1,00"	Ввод текста в поле таблицы	I w tablicy "CzęśćTabelaryczna1" w polu "Atrybut liczba" wprowadzam tekst "1, 00"	Wprowadzenie tekstu w polu tablicy
+И в таблице "ТабличнаяЧасть1" я завершаю редактирование строки	Завершение редактирования строки	I w tabeli "CzęśćTabelaryczna1" kończę edycję wiersza	Zakończenie edycji wiersza
+И я нажимаю на кнопку "Записать и закрыть"	Нажимает на кнопку с нужным заголовокм	I naciskam na przycisk "Zapisz i zamknij"	Naciska na przycisk z żądanym nagłówkiem
+Дано В активном окне открылась форма с заголовком "Заголовок формы"	Шаг проверяет, что в активном окне есть нужная форма.	Dano W aktywnym oknie otworzyła się forma z nagłówkiem "Nagłówek formularza"	Krok sprawdza, czy w aktywnym oknie znajduje się odpowiedni formularz.
+Дано В последнем сообщении TestClient есть строка "Стр"	Шаг позволяет проверить содержание самого нового сообщения пользователю.	Dano W ostatnim komunikacie TestClient znajduje się wiersz "Wiersz"	Krok umożliwia sprawdzenie zawartości najnowszej wiadomości dla użytkownika.
+Дано Ожидаем завершения фонового формирования отчета в течение "10" секунд	Шаг ждёт указанное время, что завершились активные фоновые задания.	Dano Czekamy zakończenia tła kształtowania sprawozdania w ciągu "10" sekund	Krok oczekuje na określony czas, aby aktywne zadania w tle zostały zakończone.
+Дано Открылось окно предупреждения с заголовком "Заголовок" и текстом "Текст"	Шаг проверяет, что сейчас на экране появилось окно предупреждения.	Dano Zostało otwarte okno ostrzeżenia zawierające nagłowek "Nagłówek" oraz tekst "Tekst"	Krok sprawdza, czy na ekranie teraz jest wyświetlane okno ostrzeżenia
+Дано Табличный документ формы с именем "РеквизитТабличныйДокумент" стал равен макету с именем "ИмяМакета"	Шаг позволяет проверить, что макет на форме соответствует эталону.	Dano Tabelaryczny dokument formy z nazwą "AtrybutTabelarycznyDokument" dorównywał makiecie z nazwą "NazwaMakiety"	Krok umożliwia sprawdzenie, czy układ na formularzu odpowiada standardowi.
+Дано Я открываю основную форму обработки "ВыполнитьПроизвольноеВыражение"	Открывает форму обработки по её имени в метаданных	Dano otwieram główną formę opracowania "WykonaćDowolneWyrażenie"	Otwiera formularz opracowania według jego nazwy w metadanych
+Дано Я открываю основную форму списка документа "Документ1"	Открывает основную форму списка документа по его имени в метаданных	Dano Otwieram główną formę listy dokumentów "Dokument1"	Otwiera główną formę listy dokumentów według nazwy w metadanych
+Дано Я открываю основную форму списка справочника "Справочник1"	Открывает основную форму списка справочника по его имени в метаданных	Dano Otwieram główną formę katalogu "Katalog1"	Otwiera główną formę listy katalogów według nazwy w metadanych
+Дано Я открыл сеанс TestClient от имени "МойПользователь" с паролем "МойПароль" или подключаю уже существующий	Позволяет подключить TestClient с нужным логином и паролем в тойже базе, в которой запущен TestManager	Dano Otwórz sesję TestClient w imieniu "MójUżytkownik" używając hasła "MojeHasło" lub połącz istniejącego	Pozwala połączyć TestClient z niezbędnym loginem i hasłem w tej samej bazie danych, w której jest uruchomiony TestManager
+Если "Истина" тогда	Условие. Проверяет выражение встроенного языка	Jeśli "Prawda" wtedy	Warunek. Sprawdza wyrażenie wbudowanego języka
+Если в окне предупреждения нет текста "Нужный текст" тогда	Условие. Истинно, когда в окне предупреждения нет искомого текста.	Jeśli w oknie uprzedzenia nie ma tekstu "Potrzebny tekst" wtedy	Warunek. Naprawdę, kiedy w oknie uprzedzenia nie ma poszukiwanego tekstu.
+"Если в таблице ""ТабличнаяЧасть1"" есть строка Тогда
+ | 'Реквизит строка' |
+ | '2' |"	Условие. Истинно, если в таблице есть нужная строка/строки.	"Jeśli w tablicy ""CzęśćTabelaryczna1"" jest wiersz Wtedy
+ | 'Atrybut wiersz' |
+ | '2' |"	Warunek. Naprawdę, jeśli w tablicy jest potrzebny wiersz /wierszy
+Если в таблице "ТабличнаяЧасть1" количество строк "меньше или равно" 2 Тогда	Условие. Проверяет количество строк в таблице	Jeśli w tablicy "CzęśćTabelaryczna1" ilość wierszy "mniej czy jest równe" 2 Wtedy	Warunek. Sprawdza ilość wierszy w tablicy
+Если в текущем окне есть сообщения пользователю Тогда	Условие. Проверяет, что в текущем окне есть сообщения пользователю.	Jeśli w bieżącym oknie są wiadomości dla użytkownika Wtedy	Warunek. Sprawdza, czy w bieżącym oknie znajdują się komunikaty dla użytkownika.
+Если Версия платформы ">=" "8.3.6" Тогда	Условие. Проверяет версию платформы	Jeśli Wersja platformy ">=" "8.3.6" Wtedy	Warunek. Sprawdza wersję platformy
+Если имя текущей формы "ПечатьДокументов" Тогда	Условие. Проверяет имя текущей формы	Jeśli nazwa bieżącego formularza to "DrukujDokumenty" Wtedy	Warunek. Sprawdza nazwę bieżącego formularza
+Если поле "Реквизит строка" имеет значение "тест" тогда	Условие. Проверяет значение поля.	Jeśli pole "Atrybut wiersz" ma znaczenie "test" wtedy	Warunek. Sprawdza wartość  pola.
+Если поле с именем "РеквизитСтрока" имеет значение "тест" тогда	Условие. Проверяет значение поля.	Jeśli pole z nazwą "AtrybutWiersz" ma znaczenie "test" wtedy	Warunek. Sprawdza wartość  pola.
+Если появилось окно с заголовком "Справочник1 (создание)*" Тогда	Условие. Проверяет, что на экране есть активное окно с нужным заголовком	Jeśli pojawiło się okno z tytułem "Katalog1(stworzenie) *" Wtedy	Warunek. Sprawdza, że na ekranie jest aktywne okno z potrzebnym tytułem
+Если появилось окно с заголовком из таблицы Тогда	Условие. Проверяет, что есть окно с заголовком из таблицы	Jeśli pojawiło się okno z tytułem z tablicy Wtedy	Warunek. Sprawdza, czy w tabeli znajduje się okno z tytułem
+Если текущее окно "не равно" ожидаемому окну "НужноеОкно" Тогда	Условие. Проверяет что текущее окно равно/неравно нужному окну, которое запомнили ранее	Jeśli bieżące okno "Nie równe" oczekiwanym oknie "Wymagane okno" Wtedy	Warunek. Sprawdza, czy bieżące okno jest równe / nierówne do wymaganego okna, które było wcześniej pamiętane
+Если элемент "СтраницаТекущаяПечатнаяФорма" не присутствует на форме Тогда	Условие. Проверяет видимость элемента на форме	Jeśli element "StronaPotocznaDrukarskaForma" nie jest obecna na formie Wtedy	Warunek. Sprawdza widoczność elementu na formularzu
+Если элемент "СтраницаТекущаяПечатнаяФорма" присутствует на форме Тогда	Условие. Проверяет видимость элемента на форме	Jeśli element "StronaPotocznaDrukarskaForma" jest obecna na formie Wtedy	Warunek. Sprawdza widoczność elementu na formularzu
+Если это не начальная страница Тогда	Условие. Проверяет, то текущее окно это не начальная страница	Jeśli nie jest to strona początkowa Wtedy	Warunek. Sprawdza, bieżące okno nie jest stroną początkową
+Затем Если появилось окно диалога я нажимаю на кнопку "ОК"	Если на экране появилось диалоговое окно - нажимает на нужную кнопку.	Potem Jeśli pojawiło się okno dialogowe naciskam na przycisk "Оk"	Jeśli na ekranie pojawiło się dialogowe okno - naciska na potrzebny przycisk.
+Затем я останавливаю выполнение шагов	Останавливает выполнение шагов	Potem  zatrzymuję wykonanie kroków	Zatrzymuje wykonanie kroków
+И В панели функций в группе "Основное" я выбираю "Склады"	Нажатие кнопки на панели функций нужной группы	I W paneli funkcji w grupie "Główne" wybieram "Magazyny"	Naciśnięcie przycisku na paneli funkcji wybranej grupy
+И в поле "Наименование" я ввожу текст "111"	Вводит текст в поле	I w polu "Nazwa" wprowadzam tekst "111"	Wprowadza tekst do pola
+И в поле "Номер" ввожу значение глобального ключа "НомерДокумента"	Вставка значения ранее сохраненного ключа в реквизит	I W polu "Numer" wprowadzam wartość globalnego klucza "Numer dokumentu"	Wstawka znaczenia wcześniej zapisanego klucza do Atrybutu
+И в поле "Номер" ввожу значение глобальной переменной "НомерДокумента"	Вставка значения ранее сохраненной переменной в реквизит	I w polu "Numer" wprowadzam wartość globalnej zmiennej  "NumerDokumentu"	Wstawka znaczenia wcześniej zapisanej zmiennej do atrybutu
+И в поле "Номер" ввожу значение ключа "Номер документа"	Вставка значения ранее сохраненного произвольного ключа в реквизит	I w polu "Numer" wprowadzam znaczenie klucza "NumerDokumentu"	Wstawka znaczenia wcześniej zapisanego dowolnego klucza do atrybutu
+И в поле "Номер" ввожу значение переменной "НомерДокумента"	Вставка значения ранее сохраненной переменной в реквизит	I w polu "Numer" wprowadzam znaczenie zmiennej "NumerDokumentu"	Wstawka znaczenia wcześniej zapisanej zmiennej do atrybutu
+И в поле с именем "Номер" ввожу значение глобального ключа "Номер документа"	Вставка значения ранее сохраненного произвольного ключа в реквизит	I w polu z nazwą "Numer" wprowadzam znaczenie globalnego klucza "Numer dokumentu"	Wstawka znaczenia wcześniej zapisanego dowolnego klucza do atrybutu
+И в поле с именем "Номер" ввожу значение глобальной переменной "НомерДокумента"	Вставка значения ранее сохраненной переменной в реквизит	I w polu z nazwą "Numer" wprowadzam znaczenie globalnej zmiennej "NumerDokumentu"	Wstawka znaczenia wcześniej zapisanej zmiennej do atrybutu
+И в поле с именем "Номер" ввожу значение ключа "Номер документа"	Вставка значения ранее сохраненного произвольного ключа в реквизит	I w polu z nazwą "Numer" wprowadzam znaczenie klucza "Numer dokumentu"	Wstawka znaczenia wcześniej zapisanego dowolnego klucza do atrybutu
+И в поле с именем "Номер" ввожу значение переменной "НомерДокумента"	Вставка значения ранее сохраненной переменной в реквизит	I w polu z nazwą "Numer" wprowadzam znaczenie zmiennej "NumerDokumentu"	Wstawka znaczenia wcześniej zapisanej  zmiennej do atrybutu
+И в таблице "Список" я начинаю редактирование строки	Начало редактирования строки	I w tabeli "List" zaczynam edycję wiersza	Początek zmiany wiersza
+И в таблице "Список" я перехожу на один уровень вверх	Переход на один уровень вверх в списке в режиме "Иерархический список"	I w tablicy "List" przechodzę na jeden poziom w górę	Przejście na jeden poziom w górę  na liście w trybie "Lista hierarchiczna"
+И в таблице "Список" я перехожу на один уровень вниз	Переход на один уровень вниз в списке в режиме "Иерархический список"	I w tablicy "List" przechodzę na jeden poziom na dół	Przejście na jeden poziom na dół  na liście w trybie "Lista hierarchiczna"
+И в таблице "Список" я перехожу на одну строку вверх	Переходим в ТЧ на предыдущую строку	I w tablicy "List" przechodzę na jeden wiersz w górę	Przechodzimy do tablicy na poprzedni wiersz
+И В таблице "Список" я перехожу на одну строку вверх с выделением	Переходим в ТЧ на предыдущую строку с выделением	I W tablicy "List" przechodzę na jeden wiersz w górę z wydzielaniem	Przechodzimy do tablicy na poprzedni wiersz z wydzielaniem
+И в таблице "Список" я перехожу на одну строку вниз	Переходим в ТЧ на следующую строку	I w tablicy "List" przechodzę na jeden wiersz na dół	Przechodzimy do tablicy na następny wiersz
+И В таблице "Список" я перехожу на одну строку вниз с выделением	Переходим в ТЧ на следующую строку с выделением	I W tablicy "List" przechodzę na jeden wiersz na dół z wydzielaniem	Przechodzimy do tablicy na następny wiersz z wydzielaniem
+И в таблице "Отборы" я активизирую поле "ИмяПоля"	Активизирует поле таблицы	I w tablicy "Filtr" aktywuję pole "NazwaPola"	Aktywuje pole tabeli
+И в таблице "Отборы" я активизирую поле с именем "ИмяПоля"	Активизирует поле таблицы	I w tablicy "Filtr" aktywuję pole z nazwą "NazwaPola"	Aktywuje pole tabeli
+И в таблице "Список" я выбираю текущую строку	Выбор текущей строки с указанием ТЧ	I w tablicy "List" wybieram bieżący wiersz	Wybór bieżącego wiersza z wskazaniem tabeli
+И в таблице "Список" я добавляю строку	Добавление строки	I w tablicy "List" dodaję wiersz	Dodanie wiersza
+И в таблице "Список" я перехожу к первой строке	Переход к первой строке данной таблицы	I w tablicy "List" przechodzę do pierwszego wiersza	Przejście do pierwszego wiersza tej tablicy
+И в таблице "Список" я перехожу к последней строке	Переход к последней строке данной таблицы	I w tablicy "List" przechodzę do ostatniego wiersza	Przejście do ostatniego wiersza tej tablicy
+И в таблице "Список" я перехожу к предыдущей строке	Переход к предыдущей строке данной таблицы	I w tablicy "List" przechodzę do poprzedniego wiersza	Przejście do poprzedniego wiersza tej tablicy
+И в таблице "Список" я перехожу к следующей строке	Переход к следующей строке данной таблицы	I w tablicy "List" przechodzę do następnego wiersza	Przejście do następnego wiersza tej tablicy
+"И в таблице ""Список"" я перехожу к строке:
+  | Наименование |
+  | Товар1 |"	Переход к нужной строке данной таблицы	"I w tablicy ""List"" przechodzę do wiersza:
+  | Nazwa |
+  | Towar1 |"	Przejście do potrzebnego wiersza tej tablicy
+И в таблице "Список" я удаляю строку	Удаление строки	I w tablicy "List" usuwam wiersz	Usunięcie wiersza
+И в таблице "ТабличнаяЧасть1" в поле с именем "Реквизит число" я ввожу текст "56,78"	Ввод текста в поле таблицы	I w tablicy "CzęśćTabelaryczna1" w polu z nazwą "Atrybut liczba" wprowadzam tekst "56, 78"	Wprowadzenie tekstu w polu tablicy
+И в таблице "ТабличнаяЧасть1" из выпадающего списка "Реквизит справочник" я выбираю "ТестовыйЭлемент21"	Выбор значения из выпадающего списка	I w tablicy "CzęśćTabelaryczna1" z wypadającego listu "Atrybut katalog" wybieram "ElementTestowy21"	Wybieranie wartości z listy rozwijanej
+И в таблице "ТабличнаяЧасть1" из выпадающего списка с именем "Реквизит справочник" я выбираю "ТestElement21"	Выбор значения из выпадающего списка	I w tablicy "CzęśćTabelaryczna1" z wypadającego listu z nazwą "Atrybut informator" wybieram "ElementTestowy21"	Wybieranie wartości z listy rozwijanej
+И в таблице "ТабличнаяЧасть1" поле "Реквизит булево" имеет значение "Да"	Проверка значения поля текущей строки таблицы	I w tablicy "CzęśćTabelaryczna1" pole "Atrybut Boolean" ma znaczenie "Tak"	Sprawdzenie znaczenia pola potocznego wiersza tablicy
+И в таблице "ТабличнаяЧасть1" я выбираю значение реквизита "Реквизит справочник выбор из формы списка" из формы списка	Выбор значения реквизита из выпадающего списка	I w tablicy "CzęśćTabelaryczna1" wybieram znaczenie Atrybutu "Atrybut informator wybór z formy listu" z formy listu	Wybieranie wartości atrybutów z listy rozwijanej
+И в таблице "ТабличнаяЧасть1" я выбираю значение реквизита с именем "Реквизит справочник выбор из формы списка" из формы списка	Выбор значения реквизита из выпадающего списка	I w tablicy "CzęśćTabelaryczna1" wybieram znaczenie Atrybutu z nazwą "Atrybut informator wybór z formy listu" z formy listu	Wybieranie wartości atrybutów z listy rozwijanej
+И в таблице "ТабличнаяЧасть1" я изменяю флаг "Реквизит булево"	Изменяет текущее состояние флага	I w tablicy "CzęśćTabelaryczna1" zmieniam flag "Atrybut boolean"	Zmienia bieżący stan flagi
+И в таблице "ТабличнаяЧасть1" я изменяю флаг с именем "РеквизитБулево"	Изменяет текущее состояние флага	I w tablicy "CzęśćTabelaryczna1" zmieniam flag z nazwą "AtrybutBoolean"	Zmienia bieżący stan flagi
+И в таблице "ТабличнаяЧасть1" я нажимаю на кнопку с именем "Добавить"	Нажимает на кнопку таблицы. Кнопка ищется по имени.	I w tablicy "CzęśćTabelaryczna1" naciskam na przycisk z nazwą "Dodaj"	Naciska na przycisk tablicy. Przycisk jest wyszukiwany według nazwy.
+И в таблице "ТабличнаяЧасть1" я удаляю текущую строку	Удаляет текущую строку таблицы	I w tablicy "CzęśćTabelaryczna1" usuwam bieżący wiersz	Usuwa bieżący wiersz tabeli
+И в Таблицу "ТабличнаяЧасть1" в поле "Номер" ввожу значение переменной "НомерДокумента"	Вставка значения ранее сохраненной переменной в реквизит	I do Tablicy "CzęśćTabelaryczna1" w polu "Numer" wprowadzam znaczenie zmiennej "NumerDokumentu"	Wstawka znaczenia wcześniej zapisanej zmiennej do atrybutu
+И В ТЧ "Список" я перехожу на первую строку	Переходим в ТЧ на первую строку	I W tabeli "List" przechodzę na pierwszy wiersz	Przechodzimy do tabeli na pierwszy wiersz
+И В ТЧ "Список" я перехожу на последнюю строку	Переходим в ТЧ на последнюю строку	I W tabeli "List" przechodzę na ostatni wiersz	Przechodzimy do tabeli na ostatni wiersz
+И В ТЧ "ИмяТЧ" поле "ИмяРеквизита" доступно	Проверка доступности элемента ТЧ	I W tabeli "NazwaTabeli" pole "NazwaAtrybutu" dostępnie	Sprawdzenie dostępności elementu tabeli
+И В ТЧ "ИмяТЧ" поле "ИмяРеквизита" доступно только для просмотра	Проверка установленного флага "Только просмотр" для реквизита в ТЧ	I W tabeli "NazwaTabeli" pole "NazwaAtrybutu" dostępnie tylko dla przeglądu	Sprawdzenie ustawionej flagi "Tylko przegląd" dla atrybutu w tabeli
+И В ТЧ "ИмяТЧ" поле "ИмяРеквизита" не доступно	Проверка не доступности элемента ТЧ	I W tabeli "NazwaTabeli" pole "NazwaAtrybutu" nie dostępnie	Sprawdzenie nie dostępności elementu tabeli
+И В ТЧ "ИмяТЧ" поле с именем "ИмяРеквизита" доступно	Проверка доступности элемента ТЧ	I W tabeli "NazwaTabeli" pole z nazwą "NazwaAtrybutu" dostępnie	Sprawdzenie dostępności elementu tabeli
+И В ТЧ "ИмяТЧ" поле с именем "ИмяРеквизита" доступно не только для просмотра	Проверка установленного флага "Только просмотр" для реквизита в ТЧ	I W tabeli "NazwaTabeli" pole z nazwą "NazwaAtrybutu" dostępnie nie tylko dla przeglądu	Sprawdzenie ustawionej flagi "Tylko przegląd" dla atrybutu w tabeli
+И В ТЧ "ИмяТЧ" поле с именем "ИмяРеквизита" не доступно	Проверка не доступности элемента ТЧ	I W tabeli "NazwaTabeli" pole z nazwą "NazwaAtrybutu" nie dostępnie	Sprawdzenie nie dostępności elementu tabeli
+И в ТЧ "ТабличнаяЧасть1" я снимаю флаг "Реквизит булево"	Устанавливает флаг в Ложь	I w tabeli "CzęśćTabelaryczna1" zdejmuję flag "Atrybut boolean"	Ustawia flagę na False
+И в ТЧ "ТабличнаяЧасть1" я устанавливаю флаг "Реквизит булево"	Устанавливает флаг в Истина	I w tabeli "CzęśćTabelaryczna1" ustalam flag "Atrybut boolean"	Ustawia flagę na Prawda
+И В ТЧ "ТЗ" поле с именем "ТЗРеквизит4" доступно только для просмотра	Проверка установленного флага "Только просмотр" для реквизита в ТЧ	I W tabeli "ТZ" pole z nazwą "ТZAtrybut4" dostępnie tylko dla przeglądu	Sprawdzenie ustawionej flagi  "Tylko przegląd" dla atrybutu w tabeli
+И из выпадающего списка "Реквизит2" я выбираю "ТестовыйЭлемент21"	Выбор из выпадающего списка	I Z listy rozwijanej "Atrybut2" wybieram "ElementTestowy21"	Wybierz z listy rozwijanej
+И Пауза 1	Позволяет сделать паузу нужной длительности.	I Przerwa 1	Pozwala pauzować potrzebnej trwałości.
+И поле "Реквизит2" не существует	Проверка не существования поля	I pole "Atrybut2" nie istnieje	Sprawdzenie nie istnienie pola
+И поле "Реквизит2" отсутствует на форме	Проверка невидимости поля	I pole "Atrybut2" jest nieobecne na formie	Sprawdzenie niewidzialności pola
+И поле "Реквизит2" присутствует на форме	Проверка видимости поля	I pole "Atrybut2" jest obecne na formie	Sprawdzenie widzialności pola
+И поле "Реквизит2" существует	Проверка существования поля	I pole "Atrybut2" istnieje	Sprawdzenie istnienia pola
+И поле с именем "Реквизит2" имеет заголовок "Заголовок"	Проверка, что у поля нужный заголовок. Поле ищется по внутреннему идентификатору.	I pole z nazwą "Atrybut2" ma tytuł "Nagłówek"	Sprawdzenie,  czy pole ma pożądany tytuł. Pole jest przeszukiwane przez wewnętrzny identyfikator.
+И поле с именем "Реквизит2" не существует	Проверка не существования поля	I pole z nazwą "Atrybut2" nie istnieje	Sprawdzenie nie istnienie pola
+И поле с именем "Реквизит2" отсутствует на форме	Проверка невидимости поля	I pole z nazwą "Atrybut2" jest nieobecne na formie	Sprawdzenie niewidzialności pola
+И поле с именем "Реквизит2" присутствует на форме	Проверка видимости поля	I pole z nazwą "Atrybut2" jest obecne na formie	Sprawdzenie widzialności pola
+И поле с именем "Реквизит2" существует	Проверка существования поля	I pole z nazwą "Atrybut2" istnieje	Sprawdzenie istnienia pola
+И таблица формы с именем "ТабличнаяЧасть1" содержит строки:	Проверяет, что таблица TestClient содержит строки таблицы Gherkin	I tablica formy z nazwą "CzęśćTabelaryczna1" zawiera rządki:	Sprawdza, że tablica TestClient zawiera wiersze tablicy Gherkin
+И таблица формы с именем "ТабличнаяЧасть1" стала равной:	Проверяет, что таблица TestClient стала равна таблице Gherkin	I tablica formy z nazwą "CzęśćTabelaryczna1" stała się równą:	Sprawdza, że tablica TestClient dorównywała tablicy Gherkin
+И табличный документ формы с именем "РеквизитТабличныйДокумент" стал пустым	Проверяет, что табличный документ пустой	I tabelaryczny dokument formy z nazwą "AtrybutTabelarycznyDokument" stał się pustym	Sprawdza, że tabelaryczny dokument pusty
+И табличный документ формы с именем "РеквизитТабличныйДокумент" стал равен:	Проверяет равенство табличного документа переданной таблице Gherkin	I tabelaryczny dokument formy z nazwą "AtrybutTabelarycznyDokument" stanął równy:	Sprawdza równość tabelarycznego dokumentu przekazanej tablicy Gherkin
+И у поля "Имя поля" я перехожу к дате "08.04.1981"	Делает переход к дате в поля календаря	I u pola "Nazwa pola" przechodzę do daty "08.04.1981"	Przejście do daty w polach kalendarza
+И у поля "ИмяПоля" я выбираю пункт контекстного меню "ПунктМеню"	Выбирает нужный пункт контекстного меню у поля	I u pola "NazwaPola" wybieram element menu kontekstowego "PozycjaMenu"	Wybiera odpowiedni element menu kontekstowego dla pola
+И у поля с именем "ИмяПоля" я выбираю пункт контекстного меню "ПунктМеню"	Выбирает нужный пункт контекстного меню у поля	I u pola z nazwą "NazwaPola" wybieram element menu kontekstowego "PozycjaMenu"	Wybiera odpowiedni element menu kontekstowego dla pola
+И у поля с именем "ИмяПоля" я перехожу к дате "08.04.1981"	Делает переход к дате в поля календаря	I u pola z nazwą "NazwaPola" przechodzę do daty "08.04.1981"	Przejście do daty w polach kalendarza
+И у поля с именем "Реквизит2" текст подсказки равен "Заголовок"	Проверка, что у поля нужный текст подсказки. Поле ищется по внутреннему идентификатору.	I u pola z nazwą "Atrybut2" tekst podpowiadania jest równy "Nagłówek"	Sprawdzenie, czy w polu znajduje się prawidłowy tekst dla podpowiedzi. Pole jest przeszukiwane przez wewnętrzny identyfikator.
+И у табличного документа с именем "ТабДок" я ввожу текст "222"	Вводит текст в нужную ячейку табличного документа	I u tabelarycznego dokumentu z nazwą "TabDok" wprowadzam tekst "222"	Wpisz tekst w żądanej komórce dokumentu tabeli
+И у табличного документа с именем "ТабДок" я перехожу к ячейке "R4C2"	Делает нужную ячейку табличного документа активной	I u tabelarycznego dokumentu z nazwą "TabDok" przechodzę do ośrodka "R4C2"	Sprawia, że właściwa komórka dokumentu stołu jest aktywna
+И флаг "Реквизит булево" равен "Истина"	Проверяет значение флага	I flag "Atrybut Boolean" jest równy "Prawda"	Sprawdza wartość flagi
+И элемент формы "ИмяЭлемента" доступен	Проверка доступности элемента формы	I element formy "NazwaElementu" jest dostępny	Sprawdzenie dostępności elementu formy
+И элемент формы "ИмяЭлемента" не доступен	Проверка доступности элемента формы	I element formy "NazwaElementu" jest nie dostępny	Sprawdzenie dostępności elementu formy
+И элемент формы с именем "ИмяЭлемента" доступен	Проверка доступности элемента формы	I element formy z nazwą "NazwaElementu" jest dostępny	Sprawdzenie dostępności elementu formy
+И элемент формы с именем "ИмяЭлемента" не доступен	Проверка доступности элемента формы	I element formy z nazwą "NazwaElementu" nie jest dostępny	Sprawdzenie dostępności elementu formy
+И я буду выбирать внешний файл "c:\temp\333.epf"	Устанавливает результат диалога выбора файла.	I będę wybierał zewnętrzny plik "c :\temp\333.epf"	Ustawia wynik okna dialogowego wyboru plików.
+И я выбираю значение реквизита "Реквизит2" из формы списка	Нажимает на кнопку "Выбрать из списка" у поля	I wybieram znaczenie atrybutu "Atrybut2" z formy listy	Naciska na przycisk "Wybrać z listy" u pola
+И я выбираю значение реквизита с именем "Реквизит2" из формы списка	Нажимает на кнопку "Выбрать из списка" у поля	I wybieram znaczenie atrybutu z nazwą "Atrybut2" z formy listy	Naciska na przycisk "Wybrać z listy" u pola
+И я жду когда в табличном документе "РеквизитТабличныйДокумент" заполнится ячейка "r4c2" в течение 120 секунд	По таймеру проверяет, что указанная ячейка табличного документа не пустая.	I czekam kiedy w tabelarycznym dokumencie "AtrybutTabelarycznyDokument"  komórka "r4c2" jest wypełniana w ciągu 120 sekund	Przez licznik czasu sprawdza, czy określona komórka dokumentu tabeli nie jest pusta.
+И Я закрываю окно "Справочник1"	Закрывает окно с нужным заголовком	I zamykam okno "Katalog1"	Zamyka okno z żądanym tytułem
+И Я закрываю текущее окно	Закрывает активное окно	I zamykam bieżące okno	Zamyka aktywne okno
+И я запоминаю значение поля "Номер" как "НомерДокумента"	Сохранение значения поля в переменную Контекст	I Pamiętam wartość pola "Numer" jako "NumerDokumentu"	Zapisywanie wartości pola do zmiennej Kontekst
+И я запоминаю значение поля "Номер" как "НомерДокумента" глобально	Сохранение значения поля в переменную КонтекстСохраняемый	I Pamiętam wartość pola "Numer" jako "NumerDokumentu" globalnie	Zapisywanie wartości pola do zmiennej KontekstZapisany
+И я запоминаю значение поля "Номер" с ключом "Номер документа"	Сохранение значения поля в переменную Контекст с произвольным ключом	I Pamiętam wartość pola "Numer" z kluczem "Numer dokumentu"	Zapisywanie wartości pola do zmiennej Kontekst z dowolnym kluczem
+И я запоминаю значение поля "Номер" с ключом "Номер документа" глобально	Сохранение значения поля в переменную КонтекстСохраняемый с произвольным ключом	I Pamiętam wartość pola "Numer" z kluczem "Numer dokumentu" globalnie	Zapisywanie wartości pola do zmiennej KontekstZapisany z dowolnym kluczem
+И я запоминаю значение таблицы "ТабличнаяЧасть1" поля "Номер" как "НомерДокумента"	Сохранение значения поля таблицы в переменную Контекст	I Pamiętam wartość  tablicy "CzęśćTabelaryczna1" pola "Numer" jak "NumerDokumentu"	Zapisywanie wartości pola tablicy do zmiennej Kontekst
+И я изменяю флаг "Реквизит булево"	Изменяет текущее состояние флага	I zmieniam flag "Atrybut Boolean"	Zmienia potoczny stan flagu
+И я изменяю флаг с именем "Реквизит булево"	Изменяет текущее состояние флага	I zmieniam flag z nazwą "Atrybut Boolean"	Zmienia potoczny stan flagu
+И я меняю значение переключателя "Реквизит переключатель" на "Первое значение"	Меняет значение переключателя (радиобаттона)	I zmieniam znaczenie przełącznika "Atrybut przełącznik" na "Pierwsze znaczenie"	Zmienia znaczenie przełącznika(radioterapia)
+И я меняю значение переключателя с именем "РеквизитПереключатель" на "Первое значение"	Меняет значение переключателя (радиобаттона)	I zmieniam znaczenie przełącznika z nazwą "AtrybutPrzełącznik" na "Pierwsze znaczenie"	Zmienia znaczenie przełącznika(radioterapia)
+И я нажимаю кнопку выбора у поля "Реквизит2"	Нажимает на кнопку выбора у поля	I naciskam przycisk wyboru u pola "Atrybut2"	Naciska na przycisk wyboru u pola
+И я нажимаю кнопку очистить у поля "Отбор"	Очищает поле	I naciskam przycisk, aby wyczyścić pole "Filtr"	Usuwa pole
+И я нажимаю кнопку очистить у поля с именем "Отбор"	Очищает поле	I naciskam przycisk, aby wyczyścić pole z nazwą "Filtr"	Usuwa pole
+И я нажимаю на гиперссылку "Гиперссылка"	Нажатие на гиперссылку.	I naciskam na hiperłącze "Hiperłącze"	Naciśnięcie na hiperłącze.
+И я нажимаю на гиперссылку с именем "Гиперссылка"	Нажатие на гиперссылку.	I naciskam na hiperłącze z nazwą "Hiperłącze"	Naciśnięcie na hiperłącze.
+И я открываю выпадающий список "Реквизит2"	Открывает выпадающий список	I otwieram listę rozwijaną "Atrybut2"	Otwiera listę rozwijaną
+И Я открываю форму документа "АвтоВзаимозачет" заполненного на основании не проведенного "ПоступлениеАвтомобилей"	Открытие формы на основании не проведенного документа	I otwieram formę dokumentu "AutomatycznePrzesunięcie" wypełnione na podstawie nie przeprowadzonych "OdbiórSamochodów"	Otwarcie formularza na podstawie dokumentu, który nie został przeprowadzony
+И Я открываю форму документа "АвтоВзаимозачет" заполненного на основании проведенного "ПоступлениеАвтомобилей"	Открытие формы на основании проведенного документа	I otwieram formę dokumentu "AutomatycznePrzesunięcie" wypełnione na podstawie przeprowadzonych "OdbiórSamochodów"	Otwarcie formularza na podstawie dokumentu, który został przeprowadzony
+И Я очищаю окно сообщений пользователю	Очищает окно сообщений пользователю.	I wyczyszczam pole komunikatu dla użytkownika	Usuwa okno wiadomości do użytkownika.
+И я разворачиваю группу "СворачиваемаяГруппа"	Разворачивает группу	I rozwijam grupę "ZwijanieGrupy"	Rozwija grupę
+И я разворачиваю группу с именем "СворачиваемаяГруппа"	Разворачивает группу	I rozwijam grupę z nazwą "ZwijanieGrupy"	Rozwija grupę
+И я сворачиваю группу "СворачиваемаяГруппа"	Сворачивает группу	I zwijam grupę "ZwijanieGrupy"	Zwija grupę
+И я сворачиваю группу с именем "СворачиваемаяГруппа"	Сворачивает группу	I zwracam grupę z imienia "ZwijanieGrupy"	Zwija grupę
+И я снимаю флаг "Реквизит булево"	Устанавливает флаг в Ложь	I usuję flagę  "Atrybut Boolean"	Ustawia flagę na False
+И я снимаю флаг с именем "Реквизит булево"	Устанавливает флаг в Ложь	I usuję flagę  z nazwą "Atrybut Boolean"	Ustawia flagę na False
+И Я создаю fixtures по макету "Макет"	Создает данные из макета MXL	I utworzę fixtures po szablonie "Szablon"	Tworzy dane z szablonu MXL
+И я устанавливаю флаг "Реквизит булево"	Устанавливает флаг в Истина	I ustalam flag "Atrybut Boolean"	Ustawia flagę na True
+И я устанавливаю флаг с именем "Реквизит булево"	Устанавливает флаг в Истина	I ustalam flag z nazwą "Atrybut Boolean"	Ustawia flagę na True
+"И в таблице ""Список"" я разворачиваю строку:
+  | Наименование |
+  | Товар1 |"	Развернуть группу строк	"I w tablicy ""List"" rozwijam wiersz:
+  | Nazwa |
+  | Towar1 |"	Rozwiń grupę wierszy
+И в таблице "Список" я разворачиваю текущую строку	Развернуть текущую строку таблицы/дерева	I w tablicy "List" rozwijam bieżący wiersz	Rozwiń bieżący wiersz tabeli / drzewa
+"И в таблице ""Список"" я сворачиваю строку:
+  | Наименование |
+  | Товар1 |"	Свернуть группу строк	"I w tablicy ""List"" zwijam wiersz:
+  | Nazwa |
+  | Towar1 |"	Zwiń grupę wierszy
+И в таблице "Список" я сворачиваю текущую строку	Свернуть текущую строку таблицы/дерева	I w tablicy "List" zwijam bieżący wiersz	Zwinąć bieżący wiersz tablicy/drzewa
+И Я закрыл все окна клиентского приложения	Закрывает все окна текущего TestClient.	I zamknąłem wszystkie okna aplikacji klienckiej	Zamyka wszystkie okna bieżącego TestClient.
+И Я закрыл все окна клиентского приложения кроме "Нужное окно"	Закрывает все окна текущего TestClient, кроме нужного окна.	I zamknąłem wszystkie okna aplikacji klienckiej oprócz "Bieżące okno"	Zamyka wszystkie okna bieżącego TestClient, oprуcz bieżącego okna.
+И В таблице "ДокументыПоВидам" я нажимаю кнопку выбора у реквизита "Скан"	Нажатие кнопки выбора у реквизита в ТЧ	I w tablicy "DokumentyWedługTypu" naciskam przycisk wyboru u atrybutu "Skanuj"	Naciśnięcie przycisku wyboru u atrybutu w tabeli
+И В таблице "ДокументыПоВидам" я нажимаю кнопку выбора у реквизита с именем "Скан"	Нажатие кнопки выбора у реквизита в ТЧ	I w tablicy "DokumentyWedługTypu" naciskam przycisk wyboru u atrybutu z nazwą "Skanuj"	Naciśnięcie przycisku wyboru u atrybutu w tabeli
+И В таблице "ДокументыПоВидам" я нажимаю кнопку очистить у поля "Скан"	Нажатие кнопки очистить у поля в ТЧ	I w tablicy "DokumentyWedługTypu" naciskam przycisk, aby wyczyścić pole "Skanuj"	Naciśnięcie przycisku powoduje wyczyszczenie pola w tabeli
+И В таблице "ДокументыПоВидам" я нажимаю кнопку очистить у поля с именем "Скан"	Нажатие кнопки очистить у поля в ТЧ	I W tablicy "DokumentyWedługTypu" naciskam przycisk, aby wyczyścić pole z nazwą "Skanuj"	Naciśnięcie przycisku powoduje wyczyszczenie pola w tabeli
+И В ТЧ "ТабличнаяЧасть1" из выпадающего списка "Реквизит справочник" я выбираю "ТестовыйЭлемент21" с выбором	Выбор из выпадающего списка в ТЧ с дополнительным вызовом метода Выбрать(). Применялось на 8.3.6.	I W tablicy "CzęśćTabelaryczna1" z wypadającego spisu "Atrybut informatora" wybieram "ElementTestowy21" z wyborem	Wybierz z rozwijanej listy w tabeli z dodatkowym wywołaniem metody Wybrać(). Stosowało się na 8.3.6.
+И выражение внутреннего языка "Контекст.КоличествоФинальное - Контекст.КоличествоНачальное = 1" Истинно	Позволяет проверить произвольное выражение встроенного языка	I wyrażenie języka wewnętrznego "Kontekst.KwotaKońcowa - Kontekst.KwotaPoczątkowa = 1" Prawdziwie	Umożliwia przetestowanie dowolnego wyrażenia wbudowanego języka
+И для каждой строки таблицы "ТабличнаяЧасть1" я выполняю	Цикл. Выполняет шаги для каждой строки таблицы	I dla każdego wiersza tablicy "CzęśćTabelaryczna1" wykonuję	Cykl. Wykonuje kroki dla każdego wiersza tabeli
+И Пока в таблице "ТабличнаяЧасть1" количество строк ">" 0 Тогда	Цикл. Выполняет шаги до тех пор, пока в таблице есть строки	I Jak długo w tablicy "CzęśćTabelaryczna1" ilość wierszy ">" 0 Wtedy	Cykl. Wykonuje kroki pod warunkiem, że istnieją wiersze w tabeli
+И Пока выражение встроенного языка "Контекст.СлужебнаяПеременная < 2" истинно тогда	Цикл. Выполняет шаги пока истинно условие	I Podczas gdy wyrażenie dla wbudowanego języka "Kontekst.SłużbowaZmienna < 2" jest prawdziwe,  wtedy	Cykl. Wykonuje kroki, podczas gdy jest prawdziwy warunek
+И поле "Имя поля" заполнено	Проверяет заполненность поля формы	I pole "Nazwa pola" jest wypełnione	Sprawdza kompletność pola formularza
+И табличный документ "ТабДок" соответствует макету "Макет1"	Сравнивает значения макета с эталоном. Макеьт ищется сначала в обработке фича файла, затем в каталоге проекта.	I tabelaryczny dokument "TabDok" odpowiada szablonu "Szablon1"	Porównuje wartości układu ze standardem. Najpierw wyszukuje plik, a następnie w katalogu projektu.
+И у элемента "Имя элемента" я жду значения "Значение"	Ожидание что элемент формы примет нужное значение (таймаут 10)	I dla elementu "Nazwa elementu" czekam na wartość "Wartość"	Czekamy na element formularza, aby uzyskać pożądaną wartość (limit czasu 10)
+И у элемента "Имя элемента" я жду значения "Значение" в течении 20 секунд	Ожидание что элемент формы примет нужное значение в течении нужного времени. Иначе будет вызвано исключение.	I dla elementu "Nazwa elementu" czekam na wartość "Wartość" w ciągu 20 sekund	Czekamy, aż element formularza będzie potrzebował pożądanej wartości przez wymagany czas. W przeciwnym wypadku zostanie wyrzucony wyjątek.
+И у элемента с именем "Имя элемента" я жду значения "Значение"	Ожидание что элемент формы примет нужное значение (таймаут 10)	I dla elementu z nazwą "Nazwa elementu" czekam na wartość "Wartość"	Czekamy na element formularza, aby uzyskać pożądaną wartość (limit czasu 10)
+И у элемента с именем "Имя элемента" я жду значения "Значение" в течении 20 секунд	Ожидание что элемент формы примет нужное значение в течении нужного времени. Иначе будет вызвано исключение.	I dla elementu z nazwą "Nazwa elementu" czekam na wartość "Wartość"  w ciągu 20 sekund	Czekamy, aż element formularza będzie potrzebował pożądanej wartości przez wymagany czas. W przeciwnym wypadku zostanie wyrzucony wyjątek.
+И элемент "Имя элемента" доступен для просмотра	Проверка отсутствия флага "Только просмотр"	I element "Nazwa elementu" dostępny dla przeglądu	Sprawdzenie  braku flagu "Tylko przegląd"
+И элемент "Реквизит1" доступен не только для просмотра	Проверка установленного флага "Только просмотр"	I element "Atrybut1" jest dostępny nie tylko dla przeglądu	Sprawdzenie ustalonego flagu "Tylko przegląd"
+И элемент с именем "Имя элемента" доступен для просмотра	Проверка отсутствия флага "Только просмотр"	I element z nazwą "Nazwa elementu" jest dostępny dla przeglądu	Sprawdzenie  braku flagu "Tylko przegląd"
+И элемент с именем "Реквизит1" доступен не только для просмотра	Проверка установленного флага "Только просмотр"	I element z nazwą "Atrybut1" jest dostępny nie tylko dla przeglądu	Sprawdzenie ustalonego flagu "Tylko przegląd"
+И я активизирую TestClient "Кладовщик"	Позволяет переключить контекст на нужный TestClient	I aktywuję TestClient "Magazynier"	Pozwala przełączyć kontekst na potrzebny TestClient
+И я активизирую окно "Справочник1"	Активизирует окно с нужным заголовком	I aktywuję okno "Katalog1"	Aktywuję okno z żądanym tytułem
+И я активизирую поле "Имя поля"	Сделать поле активным	I aktywuję pole "Nazwa pola"	Utwórz pole aktywne
+И я активизирую поле с именем "ИмяПоля"	Сделать поле активным	I aktywuję pole z nazwą "NazwaPola"	Utwórz pole aktywne
+И я вижу элемент "Имя элемента"	Проверяет видимость элемента на форме	I widzę element "Nazwa elementu"	Sprawdza widzialność elementu na formie
+И я вижу элемент "Имя элемента" на форме	Проверяет видимость элемента на форме	I widzę element "Nazwa elementu" na formie	Sprawdza widzialność elementu na formie
+И я вижу элемент с именем "Имя элемента"	Проверяет видимость элемента на форме	I widzę element z nazwą "Nazwa elementu"	Sprawdza widzialność elementu na formie
+И я вижу элемент с именем "Имя элемента" на форме	Проверяет видимость элемента на форме	I widzę element z nazwą "Nazwa elementu" na formie	Sprawdza widzialność elementu na formie
+И я жду закрытия окна "Имя окна" в течении 600 секунд	Ожидает, что окно исчезнет через нужное число секунд	I czekam zamknięcia okna "Nazwa okna" w ciągu 600 sekund	Czeka, że okno zniknie przez potrzebną liczbę sekund
+И я жду появления элемента "Имя элемента"	Ожидание появления элемента формы с нужным заголовком	I czekam aż element "Nazwa elementu" pojawi się	Oczekiwanie na pojawienie się elementu formularza z żądanym tytułem
+И я жду появления элемента "Имя элемента" в течении "Таймаут" секунд	Ожидание появления элемента формы с нужным заголовком в течении указанного числа секунд	I czekam pojawienia elementu "Nazwa elementu" w ciągu "Limit czasu" sekund	Oczekiwanie na pojawienie się elementu formularza z żądanym nagłówkiem w określonej liczbie sekund
+И я жду появления элемента с именем "Имя элемента"	Ожидание появления элемента формы с нужным именем	I czekam pojawienia elementu z nazwą "Nazwa elementu"	Oczekiwanie na wyświetlenie elementu formularza z poprawną nazwą
+И я жду появления элемента с именем "Имя элемента" в течении "Таймаут" секунд	Ожидание появления элемента формы с нужным именем в течении указанного числа секунд	I czekam pojawienia elementu z nazwą "Nazwa elementu" w ciągu "Limit czasu" sekund	Oczekiwanie na pojawienie się elementu formularza z żądaną nazwą w określonej liczbie sekund
+И Я завершаю редактирование строки	Завершение редактирования строки	I Zakończę edycję wiersza	Zakończenie edycji wiersza
+И я закрываю TestClient "Кладовщик"	Закрывает указанный TestClient Перед этим закрывает все окна в нём.	I zamykam TestClient "Magazynier"	Zamyka określony TestClient Przed tym zamyka wszystkie okna w nim.
+И Я закрываю окно предупреждения	Закрывает окно предупреждения если оно есть	I zamykam okno uprzedzenia	Zamyka okno uprzedzenia jeśli ono jest
+И я закрываю сеанс TESTCLIENT	Закрывает сеанс TestClient	I zamykam seans TESTCLIENT	Zamyka seans TestClient
+И Я запоминаю значение выражения "Ванесса.ПолучитьМассивPIDОкон1С().Количество()" в переменную "КоличествоНачальное"	Позволяет сохранить в переменную Контекст произвольное выражение встроенного языка	I pamiętam wartość wyrażenia "Vanessa.Get MassivePIDOpen1C().Liczba()" do zmiennej "IlośćPoczątkowa"	Umożliwia zapisanie dowolnego wyrażenia wbudowanego języka na zmienną Kontekst
+И Я запоминаю значение выражения "Ванесса.ПолучитьМассивPIDОкон1С().Количество()" в переменную "КоличествоНачальное" глобально	Позволяет сохранить в переменную КонтекстСохраняемый произвольное выражение встроенного языка	I pamiętam wartość wyrażenia "Vanessa.Get MassivePIDOpen1C().Liczba()" do zmiennej "IlośćPoczątkowa" globalnie	Umożliwia zapisanie dowolnego wyrażenia wbudowanego języka na zmienną KontekstZapisany
+И я запоминаю текущее окно как "НужныйМнеЗаголовокОкна"	Сохранение значения заголовка текущего окна в переменную Контекст	I pamiętam bieżące okno jako "PotrzebujęTytułuOkna"	Zachowanie znaczenia tytułu potocznego okna do zmiennej Kontekst
+И я не вижу элемент "Имя элемента"	Проверяет не видимость элемента на форме	I nie widzę element "Nazwa elementu"	Sprawdza nie widzialność elementu na formie
+И я не вижу элемент "Имя элемента" на форме	Проверяет не видимость элемента на форме	I nie widzę element "Nazwa elementu" na formie	Sprawdza nie widzialność elementu na formie
+И я не вижу элемент с именем "Имя элемента"	Проверяет не видимость элемента на форме	I nie widzę element z nazwą "Nazwa elementu"	Sprawdza nie widzialność elementu na formie
+И я не вижу элемент с именем "Имя элемента" на форме	Проверяет не видимость элемента на форме	I nie widzę element z nazwą "Nazwa elementu" na formie	Sprawdza nie widzialność elementu na formie
+И Я очищаю фильтр на форме списка	Позволяет сбросить фильтр на список через меню "Ещё/Настроить список"	I wyczyść filtr w formularzu listy	Pozwala zresetować filtr do listy poprzez menu "Jeszcze/Konfiguruj listę"
+И я подключаю TestClient "Кладовщик" логин "Пользователь1" пароль "1"	Позволяет подключить TestClient с нужным логином и паролем в тойже базе, в которой запущен TestManager	I podłaczam TestClient "Magazynier" login "Użytkownik1" hasło "1"	Pozwala połączyć TestClient z niezbędnym loginem i hasłem w tej samej bazie danych, w której jest uruchomiony TestManager
+И Я подключаю клиент тестирования "ИмяКлиентаТестирования" из таблицы клиентов тестирования		I łączę klienta testującego "NazwaKlientaTestującego" z tablicy klientów testowania	
+И я подключаю профиль TestClient "Оператор"	Позволяет подключить TestClient по имени уже существующего профиля	I podłaczam profil TestClient "Operator"	Pozwala łączyć TestClient z nazwą istniejącego profilu
+И я удаляю все строки таблицы "График"	Очистить таблицу	I usuwam wszystkie wiersze z tabeli "Harmonogram"	Wyczyść tabelę
+"И Я устанавливаю фильтр на список
+   | Наименование | Содержит | Товар1 |"	Позволяет установить фильтр на список через меню "Ещё/Настроить список"	"I instaluję filtr na liście
+   | Nazwa | Zawiera | Towar1 |"	Pozwala ustalić filtr na List przez jadłoList "Jeszcze/Nastroić List"
+"И Я устанавливаю фильтр на список если это возможно
+   | Наименование | Содержит | Товар1 |"	Позволяет установить фильтр на список через меню "Ещё/Настроить список". Причём если такого поля нет, то исключение вызываться не будет.	"I ustalam filtr na spis jeśli to być może
+   | Nazwa | Zawiera | Towar1 |"	Umożliwia ustawienie filtra na liście za pomocą menu "Więcej / Konfiguruj listę". A jeśli nie ma takiego pola, wyjątek nie zostanie nazwany.
+Когда в логе сообщений TestClient есть строка "Таблица параметров должна заканчиваться символом |"	Проверяет в логе сообщений наличие нужной строки.	Jeśli w dzienniku komunikatów programu TestClient znajduje się ciąg znaków "Tabela parametrów musi kończyć się znakiem |"	Sprawdza obecność wymaganego wiersza w dzienniku wiadomości.
+Когда В панели открытых я выбираю "Склады"	Нажатие кнопки на панели открытых окон	Kiedy W paneli otwartych wybieram "Magazyny"	Naciśnięcie przycisku na paneli otwartych okien
+"Когда Проверяю шаги на Исключение:
+  |'И в поле с именем ""Наименование2"" я ввожу текст ""Тестовый Элемент""'|"	Проверка негативного поведения шага.	"Kiedy Sprawdzam kroki na Wyjątek:
+  |'I w polu z nazwą ""Nazwa2"" wprowadzam tekst ""Element Testowy""'|"	Sprawdzenie negatywnego zachowania kroku.
+Когда Я открываю форму документа "АвтоВзаимозачет" заполненного на основании не проведенного "ПоступлениеАвтомобилей" номер "АВ00000080" от "04.09.2016"	Открытие формы на основании не проведенного документа	Kiedy otwieram formę dokumentu "AutomatycznePrzesunięcie" wypełnionego na podstawie nie przeprowadzonego "OdbiórSamochodów" numer "АВ00000080" od "04.09.2016"	Otwarcie formularza na podstawie dokumentu, który nie został przeprowadzony
+Когда Я открываю форму документа "АвтоВзаимозачет" заполненного на основании проведенного "ПоступлениеАвтомобилей" номер "АИ00000002" от "12.03.2017"	Открытие формы на основании проведенного документа	Kiedy otwieram formę dokumentu "AutomatycznePrzesunięcie" wypełnionego na podstawie przeprowadzonego "OdbiórSamochodów" numer "АI00000002" od "12.03.2017"	Otwarcie formularza na podstawie dokumentu, który został przeprowadzony
+Когда Я подключаю клиент тестирования "ИмяКлиентаТестирования" из таблицы клиентов тестирования от имени "Логин" с паролем "Пароль"		Kiedy podłaczam klient testowania "NazwaKlientaTestującego" z tablicy klientów testowania w imieniu "Login" z hasłem "Hasło"	
+"Когда Я подключаю клиент тестирования с параметрами:
+ | 'Имя подключения' | 'Порт' | 'Строка соединения' | 'Логин' | 'Пароль' | 'Запускаемая обработка' | 'Дополнительные параметры строки запуска' |
+ | 'Test 1' | '1538' | 'Srvr=""localhost:1941"";Ref=""Test"";' | 'Админ' | 'Админ' | 'c:\СуперОбработка.epf' | '/UC' |"	Подключает TestClient. Все параметры подключения указываются в таблице.	"Kiedy podłaczam klient testowania z parametrami:
+ | 'Imię podłaczania' | 'Port' | 'wiersz łączenia' | 'Login' | 'Hasło' | 'opracowania' |, co 'Uruchamia się, 'Dodatkowe parametry wiersza rozruchu' |
+ | 'Test 1' | '1538' | 'Srvr=""localhost: 1941"";Ref=""Test"";' | 'Admin' | 'Admin' | 'c:\SuperOpracowania.epf' | '/UC' |"	Łączy TestClient. Wszystkie parametry połączenia są podane w tabeli.
+Тогда в таблице "Список" я выделяю все строки	Выделение всех строк в таблице	Wtedy w tablicy "List" wydzielam wszystkie wierszy	Wydzielanie wszystkich wierszy w tablicy
+Тогда в таблице "ТабличнаяЧасть1" количество строк "меньше или равно" 2	Проверка на количество строк в таблице	Wtedy w tablicy "CzęśćTabelaryczna1" ilość wierszy "mniej czy jest równe" 2	Sprawdzenie na ilość wiersz w tablicy
+Тогда не появилось окно предупреждения системы	Проверяет, что на экране нет предупреждения системы.	Wtedy nie pojawiło się okno uprzedzenia systemu	Sprawdza, że na ekranie nie ma uprzedzenia systemu.
+Тогда появилось предупреждение, содержащее текст "Текст"	Проверяет, что появилось окно предупреждения, содержащее нужный текст.	Wtedy pojawiło się uprzedzenie, co zawiera tekst "Tekst"	Sprawdza, co pojawiło się okno uprzedzenia, co zawiera potrzebny tekst.
+Тогда текст текущей ячейки таблицы "Таблица" стал равен "111"	Проверка значения текущей ячейки таблицы.	Następnie tekst aktualnej komórki w tabeli "Tabela" stał się równy "111"	Sprawdzenie znaczenia potocznego elementu tablicy.
+Тогда текст ячейки таблицы "Таблица" "Наименование" стал равен "111"	Проверка значения ячейки таблицы. Имя ячейки указывается как оно указано в конфигураторе.	Następnie tekst komórki tabeli "Tabela" "Nazwa" stał się równy "111"	Sprawdź wartość komórki tabeli. Nazwa komórki jest określona w konfiguracji konfiguratora.
+Тогда элемент формы "Наименование" стал равен "111"	Проверка значения элемента формы	Wtedy element formy "Nazwa" dorównywał "111"	Sprawdzenie znaczenia elementu formy
+Тогда элемент формы с именем "Наименование" стал равен "111"	Проверка значения элемента формы	Następnie element formularza "Nazwa" stał się równy "111"	Sprawdzenie znaczenia elementu formy
+Тогда я вызываю исключение "Текст исключения"	Вызывает исключение с нужным текстом	Następnie nazywam wyjątek "Wyjątek tekstowy"	Zwraca wyjątek z żądanym tekstem
+"Дано Я задаю таблицу строк ""%1 ТаблицаИсключений""
+| 'Товар1' |
+| 'Товар2' |"	Создает в памяти таблицу строк по переданной таблице	"Dano ustawiam tabelę wierszy ""%1 TabelaWykluczeń""
+| 'Towar 1' |
+| 'Towar 2' |"	Tworzy tabelę wierszy w pamięci nadawanej tablicy
+Дано Я сохраняю макет из обработки "%1 ИмяМакетаВОбработке" в файл "%2 c:\temp\111.mxl"	Сохраняет макет из обработки, связанной с фичей, в нужный файл.	Dano zapisuję szablon z opracowania "%1 NazwaSzablonuZOpracowania" do plika "%2 c :\temp\111.mxl"	Zapisuje układ z przetwarzania związanego z funkcjami do żądanego pliku.
+Если переменная "%1 ИмяПеременной" имеет значение "%2 ЗначениеПеременной" Тогда	Условие. Проверяет значение переменной контекста	Jeśli zmienna "%1 NazwaZmiennej" ma znaczenie "%2 WartośćZmiennej" Wtedy	Warunek.Sprawdza wartość zmiennej kontekstowej
+И в поле "%1 СгенерированныйXML" я ввожу текст из макета "%2 Xml1"	Вводит текст в поле. Текст будет взят из макета	I w polu "%1 WygenerowanoXML" wprowadzam tekst z makiety "%2 Xml1"	Wprowadza tekst do pola. Tekst zostanie pobrany z szablonu
+"И в таблице ""%1 Таблица"" я перехожу к строке содержащей подстроки
+ |'Наименование'|
+ |'Товар1'|"	Переход к строке таблицы, когда значения колонок не полностью, а подстрокой	"I w tablicy ""%1 Tablica"" przechodzę do wiersza podwiersza, co zawiera
+ |'Nazwa'|
+ |'Towar 1'|"	Przejście do wiersza tablicy, kiedy znaczenia kolumienek nie w całości, a podrządkiem
+И в табличном документе "%1 РеквизитТабличныйДокумент" значения в колонке "%2 ИмяКолонки" неравно значению "%3 "	Проверяет, что в табличном документе значение в колонке равно переданному параметру	I w tabelarycznym dokumencie "%1 AtrybutTabelarycznyDokument" znaczenia w kolumience "%2 NazwaKolumny" nierównemu znaczeniu "%3 "	Sprawdza, że w tabelarycznym dokumencie znaczenie w kolumience jednakowo przekazanemu parametrowi
+И в табличном документе "%1 РеквизитТабличныйДокумент" значения в колонке "%2 ИмяКолонки" равно значению "%3 "	Проверяет, что в табличном документе значение в колонке равно переданному параметру	I w tabelarycznym dokumencie "%1 AtrybutTabelarycznyDokument" znaczenia w kolumience "%2 NazwaKolumny" dorównuje znaczeniu "%3 "	Sprawdza, że w tabelarycznym dokumencie znaczenie w kolumience jednakowo przekazanemu parametrowi
+И в табличном документе "%1 РеквизитТабличныйДокумент" значения в колонке "%2 ИмяКолонки" соответствуют условию "%3 равно" "%4 10"	Проверяет, что в табличном документе значение в колонке соответствует условию. Можно использовать числа.	I w tabelarycznym dokumencie "%1 AtrybutTabelarycznyDokument" znaczenia w kolumience "%2 NazwaKolumny" odpowiadają warunkowi "%3 jest równe" "%4 10"	Sprawdza, że w tabelarycznym dokumencie znaczenie w kolumience odpowiada warunkowi. Można wykorzystać liczby.
+И В текущем окне я нажимаю кнопку командного интерфейса "%1 Общая команда для справочника1"	Нажатие кнопки командного интерфейса в текущей форме	I W potocznym oknie naciskam przycisk naczelnego interfejsu "%1 Ogólne polecenie dla katalogu1 "	Naciśnięcie przycisku naczelnego interfejsu w potocznej formie
+И для каждого значения "%1 ЗначениеИзМассива" из массива "%2 МассивЗначенийЧерезТочкуСЗапятой"	Перебирает массив значений. Первый параметр - это имя переменной, которое будет доступно в Контексте. Второй параметр, значения массива, разделенные символом ";"	I dla każdego znaczenia "%1 WartośćZTablicy" z tablicy "%2 TablicęWartościPoprzezPunktZPrzecinkami"	Przebiera masyw znaczeń. Pierwszy parametr - to imię zmiennej, które będzie dostępne w Kontekście. Drugi parametr, znaczenia masywu, odseparowane symbolem ";"
+И для каждого значения "%1 ЗначениеИзМассива" из таблицы в памяти "%2 МассивЗначенийЧерезТочкуСЗапятой"	Перебирает массив значений. Первый параметр - это имя переменной, которое будет доступно в Контексте. Второй параметр, имя таблицы, которая сохранена в контексте	I dla każdego znaczenia "%1 WartośćZTablicy" z tablicy w pamięci "%2 TablicęWartościPoprzezPunktZPrzecinkami"	Przebiera masyw znaczeń. Pierwszy parametr - to imię zmiennej, które będzie dostępne w Kontekście. Drugi parametr, imię tablicy, która jest zachowana w kontekście
+"И Табличный документ ""%1 ИмяТабДок"" содержит в себе значения областей
+| ИмяОбласти |
+| ЗначениеОбласти |"	Проверяет что в табличном документа содержатся значения, перечисленные в таблице. Таблица состоит из двух колонок: "ИмяОбласти" и "Значение"	"I Tabelaryczny dokument ""%1 NazwaTabDok"" implikuje znaczenia obwodów
+| NazwaRegionu |
+| WartośćRegionu |"	Sprawdza że w tabelarycznym dokumentu mieszczą się znaczenia, przelane w tablicy. Tablica składa się z dwóch kolumienek: "NazwaRegionu" i "Wartość"
+И табличный документ "%1 РеквизитТабличныйДокумент" не содержит значения	Проверяет, что в табличном документе нет значений из таблицы	I tabelaryczny dokument "%1 AtrybutTabelarycznyDokument" nie zawiera znaczenia	Sprawdza, że w tabelarycznym dokumencie nie ma znaczeń z tablicy
+И табличный документ "%1 РеквизитТабличныйДокумент" содержит значения	Проверяет, что в табличном документе есть значения из таблицы	I tabelaryczny dokument "%1 AtrybutTabelarycznyDokument" zawiera znaczenia	Sprawdza, że w tabelarycznym dokumencie są znaczenia z tablicy
+И табличный документ формы с именем "%1 РеквизитТабличныйДокумент" содержит строки	Проверяет, что табличный документ TestClient содержит строки таблицы Gherkin	I tabelaryczny dokument formy z nazwą "%1 AtrybutTabelarycznyDokument" zawiera rządki	Sprawdza, że tabelaryczny dokument TestClient zawiera rządki tablicy Gherkin
+И я вывожу значение переменной "%1 ВариантЗаполненияСостава"	Выводит значение переменной контекста в окно сообщений	I wyprowadzam znaczenie zmiennej "%1 WariantWypełnieniaSkładu"	Wyprowadza znaczenie zmiennej kontekstu do okna zawiadomień
+И я жду что в окне "%1 ЗаголовокОкна" в таблице "%2 ИмяТаблицы" количество строк будет "%3 больше" "%4 0" в течении "%5 20" секунд	В течении нужного числа секунд проверяется количество строк в таблице в нужном окне	I czekam że w oknie "%1 NagłówekOkna" w tablicy "%2 NazwaTabeli" ilość wierszy będzie "%3 więcej" "%4 0" w ciągu "%5 20" sekund	Przez wymaganą liczbę sekund zaznaczona jest liczba wierszy w tabeli w wymaganym oknie
+И я жду что в таблице "%1 ИмяТаблицы" количество строк будет "%2 больше" "%3 0" в течении "%4 20" секунд	В течении нужного числа секунд проверяется количество строк в таблице в текущем окне	I czekam że w tablicy "%1 NazwaTabeli" ilość wierszy będzie "%2 więcej" "%3 0" w ciągu "%4 20" sekund	Przez wymaganą liczbę sekund zaznaczona jest liczba wierszy w tabeli w wymaganym oknie
+И я жду что поле "%1 СгенерированныйСценарий" перестанет быть пустым в течении "%2 30" секунд	Проверяет, что в течении нужного числа секунд текстовое поле станет заполненным.	I czekam że pole "%1 WygenerowanySkrypt" przestoi być pusty w ciągu "%2 30" sekund	Sprawdza, czy pole tekstowe wypełnia się w wymaganej liczbie sekund.
+И я меняю значение переключателя "%1 Реквизит переключатель" на значение переменной "%2 ЗначениеПереключателя"	Изменение значение переключателя на значение ранее сохраненной переменной	I zmieniam znaczenie przełącznika "%1 Atrybut przełącznik" na znaczenie zmiennej "%2 WartośćPrzełącznika"	Zmień wartość przełącznika na wartość poprzednio zapisanej zmiennej
+И я меняю значение переключателя с именем "%1 РеквизитПереключатель" на значение переменной "%2 ЗначениеПереключателя"	Изменение значение переключателя на значение ранее сохраненной переменной	I zmieniam znaczenie przełącznika z nazwą "%1 AtrybutPrzełącznik" na znaczenie zmiennej "%2 WartośćPrzełącznika"	Zmień wartość przełącznika na wartość poprzednio zapisanej zmiennej
+И Я обновляю нумерацию объектов для "%1 ПолноеИмяОбъектаМетаданных"	Выполняет обновление номеров для объекта метаданных по полному имени	I odnawiam numerację obiektów dla "%1 PełnaNazwaObiektuMetadanych"	Aktualizuje numery obiektu metadanych pod pełnym imieniem
+И я перехожу к следующему реквизиту	Переходит к следующему реквизиту формы	I przechodzę do następnego Atrybutu	Przechodzi do następnego atrybutu formy
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
