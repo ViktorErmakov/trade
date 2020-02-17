@@ -43,9 +43,13 @@ pipeline{
 		stage("Отчет о тестировании"){
 			steps{
 				allure ([
-				includeProperties: false, 
-				jdk: '', 
-				results: [[path: 'allure-results']]
+					includeProperties: false, 
+					jdk: '',
+					properties: [],
+					reportBuildPolicy: 'ALWAYS',
+					results: [
+						[path: 'build/out/allure-results']
+					]
 				])
 			}
 		}
