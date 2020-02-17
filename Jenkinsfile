@@ -35,6 +35,11 @@ pipeline{
 		stage("Проверка поведения"){
 			steps{
 				timestamps{
+					cmd("opm install -l vanessa-automation")
+				}
+			}
+			steps{
+				timestamps{
 					cmd("vrunner vanessa --pathvanessa ./oscript_modules/vanessa-automation/vanessa-automation.epf --vanessasettings ./tools/VBParams.json --ibconnection ${connectionString}")
 				}
 			}
