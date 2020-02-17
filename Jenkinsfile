@@ -41,11 +41,13 @@ pipeline{
 			}
 		}
 		stage("Отчет о тестировании"){
-			allure ([
+			steps{
+				allure ([
 				includeProperties: false, 
 				jdk: '', 
 				results: [[path: 'allure-results']]
-			])
+				])
+			}
 		}
 	}
 }
