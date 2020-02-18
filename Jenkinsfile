@@ -52,12 +52,12 @@ pipeline{
 							[path: 'build/out/allure']
 						]
 					])
-					
+
 					cucumber ([
 						failedFeaturesNumber: -1, 
 						failedScenariosNumber: -1, 
 						failedStepsNumber: -1, 
-						fileIncludePattern: 'out/cucumber/*.json', 
+						fileIncludePattern: 'build/out/cucumber/*.json', 
 						pendingStepsNumber: -1, 
 						skippedStepsNumber: -1, 
 						sortingMethod: 'ALPHABETICAL', 
