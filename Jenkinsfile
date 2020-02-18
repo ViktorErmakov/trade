@@ -40,7 +40,7 @@ pipeline{
 				}
 			}
 		}
-		stage("Отчет о тестировании"){
+		stage("Публикация результатов"){
 			steps{
 				allure ([
 					includeProperties: false, 
