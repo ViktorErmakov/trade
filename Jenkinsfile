@@ -42,7 +42,7 @@ pipeline{
 		}
 		stage("Публикация результатов"){
 			steps{
-				allure 
+				allure ([
 					includeProperties: false, 
 					jdk: '',
 					properties: [],
@@ -50,6 +50,7 @@ pipeline{
 					results: [
 						[path: 'build/out/allure']
 					]
+				])
 			}
 		}
 	}
