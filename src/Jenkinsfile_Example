@@ -48,14 +48,47 @@ pipeline {
 				cmd("oscript --version")// Будет выполнена наша функция указаннае внизу файла def cmd.
 			}
         }
-        stage('build') {
-            steps {
-                timestamps {// функция будет возращать время шага.
-					echo '3'
-                }
-            }
-        }
-    }
+        stage ('Обновление тестового контура'){
+			steps{
+				timestamps{// указывает время шага
+					script{
+						connectionString = "\"/S${env.Server1C}\\${env.Database1C}\""
+						uccode = "\"123\""
+						lockParams = "-lockmessage \"test\" -lockuccode ${uccode}"
+
+						versionText = 	readFile encoding: 'UTF-8', file: 'src/cf/VERSION'
+						versionValue = (versionText =~ /<VERSION>(.*)<\/VERSION>/)[0][1]
+					}
+					cmd("deployka session lock -ras ${env.Server1C} -rac ${env.Rac1C} -db ${env.Database1C} ${lockParams} ")
+					cmd("deployka session kill -ras ${env.Server1C} -rac ${env.Rac1C} -db ${env.Database1C} ${lockParams} ")
+					cmd("deployka loadrepo ${connectionString} \"${env.StoragePath}\" -storage-user ${env.Storage_Usr} -storage-pwd ${env.Storage_Psw} -uccode \"123\" -storage-ver ${versionValue}")
+					cmd("deployka dbupdate ${connectionString} -allow-warnings -uccode \"123\" ")
+					cmd("deployka session unlock -ras ${env.Server1C} -rac ${env.Rac1C} -db ${env.Database1C}")
+				}
+			}
+		}
+        stage("Проверка поведения"){
+			steps{
+				timestamps{
+					cmd("opm install -l vanessa-automation")// вместо сабмодуля устанавливает библиотеку последнюю, необходимо написать файл пакедж деф, что бы определить зависимости и версии.
+					cmd("vrunner vanessa --pathvanessa ./oscript_modules/vanessa-automation/vanessa-automation.epf --vanessasettings ./tools/VBParams.json --ibconnection ${connectionString}")
+                    // Команда запуска проверки поведения.
+				}
+			}
+		}
+        stage("Публикация результатов"){// Сгенерировал строку с помощью пипелайн синтакс на задаче, далее аллюре репорт, аллюр резултс
+			steps{
+				allure ([
+					includeProperties: false, 
+					jdk: '',
+					properties: [],
+					reportBuildPolicy: 'ALWAYS',
+					results: [
+						[path: 'build/out/allure']
+					]
+				])
+			}
+		}
 }
 
 def cmd(command) {// объявление своей функции.
