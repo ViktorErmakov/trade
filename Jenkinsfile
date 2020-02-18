@@ -52,10 +52,7 @@ pipeline{
 							[path: 'build/out/allure']
 						]
 					])
-				}
-			}
-			steps{
-				timestamps{
+					
 					cucumber ([
 						failedFeaturesNumber: -1, 
 						failedScenariosNumber: -1, 
