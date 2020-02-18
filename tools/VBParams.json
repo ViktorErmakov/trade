@@ -11,5 +11,7 @@
 	"ВыгружатьСтатусВыполненияСценариевВФайл": true,
 	"ПутьКФайлуДляВыгрузкиСтатусаВыполненияСценариев": "$workspaceRoot/build/out/vbStatus.log",
 	"ДелатьЛогВыполненияСценариевВТекстовыйФайл": true,
-	"ИмяФайлаЛогВыполненияСценариев": "$workspaceRoot/build/out/vbOnline.log"
+	"ИмяФайлаЛогВыполненияСценариев": "$workspaceRoot/build/out/vbOnline.log",
+	"ДелатьОтчетВФорматеCucumberJson": true,
+	"КаталогOutputCucumberJson": "$workspaceRoot/build/out/cucumber"
 }

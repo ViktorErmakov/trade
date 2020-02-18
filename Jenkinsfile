@@ -42,15 +42,31 @@ pipeline{
 		}
 		stage("Публикация результатов"){
 			steps{
-				allure ([
-					includeProperties: false, 
-					jdk: '',
-					properties: [],
-					reportBuildPolicy: 'ALWAYS',
-					results: [
-						[path: 'build/out/allure']
-					]
-				])
+				timestamps{
+					allure ([
+						includeProperties: false, 
+						jdk: '',
+						properties: [],
+						reportBuildPolicy: 'ALWAYS',
+						results: [
+							[path: 'build/out/allure']
+						]
+					])
+				}
+			}
+			steps{
+				timestamps{
+					cucumber ([
+						failedFeaturesNumber: -1, 
+						failedScenariosNumber: -1, 
+						failedStepsNumber: -1, 
+						fileIncludePattern: 'out/cucumber/*.json', 
+						pendingStepsNumber: -1, 
+						skippedStepsNumber: -1, 
+						sortingMethod: 'ALPHABETICAL', 
+						undefinedStepsNumber: -1
+					])
+				}
 			}
 		}
 	}
