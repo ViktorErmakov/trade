@@ -75,9 +75,9 @@ pipeline{
 						reportName: 'HTML Report', 
 						reportTitles: ''
 					])
-
+					
 					livingDocs ([
-						featuresDir: 'build/out/pickles', 
+						featuresDir: 'build\out\cucumber', 
 						toc: 'LEFT'
 					])
 				}
