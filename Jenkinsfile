@@ -77,7 +77,7 @@ pipeline{
 					])
 
 					livingDocs ([
-						featuresDir: 'build/out/cucumber', 
+						featuresDir: 'build/out/pickles', 
 						toc: 'LEFT'
 					])
 				}
