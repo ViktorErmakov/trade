@@ -63,6 +63,23 @@ pipeline{
 						sortingMethod: 'ALPHABETICAL', 
 						undefinedStepsNumber: -1
 					])
+					
+					cmd("pickles -f features -o build/out/pickles -l ru --df dhtml --sn \"Trade\" ")
+
+					publishHTML ([
+						allowMissing: false, 
+						alwaysLinkToLastBuild: false, 
+						keepAll: false, 
+						reportDir: 'build/out/pickles', 
+						reportFiles: 'Index.html', 
+						reportName: 'HTML Report', 
+						reportTitles: ''
+					])
+
+					livingDocs ([
+						featuresDir: 'build/out/cucumber', 
+						toc: 'LEFT'
+					])
 				}
 			}
 		}
