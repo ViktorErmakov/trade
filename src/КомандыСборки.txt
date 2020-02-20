@@ -1,0 +1,25 @@
+deployka loadrepo "/SServer1\Base_5" "D:/1С/_1C_BASE/storage_trade" -storage-user Администратор							-- загрузить из хранилища конфигурацию
+deployka dbupdate "/SServer1\Base_5" -allow-warnings 												-- обновление информационной базы
+sc create "1C:Enterprise RAS" binpath= "\""C:\Program Files\1cv8\8.3.16.1148\bin\ras.exe\"" cluster --service --port=1545 Server1:1540" 	-- создание службы управления сеансами НА СЕРВЕРЕ!
+.\rac.exe Server1:1545 cluster list														-- находясь в папке получает список кластера, если это виртуалка, то порт 1545 должен быть проброшен
+deployka session lock -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode "123"	-- блокируем возможность пользователям подключиться к базе с сообщением "test"
+deployka session kill -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode "123"	-- удаляем все активные сеансы с сообщением пользователю
+deployka session unlock -ras Server1:1545 -rac "C:\Program Files\1cv8\8.3.16.1148\bin\rac.exe" -db Base_5 -lockmessage "test" -lockuccode "123"	-- разрешить пользователям заходить в базу\
+
+opm install -l vanessa-automation	-- перед сборкой нужно делать вот это, НО в корне репозитория должен быть файлик packadgedef в котором указаны все зависимости va, это шаг заменят ранее используемый сабмодуль
+
+DisableUnsafeActionProtection=.*		-- прописать на сервере в файлике C:\Program Files\1cv8\conf\conf.cfg для отключения защиты при запуске внешних обработок
+
+precommit1c --install	-- установить в текущий каталог прекоммит для разбора фич на исходники
+
+vrunner vanessa --pathvanessa .\oscript_modules\vanessa-automation\vanessa-automation.epf --vanessasettings ./tools/VBParams.json --ibconnection /SServer1\Base_5 -- запуск ванессы на тестирование
+
+vrunner xunit .\oscript_modules\add\tests\smoke --pathxunit .\oscript_modules\add\xddTestRunner.epf --reportsxunit "ГенераторОтчетаAllureXML{build/out/allure/allure.xml}" --xddExitCodePath ./build/out/junitstatus.log --ibconnection "/SServer1\Base_5" --xddConfig .\tools\xUnitParams.json
+-- это запуск дымовых тестов!
+
+
+Переменные в дженкинс:
+Server1C=Server1
+Database1C=Base_5
+Rac1C=C:/Program Files/1cv8/8.3.16.1148/bin/rac.exe
+StoragePath=D:/1С/_1C_BASE/storage_trade

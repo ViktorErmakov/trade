@@ -40,6 +40,14 @@ pipeline{
 				}
 			}
 		}
+		stage("Дымовое тестирование"){
+			steps{
+				timestamps{
+					cmd("opm install -l add")
+					cmd("vrunner xunit ./oscript_modules/add/tests/smoke --pathxunit ./oscript_modules/add/xddTestRunner.epf --reportsxunit \"ГенераторОтчетаJUnitXML{build/out/junit/junit.xml}\" --xddExitCodePath ./build/out/junitstatus.log --ibconnection ${connectionString} --xddConfig ./tools/xUnitParams.json")
+				}
+			}
+		}
 		stage("Публикация результатов"){
 			steps{
 				timestamps{
@@ -52,7 +60,10 @@ pipeline{
 							[path: 'build/out/allure']
 						]
 					])
-
+					junit ([
+						allowEmptyResults: true, 
+						testResults: 'build/out/junit/junit.xml'
+					])
 					cucumber ([
 						failedFeaturesNumber: -1, 
 						failedScenariosNumber: -1, 
