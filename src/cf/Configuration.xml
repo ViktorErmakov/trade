@@ -119,6 +119,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Role>ПолныеПрава</Role>
+			<Role>Просмотр</Role>
 			<Catalog>Товары</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>Номенклатура</Catalog>

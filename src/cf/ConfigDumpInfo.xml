@@ -9,7 +9,7 @@
 		<Metadata name="Catalog.Номенклатура" id="b3bbeb78-7422-445f-80e7-482998396468" configVersion="840df3a844f7594b9b12a925f0aa687900000000"/>
 		<Metadata name="Catalog.Склады" id="cdbed6cb-79b9-4080-a45a-0b8a62b88580" configVersion="39f073260d2f5f4498b190af5ffdd2f200000000"/>
 		<Metadata name="Catalog.Товары" id="d23c2494-5986-466f-bdd5-ea91ef80ee16" configVersion="f0d125addc20664da513b391053dcc3b00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="c0484114-4aad-4125-86ed-71019aee11de" configVersion="ccb2a3b27ea66c43b4b1a431b96bffd200000000"/>
+		<Metadata name="Configuration.Конфигурация" id="c0484114-4aad-4125-86ed-71019aee11de" configVersion="376c014e6cc059428f49e4accc3771df00000000"/>
 		<Metadata name="Document.ПриходнаяНакладная" id="ab57524b-f701-4525-93f5-ecbcb67a959e" configVersion="654dd84c11b67746abc952967bfbc73600000000">
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Склад" id="097a8004-d59c-4a8c-8c88-2ceabee2d32a"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Количество" id="0b017ddd-3a3a-4bc2-ac9b-9fa760af58ca"/>
@@ -28,5 +28,7 @@
 		<Metadata name="Language.Русский" id="e2981bd7-7fdf-4548-a1cb-4c805ad4b6dd" configVersion="a8c981838915da4ab6124cefb146d08500000000"/>
 		<Metadata name="Role.ПолныеПрава" id="91a89a49-cc6a-4027-b5d2-66ade9a9db3b" configVersion="31e123d840764f4b983cb5c000d9428200000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="91a89a49-cc6a-4027-b5d2-66ade9a9db3b.0" configVersion="74b104cace87a14d9352187e4c7079c300000000"/>
+		<Metadata name="Role.Просмотр" id="048bdf4e-2afc-44dd-b3b9-73f67b381fc6" configVersion="b7aae8986d76d345b8175ca7cc6f511300000000"/>
+		<Metadata name="Role.Просмотр.Rights" id="048bdf4e-2afc-44dd-b3b9-73f67b381fc6.0" configVersion="ba2130b65e497d4bb07498b024e5f2a600000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
