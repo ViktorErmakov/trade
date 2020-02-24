@@ -44,7 +44,7 @@ pipeline{
 			steps{
 				timestamps{
 					cmd("opm install -l add")
-					cmd("vrunner xunit ./oscript_modules/add/tests/smoke --pathxunit ./oscript_modules/add/xddTestRunner.epf --reportsxunit \"ГенераторОтчетаAllureXML{build/out/smoke\" --xddExitCodePath ./build/out/junitstatus.log --ibconnection ${connectionString} --db-user \"Администратор\" --xddConfig ./tools/xUnitParams.json")
+					cmd("vrunner xunit ./oscript_modules/add/tests/smoke --pathxunit ./oscript_modules/add/xddTestRunner.epf --reportsxunit \"ГенераторОтчетаAllureXML{build/out/smoke/allure.xml}\" --xddExitCodePath ./build/out/junitstatus.log --ibconnection ${connectionString} --db-user \"Администратор\" --xddConfig ./tools/xUnitParams.json")
 				}
 			}
 		}
