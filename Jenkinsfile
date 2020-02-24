@@ -62,7 +62,7 @@ pipeline{
 					])
 					junit ([
 						allowEmptyResults: true, 
-						testResults: 'build/out/junit/junit.xml'
+						testResults: 'build/out/junit'
 					])
 					cucumber ([
 						failedFeaturesNumber: -1, 
