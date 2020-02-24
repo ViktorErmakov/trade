@@ -36,7 +36,7 @@ pipeline{
 			steps{
 				timestamps{
 					cmd("opm install -l vanessa-automation")
-					cmd("vrunner vanessa --pathvanessa ./oscript_modules/vanessa-automation/vanessa-automation.epf --vanessasettings ./tools/VBParams.json --ibconnection ${connectionString} -db-user \"Администратор\" ")
+					cmd("vrunner vanessa --pathvanessa ./oscript_modules/vanessa-automation/vanessa-automation.epf --vanessasettings ./tools/VBParams.json --ibconnection ${connectionString} --db-user \"Администратор\" ")
 				}
 			}
 		}
@@ -44,7 +44,7 @@ pipeline{
 			steps{
 				timestamps{
 					cmd("opm install -l add")
-					cmd("vrunner xunit ./oscript_modules/add/tests/smoke --pathxunit ./oscript_modules/add/xddTestRunner.epf --reportsxunit \"ГенераторОтчетаJUnitXML{build/out/junit/junit.xml}\" --xddExitCodePath ./build/out/junitstatus.log --ibconnection ${connectionString} -db-user \"Администратор\" --xddConfig ./tools/xUnitParams.json")
+					cmd("vrunner xunit ./oscript_modules/add/tests/smoke --pathxunit ./oscript_modules/add/xddTestRunner.epf --reportsxunit \"ГенераторОтчетаJUnitXML{build/out/junit/junit.xml}\" --xddExitCodePath ./build/out/junitstatus.log --ibconnection ${connectionString} --db-user \"Администратор\" --xddConfig ./tools/xUnitParams.json")
 				}
 			}
 		}
