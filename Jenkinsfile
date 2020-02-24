@@ -36,7 +36,7 @@ pipeline{
 			steps{
 				timestamps{
 					cmd("opm install -l vanessa-automation")
-					cmd("vrunner vanessa --pathvanessa ./oscript_modules/vanessa-automation/vanessa-automation.epf --vanessasettings ./tools/VBParams.json --ibconnection ${connectionString}")
+					cmd("vrunner vanessa --pathvanessa ./oscript_modules/vanessa-automation/vanessa-automation.epf --vanessasettings ./tools/VBParams.json --ibconnection ${connectionString} -db-user \"Администратор\" ")
 				}
 			}
 		}
