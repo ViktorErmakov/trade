@@ -27,7 +27,7 @@ pipeline{
 					cmd("deployka session lock -ras ${env.Server1C} -rac ${env.Rac1C} -db ${env.Database1C} ${lockParams} ")
 					cmd("deployka session kill -ras ${env.Server1C} -rac ${env.Rac1C} -db ${env.Database1C} ${lockParams} ")
 					cmd("deployka loadrepo ${connectionString} -db-user \"Администратор\" \"${env.StoragePath}\" -storage-user ${env.Storage_Usr} -storage-pwd ${env.Storage_Psw} -uccode \"123\" -storage-ver ${versionValue}")
-					cmd("deployka dbupdate ${connectionString} -allow-warnings -uccode \"123\" ")
+					cmd("deployka dbupdate ${connectionString} -db-user \"Администратор\" -allow-warnings -uccode \"123\" ")
 					cmd("deployka session unlock -ras ${env.Server1C} -rac ${env.Rac1C} -db ${env.Database1C}")
 				}
 			}
