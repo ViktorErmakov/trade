@@ -44,7 +44,7 @@ pipeline{
 			steps{
 				timestamps{
 					cmd("opm install -l add")
-					cmd("vrunner xunit ./oscript_modules/add/tests/smoke --pathxunit ./oscript_modules/add/xddTestRunner.epf --reportsxunit \"ГенераторОтчетаJUnitXML{build/out/junit/junit.xml}\" --xddExitCodePath ./build/out/junitstatus.log --ibconnection ${connectionString} --db-user \"Администратор\" --xddConfig ./tools/xUnitParams.json")
+					cmd("vrunner xunit ./oscript_modules/add/tests/smoke --pathxunit ./oscript_modules/add/xddTestRunner.epf --reportsxunit \"ГенераторОтчетаAllureXML{build/out/smoke\" --xddExitCodePath ./build/out/junitstatus.log --ibconnection ${connectionString} --db-user \"Администратор\" --xddConfig ./tools/xUnitParams.json")
 				}
 			}
 		}
@@ -57,12 +57,9 @@ pipeline{
 						properties: [],
 						reportBuildPolicy: 'ALWAYS',
 						results: [
-							[path: 'build/out/allure']
+							[path: 'build/out/allure'],
+							[path: 'build/out/smoke']
 						]
-					])
-					junit ([
-						allowEmptyResults: true, 
-						testResults: 'build/out/junit/*.xml'
 					])
 					cucumber ([
 						failedFeaturesNumber: -1, 
