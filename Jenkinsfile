@@ -97,9 +97,9 @@ pipeline{
 					cmd("packman load-storage \"${env.StoragePath}\" -use-tool1cd -storage-v ${versionValue}")
 					cmd("packman make-cf")
 					cmd("packman make-dist ./tools/package.edf -setup")
-					cmd("packman zip-dist -name-prefix trade -out out")
+					cmd("packman zip-dist -name-prefix trade -out build/out")
 
-					archiveArtifacts artifacts: 'out/trade*.zip', onlyIfSuccessful: true
+					archiveArtifacts artifacts: 'build/out/trade*.zip', onlyIfSuccessful: true
 				}
 			}
 		}
