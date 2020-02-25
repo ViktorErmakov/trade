@@ -23,3 +23,10 @@ Server1C=Server1
 Database1C=Base_5
 Rac1C=C:/Program Files/1cv8/8.3.16.1148/bin/rac.exe
 StoragePath=D:/1С/_1C_BASE/storage_trade
+
+
+Сборка
+packman load-storage D:\1С\_1C_BASE\storage_trade -use-tool1cd		--загружает из хранилища версию 
+packman make-cf								--создает cf файл
+packman make-dist .\tools\package.edf -setup				--создает дистрибутив ехе
+packman zip-dist -name-prefix trade -out out				--создает архив дистрибутива
