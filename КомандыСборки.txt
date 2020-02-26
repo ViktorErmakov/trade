@@ -14,9 +14,19 @@ precommit1c --install	-- установить в текущий каталог �
 
 vrunner vanessa --pathvanessa .\oscript_modules\vanessa-automation\vanessa-automation.epf --vanessasettings ./tools/VBParams.json --ibconnection /SServer1\Base_5 -- запуск ванессы на тестирование
 
+vrunner xunit .\oscript_modules\add\tests\smoke --pathxunit .\oscript_modules\add\xddTestRunner.epf --reportsxunit "ГенераторОтчетаAllureXML{build/out/allure/allure.xml}" --xddExitCodePath ./build/out/junitstatus.log --ibconnection "/SServer1\Base_5" --xddConfig .\tools\xUnitParams.json
+-- это запуск дымовых тестов!
+
 
 Переменные в дженкинс:
 Server1C=Server1
 Database1C=Base_5
 Rac1C=C:/Program Files/1cv8/8.3.16.1148/bin/rac.exe
 StoragePath=D:/1С/_1C_BASE/storage_trade
+
+
+Сборка
+packman load-storage D:\1С\_1C_BASE\storage_trade -use-tool1cd		--загружает из хранилища версию 
+packman make-cf								--создает cf файл
+packman make-dist .\tools\package.edf -setup				--создает дистрибутив ехе
+packman zip-dist -name-prefix trade -out out				--создает архив дистрибутива
